@@ -1,0 +1,57 @@
+{
+  "artifact_id": "6dee98c2a23ec9c71db562624485fd838b8bced1c87ef887304f827b16cde1e0",
+  "projection": {
+    "dimension_rates": {
+      "answer_type": {
+        "grounded": {
+          "count": 41,
+          "pass_count": 0
+        },
+        "no_answer": {
+          "count": 7,
+          "pass_count": 0
+        },
+        "refusal": {
+          "count": 2,
+          "pass_count": 2
+        }
+      },
+      "language": {
+        "en": {
+          "count": 50,
+          "pass_count": 2
+        }
+      }
+    },
+    "e2e_pass_count": 2,
+    "e2e_pass_rate": 0.04,
+    "first_attempt_success_count": 50,
+    "indeterminate_count": 48,
+    "integrity": {
+      "duplicate_case_id_count": 0,
+      "grounded_count": 41,
+      "negative_evidence_contract_count": 7,
+      "no_answer_count": 7,
+      "query_mode": "question_only",
+      "refusal_count": 2,
+      "row_count": 50,
+      "semantic_fact_count": 127,
+      "source_contract_count": 41,
+      "source_evidence_count": 151,
+      "status": "PASS",
+      "violation_count": 0
+    },
+    "machine_semantic_judge_required": true,
+    "machine_semantic_judgments_present": false,
+    "question_count": 50,
+    "recovered_after_retry_count": 0,
+    "result_count": 50,
+    "run_provenance_sha256": "6385e2cf5f7c0f97baa48ca9db2f4bf6683a6ce8037a3f9a69a246e2c36f138e",
+    "unrecovered_transport_failure_count": 0
+  },
+  "source_sha256": "df78f67072c700184b667cfca8577a09c16373d953883100f24016cd352a7ebe",
+  "version_mentions": [
+    894,
+    896
+  ]
+}

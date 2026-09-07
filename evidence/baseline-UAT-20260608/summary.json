@@ -1,0 +1,46 @@
+{
+  "comparison_limit": "Different cohort and evaluator from September natural-user evaluation; sample-size equality is not protocol equivalence.",
+  "judge_model_observed": "gpt-5.5",
+  "projection": {
+    "by_label": {
+      "correct": 1204,
+      "incorrect": 172,
+      "partial": 587,
+      "refusal": 37
+    },
+    "correct_or_partial_rows": 1791,
+    "correct_rows": 1204,
+    "judge_error_rows": 0,
+    "retry_rows": 2,
+    "strict_semantic_accuracy_rate": 60.2,
+    "total_rows": 2000,
+    "useful_semantic_rate_correct_or_partial": 89.5
+  },
+  "recomputed_labels": {
+    "correct": 1204,
+    "incorrect": 172,
+    "partial": 587,
+    "refusal": 37
+  },
+  "retry_resolution": {
+    "combined_judge_errors": 0,
+    "combined_retry_rows": 2,
+    "initial_judge_errors": 2
+  },
+  "scope": "historical_MVP_UAT_aggregated_2000_runs",
+  "source": {
+    "artifact_id": "82fcf8e65a5021d7f907a36bbfc92f27f29177f94d556bd15f264c7f0d710161",
+    "source_sha256": "9f268e599990e5bd1943167b389d2425b4ccd5f0b262939fbb2b23062ce8af9a"
+  },
+  "strict_correctness": {
+    "denominator": 2000,
+    "numerator": 1204,
+    "rate": 0.602
+  },
+  "total": 2000,
+  "usefulness": {
+    "denominator": 2000,
+    "numerator": 1791,
+    "rate": 0.8955
+  }
+}

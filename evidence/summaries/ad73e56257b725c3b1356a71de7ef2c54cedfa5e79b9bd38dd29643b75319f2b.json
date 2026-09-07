@@ -1,0 +1,89 @@
+{
+  "artifact_id": "ad73e56257b725c3b1356a71de7ef2c54cedfa5e79b9bd38dd29643b75319f2b",
+  "projection": {
+    "dimension_rates": {
+      "answer_type": {
+        "grounded": {
+          "count": 19,
+          "pass_count": 19
+        },
+        "no_answer": {
+          "count": 1,
+          "pass_count": 1
+        }
+      },
+      "domain": {
+        "commercial_customer_marketing": {
+          "count": 3,
+          "pass_count": 3
+        },
+        "corporate_operations_policy_communications": {
+          "count": 4,
+          "pass_count": 4
+        },
+        "it_security_digital_workplace": {
+          "count": 2,
+          "pass_count": 2
+        },
+        "people_learning": {
+          "count": 2,
+          "pass_count": 2
+        },
+        "product_engineering": {
+          "count": 4,
+          "pass_count": 4
+        },
+        "safety_field_operations": {
+          "count": 5,
+          "pass_count": 5
+        }
+      },
+      "language": {
+        "en": {
+          "count": 17,
+          "pass_count": 17
+        },
+        "es": {
+          "count": 1,
+          "pass_count": 1
+        },
+        "pt": {
+          "count": 2,
+          "pass_count": 2
+        }
+      }
+    },
+    "e2e_pass_count": 20,
+    "e2e_pass_rate": 1.0,
+    "first_attempt_success_count": 20,
+    "indeterminate_count": 0,
+    "integrity": {
+      "duplicate_case_id_count": 0,
+      "grounded_count": 19,
+      "negative_evidence_contract_count": 1,
+      "no_answer_count": 1,
+      "query_mode": "question_only",
+      "refusal_count": 0,
+      "row_count": 20,
+      "semantic_fact_count": 60,
+      "source_contract_count": 19,
+      "source_evidence_count": 73,
+      "status": "PASS",
+      "violation_count": 0
+    },
+    "machine_semantic_judge_required": true,
+    "machine_semantic_judgments_present": true,
+    "question_count": 20,
+    "recovered_after_retry_count": 0,
+    "result_count": 20,
+    "run_provenance_sha256": "ff1a9863653677ccd8aa1f727c93f2145dc7211cd62b38daf63ea696ee08dea1",
+    "semantic_judge_model": "gpt-5.5",
+    "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+    "status": "PASS",
+    "unrecovered_transport_failure_count": 0
+  },
+  "source_sha256": "c1148d7798dbd82235cf43ad9cb8669f177402604a5abdaa72631b84b4ca3b50",
+  "version_mentions": [
+    843
+  ]
+}

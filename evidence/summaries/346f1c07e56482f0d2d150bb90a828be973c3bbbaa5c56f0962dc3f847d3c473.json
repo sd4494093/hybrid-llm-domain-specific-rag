@@ -1,0 +1,52 @@
+{
+  "artifact_id": "346f1c07e56482f0d2d150bb90a828be973c3bbbaa5c56f0962dc3f847d3c473",
+  "projection": {
+    "dimension_rates": {
+      "answer_type": {
+        "grounded": {
+          "count": 6,
+          "pass_count": 4
+        }
+      },
+      "language": {
+        "en": {
+          "count": 6,
+          "pass_count": 4
+        }
+      }
+    },
+    "e2e_pass_count": 4,
+    "e2e_pass_rate": 0.6666666666666666,
+    "failure_classes": {
+      "semantic_judge_rejected": 2
+    },
+    "first_attempt_success_count": 6,
+    "indeterminate_count": 0,
+    "integrity": {
+      "duplicate_case_id_count": 0,
+      "grounded_count": 6,
+      "negative_evidence_contract_count": 0,
+      "no_answer_count": 0,
+      "query_mode": "question_only",
+      "refusal_count": 0,
+      "row_count": 6,
+      "semantic_fact_count": 16,
+      "source_contract_count": 6,
+      "source_evidence_count": 27,
+      "status": "PASS",
+      "violation_count": 0
+    },
+    "machine_semantic_judge_required": true,
+    "machine_semantic_judgments_present": true,
+    "question_count": 6,
+    "recovered_after_retry_count": 0,
+    "result_count": 6,
+    "unrecovered_transport_failure_count": 0
+  },
+  "source_sha256": "dea0ea96ca7a676b7771a3b9091d1c91723e8f6f2827351fe585dd59de21ae22",
+  "version_mentions": [
+    567,
+    568,
+    569
+  ]
+}

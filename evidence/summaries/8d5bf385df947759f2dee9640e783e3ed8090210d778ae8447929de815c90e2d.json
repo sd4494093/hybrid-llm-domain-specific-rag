@@ -1,0 +1,168 @@
+{
+  "artifact_id": "8d5bf385df947759f2dee9640e783e3ed8090210d778ae8447929de815c90e2d",
+  "projection": {
+    "dimension_rates": {
+      "answer_type": {
+        "grounded": {
+          "count": 6,
+          "pass_count": 5
+        }
+      },
+      "domain": {
+        "corporate_operations_policy_communications": {
+          "count": 2,
+          "pass_count": 1
+        },
+        "it_security_digital_workplace": {
+          "count": 3,
+          "pass_count": 3
+        },
+        "product_engineering": {
+          "count": 1,
+          "pass_count": 1
+        }
+      },
+      "language": {
+        "en": {
+          "count": 5,
+          "pass_count": 4
+        },
+        "fr": {
+          "count": 1,
+          "pass_count": 1
+        }
+      }
+    },
+    "e2e_pass_count": 5,
+    "e2e_pass_rate": 0.8333333333333334,
+    "failure_classes": {
+      "semantic_incomplete": 1
+    },
+    "first_attempt_success_count": 6,
+    "indeterminate_count": 0,
+    "integrity": {
+      "duplicate_case_id_count": 0,
+      "grounded_count": 6,
+      "negative_evidence_contract_count": 0,
+      "no_answer_count": 0,
+      "query_mode": "question_only",
+      "refusal_count": 0,
+      "row_count": 6,
+      "semantic_fact_count": 17,
+      "source_contract_count": 6,
+      "source_evidence_count": 19,
+      "status": "PASS",
+      "violation_count": 0
+    },
+    "machine_semantic_judge_required": true,
+    "machine_semantic_judgments_present": true,
+    "quality_gate": {
+      "checks": {
+        "citation_support_correctness_rate": {
+          "actual": 0.8333333333333334,
+          "min": 0.95,
+          "pass": false
+        },
+        "correct_refusal_rate": {
+          "min": 0.9,
+          "pass": false
+        },
+        "critical_semantic_correctness_rate": {
+          "min": 0.95,
+          "pass": false
+        },
+        "expected_question_count": {
+          "actual": 6,
+          "expected": 50,
+          "pass": false
+        },
+        "false_refusal_rate": {
+          "actual": 0.0,
+          "max": 0.05,
+          "pass": true
+        },
+        "grounded_rate": {
+          "actual": 1.0,
+          "min": 0.95,
+          "pass": true
+        },
+        "retrieval_recall_at_10": {
+          "actual": 1.0,
+          "min": 0.9,
+          "pass": true
+        },
+        "runtime_success_rate": {
+          "actual": 1.0,
+          "min": 0.99,
+          "pass": true
+        },
+        "semantic_correctness_rate": {
+          "actual": 1.0,
+          "min": 0.95,
+          "pass": true
+        },
+        "unsupported_assertion_rate": {
+          "actual": 0.0,
+          "pass": true
+        }
+      },
+      "status": "FAIL"
+    },
+    "quality_metrics": {
+      "citation_support_correctness_rate": {
+        "denominator": 6,
+        "numerator": 5,
+        "rate": 0.8333333333333334
+      },
+      "correct_refusal_rate": {
+        "denominator": 0,
+        "numerator": 0
+      },
+      "critical_semantic_correctness_rate": {
+        "denominator": 0,
+        "numerator": 0
+      },
+      "critical_severe_error_count": 0,
+      "false_refusal_rate": {
+        "denominator": 6,
+        "numerator": 0,
+        "rate": 0.0
+      },
+      "grounded_rate": {
+        "denominator": 6,
+        "numerator": 6,
+        "rate": 1.0
+      },
+      "retrieval_recall_at_10": {
+        "denominator": 6,
+        "numerator": 6,
+        "rate": 1.0
+      },
+      "runtime_success_rate": {
+        "denominator": 6,
+        "numerator": 6,
+        "rate": 1.0
+      },
+      "semantic_correctness_rate": {
+        "denominator": 6,
+        "numerator": 6,
+        "rate": 1.0
+      },
+      "unsupported_assertion_rate": {
+        "denominator": 6,
+        "numerator": 0,
+        "rate": 0.0
+      }
+    },
+    "question_count": 6,
+    "recovered_after_retry_count": 0,
+    "result_count": 6,
+    "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+    "status": "FAIL",
+    "unrecovered_transport_failure_count": 0
+  },
+  "source_sha256": "1ab2640f50f59f2e42e1d84f8be01a7b8f72a220cc5418030d4b4ef63e03f636",
+  "version_mentions": [
+    327
+  ]
+}

@@ -1,0 +1,36 @@
+# v1315: Located Evidence
+
+Coverage: `located_references`. This version has 78 path-associated artifacts, 10 document references, and 5 commit-subject references.
+
+Path mentions can identify a comparator, schema or question-set revision. They are not proof of a tested implementation.
+
+[Reference IDs](../../iterations/v1315.json) | [Full history](../../ITERATION_HISTORY.md)
+
+| Artifact | Cases or rows | Status | Semantic numerator/denominator | E2E pass |
+|---|---:|---|---|---|
+| [626643b702fd](../../summaries/626643b702fd55b5f4d914b365232b891c74ac0ba0af5dab8d6bb0abf1d3a7ed.json) | unreported | unreported | unreported | unreported |
+| [e3c95d92782e](../../summaries/e3c95d92782e4c68a3c12bfd9ce60e1c2314c93476704f2c366edf3b4943e4b6.json) | unreported | PASS | unreported | unreported |
+| [f3902a09fbe1](../../summaries/f3902a09fbe192737b00852ee5b72c052ddcbac900848f3041588eb048fdf2fd.json) | unreported | PASS | unreported | unreported |
+| [cf853df31293](../../summaries/cf853df3129326049ee1a56d949036f01abd284d58c36e04f97bac08ad258aeb.json) | 1 | ok | unreported | unreported |
+| [b2398148e540](../../summaries/b2398148e5404263f51ad6415aa7d627b26185fe9c50b2175fa21dbe3c0c61f5.json) | unreported | unreported | unreported | unreported |
+| [98b3cfb974de](../../summaries/98b3cfb974de03aeee72b8e1c3fdc0eea76347dc4bb031936f8a99bff07384ce.json) | unreported | unreported | unreported | unreported |
+| [53920355399c](../../summaries/53920355399cf83cd328477f66d8bf5076a1ad09e05655505e99b56494934bcb.json) | 1 | ok | unreported | unreported |
+| [2168ff0c57f5](../../summaries/2168ff0c57f5af561b1ce7591fa60749d230b69ca8d72e60d72319a4574d9433.json) | 1 | ok | unreported | unreported |
+| [e9d8e740c824](../../summaries/e9d8e740c8243b02ae92ca752b5405bf1bf3cc19ed9b486e43a2f1646f681ef1.json) | unreported | unreported | unreported | unreported |
+| [ef28d6820c72](../../summaries/ef28d6820c720cbbdb53daa204eeba5ff59cface5b37959b332bd718e5102a2d.json) | unreported | PASS | unreported | unreported |
+| [de776976f41e](../../summaries/de776976f41e4c873ab58185a1274e71dd3eeb5a3f43be7e02bb3695b89ac29b.json) | unreported | PASS | unreported | unreported |
+| [30f308666039](../../summaries/30f3086660395e685fcba5703d0dc1f8cc5650a0d20af34cfaf9f295a15b1fa9.json) | 5 | PASS | unreported | 5 |
+| [3a4f08e8394e](../../summaries/3a4f08e8394e2b3e28c24968c1b91c493d51d17ed1f6cdb69dfadc79067b3018.json) | unreported | unreported | unreported | unreported |
+| [6c22ce847e5d](../../summaries/6c22ce847e5ddd7952d29e58e0b2fa86b61b74678c7d1acb7cba396e7cee3375.json) | unreported | unreported | unreported | unreported |
+| [74c3ed9b0f9a](../../summaries/74c3ed9b0f9a6da64026053c696190e186d5b38c5b272e667894313dfddbe798.json) | 5 | ok | unreported | unreported |
+| [ac77bb30742b](../../summaries/ac77bb30742b758ba1a5679e02cf67afe172f14ffb9f9d3e80ae723e80d2ca90.json) | 5 | ok | unreported | unreported |
+| [ec137db24552](../../summaries/ec137db24552ceb50d1807f12e3eaf82832662d2152e43482f3aba97501d82c4.json) | 5 | unreported | unreported | unreported |
+| [7238030e8ead](../../summaries/7238030e8ead7091d999d44c73fb6a10cdf1c925d58f7705074e9320722a95f8.json) | unreported | unreported | unreported | unreported |
+| [b876252730d9](../../summaries/b876252730d9de5736beae85864eb3ba3e71cfc982f1a61758715901942f26d9.json) | unreported | PASS | unreported | unreported |
+| [dedb4cd98cc1](../../summaries/dedb4cd98cc1d3858c63af2bd07c059d7e060de6395bcaeec7637b8a93e0e76f.json) | unreported | PASS | unreported | unreported |
+| [84c3de40ef87](../../summaries/84c3de40ef87bf1b9fd4435ab0af09986ea36bc6def29fcfbe902f2829ddc8c9.json) | 1 | PASS | unreported | 1 |
+| [5b44fc2582c9](../../summaries/5b44fc2582c973ef615631816c252d2ca5d87f2fac8d15cbfeb55af2c0186ca0.json) | unreported | unreported | unreported | unreported |
+| [f38e499574e1](../../summaries/f38e499574e1c11fe0f98aff0442efb2348b9fc2cef202458d43ceb227694290.json) | unreported | unreported | unreported | unreported |
+| [b272d44ccf08](../../summaries/b272d44ccf08e70df9e7ae1252eedeccfec967eca4279ae945a624c1f587582b.json) | 1 | ok | unreported | unreported |
+| [81e972c657f7](../../summaries/81e972c657f75e3218722efa98a4e69dde141c3333e696350e1c1e923a442e46.json) | 1 | ok | unreported | unreported |
+| [43fec414bfa4](../../summaries/43fec414bfa4b9a000fee5aaff8a0c1114ba765a2a6a5a9d05589eb7972aa438.json) | 1 | unreported | unreported | unreported |

@@ -1,0 +1,17 @@
+# v419: Located Evidence
+
+Coverage: `located_references`. This version has 50 path-associated artifacts, 0 document references, and 0 commit-subject references.
+
+Path mentions can identify a comparator, schema or question-set revision. They are not proof of a tested implementation.
+
+[Reference IDs](../../iterations/v0419.json) | [Full history](../../ITERATION_HISTORY.md)
+
+| Artifact | Cases or rows | Status | Semantic numerator/denominator | E2E pass |
+|---|---:|---|---|---|
+| [52172bef3f8c](../../summaries/52172bef3f8c73561c2fb4942c8d54a6682e7d2a9710ed4c1a078fbb8e71d578.json) | unreported | FAIL | unreported | unreported |
+| [dd6e5b68d654](../../summaries/dd6e5b68d65469aee142c571a070686b340f392e5aa61d3eeb866668dd26f22d.json) | unreported | unreported | unreported | unreported |
+| [530a66b2119d](../../summaries/530a66b2119df196999b2abc5521344228d995b30edfa0229491f641abe6ef50.json) | unreported | unreported | unreported | unreported |
+| [b323175e98c5](../../summaries/b323175e98c501ce1548a9af059dd5cb88e2a70f50eff2b34fdaca814126c4f6.json) | unreported | unreported | unreported | unreported |
+| [1d260007c31d](../../summaries/1d260007c31dc9115d15cdeff606496d1b555d59787a1530360538b06c20eca5.json) | unreported | unreported | unreported | unreported |
+| [902271877c8e](../../summaries/902271877c8ed8a14b5349df4bae1f7a296489517442e86b01b965e6c8a1c7d9.json) | unreported | unreported | unreported | unreported |
+| [c4f343503d98](../../summaries/c4f343503d98c08571d0eae105d9d5f423151bf9aaeee0277723d7bfc8fc9936.json) | unreported | unreported | unreported | unreported |

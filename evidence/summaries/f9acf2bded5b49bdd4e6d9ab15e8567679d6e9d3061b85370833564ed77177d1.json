@@ -1,0 +1,173 @@
+{
+  "artifact_id": "f9acf2bded5b49bdd4e6d9ab15e8567679d6e9d3061b85370833564ed77177d1",
+  "projection": {
+    "dimension_rates": {
+      "answer_type": {
+        "grounded": {
+          "count": 41,
+          "pass_count": 27
+        },
+        "no_answer": {
+          "count": 7,
+          "pass_count": 6
+        },
+        "refusal": {
+          "count": 2,
+          "pass_count": 2
+        }
+      },
+      "language": {
+        "en": {
+          "count": 50,
+          "pass_count": 35
+        }
+      }
+    },
+    "e2e_pass_count": 35,
+    "e2e_pass_rate": 0.7,
+    "failure_classes": {
+      "citation_wrong_source": 5,
+      "no_answer_incorrect": 1,
+      "semantic_judge_rejected": 9
+    },
+    "first_attempt_success_count": 50,
+    "indeterminate_count": 0,
+    "integrity": {
+      "duplicate_case_id_count": 0,
+      "grounded_count": 41,
+      "negative_evidence_contract_count": 7,
+      "no_answer_count": 7,
+      "query_mode": "question_only",
+      "refusal_count": 2,
+      "row_count": 50,
+      "semantic_fact_count": 127,
+      "source_contract_count": 41,
+      "source_evidence_count": 151,
+      "status": "PASS",
+      "violation_count": 0
+    },
+    "machine_semantic_judge_required": true,
+    "machine_semantic_judgments_present": true,
+    "quality_gate": {
+      "checks": {
+        "citation_support_correctness_rate": {
+          "actual": 0.8780487804878049,
+          "min": 0.95,
+          "pass": false
+        },
+        "correct_refusal_rate": {
+          "actual": 0.8888888888888888,
+          "min": 0.9,
+          "pass": false
+        },
+        "critical_semantic_correctness_rate": {
+          "actual": 0.7222222222222222,
+          "min": 0.95,
+          "pass": false
+        },
+        "expected_question_count": {
+          "actual": 50,
+          "expected": 50,
+          "pass": true
+        },
+        "false_refusal_rate": {
+          "actual": 0.0,
+          "max": 0.05,
+          "pass": true
+        },
+        "grounded_rate": {
+          "actual": 0.8292682926829268,
+          "min": 0.95,
+          "pass": false
+        },
+        "retrieval_recall_at_10": {
+          "actual": 0.975609756097561,
+          "min": 0.9,
+          "pass": true
+        },
+        "runtime_success_rate": {
+          "actual": 1.0,
+          "min": 0.99,
+          "pass": true
+        },
+        "semantic_correctness_rate": {
+          "actual": 0.7,
+          "min": 0.95,
+          "pass": false
+        },
+        "unsupported_assertion_rate": {
+          "actual": 0.12,
+          "pass": false
+        }
+      },
+      "status": "FAIL"
+    },
+    "quality_metrics": {
+      "citation_support_correctness_rate": {
+        "denominator": 41,
+        "numerator": 36,
+        "rate": 0.8780487804878049
+      },
+      "contradiction_rate": {
+        "denominator": 50,
+        "numerator": 3,
+        "rate": 0.06
+      },
+      "correct_refusal_rate": {
+        "denominator": 9,
+        "numerator": 8,
+        "rate": 0.8888888888888888
+      },
+      "critical_semantic_correctness_rate": {
+        "denominator": 18,
+        "numerator": 13,
+        "rate": 0.7222222222222222
+      },
+      "critical_severe_error_count": 2,
+      "false_refusal_rate": {
+        "denominator": 41,
+        "numerator": 0,
+        "rate": 0.0
+      },
+      "grounded_rate": {
+        "denominator": 41,
+        "numerator": 34,
+        "rate": 0.8292682926829268
+      },
+      "retrieval_recall_at_10": {
+        "denominator": 41,
+        "numerator": 40,
+        "rate": 0.975609756097561
+      },
+      "runtime_success_rate": {
+        "denominator": 50,
+        "numerator": 50,
+        "rate": 1.0
+      },
+      "semantic_correctness_rate": {
+        "denominator": 50,
+        "numerator": 35,
+        "rate": 0.7
+      },
+      "unsupported_assertion_rate": {
+        "denominator": 50,
+        "numerator": 6,
+        "rate": 0.12
+      }
+    },
+    "question_count": 50,
+    "recovered_after_retry_count": 0,
+    "result_count": 50,
+    "run_provenance_sha256": "0db74d4b1c07b961ab2f9d307c998de26951616773917723ab5c9c2b316ee88e",
+    "semantic_judge_model": "gpt-5.5",
+    "status": "FAIL",
+    "unrecovered_transport_failure_count": 0
+  },
+  "source_sha256": "c41954420f858899e9f871c6317de14bbbb56f37e94e8908e6596bc501124461",
+  "version_mentions": [
+    581,
+    811,
+    813,
+    814
+  ]
+}

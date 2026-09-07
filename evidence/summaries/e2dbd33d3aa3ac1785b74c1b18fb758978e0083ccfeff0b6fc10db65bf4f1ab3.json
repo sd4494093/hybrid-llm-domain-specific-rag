@@ -1,0 +1,78 @@
+{
+  "artifact_id": "e2dbd33d3aa3ac1785b74c1b18fb758978e0083ccfeff0b6fc10db65bf4f1ab3",
+  "projection": {
+    "dimension_rates": {
+      "answer_type": {
+        "grounded": {
+          "count": 5,
+          "pass_count": 5
+        }
+      },
+      "domain": {
+        "commercial_customer_marketing": {
+          "count": 1,
+          "pass_count": 1
+        },
+        "it_security_digital_workplace": {
+          "count": 1,
+          "pass_count": 1
+        },
+        "people_learning": {
+          "count": 1,
+          "pass_count": 1
+        },
+        "product_engineering": {
+          "count": 1,
+          "pass_count": 1
+        },
+        "safety_field_operations": {
+          "count": 1,
+          "pass_count": 1
+        }
+      },
+      "language": {
+        "en": {
+          "count": 4,
+          "pass_count": 4
+        },
+        "fr": {
+          "count": 1,
+          "pass_count": 1
+        }
+      }
+    },
+    "e2e_pass_count": 5,
+    "e2e_pass_rate": 1.0,
+    "first_attempt_success_count": 5,
+    "indeterminate_count": 0,
+    "integrity": {
+      "duplicate_case_id_count": 0,
+      "grounded_count": 5,
+      "negative_evidence_contract_count": 0,
+      "no_answer_count": 0,
+      "query_mode": "question_only",
+      "refusal_count": 0,
+      "row_count": 5,
+      "semantic_fact_count": 13,
+      "source_contract_count": 5,
+      "source_evidence_count": 13,
+      "status": "PASS",
+      "violation_count": 0
+    },
+    "machine_semantic_judge_required": true,
+    "machine_semantic_judgments_present": true,
+    "question_count": 5,
+    "recovered_after_retry_count": 0,
+    "result_count": 5,
+    "run_provenance_sha256": "623ee9a7e1af716d6a9d3be0e506863699fe986b05c49d08cb152a6b8ce190bc",
+    "semantic_judge_model": "gpt-5.5",
+    "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+    "status": "PASS",
+    "unrecovered_transport_failure_count": 0
+  },
+  "source_sha256": "b84e1aec139d5a0da3516cb2dc0697c3cc554726a6d6e9cd8e78388cdafaf818",
+  "version_mentions": [
+    5,
+    1318
+  ]
+}

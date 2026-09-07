@@ -1,0 +1,78 @@
+{
+  "artifact_id": "23013e24bcaa803750263197eb5eb8031553280eaeb36f2f4671ec2fad391aaf",
+  "projection": {
+    "dimension_rates": {
+      "answer_type": {
+        "grounded": {
+          "count": 5,
+          "pass_count": 1
+        }
+      },
+      "domain": {
+        "it_security_digital_workplace": {
+          "count": 1,
+          "pass_count": 0
+        },
+        "product_engineering": {
+          "count": 2,
+          "pass_count": 1
+        },
+        "safety_field_operations": {
+          "count": 2,
+          "pass_count": 0
+        }
+      },
+      "language": {
+        "cs": {
+          "count": 1,
+          "pass_count": 0
+        },
+        "en": {
+          "count": 2,
+          "pass_count": 1
+        },
+        "es": {
+          "count": 1,
+          "pass_count": 0
+        },
+        "nl": {
+          "count": 1,
+          "pass_count": 0
+        }
+      }
+    },
+    "e2e_pass_count": 1,
+    "e2e_pass_rate": 0.2,
+    "failure_classes": {
+      "semantic_judge_rejected": 4
+    },
+    "first_attempt_success_count": 0,
+    "indeterminate_count": 0,
+    "integrity": {
+      "duplicate_case_id_count": 0,
+      "grounded_count": 5,
+      "negative_evidence_contract_count": 0,
+      "no_answer_count": 0,
+      "query_mode": "question_only",
+      "refusal_count": 0,
+      "row_count": 5,
+      "semantic_fact_count": 17,
+      "source_contract_count": 5,
+      "source_evidence_count": 17,
+      "status": "PASS",
+      "violation_count": 0
+    },
+    "machine_semantic_judge_required": true,
+    "machine_semantic_judgments_present": true,
+    "question_count": 5,
+    "recovered_after_retry_count": 0,
+    "result_count": 5,
+    "semantic_judge_model": "gpt-5.5",
+    "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+    "unrecovered_transport_failure_count": 0
+  },
+  "source_sha256": "70d5408920e5387b3e0e852e19eb6ff30fbc040df23e3dcc41c8896daea4e728",
+  "version_mentions": [
+    1408
+  ]
+}

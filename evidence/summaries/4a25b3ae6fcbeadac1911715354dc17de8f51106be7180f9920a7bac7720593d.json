@@ -1,0 +1,86 @@
+{
+  "artifact_id": "4a25b3ae6fcbeadac1911715354dc17de8f51106be7180f9920a7bac7720593d",
+  "projection": {
+    "dimension_rates": {
+      "answer_type": {
+        "grounded": {
+          "count": 7,
+          "pass_count": 4
+        }
+      },
+      "domain": {
+        "commercial_customer_marketing": {
+          "count": 1,
+          "pass_count": 0
+        },
+        "it_security_digital_workplace": {
+          "count": 1,
+          "pass_count": 1
+        },
+        "people_learning": {
+          "count": 3,
+          "pass_count": 2
+        },
+        "product_engineering": {
+          "count": 1,
+          "pass_count": 1
+        },
+        "safety_field_operations": {
+          "count": 1,
+          "pass_count": 0
+        }
+      },
+      "language": {
+        "en": {
+          "count": 5,
+          "pass_count": 3
+        },
+        "fr": {
+          "count": 1,
+          "pass_count": 1
+        },
+        "nl": {
+          "count": 1,
+          "pass_count": 0
+        }
+      }
+    },
+    "e2e_pass_count": 4,
+    "e2e_pass_rate": 0.5714285714285714,
+    "failure_classes": {
+      "grounded_no_answer": 1,
+      "semantic_judge_rejected": 2
+    },
+    "first_attempt_success_count": 7,
+    "indeterminate_count": 0,
+    "integrity": {
+      "duplicate_case_id_count": 0,
+      "grounded_count": 7,
+      "negative_evidence_contract_count": 0,
+      "no_answer_count": 0,
+      "query_mode": "question_only",
+      "refusal_count": 0,
+      "row_count": 7,
+      "semantic_fact_count": 22,
+      "source_contract_count": 7,
+      "source_evidence_count": 19,
+      "status": "PASS",
+      "violation_count": 0
+    },
+    "machine_semantic_judge_required": true,
+    "machine_semantic_judgments_present": true,
+    "question_count": 7,
+    "recovered_after_retry_count": 0,
+    "result_count": 7,
+    "run_provenance_sha256": "d61679bd692edbe00a3c99c85b28abc36aa334a95b014353425bfc78261f692e",
+    "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+    "unrecovered_transport_failure_count": 0
+  },
+  "source_sha256": "dd542bb4f43cf29be0d19c4ce03a339731ce9f55dfe9cb7807b81486983f8eef",
+  "version_mentions": [
+    589,
+    591,
+    592,
+    593
+  ]
+}

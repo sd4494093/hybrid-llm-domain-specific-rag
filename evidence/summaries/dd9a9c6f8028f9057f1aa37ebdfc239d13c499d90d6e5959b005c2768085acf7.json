@@ -1,0 +1,81 @@
+{
+  "artifact_id": "dd9a9c6f8028f9057f1aa37ebdfc239d13c499d90d6e5959b005c2768085acf7",
+  "projection": {
+    "cohort_manifest_sha256": "4e3f2136ed9017aedc4881f7d33cbfb949e2e60e7b3ff813a5b0fc3a691cc869",
+    "dimension_rates": {
+      "answer_type": {
+        "grounded": {
+          "count": 5,
+          "pass_count": 1
+        }
+      },
+      "domain": {
+        "commercial_customer_marketing": {
+          "count": 1,
+          "pass_count": 0
+        },
+        "people_learning": {
+          "count": 2,
+          "pass_count": 0
+        },
+        "product_engineering": {
+          "count": 2,
+          "pass_count": 1
+        }
+      },
+      "language": {
+        "de": {
+          "count": 1,
+          "pass_count": 0
+        },
+        "en": {
+          "count": 3,
+          "pass_count": 1
+        },
+        "fr": {
+          "count": 1,
+          "pass_count": 0
+        }
+      }
+    },
+    "e2e_pass_count": 1,
+    "e2e_pass_rate": 0.2,
+    "failure_classes": {
+      "citation_wrong_source": 1,
+      "grounded_no_answer": 2,
+      "semantic_judge_rejected": 1
+    },
+    "first_attempt_success_count": 5,
+    "indeterminate_count": 0,
+    "integrity": {
+      "duplicate_case_id_count": 0,
+      "grounded_count": 5,
+      "negative_evidence_contract_count": 0,
+      "no_answer_count": 0,
+      "query_mode": "question_only",
+      "refusal_count": 0,
+      "row_count": 5,
+      "semantic_fact_count": 15,
+      "source_contract_count": 5,
+      "source_evidence_count": 12,
+      "status": "PASS",
+      "violation_count": 0
+    },
+    "judgments_sha256": "0a98b6e2e606811d430382971c341272baa19fd264c1f86d8f362428845a1bab",
+    "machine_semantic_judge_required": true,
+    "machine_semantic_judgments_present": true,
+    "oracles_sha256": "da20970cb621eae2d703b08b63e23898d9abcda5d612eb4881e5be249bcea89b",
+    "question_count": 5,
+    "questions_sha256": "01a43a3b44c40f01ad2d0deffb05a4cd6b91645dab01a9c92c6f8a4eb593c824",
+    "recovered_after_retry_count": 0,
+    "result_count": 5,
+    "semantic_judge_model": "gpt-5.6-sol",
+    "semantic_judge_reasoning_effort": "high",
+    "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+    "unrecovered_transport_failure_count": 0
+  },
+  "source_sha256": "f7dabb5112b77bcc4b9486f3dbc0cc340496bb73e738a72f305f880246509748",
+  "version_mentions": [
+    1444
+  ]
+}

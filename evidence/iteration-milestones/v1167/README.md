@@ -1,0 +1,11 @@
+# v1167: Located Evidence
+
+Coverage: `located_references`. This version has 21 path-associated artifacts, 55 document references, and 1 commit-subject references.
+
+Path mentions can identify a comparator, schema or question-set revision. They are not proof of a tested implementation.
+
+[Reference IDs](../../iterations/v1167.json) | [Full history](../../ITERATION_HISTORY.md)
+
+| Artifact | Cases or rows | Status | Semantic numerator/denominator | E2E pass |
+|---|---:|---|---|---|
+| [4b375f49e85b](../../summaries/4b375f49e85b5f5b2e6fcc886cab7d38f416f4bd1f328cfd0d1e59925f810700.json) | 1 | ok | unreported | unreported |

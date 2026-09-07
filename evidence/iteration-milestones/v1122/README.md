@@ -1,0 +1,11 @@
+# v1122: Located Evidence
+
+Coverage: `located_references`. This version has 15 path-associated artifacts, 42 document references, and 1 commit-subject references.
+
+Path mentions can identify a comparator, schema or question-set revision. They are not proof of a tested implementation.
+
+[Reference IDs](../../iterations/v1122.json) | [Full history](../../ITERATION_HISTORY.md)
+
+| Artifact | Cases or rows | Status | Semantic numerator/denominator | E2E pass |
+|---|---:|---|---|---|
+| [a8d2b8f64bbf](../../summaries/a8d2b8f64bbf64cea28a79141477de091834919696cc3adeddeccb109558a19d.json) | 1 | ok | unreported | unreported |

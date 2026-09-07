@@ -1,0 +1,85 @@
+# v435: Located Evidence
+
+Coverage: `located_references`. This version has 506 path-associated artifacts, 16 document references, and 0 commit-subject references.
+
+Path mentions can identify a comparator, schema or question-set revision. They are not proof of a tested implementation.
+
+[Reference IDs](../../iterations/v0435.json) | [Full history](../../ITERATION_HISTORY.md)
+
+| Artifact | Cases or rows | Status | Semantic numerator/denominator | E2E pass |
+|---|---:|---|---|---|
+| [23f53ac15ee0](../../summaries/23f53ac15ee0f5e739d37a101b0f9f838ee838612dc489fdb185a08997b8442c.json) | unreported | PASS | unreported | unreported |
+| [d92d05ed3ec1](../../summaries/d92d05ed3ec10990c2dfabc09ac958ab22f803621349f4f364748a99d857c029.json) | unreported | unreported | unreported | unreported |
+| [3b87ebe0af1a](../../summaries/3b87ebe0af1af6b3be71de144cb768d439ae8b061468759f62284f9b7c64e21d.json) | unreported | unreported | unreported | unreported |
+| [4d175701a98d](../../summaries/4d175701a98d7a643e43f843d01614d7daca079a71e1e4a7c4f160081fec5176.json) | unreported | unreported | unreported | unreported |
+| [be08426e50fd](../../summaries/be08426e50fd0aa6b714f733a5cac57c545461a4127db46b8b1a81216d247384.json) | unreported | unreported | unreported | unreported |
+| [7e372fa225f2](../../summaries/7e372fa225f27ba0455c3c8811cae3da2480f5cfcd705910bfde3bd7788f21c6.json) | unreported | unreported | unreported | unreported |
+| [230357cba1a0](../../summaries/230357cba1a0ae9b0662ea70e4e4d3f0434b693460c9855e055c291e30ac379a.json) | unreported | unreported | unreported | unreported |
+| [b776be579417](../../summaries/b776be57941752ba9a96bab11912cc54c71d938f03f00cde1aeb3befe28277e8.json) | unreported | unreported | unreported | unreported |
+| [70150ea0f66b](../../summaries/70150ea0f66ba6e667b8944980d93e7d29b2e7efc5a7579f7a3a7ce13c4a5c6a.json) | unreported | unreported | unreported | unreported |
+| [83d5b2efe28c](../../summaries/83d5b2efe28cfb8caf530ba8bed2142135b73cef74e5220ace13ea921ea1c3a9.json) | unreported | unreported | unreported | unreported |
+| [660b1ab7b4e5](../../summaries/660b1ab7b4e5fc13c50b5b85ac204962fbd377b41d6f3efc3c816b35f54df81e.json) | unreported | unreported | unreported | unreported |
+| [37b9c82f5e72](../../summaries/37b9c82f5e723fb458ea0e353239193d6711631616d7552dd3905e39879885af.json) | unreported | unreported | unreported | unreported |
+| [9bd7b59e5828](../../summaries/9bd7b59e582801ba4f95cefa863849af371be9fdab6c4a411f2950ff88828e38.json) | unreported | unreported | unreported | unreported |
+| [4b0ec270bfb6](../../summaries/4b0ec270bfb63b0c03388ca933952d7fc687fd0a0d893fc2e691503f282ca4d5.json) | unreported | unreported | unreported | unreported |
+| [d08c329ca273](../../summaries/d08c329ca273668403dfe6d746e2fd0f8018ce21f6aacbe59d7f961d42c32ef0.json) | unreported | unreported | unreported | unreported |
+| [719d1cbfc046](../../summaries/719d1cbfc0462e3477cbdb5c077dde9a0e3b502b07495caecb3a5bc613e68e5a.json) | unreported | unreported | unreported | unreported |
+| [d6acb32cce67](../../summaries/d6acb32cce67e9741edba844f1cfe1522893aa25165318c909209154143af3de.json) | unreported | unreported | unreported | unreported |
+| [d7dbab5e9a7d](../../summaries/d7dbab5e9a7d1318ca41e20aa3c28ebf69b799a095ee7d5e9de4c448d3d62feb.json) | unreported | unreported | unreported | unreported |
+| [380250c33b87](../../summaries/380250c33b87476dd02529c2f1353ab6841f0a1acb852487a2cd5f3f3d553568.json) | unreported | unreported | unreported | unreported |
+| [0dedc511dc50](../../summaries/0dedc511dc50fc0ee1677393ed002d40f7e9dbbed9bc022d59a18dc2ed9a1f62.json) | unreported | unreported | unreported | unreported |
+| [2f4bdd347804](../../summaries/2f4bdd347804769a03aa4ebefe891b76814981b9858e0efe5be13d389d502ed1.json) | unreported | unreported | unreported | unreported |
+| [5eb70f7f4a7c](../../summaries/5eb70f7f4a7c62c2c854e0d5a73bf7a79223e44746d36836bf6d61c1ece2cd52.json) | unreported | unreported | unreported | unreported |
+| [bd7281c341a0](../../summaries/bd7281c341a0c74a1a7f7957f2de09ed73db6665d1008ca279fde203cab7e25b.json) | unreported | unreported | unreported | unreported |
+| [d7e00845f55c](../../summaries/d7e00845f55c35cf240f6f9c5341ed01f103890a181b11ba69593147241b1681.json) | unreported | unreported | unreported | unreported |
+| [4c470d3673b7](../../summaries/4c470d3673b76ca88c9e5416aa585994496658eb0d071fe9ac464b793d1371d7.json) | unreported | unreported | unreported | unreported |
+| [1969bcd3fa40](../../summaries/1969bcd3fa409ac0ccf644deb8f97ee365f17870c00ec4284688161647763f51.json) | unreported | unreported | unreported | unreported |
+| [2f342a7ca6ad](../../summaries/2f342a7ca6ad07cc72d7104407c76bda11f12e4f6b20bce7f7ea6a3da96220a4.json) | unreported | unreported | unreported | unreported |
+| [a80e9db89e19](../../summaries/a80e9db89e19ff0baa42caf0d9059813153203508c952a8d15d84951d6e6d804.json) | unreported | unreported | unreported | unreported |
+| [783e1d9a0d83](../../summaries/783e1d9a0d83599c39395546c9f5d7ac716bd9842594a2a25b6e9446345e2fdf.json) | unreported | unreported | unreported | unreported |
+| [6a8167d0ce83](../../summaries/6a8167d0ce834eb7734f015e5eba57e2f88593f9f5a99bede0cef80d2cb44929.json) | unreported | unreported | unreported | unreported |
+| [45bcacc47946](../../summaries/45bcacc4794686a2fc3cfc139864995d5512a039a320288a1b41ac192f5d9eb6.json) | unreported | unreported | unreported | unreported |
+| [52e1509cd6e1](../../summaries/52e1509cd6e174a9256d6b558ec5a98df82629e352e479496ac9a3f9d4fa731b.json) | unreported | unreported | unreported | unreported |
+| [46357a15a1cf](../../summaries/46357a15a1cf9df9ed6e640554b0049143b076cbf93a6fda6ff67b33048589c2.json) | unreported | unreported | unreported | unreported |
+| [c02f7a4707d2](../../summaries/c02f7a4707d260d4a0db77c5a415db93d85e332181c2d37aa0bcf45c7f1b21aa.json) | unreported | unreported | unreported | unreported |
+| [60489d72ab21](../../summaries/60489d72ab2185ea760bd876ec6bf7448959c56a507a237a72f08fe3420f81ab.json) | unreported | unreported | unreported | unreported |
+| [dcd025b0b6fb](../../summaries/dcd025b0b6fbc4e4cb9fd4bb9ba79526b1ea0f75bdbbf27154817088f708bce1.json) | unreported | unreported | unreported | unreported |
+| [714a261c6168](../../summaries/714a261c616852547fe01d014fe51f2c73b3124c203f8c36920e13e66c9aba2b.json) | unreported | unreported | unreported | unreported |
+| [20f302686fe7](../../summaries/20f302686fe7d598a3cdfa5d7bbe0e5724240fd39f67440991faad0ff7a8ad93.json) | unreported | unreported | unreported | unreported |
+| [454f550fdf8b](../../summaries/454f550fdf8ba7dd629c9e98ae2d47d83d8bf5b1bb2d1e48865d9f6a7242ff83.json) | unreported | unreported | unreported | unreported |
+| [9552f518e7ec](../../summaries/9552f518e7ec1be8958ada2ee21abd97bc9de12fb6a916e7c1c1a936a8d0b016.json) | unreported | unreported | unreported | unreported |
+| [11060ea64f58](../../summaries/11060ea64f5862bc6fd5feb62be669caf01847fde2d4ba5fc413be40813369ea.json) | unreported | unreported | unreported | unreported |
+| [6676cf8110f0](../../summaries/6676cf8110f017a1fda043779c87aaeb84d106611dcbd29c0c4901be39022829.json) | unreported | unreported | unreported | unreported |
+| [13a9b335b7ee](../../summaries/13a9b335b7eea421ba6a36efd3ad00e27addb0808f09044da7f86ab0424afad3.json) | unreported | unreported | unreported | unreported |
+| [9eadf636eb37](../../summaries/9eadf636eb37b93857a584d021fdfc9251fd9fa4a8ab0fe189b2eee78f84cb73.json) | unreported | unreported | unreported | unreported |
+| [f658c9adc2ed](../../summaries/f658c9adc2ede1e71529134c969f395b0ab1fbe2867d610b286b00ae89772239.json) | unreported | unreported | unreported | unreported |
+| [0b16218ab052](../../summaries/0b16218ab0524a54d29a00836e3ed03eb1cb79627addfc833d0c114be191ec8f.json) | unreported | unreported | unreported | unreported |
+| [c86778bb1709](../../summaries/c86778bb170978ad5c47fa745294512065c482c5ec09ee1761d4bfc6d3b7cd81.json) | unreported | unreported | unreported | unreported |
+| [e8b0daeb063b](../../summaries/e8b0daeb063b4e10a7168f520a1724e8301e43ef542fc563aedfdc9cd80951d8.json) | unreported | unreported | unreported | unreported |
+| [afb4dfdeadc5](../../summaries/afb4dfdeadc5babcac4cf312cc2cba18b728b5685a4b8d5ddcbc55809154e833.json) | unreported | unreported | unreported | unreported |
+| [706395e6c396](../../summaries/706395e6c3969af5a8b74b942937bcb7f2f9a659c30e24f7b571a39ad160b19c.json) | unreported | unreported | unreported | unreported |
+| [b9a4c293b29c](../../summaries/b9a4c293b29c71134abce74adab8119ada50620524b7d2c52358ca5749fe1a30.json) | unreported | unreported | unreported | unreported |
+| [dc7d2d485f43](../../summaries/dc7d2d485f4376df942706746d72067b5c46760db9b042a78eb6f7cff462e4cf.json) | unreported | unreported | unreported | unreported |
+| [82fd6919b71e](../../summaries/82fd6919b71e376dc20f634b71ff45d9bb5424cfdd9a10adc753d08498357de5.json) | unreported | unreported | unreported | unreported |
+| [fb76ac413e98](../../summaries/fb76ac413e983dd9f56476d630761f42a699ed11a1c368b57445a89223ff9db4.json) | unreported | unreported | unreported | unreported |
+| [b8bd31a5a483](../../summaries/b8bd31a5a48346a8f46806944d0edacfaa26792a200e98d6a1c7a76eb46424ed.json) | unreported | unreported | unreported | unreported |
+| [0001a3b77320](../../summaries/0001a3b773208cd7954e0fc36f68faa02a62402f9d0bda49271306103e1ff94c.json) | unreported | unreported | unreported | unreported |
+| [b06a04067cb8](../../summaries/b06a04067cb820f3518093566f3dcbef32cf26b780bf418d913737e4c47d416f.json) | unreported | unreported | unreported | unreported |
+| [71247dfae9ac](../../summaries/71247dfae9ac241ce9ebf2fe00f859435a25314c46e27fd60b901beed5ff4cf1.json) | unreported | unreported | unreported | unreported |
+| [8b9d954d1c9d](../../summaries/8b9d954d1c9d0a064d78984fb3c57daadeb3b53a0d0c858631ba3087c0a6a31b.json) | unreported | unreported | unreported | unreported |
+| [5927de3dfb0e](../../summaries/5927de3dfb0ec19fc84755e0e0cc9296129d160cf42b32402c779f1bc1adf0aa.json) | unreported | unreported | unreported | unreported |
+| [17b66ba998e3](../../summaries/17b66ba998e3c9c91fb18991d2406883bd53e262f52e4093af97cf58673090fd.json) | unreported | unreported | unreported | unreported |
+| [41ad5e3a78e7](../../summaries/41ad5e3a78e7952669a700664d92e997a461b9af376983244023de7017a9bd7b.json) | unreported | unreported | unreported | unreported |
+| [b3b3bf18c876](../../summaries/b3b3bf18c876a8452a392fe884daa01d5e70e95dd6a78f28da462e30e83bad00.json) | unreported | unreported | unreported | unreported |
+| [e2b994bf8ac4](../../summaries/e2b994bf8ac48eade6fbb930702dbf516cee6f438c28e70419b824f644144d74.json) | unreported | unreported | unreported | unreported |
+| [00c796d3fe10](../../summaries/00c796d3fe105e66056d6cea5a0ab9624e1d693fac805ce88c0a12a54d9a7a64.json) | unreported | unreported | unreported | unreported |
+| [02e47e0fa85e](../../summaries/02e47e0fa85e586c4c95f0c8ff182664fd530de42d6f51a2f44e2612db9202d7.json) | unreported | unreported | unreported | unreported |
+| [ef5148e728dc](../../summaries/ef5148e728dc87ffb7f402895abe44d15ebcdbfbfa79cb938281d1f23fa67420.json) | unreported | unreported | unreported | unreported |
+| [c946a630fe08](../../summaries/c946a630fe084f3dbb6709657aec4712a8229bcd9914d264503dccea9d2bed55.json) | unreported | unreported | unreported | unreported |
+| [9d2eb93e1c47](../../summaries/9d2eb93e1c47ca204871b043e19594e809368b4443165bea3541bb3533fb6fa5.json) | unreported | unreported | unreported | unreported |
+| [9712ad1ee6a4](../../summaries/9712ad1ee6a44a5ffd6dd4505266d47141158a9fb1c43dec5c13559a4b2d9ae1.json) | 5 | ok | unreported | unreported |
+| [6d4d285a1c67](../../summaries/6d4d285a1c675b8b9fd31fc72408b01f615b01a92dbcc00f2a318b7ac9143532.json) | 1 | ok | unreported | unreported |
+| [12d90dc45d4b](../../summaries/12d90dc45d4b6b05b2a82031d354b3d6502814f16b370a683714a4637ff7aca7.json) | 1 | ok | unreported | unreported |
+| [3fdebaaebb8c](../../summaries/3fdebaaebb8c64705e38185580bf3fade1214cd89e59a1a2017c3af709fa4b0e.json) | 1 | ok | unreported | unreported |
+| [d79cee06604b](../../summaries/d79cee06604beab8fd5613282f8327e4cd9fc08d4d7a63863a20af28986327c2.json) | 1 | ok | unreported | unreported |
+| [b2c34ed341d0](../../summaries/b2c34ed341d01b83394236ba6801fe8ae31dfd220506183af3acbc59ffc8af03.json) | 1 | ok | unreported | unreported |

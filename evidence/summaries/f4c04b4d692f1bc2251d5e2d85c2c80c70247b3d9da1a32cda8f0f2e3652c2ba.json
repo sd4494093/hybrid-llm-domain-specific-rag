@@ -1,0 +1,57 @@
+{
+  "artifact_id": "f4c04b4d692f1bc2251d5e2d85c2c80c70247b3d9da1a32cda8f0f2e3652c2ba",
+  "projection": {
+    "dimension_rates": {
+      "answer_type": {
+        "no_answer": {
+          "count": 1,
+          "pass_count": 1
+        }
+      },
+      "domain": {
+        "corporate_operations_policy_communications": {
+          "count": 1,
+          "pass_count": 1
+        }
+      },
+      "language": {
+        "en": {
+          "count": 1,
+          "pass_count": 1
+        }
+      }
+    },
+    "e2e_pass_count": 1,
+    "e2e_pass_rate": 1.0,
+    "first_attempt_success_count": 1,
+    "indeterminate_count": 0,
+    "integrity": {
+      "duplicate_case_id_count": 0,
+      "grounded_count": 0,
+      "negative_evidence_contract_count": 1,
+      "no_answer_count": 1,
+      "query_mode": "question_only",
+      "refusal_count": 0,
+      "row_count": 1,
+      "semantic_fact_count": 0,
+      "source_contract_count": 0,
+      "source_evidence_count": 0,
+      "status": "PASS",
+      "violation_count": 0
+    },
+    "machine_semantic_judge_required": true,
+    "machine_semantic_judgments_present": true,
+    "question_count": 1,
+    "recovered_after_retry_count": 0,
+    "result_count": 1,
+    "run_provenance_sha256": "314a728b48cd41dd67582065b4314d623167a5f4282e6ce5048a7ec4e9a2b13d",
+    "semantic_judge_model": "gpt-5.5",
+    "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+    "status": "PASS",
+    "unrecovered_transport_failure_count": 0
+  },
+  "source_sha256": "5abeeaf03ae37f75f0e64be4f51cee7a83f8cba67327663d720afcaa32c1d0ce",
+  "version_mentions": [
+    1312
+  ]
+}

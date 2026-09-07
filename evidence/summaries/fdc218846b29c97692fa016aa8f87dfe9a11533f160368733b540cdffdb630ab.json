@@ -1,0 +1,99 @@
+{
+  "artifact_id": "fdc218846b29c97692fa016aa8f87dfe9a11533f160368733b540cdffdb630ab",
+  "projection": {
+    "dimension_rates": {
+      "answer_type": {
+        "grounded": {
+          "count": 17,
+          "pass_count": 5
+        },
+        "refusal": {
+          "count": 3,
+          "pass_count": 3
+        }
+      },
+      "domain": {
+        "corporate_operations_policy_communications": {
+          "count": 4,
+          "pass_count": 3
+        },
+        "it_security_digital_workplace": {
+          "count": 4,
+          "pass_count": 1
+        },
+        "people_learning": {
+          "count": 1,
+          "pass_count": 0
+        },
+        "product_engineering": {
+          "count": 4,
+          "pass_count": 4
+        },
+        "safety_field_operations": {
+          "count": 7,
+          "pass_count": 0
+        }
+      },
+      "language": {
+        "en": {
+          "count": 14,
+          "pass_count": 6
+        },
+        "es": {
+          "count": 1,
+          "pass_count": 0
+        },
+        "fr": {
+          "count": 1,
+          "pass_count": 0
+        },
+        "it": {
+          "count": 1,
+          "pass_count": 1
+        },
+        "nl": {
+          "count": 1,
+          "pass_count": 0
+        },
+        "pt": {
+          "count": 1,
+          "pass_count": 1
+        },
+        "ro": {
+          "count": 1,
+          "pass_count": 0
+        }
+      }
+    },
+    "e2e_pass_count": 8,
+    "e2e_pass_rate": 0.4,
+    "failure_classes": {
+      "semantic_incomplete": 2,
+      "semantic_incorrect": 8,
+      "semantic_judge_rejected": 2
+    },
+    "indeterminate_count": 0,
+    "integrity": {
+      "duplicate_case_id_count": 0,
+      "grounded_count": 17,
+      "negative_evidence_contract_count": 0,
+      "no_answer_count": 0,
+      "query_mode": "question_only",
+      "refusal_count": 3,
+      "row_count": 20,
+      "semantic_fact_count": 52,
+      "source_contract_count": 17,
+      "source_evidence_count": 59,
+      "status": "PASS",
+      "violation_count": 0
+    },
+    "machine_semantic_judge_required": true,
+    "machine_semantic_judgments_present": true,
+    "question_count": 20,
+    "result_count": 20
+  },
+  "source_sha256": "21e1f8cb8d47e82459fc53542bdf8f3503210df70c276f4f15e4d60dcbab308f",
+  "version_mentions": [
+    260
+  ]
+}

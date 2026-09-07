@@ -1,0 +1,60 @@
+{
+  "artifact_id": "d304c2cb8295173d3c7ab3b14a424de0ab00a5f6ba39946e3eef29525cb2875d",
+  "projection": {
+    "dimension_rates": {
+      "answer_type": {
+        "grounded": {
+          "count": 41,
+          "pass_count": 26
+        },
+        "no_answer": {
+          "count": 7,
+          "pass_count": 7
+        },
+        "refusal": {
+          "count": 2,
+          "pass_count": 2
+        }
+      },
+      "language": {
+        "en": {
+          "count": 50,
+          "pass_count": 35
+        }
+      }
+    },
+    "e2e_pass_count": 35,
+    "e2e_pass_rate": 0.7,
+    "failure_classes": {
+      "grounded_no_answer": 2,
+      "semantic_judge_rejected": 13
+    },
+    "first_attempt_success_count": 41,
+    "indeterminate_count": 0,
+    "integrity": {
+      "duplicate_case_id_count": 0,
+      "grounded_count": 41,
+      "negative_evidence_contract_count": 7,
+      "no_answer_count": 7,
+      "query_mode": "question_only",
+      "refusal_count": 2,
+      "row_count": 50,
+      "semantic_fact_count": 127,
+      "source_contract_count": 41,
+      "source_evidence_count": 151,
+      "status": "PASS",
+      "violation_count": 0
+    },
+    "machine_semantic_judge_required": true,
+    "machine_semantic_judgments_present": true,
+    "question_count": 50,
+    "recovered_after_retry_count": 9,
+    "result_count": 50,
+    "run_provenance_sha256": "2ec1aa8df409f03ee8d4ef3b5a11911b4c9dbb3986c3a4eb58d9a41e319f0182",
+    "unrecovered_transport_failure_count": 0
+  },
+  "source_sha256": "141e1a5efdcbfbcac9b54c09ddd2cd258ece5621cf212cceab38a6ab51bbb51a",
+  "version_mentions": [
+    459
+  ]
+}

@@ -1,0 +1,13 @@
+# v881: Located Evidence
+
+Coverage: `located_references`. This version has 10 path-associated artifacts, 0 document references, and 0 commit-subject references.
+
+Path mentions can identify a comparator, schema or question-set revision. They are not proof of a tested implementation.
+
+[Reference IDs](../../iterations/v0881.json) | [Full history](../../ITERATION_HISTORY.md)
+
+| Artifact | Cases or rows | Status | Semantic numerator/denominator | E2E pass |
+|---|---:|---|---|---|
+| [262e9aad7bdf](../../summaries/262e9aad7bdf7b61aa8b23ec88fe6b97b028b07d734adcac82ed3a9d12aaec0c.json) | 7 | PASS | unreported | 7 |
+| [26529aa96f8d](../../summaries/26529aa96f8d3cbc507cfcd4c4add4bb30d56b0b369fb3ef7dbfb866223139f0.json) | 7 | ok | unreported | unreported |
+| [ca0f8789275d](../../summaries/ca0f8789275d86e66781c50b9e2eb6d0d1fcc4f9c2efb81e4a106cbb50948b5d.json) | 7 | unreported | unreported | unreported |

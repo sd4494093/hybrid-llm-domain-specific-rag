@@ -1,0 +1,62 @@
+{
+  "artifact_id": "a49b757e9d7e4801edd7e2db027b5d09f7932c2fa6ff0ddead5d048774fa189b",
+  "projection": {
+    "dimension_rates": {
+      "answer_type": {
+        "grounded": {
+          "count": 2,
+          "pass_count": 1
+        }
+      },
+      "domain": {
+        "corporate_operations_policy_communications": {
+          "count": 2,
+          "pass_count": 1
+        }
+      },
+      "language": {
+        "en": {
+          "count": 1,
+          "pass_count": 1
+        },
+        "pt": {
+          "count": 1,
+          "pass_count": 0
+        }
+      }
+    },
+    "e2e_pass_count": 1,
+    "e2e_pass_rate": 0.5,
+    "failure_classes": {
+      "semantic_incomplete": 1
+    },
+    "first_attempt_success_count": 2,
+    "indeterminate_count": 0,
+    "integrity": {
+      "duplicate_case_id_count": 0,
+      "grounded_count": 2,
+      "negative_evidence_contract_count": 0,
+      "no_answer_count": 0,
+      "query_mode": "question_only",
+      "refusal_count": 0,
+      "row_count": 2,
+      "semantic_fact_count": 6,
+      "source_contract_count": 2,
+      "source_evidence_count": 5,
+      "status": "PASS",
+      "violation_count": 0
+    },
+    "machine_semantic_judge_required": true,
+    "machine_semantic_judgments_present": true,
+    "question_count": 2,
+    "recovered_after_retry_count": 0,
+    "result_count": 2,
+    "run_provenance_sha256": "1bb27cb2679b687bd1bb4ef3490653c5ffb0d1477dcf2dda0d211c6623afcf6a",
+    "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+    "unrecovered_transport_failure_count": 0
+  },
+  "source_sha256": "d44923f5cbb2e74a2be1933af923f6e4a228d79b08e9597805c26b300834a875",
+  "version_mentions": [
+    375
+  ]
+}

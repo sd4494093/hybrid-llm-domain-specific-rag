@@ -1,0 +1,35 @@
+{
+  "counts": {
+    "bytes_hashed": 260505886169,
+    "case_invalid_rows": 0,
+    "case_rows_exported": 474340,
+    "document_events_exported": 21277,
+    "files_inventoried": 155386,
+    "reachable_commits_indexed": 1246,
+    "summaries_exported": 8676,
+    "symlinks_or_nonfiles_excluded": 39,
+    "versions_with_references": 1490,
+    "versions_without_references": 170
+  },
+  "limits": [
+    "Working-tree files plus reachable Git commit metadata, not every historical Git blob.",
+    "Version mentions are not proof of separate experiments or improvements.",
+    "Only allowlisted aggregate fields and case verdicts are copied; all other content is withheld.",
+    "Hash-only artifacts cannot be independently content-reviewed without private source access.",
+    "No inferred scores, chronology, acceptance decisions, or common cohort across versions."
+  ],
+  "schema_version": "public_evidence_inventory.v1",
+  "scope_roots": [
+    ".playwright",
+    ".ralph",
+    "tests/e2e",
+    "tmp",
+    "doc/dify_dev"
+  ],
+  "source_git_head": "267faa357a60b40d3507878c103104f3a39f0a57",
+  "source_tracked_worktree_clean": true,
+  "version_range": [
+    1,
+    1660
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "answer_model": "gpt-5.6-terra",
+  "answer_reasoning_effort": "high",
+  "e2e_failure_count": 578,
+  "e2e_pass_count": 1422,
+  "e2e_pass_rate": 0.711,
+  "failure_classes": {
+    "citation_wrong_source": 58,
+    "grounded_no_answer": 104,
+    "no_answer_incorrect": 3,
+    "semantic_incomplete": 10,
+    "semantic_incorrect": 21,
+    "semantic_judge_rejected": 382
+  },
+  "failure_cohort_buckets": {
+    "citation/source": 30,
+    "no-answer": 108,
+    "planner/partial": 411
+  },
+  "first_attempt_success_count": 1952,
+  "interpretation": "Semantic correctness includes correct refusals. Planner/partial is an owning-layer bucket, not the partial label. No usefulness or production-acceptance claim.",
+  "judge_model": "gpt-5.6-sol",
+  "judge_reasoning_effort": "high",
+  "provenance": {
+    "cohort_manifest_sha256": "06253659fbb217c5e35afb2c59d626faad904e3e99a8a9b0993eec82611afc0d",
+    "oracles_sha256": "e5fff8c3555200d7b2b9646de4e4cf81b57a83bd44dca694b07e27ccd84b3613",
+    "questions_sha256": "c25febafc4cbccf2d360837bbc3af0d3c2ceb528fc7bb0a8558d5a09e3941b93",
+    "run_provenance_sha256": "1c0bab60b775699b3bb9bdb14f1c55ea088c7d5e9d80d2ef5ec62b397468ca9a",
+    "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0"
+  },
+  "quality_gate": {
+    "checks": {
+      "expected_question_count": {
+        "actual": 2000,
+        "expected": 2000,
+        "pass": true
+      },
+      "semantic_correctness_rate": {
+        "actual": 0.7255,
+        "actual_numerator": 1451,
+        "min": 0.85,
+        "min_numerator": 1700,
+        "pass": false
+      }
+    },
+    "status": "FAIL"
+  },
+  "quality_metrics": {
+    "citation_support_correctness_rate": {
+      "denominator": 1600,
+      "numerator": 1437,
+      "rate": 0.898125
+    },
+    "contradiction_rate": {
+      "denominator": 2000,
+      "numerator": 130,
+      "rate": 0.065
+    },
+    "correct_refusal_rate": {
+      "denominator": 400,
+      "numerator": 396,
+      "rate": 0.99
+    },
+    "critical_semantic_correctness_rate": {
+      "denominator": 116,
+      "numerator": 112,
+      "rate": 0.9655172413793104
+    },
+    "critical_severe_error_count": 0,
+    "false_refusal_rate": {
+      "denominator": 1600,
+      "numerator": 105,
+      "rate": 0.065625
+    },
+    "grounded_rate": {
+      "denominator": 1600,
+      "numerator": 1316,
+      "rate": 0.8225
+    },
+    "retrieval_recall_at_10": {
+      "denominator": 1600,
+      "numerator": 1483,
+      "rate": 0.926875
+    },
+    "runtime_success_rate": {
+      "denominator": 2000,
+      "numerator": 2000,
+      "rate": 1.0
+    },
+    "semantic_correctness_rate": {
+      "denominator": 2000,
+      "numerator": 1451,
+      "rate": 0.7255
+    },
+    "unsupported_assertion_rate": {
+      "denominator": 2000,
+      "numerator": 136,
+      "rate": 0.068
+    }
+  },
+  "recomputed_labels": {
+    "correct": 1055,
+    "correct_refusal": 396,
+    "incorrect": 91,
+    "incorrect_refusal": 104,
+    "partial": 354
+  },
+  "recovered_after_retry_count": 48,
+  "scope": "local_dev_natural_user_v1660",
+  "semantic_failure_count": 549,
+  "semantic_judge_error_count": 0,
+  "semantic_judge_uncertain_count": 0,
+  "sources": {
+    "evaluation": {
+      "artifact_id": "cb3bbca7c4ab1aca5a7b2175d7237e3654b990ee5aad0ecad8e7749d852fd10d",
+      "source_sha256": "5455c674b63a2433a02cec3148958e517a85889b4eed5848e48684861690a56f"
+    },
+    "failure-cohort": {
+      "artifact_id": "c940efd7d9e59f7d451599e0f93b8b85865a71023aad71cb10d90a2b29cd50b3",
+      "source_sha256": "86ecda88b2f1ad74a379d9df6a852ea7b3c289c37b0c69fcbbe266b51e3f36b8"
+    },
+    "judge": {
+      "artifact_id": "fb6181986adf1cd0a097dfe4e9b3c98d4b3a2870905a11c3830b58b2a8e7ec96",
+      "source_sha256": "bc22b441332e16f71758b36d477291f72d47ed09f7e2928356042a8ab048befa"
+    },
+    "promotion": {
+      "artifact_id": "341849e0d231872bf45986941a2b042ed85799cbb38a0b7ba7979eac0b8fa047",
+      "source_sha256": "890ec0911cde91dd4641cb356786c63fc00efd540c6198436c2826bb740de140"
+    }
+  },
+  "total": 2000,
+  "unrecovered_transport_failure_count": 0,
+  "version": "v1660"
+}

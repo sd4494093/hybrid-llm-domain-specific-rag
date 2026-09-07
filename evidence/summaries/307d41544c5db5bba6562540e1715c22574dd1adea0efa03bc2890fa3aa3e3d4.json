@@ -1,0 +1,75 @@
+{
+  "artifact_id": "307d41544c5db5bba6562540e1715c22574dd1adea0efa03bc2890fa3aa3e3d4",
+  "projection": {
+    "dimension_rates": {
+      "answer_type": {
+        "grounded": {
+          "count": 5,
+          "pass_count": 4
+        }
+      },
+      "domain": {
+        "commercial_customer_marketing": {
+          "count": 1,
+          "pass_count": 0
+        },
+        "corporate_operations_policy_communications": {
+          "count": 2,
+          "pass_count": 2
+        },
+        "product_engineering": {
+          "count": 2,
+          "pass_count": 2
+        }
+      },
+      "language": {
+        "de": {
+          "count": 1,
+          "pass_count": 0
+        },
+        "en": {
+          "count": 3,
+          "pass_count": 3
+        },
+        "pt": {
+          "count": 1,
+          "pass_count": 1
+        }
+      }
+    },
+    "e2e_pass_count": 4,
+    "e2e_pass_rate": 0.8,
+    "failure_classes": {
+      "grounded_no_answer": 1
+    },
+    "first_attempt_success_count": 1,
+    "indeterminate_count": 0,
+    "integrity": {
+      "duplicate_case_id_count": 0,
+      "grounded_count": 5,
+      "negative_evidence_contract_count": 0,
+      "no_answer_count": 0,
+      "query_mode": "question_only",
+      "refusal_count": 0,
+      "row_count": 5,
+      "semantic_fact_count": 15,
+      "source_contract_count": 5,
+      "source_evidence_count": 15,
+      "status": "PASS",
+      "violation_count": 0
+    },
+    "machine_semantic_judge_required": true,
+    "machine_semantic_judgments_present": true,
+    "question_count": 5,
+    "recovered_after_retry_count": 4,
+    "result_count": 5,
+    "run_provenance_sha256": "0a0935117ef99d7fd78a5acae729c1e11c7c70655fe4dc0f92717651bc5d9da7",
+    "semantic_judge_model": "gpt-5.5",
+    "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+    "unrecovered_transport_failure_count": 0
+  },
+  "source_sha256": "afbc942294a26b1515a78c73f388d9feb1ef74cc012938c758c93e376eca2b9f",
+  "version_mentions": [
+    1348
+  ]
+}
