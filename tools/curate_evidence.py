@@ -127,7 +127,7 @@ def main():
          "unrecovered_transport_failure_count": ev["unrecovered_transport_failure_count"],
          "semantic_judge_error_count": ev["semantic_judge_error_count"], "semantic_judge_uncertain_count": ev["semantic_judge_uncertain_count"],
          "provenance": {k: ev[k] for k in ("questions_sha256", "oracles_sha256", "source_snapshot_id", "run_provenance_sha256", "cohort_manifest_sha256")},
-         "interpretation": "Semantic correctness includes correct refusals. Planner/partial is an owning-layer bucket, not the partial label. No usefulness or production-acceptance claim."})
+         "interpretation": "Strict semantic correctness includes correct refusals. Original automated labels and ownership buckets are preserved here. See paper-reporting.json for the paper definition: 411 planner/prefill recovery cases are partially correct, yielding 1862/2000 correct-or-partial usefulness. No production-acceptance claim."})
 
     # Add human-readable observed full-cohort summaries without selecting the maximum.
     lines = ["# Full-Cohort Evaluation Inventory", "", "All discovered 2,000-case evaluation summaries are retained, including intermediate and rejected results.", "",

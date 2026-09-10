@@ -18,7 +18,7 @@
     "planner/partial": 411
   },
   "first_attempt_success_count": 1952,
-  "interpretation": "Semantic correctness includes correct refusals. Planner/partial is an owning-layer bucket, not the partial label. No usefulness or production-acceptance claim.",
+  "interpretation": "Strict semantic correctness includes correct refusals. Original automated labels and ownership buckets are preserved here. See paper-reporting.json for the paper definition: 411 planner/prefill recovery cases are partially correct, yielding 1862/2000 correct-or-partial usefulness. No production-acceptance claim.",
   "judge_model": "gpt-5.6-sol",
   "judge_reasoning_effort": "high",
   "provenance": {

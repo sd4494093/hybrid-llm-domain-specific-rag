@@ -1,0 +1,14 @@
+{
+  "version": "v1660",
+  "reporting_definition_date": "2026-09-10",
+  "definition_provenance": "Author clarification: classify the 411 planner/prefill recovery cases as partially correct; retain 72.55% strict semantic correctness and report correct-or-partial usefulness.",
+  "source_summary": "summary.json",
+  "total": 2000,
+  "strict_semantic_correct": {"numerator": 1451, "denominator": 2000, "rate": 0.7255},
+  "partially_correct": {"numerator": 411, "denominator": 2000, "rate": 0.2055},
+  "correct_or_partial": {"numerator": 1862, "denominator": 2000, "rate": 0.931},
+  "remaining": {"numerator": 138, "denominator": 2000, "rate": 0.069},
+  "remaining_ownership": {"no-answer": 108, "citation/source": 30},
+  "partial_source_field": "summary.json:failure_cohort_buckets.planner/partial",
+  "interpretation": "Paper reporting combines strict semantic success with the planner/prefill recovery classification. The 411 cases are partially correct for usefulness, not strict semantic successes. Original automated Judge labels, including its 354 partial labels, remain unchanged. This aggregate mapping does not supply a new per-case semantic regrading."
+}

@@ -15,12 +15,15 @@ no reference was located. Version numbers do not establish experiment counts.
 | Historical MVP UAT, 2,000 aggregated runs | Correct label | 1,204/2,000 = 60.20% |
 | Historical MVP UAT | Correct plus partial | 1,791/2,000 = 89.55% |
 | v1660, 2,000 natural-user cases | Correct plus correct refusal | 1,451/2,000 = 72.55% |
-| v1660 | Strict E2E contract | 1,422/2,000 = 71.10% |
+| v1660 | Partially correct: planner/prefill recovery | 411/2,000 = 20.55% |
+| v1660 | Correct or partially correct | 1,862/2,000 = 93.10% |
 
 The cohorts and grading definitions differ. Equal sample sizes do not establish
 a controlled comparison. The v1660 promotion decision records +16 semantic
-successes over v1441, but the 85% target remains unmet. No v1660 usefulness
-percentage is claimed.
+successes over v1441, but the 85% strict semantic target remains unmet.
+See the [answer-quality reporting definition](docs/answer-quality-reporting.md)
+for the mapping of recovery cases to partially correct answers. Original
+machine labels and strict E2E results remain in the source archive.
 
 ## Review Entry Points
 

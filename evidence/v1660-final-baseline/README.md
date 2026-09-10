@@ -5,7 +5,15 @@ Evidence finalized September 7, 2026. The full cohort contains 2,000 cases:
 The answer model is recorded as `gpt-5.6-terra/high`; the separate Judge uses
 `gpt-5.6-sol/high`. Model names are experiment configuration identifiers.
 
-## Final Labels
+## Paper Results
+
+The paper reports 1,451 strictly semantically correct cases (72.55%), 411
+partially correct planner/prefill recovery cases (20.55%), and 138 remaining
+cases (6.90%). Correct-or-partial usefulness is 1,862/2,000 = 93.10%.
+See [paper reporting](paper-reporting.json) and the
+[definition and source mapping](../../docs/answer-quality-reporting.md).
+
+## Original Automated Judge Labels
 
 | Judge label | Count |
 |---|---:|
@@ -25,8 +33,8 @@ The semantic target is 1,700/2,000 = 85%, leaving 249 cases to recover.
 
 Semantic failures total 549. The independent owning-layer cohort partitions
 them into planner/partial 411, no-answer 108, and citation/source 30.
-The 411 bucket is not the Judge's partial count (354) and does not establish
-MVP usefulness.
+The 411 bucket is classified as partially correct for the paper's usefulness
+measure. It is distinct from the original Judge's partial count (354).
 
 Strict E2E failures total 578: citation_wrong_source 58, grounded_no_answer 104,
 semantic_judge_rejected 382, no_answer_incorrect 3, semantic_incomplete 10,
@@ -55,9 +63,10 @@ next local iteration baseline; it does not establish production readiness,
 the 85% target, per-case monotonicity, or statistical significance.
 June MVP UAT uses a different question and grading contract.
 
-The earlier draft's 93.1% usefulness, 411 partial labels, zero refusal,
-138 total failures, 310/101 partial split, and invented early milestone scores
-are withdrawn. Corpus and filtering statistics from earlier ingestion
+The paper's 93.1% usefulness includes 411 partially correct recovery cases.
+The remaining 138 partition into no-answer 108 and citation/source 30.
+Zero refusal, the unsupported 310/101 split, and invented early milestones
+are not claimed. Corpus and filtering statistics from earlier ingestion
 snapshots are not asserted as v1660 runtime measurements.
 
 ## Files

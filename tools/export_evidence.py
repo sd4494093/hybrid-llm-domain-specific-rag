@@ -278,7 +278,8 @@ hashes bind projections to the private source. Public file hashes are listed in
   172 incorrect, 37 refusal. Usefulness is 1,791/2,000 = 89.55%.
 - [v1660](v1660-final-baseline/README.md): natural-user 2,000-case cohort,
   semantic correctness 1,451/2,000 = 72.55%, including 396 correct refusals;
-  strict E2E 1,422/2,000 = 71.10%. The 85% semantic target is not reached.
+  411 partially correct recovery cases yield 1,862/2,000 = 93.1% usefulness.
+  The 85% strict semantic target is not reached.
 - v1441: the v1660 promotion decision identifies 1,435/2,000 as its comparator.
   The accepted change is +16 cases (+0.80 percentage points). This does not
   imply every case improved or statistical significance.
@@ -291,9 +292,12 @@ hashes bind projections to the private source. Public file hashes are listed in
 ## Corrections to the Draft History
 
 The earlier draft's v100/55%, v500/65%, v1000/70% milestones had no cited
-evidence and are withdrawn. The 411 planner/partial cases are an owning-layer
-failure bucket, not a separately validated usefulness label. The claimed 93.1%
-usefulness, zero refusal, and 138 total failures are withdrawn. Local dev
+evidence and are withdrawn. In the paper reporting definition, the 411
+planner/prefill recovery cases are partially correct, yielding 93.1%
+correct-or-partial usefulness and 138 remaining cases. This grouping preserves
+original automated Judge labels separately; see
+[reporting definition](../docs/answer-quality-reporting.md). Zero refusal and
+unsupported subcategory splits are not claimed. Local dev
 acceptance as an iteration baseline is not production acceptance. No June to
 September causal quality-gate improvement is inferred from unequal protocols.
 

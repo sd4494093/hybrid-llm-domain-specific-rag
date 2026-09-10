@@ -24,8 +24,10 @@ independently verified statement of backend model provenance.
 
 Semantic correctness is `(correct + correct_refusal) / 2000`. Partial labels
 fail this contract. Strict E2E success additionally requires the evaluator's
-source/citation and no-answer/refusal checks. Report these two outcomes
-separately. Retrieval Recall@10 and citation support use 1,600 grounded cases
+source/citation and no-answer/refusal checks. Preserve both original results
+in the source archive. The manuscript reports strict semantic correctness and
+correct-or-partial usefulness, counting the 411 planner/prefill recovery cases
+as partially correct under the [paper definition](../../docs/answer-quality-reporting.md). Retrieval Recall@10 and citation support use 1,600 grounded cases
 as denominator; correct refusal uses the 400 refusal/no-answer cases.
 
 Retries preserve originals, attempt history and identity-bound replacements.
