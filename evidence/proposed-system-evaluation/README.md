@@ -67,7 +67,7 @@ The paper's 93.1% usefulness includes 411 partially correct recovery cases.
 The remaining 138 partition into no-answer 108 and citation/source 30.
 Zero refusal, the unsupported 310/101 split, and invented early milestones
 are not claimed. Corpus and filtering statistics from earlier ingestion
-snapshots are not asserted as v1660 runtime measurements.
+snapshots are not asserted as proposed system runtime measurements.
 
 ## Files
 
