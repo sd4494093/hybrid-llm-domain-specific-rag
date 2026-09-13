@@ -1,0 +1,87 @@
+{
+  "case_records": [
+    {
+      "artifact_id": "508837401e92dbb25bb0aab86761e10148aa02473a93d663d79e7dae54fe085d",
+      "case_key": "be7be7a1831ba0ed0a9395fb83361f93f49eefba05d2fab963d481e4327a5c4f",
+      "line": 1,
+      "projection": {
+        "answer_sha256": "73e2623bde6a80ffe662d0952ad969e2cc7959cc9d91f31c351489958befd374",
+        "citation_support": "supported",
+        "contradiction": false,
+        "evaluator_status": "ok",
+        "groundedness": "grounded",
+        "label": "correct",
+        "model": "gpt-5.5",
+        "oracle_facts_sha256": "9f3219261dc4cd03dcd73d9da59f59bd2e26aa6cfd50fd7a79ef2e36110e5685",
+        "question_sha256": "60ad9cb6af8bfd62602df64db6fad2702268f16a7b2ddc6f2e89f06324409d3e",
+        "reference_answer_sha256": "981ecce39f58b721f5ad258fe17d9eece41d2ab356b2b04ca69e1e910a600791",
+        "runtime_source_evidence_count": 6,
+        "runtime_source_evidence_sha256": "2cb84c6c761c8f0a957c1c075b5dbca9ec95868a549d2d2d29d1977c296bff50",
+        "score_0_5": 5,
+        "source_evidence_sha256": "950a3d7c020cc911a85ba9280d5f63f31130c0f70a40228b7f107318954b17a3"
+      }
+    },
+    {
+      "artifact_id": "508837401e92dbb25bb0aab86761e10148aa02473a93d663d79e7dae54fe085d",
+      "case_key": "66831df4494ccd590cb697ecb778973c871bf4a6ad5b8520f19d176c1923bb17",
+      "line": 2,
+      "projection": {
+        "answer_sha256": "5199adcb2102f461b357f87ba85eaa0811d25ec838cb4da61327e853c6e3db3c",
+        "citation_support": "supported",
+        "contradiction": false,
+        "evaluator_status": "ok",
+        "groundedness": "grounded",
+        "label": "partial",
+        "model": "gpt-5.5",
+        "oracle_facts_sha256": "572260cd082489abf1c489fe0b74a94c98d09f965da3093544b7438a7d89a3c9",
+        "question_sha256": "a970c0b93ccef55f2e310631a0dac06b6ddb4a6dc0384be535c8ad9bbcbc0fd0",
+        "reference_answer_sha256": "4cb8d5ceaff7599e25a3318ef4a1d2d71e43ad7c4fd47cf95c49e5e8b451078e",
+        "runtime_source_evidence_count": 2,
+        "runtime_source_evidence_sha256": "8c95bb4058e8679781e895be0d166f035ad62ef90d7bbb30ae2ad5f86eb2ba7f",
+        "score_0_5": 4,
+        "source_evidence_sha256": "b7ba0f421f6ae3ea1eb6c1a5f82172e4f58c3ef7281a6ae614857b2ebae456c5"
+      }
+    },
+    {
+      "artifact_id": "508837401e92dbb25bb0aab86761e10148aa02473a93d663d79e7dae54fe085d",
+      "case_key": "b87e128b00617c11017e7003e3eb216327dbe47e02822562bec8d6dea6b8b6bd",
+      "line": 3,
+      "projection": {
+        "answer_sha256": "7cff85a963fa1906d90351897a2a34d68e756758de50302eb46f93bef30a23b6",
+        "citation_support": "supported",
+        "contradiction": false,
+        "evaluator_status": "ok",
+        "groundedness": "grounded",
+        "label": "correct",
+        "model": "gpt-5.5",
+        "oracle_facts_sha256": "36bd6551b16b480f6ffa698b1ab12a4576bd94639582fe3c12fbd60d696e37bb",
+        "question_sha256": "087339cb7464b7f4978dbcb4dad365abdf6673288d0c33ea38cb353e607d48db",
+        "reference_answer_sha256": "abf35b26b2bdfefc8a28147287f0e2c10453dbcc09f38836a9725a9e7b027872",
+        "runtime_source_evidence_count": 9,
+        "runtime_source_evidence_sha256": "c9cffdfb28e7b22bb365acc604265e9bf924b42923edff371e041ef2773afa4d",
+        "score_0_5": 5,
+        "source_evidence_sha256": "12b6cdb43974e2a3185ef03de8d11aed19143895b06c5e3103121a2c6157ba32"
+      }
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "508837401e92dbb25bb0aab86761e10148aa02473a93d663d79e7dae54fe085d",
+    "bytes": 4177,
+    "disposition": "case_projection",
+    "exported_rows": 3,
+    "invalid_rows": 0,
+    "source_root": "tests/e2e",
+    "source_sha256": "108d24b1725d62c3c5ee13de7ceb945857130adb427cee1c698350791d3db46a",
+    "suffix": ".jsonl",
+    "version_mentions": [
+      1039,
+      1042,
+      1043
+    ]
+  },
+  "source": {
+    "artifact_id": "508837401e92dbb25bb0aab86761e10148aa02473a93d663d79e7dae54fe085d",
+    "source_sha256": "108d24b1725d62c3c5ee13de7ceb945857130adb427cee1c698350791d3db46a"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}

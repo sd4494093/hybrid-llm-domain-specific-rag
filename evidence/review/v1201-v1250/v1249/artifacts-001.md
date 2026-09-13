@@ -1,0 +1,16 @@
+# v1249: Artifacts 1 to 8
+
+[Version overview](README.md)
+
+JSON probe cases are inside the linked numerical data; the last column counts archived JSONL records only.
+
+| Source artifact | Public content | Supplement disposition | Archived JSONL rows |
+|---|---|---|---:|
+| [1cb056dd399c](../../artifacts/1c/1cb056dd399cfc5d987911d78766736062fc7af11f0721577e06eed8d9ff820f/README.md) | document_events | not_selected_for_supplement | 0 |
+| [3157a554553b](../../artifacts/31/3157a554553b7763d53500409f5e2bc89d441b747ca52011369bbffce501053c/README.md) | summary, numeric_content | numeric_content | 0 |
+| [169262b3314c](../../artifacts/16/169262b3314c7c2a2a7d0f7480589607cef959c7a8c816183b25002a2d91b51b/README.md) | summary, numeric_content | numeric_content | 0 |
+| [651afba36262](../../artifacts/65/651afba36262898f9fec93c7274c9c68dd0c39ed9228201f80ca9535a033277f/README.md) | case_records | not_selected_for_supplement | 4 |
+| [4fddbee7640f](../../artifacts/4f/4fddbee7640f9b334073e1adee8c081a5bce1bd531e4a100926e98d809f8d878/README.md) | case_records | not_selected_for_supplement | 4 |
+| [3d2ec60cf4d0](../../artifacts/3d/3d2ec60cf4d071c484748bb48f4630a796749dbbe1a2f0c56fde373f0bfbc7c3/README.md) | case_records | not_selected_for_supplement | 4 |
+| [486d56cb77ea](../../artifacts/48/486d56cb77eabad8093eecffbeedc91e5ed5e921770a44fe97a4c27c97a8d0e6/README.md) | case_records | not_selected_for_supplement | 3 |
+| [331e0c5c148f](../../artifacts/33/331e0c5c148f0270b695fa98f43b5186a24bf20cf8e55145e28eae146f1caf56/README.md) | case_records | not_selected_for_supplement | 4 |

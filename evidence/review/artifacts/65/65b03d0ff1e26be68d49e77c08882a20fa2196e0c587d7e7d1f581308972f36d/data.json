@@ -1,0 +1,333 @@
+{
+  "archived_summary": {
+    "artifact_id": "65b03d0ff1e26be68d49e77c08882a20fa2196e0c587d7e7d1f581308972f36d",
+    "projection": {
+      "cohort_manifest_sha256": "02dddfb6304a9fe869b9a3054dfeb6054808d0fe435c85be5fa96f1c3ba20a40",
+      "dimension_rates": {
+        "answer_type": {
+          "grounded": {
+            "count": 5,
+            "pass_count": 0
+          }
+        },
+        "domain": {
+          "it_security_digital_workplace": {
+            "count": 1,
+            "pass_count": 0
+          },
+          "people_learning": {
+            "count": 1,
+            "pass_count": 0
+          },
+          "safety_field_operations": {
+            "count": 3,
+            "pass_count": 0
+          }
+        },
+        "language": {
+          "de": {
+            "count": 1,
+            "pass_count": 0
+          },
+          "en": {
+            "count": 2,
+            "pass_count": 0
+          },
+          "pt": {
+            "count": 1,
+            "pass_count": 0
+          },
+          "ro": {
+            "count": 1,
+            "pass_count": 0
+          }
+        }
+      },
+      "e2e_pass_count": 0,
+      "e2e_pass_rate": 0.0,
+      "failure_classes": {
+        "citation_wrong_source": 1,
+        "runtime_error_or_timeout": 2,
+        "semantic_judge_rejected": 2
+      },
+      "first_attempt_success_count": 1,
+      "indeterminate_count": 0,
+      "integrity": {
+        "duplicate_case_id_count": 0,
+        "grounded_count": 5,
+        "negative_evidence_contract_count": 0,
+        "no_answer_count": 0,
+        "query_mode": "question_only",
+        "refusal_count": 0,
+        "row_count": 5,
+        "semantic_fact_count": 16,
+        "source_contract_count": 5,
+        "source_evidence_count": 14,
+        "status": "PASS",
+        "violation_count": 0
+      },
+      "judgments_sha256": "442cbd271ac5c7331add301dffd528f83d323b8fc41781b09faa786b8cd93f3a",
+      "machine_semantic_judge_required": true,
+      "machine_semantic_judgments_present": true,
+      "oracles_sha256": "d15fae99ef70a04cc5b5f6aae05c7846a4349306d396ff1eb46e192ecea734b4",
+      "quality_gate": {
+        "checks": {
+          "expected_question_count": {
+            "actual": 5,
+            "expected": 2000,
+            "pass": false
+          },
+          "semantic_correctness_rate": {
+            "actual": 0.0,
+            "actual_numerator": 0,
+            "min": 0.85,
+            "min_numerator": 1700,
+            "pass": false
+          }
+        },
+        "status": "FAIL"
+      },
+      "quality_metrics": {
+        "citation_support_correctness_rate": {
+          "denominator": 5,
+          "numerator": 2,
+          "rate": 0.4
+        },
+        "contradiction_rate": {
+          "denominator": 5,
+          "numerator": 0,
+          "rate": 0.0
+        },
+        "correct_refusal_rate": {
+          "denominator": 0,
+          "numerator": 0
+        },
+        "critical_semantic_correctness_rate": {
+          "denominator": 0,
+          "numerator": 0
+        },
+        "critical_severe_error_count": 0,
+        "false_refusal_rate": {
+          "denominator": 5,
+          "numerator": 0,
+          "rate": 0.0
+        },
+        "grounded_rate": {
+          "denominator": 5,
+          "numerator": 2,
+          "rate": 0.4
+        },
+        "retrieval_recall_at_10": {
+          "denominator": 5,
+          "numerator": 2,
+          "rate": 0.4
+        },
+        "runtime_success_rate": {
+          "denominator": 5,
+          "numerator": 3,
+          "rate": 0.6
+        },
+        "semantic_correctness_rate": {
+          "denominator": 5,
+          "numerator": 0,
+          "rate": 0.0
+        },
+        "unsupported_assertion_rate": {
+          "denominator": 5,
+          "numerator": 3,
+          "rate": 0.6
+        }
+      },
+      "question_count": 5,
+      "questions_sha256": "0785f436624c159d56abdc6067666cb4b99d8880ca9659c4e628f2d9bf4d73d6",
+      "recovered_after_retry_count": 2,
+      "result_count": 5,
+      "run_provenance_sha256": "e90fa8bf505db42cd3154d0c51d603e2ffd8ed03fd21fbe0538958d9c617d6f2",
+      "semantic_judge_model": "gpt-5.6-sol",
+      "semantic_judge_reasoning_effort": "high",
+      "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+      "status": "FAIL",
+      "unrecovered_transport_failure_count": 2
+    },
+    "source_sha256": "4653bbe5991665fd94ead38f376a579c73efa94e33548671e2e4ebd264b63169",
+    "version_mentions": [
+      1488
+    ]
+  },
+  "measurements": {
+    "cohort_manifest_sha256": "02dddfb6304a9fe869b9a3054dfeb6054808d0fe435c85be5fa96f1c3ba20a40",
+    "dimension_rates": {
+      "answer_type": {
+        "grounded": {
+          "count": 5,
+          "pass_count": 0,
+          "pass_rate": 0.0
+        }
+      },
+      "domain": {
+        "it_security_digital_workplace": {
+          "count": 1,
+          "pass_count": 0,
+          "pass_rate": 0.0
+        },
+        "people_learning": {
+          "count": 1,
+          "pass_count": 0,
+          "pass_rate": 0.0
+        },
+        "safety_field_operations": {
+          "count": 3,
+          "pass_count": 0,
+          "pass_rate": 0.0
+        }
+      },
+      "language": {
+        "de": {
+          "count": 1,
+          "pass_count": 0,
+          "pass_rate": 0.0
+        },
+        "en": {
+          "count": 2,
+          "pass_count": 0,
+          "pass_rate": 0.0
+        },
+        "pt": {
+          "count": 1,
+          "pass_count": 0,
+          "pass_rate": 0.0
+        },
+        "ro": {
+          "count": 1,
+          "pass_count": 0,
+          "pass_rate": 0.0
+        }
+      }
+    },
+    "e2e_pass_count": 0,
+    "e2e_pass_rate": 0.0,
+    "failure_classes": {
+      "citation_wrong_source": 1,
+      "runtime_error_or_timeout": 2,
+      "semantic_judge_rejected": 2
+    },
+    "first_attempt_success_count": 1,
+    "indeterminate_count": 0,
+    "integrity": {
+      "duplicate_case_id_count": 0,
+      "grounded_count": 5,
+      "negative_evidence_contract_count": 0,
+      "no_answer_count": 0,
+      "query_mode": "question_only",
+      "refusal_count": 0,
+      "row_count": 5,
+      "semantic_fact_count": 16,
+      "source_contract_count": 5,
+      "source_evidence_count": 14,
+      "status": "PASS",
+      "violation_count": 0
+    },
+    "judgments_sha256": "442cbd271ac5c7331add301dffd528f83d323b8fc41781b09faa786b8cd93f3a",
+    "machine_semantic_judge_required": true,
+    "machine_semantic_judgments_present": true,
+    "oracles_sha256": "d15fae99ef70a04cc5b5f6aae05c7846a4349306d396ff1eb46e192ecea734b4",
+    "quality_gate": {
+      "checks": {
+        "expected_question_count": {
+          "actual": 5,
+          "expected": 2000,
+          "pass": false
+        },
+        "semantic_correctness_rate": {
+          "actual": 0.0,
+          "actual_numerator": 0,
+          "min": 0.85,
+          "min_numerator": 1700,
+          "pass": false
+        }
+      },
+      "status": "FAIL"
+    },
+    "quality_metrics": {
+      "citation_support_correctness_rate": {
+        "denominator": 5,
+        "numerator": 2,
+        "rate": 0.4
+      },
+      "contradiction_rate": {
+        "denominator": 5,
+        "numerator": 0,
+        "rate": 0.0
+      },
+      "correct_refusal_rate": {
+        "denominator": 0,
+        "numerator": 0,
+        "rate": null
+      },
+      "critical_semantic_correctness_rate": {
+        "denominator": 0,
+        "numerator": 0,
+        "rate": null
+      },
+      "critical_severe_error_count": 0,
+      "false_refusal_rate": {
+        "denominator": 5,
+        "numerator": 0,
+        "rate": 0.0
+      },
+      "grounded_rate": {
+        "denominator": 5,
+        "numerator": 2,
+        "rate": 0.4
+      },
+      "retrieval_recall_at_10": {
+        "denominator": 5,
+        "numerator": 2,
+        "rate": 0.4
+      },
+      "runtime_success_rate": {
+        "denominator": 5,
+        "numerator": 3,
+        "rate": 0.6
+      },
+      "semantic_correctness_rate": {
+        "denominator": 5,
+        "numerator": 0,
+        "rate": 0.0
+      },
+      "unsupported_assertion_rate": {
+        "denominator": 5,
+        "numerator": 3,
+        "rate": 0.6
+      }
+    },
+    "question_count": 5,
+    "questions_sha256": "0785f436624c159d56abdc6067666cb4b99d8880ca9659c4e628f2d9bf4d73d6",
+    "recovered_after_retry_count": 2,
+    "result_count": 5,
+    "run_provenance_sha256": "e90fa8bf505db42cd3154d0c51d603e2ffd8ed03fd21fbe0538958d9c617d6f2",
+    "secret_values_printed": false,
+    "semantic_judge_model": "gpt-5.6-sol",
+    "semantic_judge_reasoning_effort": "high",
+    "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+    "status": "FAIL",
+    "unrecovered_transport_failure_count": 2,
+    "vector_values_printed": false
+  },
+  "original_inventory": {
+    "artifact_id": "65b03d0ff1e26be68d49e77c08882a20fa2196e0c587d7e7d1f581308972f36d",
+    "bytes": 5191,
+    "disposition": "structured_summary_projection",
+    "source_root": ".playwright",
+    "source_sha256": "4653bbe5991665fd94ead38f376a579c73efa94e33548671e2e4ebd264b63169",
+    "suffix": ".json",
+    "version_mentions": [
+      1488
+    ]
+  },
+  "source": {
+    "artifact_id": "65b03d0ff1e26be68d49e77c08882a20fa2196e0c587d7e7d1f581308972f36d",
+    "source_sha256": "4653bbe5991665fd94ead38f376a579c73efa94e33548671e2e4ebd264b63169"
+  },
+  "supplement_disposition": "numeric_content"
+}

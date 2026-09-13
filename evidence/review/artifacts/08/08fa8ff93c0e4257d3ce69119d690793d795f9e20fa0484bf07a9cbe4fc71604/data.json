@@ -1,0 +1,50 @@
+{
+  "measurements": [
+    {
+      "answer_chars": 2353,
+      "chat_attempts": 1,
+      "cohort_manifest_sha256": "ee643f4129a5d7158b6215e898b3d765b8f4ab949e41220bbe24a74b610048db",
+      "error": null,
+      "http_code": 200,
+      "latency_ms": 241870,
+      "model_config_sha256": "1cd713b66af0b54395b516d4a8868034cde1fe7fe9748ed19e82d8a61856cc28",
+      "question_sha256": "c5074b7160aa69a7be0634f8fcb6ee682a3d51ddd9aa2e7722d40ad405b60c44",
+      "retried_runtime_error": false,
+      "retriever_resource_count": 10,
+      "run_provenance_sha256": "9e89f21f256dae9224b3052c6bd5b2c9accc0c692c58dc014f2537934bcd207b",
+      "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+      "status": "ok"
+    },
+    {
+      "answer_chars": 1219,
+      "chat_attempts": 2,
+      "cohort_manifest_sha256": "ee643f4129a5d7158b6215e898b3d765b8f4ab949e41220bbe24a74b610048db",
+      "error": null,
+      "http_code": 200,
+      "latency_ms": 395287,
+      "model_config_sha256": "1cd713b66af0b54395b516d4a8868034cde1fe7fe9748ed19e82d8a61856cc28",
+      "question_sha256": "65473a62ef8bddb0f17143d99943008dd0999329765c704038e3605320ee839f",
+      "retried_runtime_error": true,
+      "retriever_resource_count": 10,
+      "run_provenance_sha256": "9e89f21f256dae9224b3052c6bd5b2c9accc0c692c58dc014f2537934bcd207b",
+      "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+      "status": "ok"
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "08fa8ff93c0e4257d3ce69119d690793d795f9e20fa0484bf07a9cbe4fc71604",
+    "bytes": 491882,
+    "disposition": "hash_only_private_content",
+    "source_root": ".playwright",
+    "source_sha256": "450ce8e8cc601abdf5eeb539071db391a8c87277d6f43e55d85ef440a7abe8ae",
+    "suffix": ".json",
+    "version_mentions": [
+      1507
+    ]
+  },
+  "source": {
+    "artifact_id": "08fa8ff93c0e4257d3ce69119d690793d795f9e20fa0484bf07a9cbe4fc71604",
+    "source_sha256": "450ce8e8cc601abdf5eeb539071db391a8c87277d6f43e55d85ef440a7abe8ae"
+  },
+  "supplement_disposition": "numeric_content"
+}

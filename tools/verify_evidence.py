@@ -113,6 +113,8 @@ def main():
             target = (path.parent / link.split("#")[0]).resolve()
             fail_if(not target.exists(), f"Broken link: {path.relative_to(root)} -> {link}")
     subprocess.run([sys.executable, str(root / "framework/evaluation/recompute.py")], check=True)
+    if (out / "review").exists():
+        subprocess.run([sys.executable, str(root / "tools/verify_review_evidence.py")], check=True)
     report = {"status": "PASS", "scope": "public_projection_integrity_not_private_content_correctness",
               "inventory_files": len(inventory), "summaries": len(summaries), "case_rows": sum(case_count.values()),
               "document_events": len(event_ids), "versions_checked": 1660, "versions_with_references": located,

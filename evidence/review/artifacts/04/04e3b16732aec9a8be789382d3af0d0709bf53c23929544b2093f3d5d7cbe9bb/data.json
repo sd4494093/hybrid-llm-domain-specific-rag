@@ -1,0 +1,61 @@
+{
+  "archived_summary": {
+    "artifact_id": "04e3b16732aec9a8be789382d3af0d0709bf53c23929544b2093f3d5d7cbe9bb",
+    "projection": {
+      "by_label": {
+        "correct": 10,
+        "correct_refusal": 4,
+        "incorrect": 1,
+        "incorrect_refusal": 2,
+        "partial": 2
+      },
+      "cohort_manifest_sha256": "ec16735c9b0ce135ef9ba475345c4cebe148d3ac8aa0d31ed9ac1d6f493447c0",
+      "correct": 14,
+      "error": 0,
+      "total": 19,
+      "uncertain": 0
+    },
+    "source_sha256": "28fff65f325c17ba37d8402c12db8177c574c1845a540c295376388fdbf8bc08",
+    "version_mentions": [
+      1053,
+      1054
+    ]
+  },
+  "measurements": {
+    "by_label": {
+      "correct": 10,
+      "correct_refusal": 4,
+      "incorrect": 1,
+      "incorrect_refusal": 2,
+      "partial": 2
+    },
+    "cohort_manifest_sha256": "ec16735c9b0ce135ef9ba475345c4cebe148d3ac8aa0d31ed9ac1d6f493447c0",
+    "correct": 14,
+    "error": 0,
+    "evaluated_count": 19,
+    "resumed_count": 0,
+    "retried_case_count": 0,
+    "runtime_source_evidence_case_count": 15,
+    "runtime_source_evidence_entry_count": 92,
+    "secret_values_printed": false,
+    "total": 19,
+    "uncertain": 0
+  },
+  "original_inventory": {
+    "artifact_id": "04e3b16732aec9a8be789382d3af0d0709bf53c23929544b2093f3d5d7cbe9bb",
+    "bytes": 1002,
+    "disposition": "structured_summary_projection",
+    "source_root": "tests/e2e",
+    "source_sha256": "28fff65f325c17ba37d8402c12db8177c574c1845a540c295376388fdbf8bc08",
+    "suffix": ".json",
+    "version_mentions": [
+      1053,
+      1054
+    ]
+  },
+  "source": {
+    "artifact_id": "04e3b16732aec9a8be789382d3af0d0709bf53c23929544b2093f3d5d7cbe9bb",
+    "source_sha256": "28fff65f325c17ba37d8402c12db8177c574c1845a540c295376388fdbf8bc08"
+  },
+  "supplement_disposition": "numeric_content"
+}

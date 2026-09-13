@@ -1,0 +1,72 @@
+{
+  "archived_summary": {
+    "artifact_id": "7d45ff8cffd2504fa8703a72bb0604627a1121e35d4a9d62028c7abf1c1750de",
+    "projection": {
+      "dimension_rates": {
+        "answer_type": {
+          "grounded": {
+            "count": 1,
+            "pass_count": 0
+          }
+        },
+        "domain": {
+          "product_engineering": {
+            "count": 1,
+            "pass_count": 0
+          }
+        },
+        "language": {
+          "en": {
+            "count": 1,
+            "pass_count": 0
+          }
+        }
+      },
+      "e2e_pass_count": 0,
+      "e2e_pass_rate": 0.0,
+      "first_attempt_success_count": 0,
+      "indeterminate_count": 1,
+      "integrity": {
+        "duplicate_case_id_count": 0,
+        "grounded_count": 1,
+        "negative_evidence_contract_count": 0,
+        "no_answer_count": 0,
+        "query_mode": "question_only",
+        "refusal_count": 0,
+        "row_count": 1,
+        "semantic_fact_count": 3,
+        "source_contract_count": 1,
+        "source_evidence_count": 3,
+        "status": "PASS",
+        "violation_count": 0
+      },
+      "machine_semantic_judge_required": true,
+      "machine_semantic_judgments_present": false,
+      "question_count": 1,
+      "recovered_after_retry_count": 0,
+      "result_count": 1,
+      "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+      "unrecovered_transport_failure_count": 0
+    },
+    "source_sha256": "4c951e0f4796ced19581cfc6c2b6fe57d05340854f75f110933f1d847365bf66",
+    "version_mentions": [
+      773
+    ]
+  },
+  "original_inventory": {
+    "artifact_id": "7d45ff8cffd2504fa8703a72bb0604627a1121e35d4a9d62028c7abf1c1750de",
+    "bytes": 2194,
+    "disposition": "structured_summary_projection",
+    "source_root": "tests/e2e",
+    "source_sha256": "4c951e0f4796ced19581cfc6c2b6fe57d05340854f75f110933f1d847365bf66",
+    "suffix": ".json",
+    "version_mentions": [
+      773
+    ]
+  },
+  "source": {
+    "artifact_id": "7d45ff8cffd2504fa8703a72bb0604627a1121e35d4a9d62028c7abf1c1750de",
+    "source_sha256": "4c951e0f4796ced19581cfc6c2b6fe57d05340854f75f110933f1d847365bf66"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}

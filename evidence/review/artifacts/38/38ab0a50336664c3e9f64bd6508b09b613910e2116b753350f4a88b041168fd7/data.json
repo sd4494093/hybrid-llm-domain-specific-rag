@@ -1,0 +1,65 @@
+{
+  "archived_summary": {
+    "artifact_id": "38ab0a50336664c3e9f64bd6508b09b613910e2116b753350f4a88b041168fd7",
+    "projection": {
+      "by_label": {
+        "correct": 1054,
+        "correct_refusal": 396,
+        "incorrect": 91,
+        "incorrect_refusal": 104,
+        "partial": 354,
+        "uncertain": 1
+      },
+      "cohort_manifest_sha256": "06253659fbb217c5e35afb2c59d626faad904e3e99a8a9b0993eec82611afc0d",
+      "correct": 1450,
+      "error": 0,
+      "model": "gpt-5.6-sol",
+      "reasoning_effort": "high",
+      "total": 2000,
+      "uncertain": 1
+    },
+    "source_sha256": "64c55d24c27fa13926ad053194154a39e784ea16b7b3b333acc19df27ce527b4",
+    "version_mentions": [
+      1660
+    ]
+  },
+  "measurements": {
+    "by_label": {
+      "correct": 1054,
+      "correct_refusal": 396,
+      "incorrect": 91,
+      "incorrect_refusal": 104,
+      "partial": 354,
+      "uncertain": 1
+    },
+    "cohort_manifest_sha256": "06253659fbb217c5e35afb2c59d626faad904e3e99a8a9b0993eec82611afc0d",
+    "correct": 1450,
+    "error": 0,
+    "evaluated_count": 7,
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "resumed_count": 1993,
+    "retried_case_count": 119,
+    "runtime_source_evidence_case_count": 1510,
+    "runtime_source_evidence_entry_count": 9455,
+    "secret_values_printed": false,
+    "total": 2000,
+    "uncertain": 1
+  },
+  "original_inventory": {
+    "artifact_id": "38ab0a50336664c3e9f64bd6508b09b613910e2116b753350f4a88b041168fd7",
+    "bytes": 1085,
+    "disposition": "structured_summary_projection",
+    "source_root": ".playwright",
+    "source_sha256": "64c55d24c27fa13926ad053194154a39e784ea16b7b3b333acc19df27ce527b4",
+    "suffix": ".json",
+    "version_mentions": [
+      1660
+    ]
+  },
+  "source": {
+    "artifact_id": "38ab0a50336664c3e9f64bd6508b09b613910e2116b753350f4a88b041168fd7",
+    "source_sha256": "64c55d24c27fa13926ad053194154a39e784ea16b7b3b333acc19df27ce527b4"
+  },
+  "supplement_disposition": "numeric_content"
+}

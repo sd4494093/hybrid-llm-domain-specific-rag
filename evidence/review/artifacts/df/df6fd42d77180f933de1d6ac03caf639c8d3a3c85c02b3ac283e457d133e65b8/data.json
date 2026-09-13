@@ -1,0 +1,63 @@
+{
+  "measurements": {
+    "candidate_limit": 50,
+    "case_count": 1,
+    "query_representation_mode": "runtime",
+    "question_text_stored": false,
+    "results": [
+      {
+        "expected_post_expansion": [],
+        "expected_post_rerank": [],
+        "post_expansion_count": 0,
+        "post_rerank_count": 0,
+        "query_changed": false,
+        "question_text_stored": false,
+        "rerank_query_results": {
+          "semantic": {
+            "status": "error"
+          }
+        },
+        "selector_results": {
+          "semantic": {
+            "expected_rows": [],
+            "expected_selected": false,
+            "selected_parent_count": 0,
+            "selected_segment_count": 0,
+            "selected_segment_positions": [],
+            "selection_debug": {}
+          }
+        },
+        "semantic_query_text_stored": false,
+        "source_text_stored": false,
+        "vector_values_stored": false
+      }
+    ],
+    "secret_values_printed": false,
+    "selector_contract": {
+      "max_documents": 5,
+      "max_segments": 10
+    },
+    "semantic_query_text_stored": false,
+    "semantic_weight": 0.5,
+    "source_text_stored": false,
+    "top_k": 100,
+    "vector_share": 0.96,
+    "vector_values_stored": false
+  },
+  "original_inventory": {
+    "artifact_id": "df6fd42d77180f933de1d6ac03caf639c8d3a3c85c02b3ac283e457d133e65b8",
+    "bytes": 1691,
+    "disposition": "hash_only_private_content",
+    "source_root": "tests/e2e",
+    "source_sha256": "b9164eebd0c0fb490f9f7be532e4b51e27316e3781049d12c4cdb5a31659c95b",
+    "suffix": ".json",
+    "version_mentions": [
+      1313
+    ]
+  },
+  "source": {
+    "artifact_id": "df6fd42d77180f933de1d6ac03caf639c8d3a3c85c02b3ac283e457d133e65b8",
+    "source_sha256": "b9164eebd0c0fb490f9f7be532e4b51e27316e3781049d12c4cdb5a31659c95b"
+  },
+  "supplement_disposition": "numeric_content"
+}

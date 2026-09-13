@@ -1,0 +1,67 @@
+{
+  "archived_summary": {
+    "artifact_id": "f87727a8e0a7919e4a8dbd7b44c93168df47d5b5ba20bc26aab547f3d65578e8",
+    "projection": {
+      "by_label": {
+        "correct": 1052,
+        "correct_refusal": 395,
+        "error": 3,
+        "incorrect": 90,
+        "incorrect_refusal": 103,
+        "partial": 352,
+        "uncertain": 5
+      },
+      "cohort_manifest_sha256": "06253659fbb217c5e35afb2c59d626faad904e3e99a8a9b0993eec82611afc0d",
+      "correct": 1447,
+      "error": 3,
+      "model": "gpt-5.6-sol",
+      "reasoning_effort": "high",
+      "total": 2000,
+      "uncertain": 5
+    },
+    "source_sha256": "25781fd587525acd623dba202e869b8666476ea517305c67ad59317e43670f29",
+    "version_mentions": [
+      1660
+    ]
+  },
+  "measurements": {
+    "by_label": {
+      "correct": 1052,
+      "correct_refusal": 395,
+      "error": 3,
+      "incorrect": 90,
+      "incorrect_refusal": 103,
+      "partial": 352,
+      "uncertain": 5
+    },
+    "cohort_manifest_sha256": "06253659fbb217c5e35afb2c59d626faad904e3e99a8a9b0993eec82611afc0d",
+    "correct": 1447,
+    "error": 3,
+    "evaluated_count": 1996,
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "resumed_count": 0,
+    "retried_case_count": 119,
+    "runtime_source_evidence_case_count": 1507,
+    "runtime_source_evidence_entry_count": 9437,
+    "secret_values_printed": false,
+    "total": 2000,
+    "uncertain": 5
+  },
+  "original_inventory": {
+    "artifact_id": "f87727a8e0a7919e4a8dbd7b44c93168df47d5b5ba20bc26aab547f3d65578e8",
+    "bytes": 1148,
+    "disposition": "structured_summary_projection",
+    "source_root": ".playwright",
+    "source_sha256": "25781fd587525acd623dba202e869b8666476ea517305c67ad59317e43670f29",
+    "suffix": ".json",
+    "version_mentions": [
+      1660
+    ]
+  },
+  "source": {
+    "artifact_id": "f87727a8e0a7919e4a8dbd7b44c93168df47d5b5ba20bc26aab547f3d65578e8",
+    "source_sha256": "25781fd587525acd623dba202e869b8666476ea517305c67ad59317e43670f29"
+  },
+  "supplement_disposition": "numeric_content"
+}

@@ -1,0 +1,86 @@
+{
+  "case_records": [
+    {
+      "artifact_id": "d72636804663a92f59ae9067c5f64df35225b6415e04e8631ce7310da99fbd74",
+      "case_key": "0714ab9a4341237b11edefb1d4ce5be1b1bd45296a1b052cee0505bbe2a1bea2",
+      "line": 1,
+      "projection": {
+        "answer_sha256": "d9eb0180e7f55b25669449c5f7f47d2ccfce64559f801f82f1da0e2e7fe86907",
+        "citation_support": "supported",
+        "contradiction": false,
+        "evaluator_status": "ok",
+        "groundedness": "grounded",
+        "label": "correct",
+        "model": "gpt-5.5",
+        "oracle_facts_sha256": "2a412758d63b26c29c8d435b42021ca1691ea00d876592767845e6b5ccfb8a83",
+        "question_sha256": "ad812dac66dcc68500cf445596be179eab7eeb28b63693b9a6d146324405c8ac",
+        "reference_answer_sha256": "d8846fd27cc9d6d230f46a4655a9cad3fc08f8ca1bde0f787d1e3d75d81e29e0",
+        "runtime_source_evidence_count": 4,
+        "runtime_source_evidence_sha256": "9d6791c3dc74c442b64b7079d1ea5e013d678126a0229770e8adddf31cc3fba9",
+        "score_0_5": 5,
+        "source_evidence_sha256": "d5bf6679c213ea3b1d4fe95bb6d7e9bab36b73de1d56d9aa7861f400af3848cd"
+      }
+    },
+    {
+      "artifact_id": "d72636804663a92f59ae9067c5f64df35225b6415e04e8631ce7310da99fbd74",
+      "case_key": "5e9e31ea66ef4368f0711a6d7c84e0408e6411abd59f49acfd9b7c656e7262c3",
+      "line": 2,
+      "projection": {
+        "answer_sha256": "836f5b4e5d8e3220894659c9a98a28669539d1b24a9cca0c6cc8a1e712984523",
+        "citation_support": "supported",
+        "contradiction": false,
+        "evaluator_status": "ok",
+        "groundedness": "grounded",
+        "label": "correct",
+        "model": "gpt-5.5",
+        "oracle_facts_sha256": "be90dedc1c5cebe09660ae99571b66c0aeba48c687731ba0794dcd6add6363b6",
+        "question_sha256": "440881e279cb6d48d271cfa521dfb6f1ce28c8a538c0453c4bf2d288e8f7134c",
+        "reference_answer_sha256": "55d36da5ba148b047f06f4ed20556833cb73506112cee28c479be2c56bd7a1be",
+        "runtime_source_evidence_count": 3,
+        "runtime_source_evidence_sha256": "7a1b5d18df4dfdd898e991b6a2a30ad5e3fe00d1dc2fae1cb803ba65d600f7df",
+        "score_0_5": 5,
+        "source_evidence_sha256": "159dec50e37bc9ffca8f7fa459408f976508084f118ba7519f35b30e767dcba1"
+      }
+    },
+    {
+      "artifact_id": "d72636804663a92f59ae9067c5f64df35225b6415e04e8631ce7310da99fbd74",
+      "case_key": "6b04e1aa8951a7e109c6f180202e1c657bad184cca1ee74db6f29c0c8b6cf260",
+      "line": 3,
+      "projection": {
+        "answer_sha256": "18974a7e9fe39fbc69bac23a258669ca58dfc9f1979aef27e20dcc5e1e80c2cb",
+        "citation_support": "supported",
+        "contradiction": false,
+        "evaluator_status": "ok",
+        "groundedness": "grounded",
+        "label": "correct",
+        "model": "gpt-5.5",
+        "oracle_facts_sha256": "1b42409fc83e8e8601dcbe9600b48eb0e15f9da948c49db99fdf750d0d7bbd9f",
+        "question_sha256": "93ee560b63247a7e8cc1c7fdbf376f80d55b720d59147480ab401ed38b9932fc",
+        "reference_answer_sha256": "76e7fbe2872a3ee687d2f01764df71669f4f43fd73f5bf98fe8a9aacfcece959",
+        "runtime_source_evidence_count": 3,
+        "runtime_source_evidence_sha256": "ae349fd6132167762a15da903c6ed0319a8ba1b8967066b83beff04471ae19fc",
+        "score_0_5": 5,
+        "source_evidence_sha256": "02e52a2b5b97140809ba3c2c0737dedfd0acb036678454af503f09173ee93793"
+      }
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "d72636804663a92f59ae9067c5f64df35225b6415e04e8631ce7310da99fbd74",
+    "bytes": 4022,
+    "disposition": "case_projection",
+    "exported_rows": 3,
+    "invalid_rows": 0,
+    "source_root": "tests/e2e",
+    "source_sha256": "877043411d5b30afc7b9b39f1efb6c85d1c7be3ba3a564af3a35434592645a77",
+    "suffix": ".jsonl",
+    "version_mentions": [
+      718,
+      720
+    ]
+  },
+  "source": {
+    "artifact_id": "d72636804663a92f59ae9067c5f64df35225b6415e04e8631ce7310da99fbd74",
+    "source_sha256": "877043411d5b30afc7b9b39f1efb6c85d1c7be3ba3a564af3a35434592645a77"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}

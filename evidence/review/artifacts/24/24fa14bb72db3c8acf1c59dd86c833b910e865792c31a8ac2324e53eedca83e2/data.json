@@ -1,0 +1,49 @@
+{
+  "case_records": [
+    {
+      "artifact_id": "24fa14bb72db3c8acf1c59dd86c833b910e865792c31a8ac2324e53eedca83e2",
+      "case_key": "42fbd16b0f827014c15398edeb0bf3be79f9956a1e6d1e4b4ae228709d0a2d80",
+      "line": 1,
+      "projection": {
+        "cohort_manifest_sha256": "2878d777e9e78b0845d0be7da3aa033997e490c427a13345be8b4bf1efaa8ac7",
+        "latency_ms": 534463,
+        "model_config_sha256": "70a01d1482d7d8d632083b1f7940c8500fbd090df4fc9f19cda68c6c4e804a8d",
+        "question_sha256": "7333c0fc1f35f3059b5b77c20ab700a3c99286906d56a95e19c5a08952751fa2",
+        "run_provenance_sha256": "faabba68e129bcd960c06cc8084fba26fe231ffa656216fbc3849f555d322b75",
+        "status": "error"
+      }
+    },
+    {
+      "artifact_id": "24fa14bb72db3c8acf1c59dd86c833b910e865792c31a8ac2324e53eedca83e2",
+      "case_key": "4f6667f11cbd0182a2313a3771e075c93e7e073eeadb0cd7bf256a36a9a9d427",
+      "line": 2,
+      "projection": {
+        "cohort_manifest_sha256": "2878d777e9e78b0845d0be7da3aa033997e490c427a13345be8b4bf1efaa8ac7",
+        "latency_ms": 559437,
+        "model_config_sha256": "70a01d1482d7d8d632083b1f7940c8500fbd090df4fc9f19cda68c6c4e804a8d",
+        "question_sha256": "69e1bd6ef3074b3fcd19e6be146f600d5f0f9656b3462d40deec5351dfbad2cd",
+        "run_provenance_sha256": "faabba68e129bcd960c06cc8084fba26fe231ffa656216fbc3849f555d322b75",
+        "status": "error"
+      }
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "24fa14bb72db3c8acf1c59dd86c833b910e865792c31a8ac2324e53eedca83e2",
+    "bytes": 4334,
+    "disposition": "case_projection",
+    "exported_rows": 2,
+    "invalid_rows": 0,
+    "source_root": "tests/e2e",
+    "source_sha256": "04fde9f3df806f51e7719c2421014872cde3c7a4185f89b1f806713be2cbcabf",
+    "suffix": ".jsonl",
+    "version_mentions": [
+      516,
+      526
+    ]
+  },
+  "source": {
+    "artifact_id": "24fa14bb72db3c8acf1c59dd86c833b910e865792c31a8ac2324e53eedca83e2",
+    "source_sha256": "04fde9f3df806f51e7719c2421014872cde3c7a4185f89b1f806713be2cbcabf"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}

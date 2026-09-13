@@ -1,0 +1,90 @@
+{
+  "archived_summary": {
+    "artifact_id": "28570e29c9dff5c53311bca844abf63354f45e5d5566509998d5e9323dbf385c",
+    "projection": {
+      "case_workers": 1,
+      "cohort_manifest_sha256": "ee643f4129a5d7158b6215e898b3d765b8f4ab949e41220bbe24a74b610048db",
+      "first_attempt_success_count": 4,
+      "max_workers": 4,
+      "question_count": 5,
+      "questions_sha256": "0785f436624c159d56abdc6067666cb4b99d8880ca9659c4e628f2d9bf4d73d6",
+      "recovered_after_retry_count": 1,
+      "result_count": 5,
+      "run_provenance_sha256": "baf69a50cd963f6b02647c7d9826fb1d846d1a5e81c6b6a1efdb59aee634d3e8",
+      "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+      "status": "ok",
+      "unrecovered_transport_failure_count": 0
+    },
+    "source_sha256": "aa4072f35dff74b8a7484392891925ce05574fb941372c3f7240614d60d3a2cb",
+    "version_mentions": [
+      1513
+    ]
+  },
+  "measurements": {
+    "case_workers": 1,
+    "cohort_manifest_sha256": "ee643f4129a5d7158b6215e898b3d765b8f4ab949e41220bbe24a74b610048db",
+    "exact_cardinality": true,
+    "first_attempt_success_count": 4,
+    "first_attempt_success_rate": 0.8,
+    "initial_runtime_error_count": 1,
+    "max_workers": 4,
+    "oracle_blind_runtime": true,
+    "question_count": 5,
+    "questions_sha256": "0785f436624c159d56abdc6067666cb4b99d8880ca9659c4e628f2d9bf4d73d6",
+    "recovered_after_retry_count": 1,
+    "result_count": 5,
+    "retried_runtime_error_count": 1,
+    "run_provenance_sha256": "baf69a50cd963f6b02647c7d9826fb1d846d1a5e81c6b6a1efdb59aee634d3e8",
+    "secret_values_printed": false,
+    "shard_count": 4,
+    "shards": [
+      {
+        "exit_code": 0,
+        "result_count": 1,
+        "shard_index": 1,
+        "status": "ok"
+      },
+      {
+        "exit_code": 0,
+        "result_count": 1,
+        "shard_index": 2,
+        "status": "ok"
+      },
+      {
+        "exit_code": 0,
+        "result_count": 1,
+        "shard_index": 3,
+        "status": "ok"
+      },
+      {
+        "exit_code": 0,
+        "result_count": 2,
+        "shard_index": 4,
+        "status": "ok"
+      }
+    ],
+    "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+    "status": "ok",
+    "transport_failure_count": 0,
+    "transport_ok_count": 5,
+    "transport_ok_rate": 1.0,
+    "unrecovered_transport_failure_count": 0,
+    "vector_values_printed": false
+  },
+  "original_inventory": {
+    "artifact_id": "28570e29c9dff5c53311bca844abf63354f45e5d5566509998d5e9323dbf385c",
+    "bytes": 2658,
+    "disposition": "structured_summary_projection",
+    "source_root": ".playwright",
+    "source_sha256": "aa4072f35dff74b8a7484392891925ce05574fb941372c3f7240614d60d3a2cb",
+    "suffix": ".json",
+    "version_mentions": [
+      1513
+    ]
+  },
+  "source": {
+    "artifact_id": "28570e29c9dff5c53311bca844abf63354f45e5d5566509998d5e9323dbf385c",
+    "source_sha256": "aa4072f35dff74b8a7484392891925ce05574fb941372c3f7240614d60d3a2cb"
+  },
+  "supplement_disposition": "numeric_content"
+}

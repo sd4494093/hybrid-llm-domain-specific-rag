@@ -1,0 +1,33 @@
+# v1349: Artifacts 51 to 75
+
+[Version overview](README.md)
+
+JSON probe cases are inside the linked numerical data; the last column counts archived JSONL records only.
+
+| Source artifact | Public content | Supplement disposition | Archived JSONL rows |
+|---|---|---|---:|
+| [3952adf54449](../../artifacts/39/3952adf54449afdf925c4d066fee0fd93535028238ee41b05552b4f951bb002b/README.md) | fingerprint only | not_selected_for_supplement | 0 |
+| [1a48686d4399](../../artifacts/1a/1a48686d4399b5d2b7f8121fc56d4f0d29fb5b549f6739525e0d3babb9e0cfdd/README.md) | case_records | not_selected_for_supplement | 1 |
+| [f79a08724e4a](../../artifacts/f7/f79a08724e4aa3bd0f9990d24a4f9fe8e2a0dc4eb348439d7c6bb4e81d52817e/README.md) | fingerprint only | not_selected_for_supplement | 0 |
+| [94cae42420a5](../../artifacts/94/94cae42420a5b6aac94c70d0cc2c6562ea872a5e38991da5d3dba6213d5d783d/README.md) | numeric_content | numeric_content | 0 |
+| [68962a29b90e](../../artifacts/68/68962a29b90eb3986d94a2a632edebac9d283f083c776bd72a1df104b9848d61/README.md) | case_records | not_selected_for_supplement | 1 |
+| [8eeccc0c86da](../../artifacts/8e/8eeccc0c86da962a735cf1136a229302f82b29fb140d3f371f39d131278850b6/README.md) | summary, numeric_content | numeric_content | 0 |
+| [d5a31c28625e](../../artifacts/d5/d5a31c28625ebc57f4e886254cc96e4597fd534fc7c025a93c31f1b20b7c42af/README.md) | document_events | not_selected_for_supplement | 0 |
+| [e7a50ff7139c](../../artifacts/e7/e7a50ff7139c7c7108843fd4e85a541a69142524d6e4f1851019a4d804f09dc1/README.md) | case_records | not_selected_for_supplement | 3 |
+| [6c0a4aa71de6](../../artifacts/6c/6c0a4aa71de6a082d120bcbb493e4b0517b69f5302ca2a4c66f28302cf2deff3/README.md) | summary, numeric_content | numeric_content | 0 |
+| [5d06fe9e225d](../../artifacts/5d/5d06fe9e225d2b6e01c841867b5eea62e8122f9bfa561e699f1081341aa218d5/README.md) | case_records | not_selected_for_supplement | 3 |
+| [d58ed869b826](../../artifacts/d5/d58ed869b826e43b42e272c8b62732bb2f073784d3979a5a1c9df9fd404695ee/README.md) | case_records | not_selected_for_supplement | 3 |
+| [6af36d0b09ee](../../artifacts/6a/6af36d0b09ee3dc6610d41cdf2895ba6a376f5aa74ff2006f55dfcac09d42752/README.md) | summary, numeric_content | numeric_content | 0 |
+| [c5f2b66571dd](../../artifacts/c5/c5f2b66571dde6ece3fc1e12e12274eb9a92726d433d91da63f29fa818bccac6/README.md) | fingerprint only | not_selected_for_supplement | 0 |
+| [37eb118b0ad8](../../artifacts/37/37eb118b0ad84040016189d0cbd9b512043f53c36d62762a4c514bf030fafc12/README.md) | summary, numeric_content | numeric_content | 0 |
+| [3f62e0a63f53](../../artifacts/3f/3f62e0a63f53bd39ea2de5f103ef3e07de047a2aff480b56443cee23a5abcd9b/README.md) | summary, numeric_content | numeric_content | 0 |
+| [efe071ad5158](../../artifacts/ef/efe071ad51581f083016b4f330792338e67afa131f8cbcdba1bf2ca8fe3bfdb2/README.md) | numeric_content | numeric_content | 0 |
+| [302101794997](../../artifacts/30/30210179499718dbf3147a7fdd3d785de1af79adc3a14cbe46945e08d0f27a95/README.md) | case_records | not_selected_for_supplement | 3 |
+| [a1b2aa6ce6d3](../../artifacts/a1/a1b2aa6ce6d32b59161ca4edb05e6f0b2ea9d166bd4e068eb22bbc20c9a52fdd/README.md) | summary, numeric_content | numeric_content | 0 |
+| [a637b0492362](../../artifacts/a6/a637b04923626a8a570db77a391082b6d63fe572674630c27351d1d4a65fa86f/README.md) | fingerprint only | not_selected_for_supplement | 0 |
+| [a3151654bc92](../../artifacts/a3/a3151654bc926b234100b59175a6cba42e4fc28e0689f9525e0ba9e710ae967c/README.md) | fingerprint only | not_selected_for_supplement | 0 |
+| [4af9fbdbb27c](../../artifacts/4a/4af9fbdbb27c9c0234c26e0f2f76b1fa430f4e098ec8e8b611a94393f8d95dfc/README.md) | case_records | not_selected_for_supplement | 3 |
+| [496e1ec9fbb5](../../artifacts/49/496e1ec9fbb5c9e0e81360859ca8f110d3e0e2f560119b885ac44f2c0c43fb32/README.md) | fingerprint only | not_selected_for_supplement | 0 |
+| [883e9c6a14ad](../../artifacts/88/883e9c6a14ade3c203e90092c41def5c1565e69593591ae9a0673586f2edd10a/README.md) | numeric_content | numeric_content | 0 |
+| [bf60bb9b79ed](../../artifacts/bf/bf60bb9b79ed59c9b713bac589748c3faf729b5893c3b33ebfcfa9f78675bc36/README.md) | case_records | not_selected_for_supplement | 3 |
+| [2df25253d5b1](../../artifacts/2d/2df25253d5b1c2c2df97783026356987d4f252315ace94b010daf59be41fa8bc/README.md) | summary, numeric_content | numeric_content | 0 |

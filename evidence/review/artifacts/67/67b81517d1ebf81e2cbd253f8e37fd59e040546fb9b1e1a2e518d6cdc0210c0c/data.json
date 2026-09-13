@@ -1,0 +1,188 @@
+{
+  "archived_summary": {
+    "artifact_id": "67b81517d1ebf81e2cbd253f8e37fd59e040546fb9b1e1a2e518d6cdc0210c0c",
+    "projection": {
+      "dimension_rates": {
+        "answer_type": {
+          "grounded": {
+            "count": 6,
+            "pass_count": 5
+          }
+        },
+        "domain": {
+          "corporate_operations_policy_communications": {
+            "count": 1,
+            "pass_count": 1
+          },
+          "it_security_digital_workplace": {
+            "count": 1,
+            "pass_count": 1
+          },
+          "people_learning": {
+            "count": 1,
+            "pass_count": 1
+          },
+          "safety_field_operations": {
+            "count": 3,
+            "pass_count": 2
+          }
+        },
+        "language": {
+          "de": {
+            "count": 1,
+            "pass_count": 1
+          },
+          "it": {
+            "count": 1,
+            "pass_count": 1
+          },
+          "pt": {
+            "count": 3,
+            "pass_count": 3
+          },
+          "ro": {
+            "count": 1,
+            "pass_count": 0
+          }
+        }
+      },
+      "e2e_pass_count": 5,
+      "e2e_pass_rate": 0.8333333333333334,
+      "failure_classes": {
+        "semantic_judge_rejected": 1
+      },
+      "first_attempt_success_count": 6,
+      "indeterminate_count": 0,
+      "integrity": {
+        "duplicate_case_id_count": 0,
+        "grounded_count": 6,
+        "negative_evidence_contract_count": 0,
+        "no_answer_count": 0,
+        "query_mode": "question_only",
+        "refusal_count": 0,
+        "row_count": 6,
+        "semantic_fact_count": 18,
+        "source_contract_count": 6,
+        "source_evidence_count": 16,
+        "status": "PASS",
+        "violation_count": 0
+      },
+      "machine_semantic_judge_required": true,
+      "machine_semantic_judgments_present": true,
+      "question_count": 6,
+      "recovered_after_retry_count": 0,
+      "result_count": 6,
+      "run_provenance_sha256": "34b27f993e977d98b770f722785a2134893549ff471538c25466e42a73be8e24",
+      "semantic_judge_model": "gpt-5.5",
+      "source_snapshot_id": "a4721d52b0b2f3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+      "unrecovered_transport_failure_count": 0
+    },
+    "source_sha256": "5ce035ccf0066fde406bceea360f806fb6d75dd85ac9b2c564fb367c55fc2f6e",
+    "version_mentions": [
+      1435
+    ]
+  },
+  "measurements": {
+    "dimension_rates": {
+      "answer_type": {
+        "grounded": {
+          "count": 6,
+          "pass_count": 5,
+          "pass_rate": 0.8333333333333334
+        }
+      },
+      "domain": {
+        "corporate_operations_policy_communications": {
+          "count": 1,
+          "pass_count": 1,
+          "pass_rate": 1.0
+        },
+        "it_security_digital_workplace": {
+          "count": 1,
+          "pass_count": 1,
+          "pass_rate": 1.0
+        },
+        "people_learning": {
+          "count": 1,
+          "pass_count": 1,
+          "pass_rate": 1.0
+        },
+        "safety_field_operations": {
+          "count": 3,
+          "pass_count": 2,
+          "pass_rate": 0.6666666666666666
+        }
+      },
+      "language": {
+        "de": {
+          "count": 1,
+          "pass_count": 1,
+          "pass_rate": 1.0
+        },
+        "it": {
+          "count": 1,
+          "pass_count": 1,
+          "pass_rate": 1.0
+        },
+        "pt": {
+          "count": 3,
+          "pass_count": 3,
+          "pass_rate": 1.0
+        },
+        "ro": {
+          "count": 1,
+          "pass_count": 0,
+          "pass_rate": 0.0
+        }
+      }
+    },
+    "e2e_pass_count": 5,
+    "e2e_pass_rate": 0.8333333333333334,
+    "failure_classes": {
+      "semantic_judge_rejected": 1
+    },
+    "first_attempt_success_count": 6,
+    "indeterminate_count": 0,
+    "integrity": {
+      "duplicate_case_id_count": 0,
+      "grounded_count": 6,
+      "negative_evidence_contract_count": 0,
+      "no_answer_count": 0,
+      "query_mode": "question_only",
+      "refusal_count": 0,
+      "row_count": 6,
+      "semantic_fact_count": 18,
+      "source_contract_count": 6,
+      "source_evidence_count": 16,
+      "status": "PASS",
+      "violation_count": 0
+    },
+    "machine_semantic_judge_required": true,
+    "machine_semantic_judgments_present": true,
+    "question_count": 6,
+    "recovered_after_retry_count": 0,
+    "result_count": 6,
+    "run_provenance_sha256": "34b27f993e977d98b770f722785a2134893549ff471538c25466e42a73be8e24",
+    "secret_values_printed": false,
+    "semantic_judge_model": "gpt-5.5",
+    "source_snapshot_id": "a4721d52b0b2f3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+    "unrecovered_transport_failure_count": 0,
+    "vector_values_printed": false
+  },
+  "original_inventory": {
+    "artifact_id": "67b81517d1ebf81e2cbd253f8e37fd59e040546fb9b1e1a2e518d6cdc0210c0c",
+    "bytes": 3450,
+    "disposition": "structured_summary_projection",
+    "source_root": "tests/e2e",
+    "source_sha256": "5ce035ccf0066fde406bceea360f806fb6d75dd85ac9b2c564fb367c55fc2f6e",
+    "suffix": ".json",
+    "version_mentions": [
+      1435
+    ]
+  },
+  "source": {
+    "artifact_id": "67b81517d1ebf81e2cbd253f8e37fd59e040546fb9b1e1a2e518d6cdc0210c0c",
+    "source_sha256": "5ce035ccf0066fde406bceea360f806fb6d75dd85ac9b2c564fb367c55fc2f6e"
+  },
+  "supplement_disposition": "numeric_content"
+}

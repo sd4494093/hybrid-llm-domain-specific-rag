@@ -1,0 +1,74 @@
+{
+  "archived_summary": {
+    "artifact_id": "005e8f9d6b6dfec51ae9f03e3c01fed6e79d65c81d9f217480da504fc8e3f66b",
+    "projection": {
+      "cohort_manifest_sha256": "6eddf3303113b0c300cc208a114e8487224f289f280b3cb68dd42092deb77880",
+      "first_attempt_success_count": 5,
+      "question_count": 5,
+      "questions_sha256": "836ea9213ca9f31df3bf19eeedc793196066b8272bcca087366e0ec386e247e5",
+      "recovered_after_retry_count": 0,
+      "result_count": 5,
+      "run_provenance_sha256": "a865dfd45479618f1380ff9d3d1ee338ee79bcb58aae3a426c4b244aa87839cc",
+      "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+      "status": "ok",
+      "unrecovered_transport_failure_count": 0
+    },
+    "source_sha256": "855c4f36f8df38e4dca65c37751cec10a955ca3851df3cb7c0e16c8a702da0ac",
+    "version_mentions": [
+      1339
+    ]
+  },
+  "measurements": {
+    "cohort_manifest_sha256": "6eddf3303113b0c300cc208a114e8487224f289f280b3cb68dd42092deb77880",
+    "exact_cardinality": true,
+    "first_attempt_success_count": 5,
+    "first_attempt_success_rate": 1.0,
+    "initial_runtime_error_count": 0,
+    "oracle_blind_runtime": true,
+    "question_count": 5,
+    "questions_sha256": "836ea9213ca9f31df3bf19eeedc793196066b8272bcca087366e0ec386e247e5",
+    "recovered_after_retry_count": 0,
+    "result_count": 5,
+    "retried_runtime_error_count": 0,
+    "run_provenance_sha256": "a865dfd45479618f1380ff9d3d1ee338ee79bcb58aae3a426c4b244aa87839cc",
+    "secret_values_printed": false,
+    "shard_count": 2,
+    "shards": [
+      {
+        "exit_code": 0,
+        "result_count": 2,
+        "shard_index": 1,
+        "status": "ok"
+      },
+      {
+        "exit_code": 0,
+        "result_count": 3,
+        "shard_index": 2,
+        "status": "ok"
+      }
+    ],
+    "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+    "status": "ok",
+    "transport_failure_count": 0,
+    "transport_ok_count": 5,
+    "transport_ok_rate": 1.0,
+    "unrecovered_transport_failure_count": 0,
+    "vector_values_printed": false
+  },
+  "original_inventory": {
+    "artifact_id": "005e8f9d6b6dfec51ae9f03e3c01fed6e79d65c81d9f217480da504fc8e3f66b",
+    "bytes": 2199,
+    "disposition": "structured_summary_projection",
+    "source_root": "tests/e2e",
+    "source_sha256": "855c4f36f8df38e4dca65c37751cec10a955ca3851df3cb7c0e16c8a702da0ac",
+    "suffix": ".json",
+    "version_mentions": [
+      1339
+    ]
+  },
+  "source": {
+    "artifact_id": "005e8f9d6b6dfec51ae9f03e3c01fed6e79d65c81d9f217480da504fc8e3f66b",
+    "source_sha256": "855c4f36f8df38e4dca65c37751cec10a955ca3851df3cb7c0e16c8a702da0ac"
+  },
+  "supplement_disposition": "numeric_content"
+}

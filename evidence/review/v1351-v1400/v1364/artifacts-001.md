@@ -1,0 +1,32 @@
+# v1364: Artifacts 1 to 24
+
+[Version overview](README.md)
+
+JSON probe cases are inside the linked numerical data; the last column counts archived JSONL records only.
+
+| Source artifact | Public content | Supplement disposition | Archived JSONL rows |
+|---|---|---|---:|
+| [209047f2141d](../../artifacts/20/209047f2141d18143f53ecf2885ee7be3b8432243441ff3c751e10a498fca6dc/README.md) | document_events | not_selected_for_supplement | 0 |
+| [6dfc3019d540](../../artifacts/6d/6dfc3019d54029da67bbdda3b3aaf9d1e31ea2f7ff65285537db074e497c511a/README.md) | summary, numeric_content | numeric_content | 0 |
+| [cd024ecdf477](../../artifacts/cd/cd024ecdf477cf5450011cd11a0cc682af14f08b7ac0bb54727ec9387107f4a3/README.md) | summary, numeric_content | numeric_content | 0 |
+| [7f7d80e970bc](../../artifacts/7f/7f7d80e970bc79158777093d80894adc6164c4e4f6ecfc42baf75bb45b798d28/README.md) | numeric_content | numeric_content | 0 |
+| [4d1d581627fb](../../artifacts/4d/4d1d581627fbcf5fcf108abf6508f853e4559be60d456a08bd4121e5b05cf544/README.md) | numeric_content | numeric_content | 0 |
+| [d982c5c50f53](../../artifacts/d9/d982c5c50f53a302b111acfb3e27dd21d5d18f07d9b57dfe8f864153febf6bdb/README.md) | numeric_content | numeric_content | 0 |
+| [c57972779d1c](../../artifacts/c5/c57972779d1ca954c42fca0eb775248bc4701b61a39fde7eb7298bce15ff7a7e/README.md) | case_records | not_selected_for_supplement | 5 |
+| [ba4710e306da](../../artifacts/ba/ba4710e306dad5becfc1b9e62d3ebf5136f135c9de1361d51ab1f6763e15baa5/README.md) | summary, numeric_content | numeric_content | 0 |
+| [b63c95a02044](../../artifacts/b6/b63c95a02044ec59ed425e6eb0fc2a5404dc455abc4ac81ef681af1562caf29f/README.md) | case_records | not_selected_for_supplement | 5 |
+| [b31616d63a12](../../artifacts/b3/b31616d63a12cf3c102332611c98c3e72a7ef8cabbca4813736c91f659ffa5a7/README.md) | case_records | not_selected_for_supplement | 5 |
+| [efdf79824cb9](../../artifacts/ef/efdf79824cb9806016b8248b9a67f3af6469c2d4f46348e0a6873e4c53f602dc/README.md) | summary, numeric_content | numeric_content | 0 |
+| [90902dd1c3d2](../../artifacts/90/90902dd1c3d2700fd61c606b3edb4bd5364922195c5ca485200dd84679492ae0/README.md) | fingerprint only | not_selected_for_supplement | 0 |
+| [412164db50cf](../../artifacts/41/412164db50cf446ab0cb7ca904c632a23b105c423f20bfdae8e73ae9444db40c/README.md) | summary, numeric_content | numeric_content | 0 |
+| [14f4789edc26](../../artifacts/14/14f4789edc26e8a1581986939fb24f0b2ce23ba6c9752891c995af56ee072509/README.md) | summary, numeric_content | numeric_content | 0 |
+| [2c0e38ac66a8](../../artifacts/2c/2c0e38ac66a8873ff2827c6010ee436162cd462d84e80142090fb438788b2d01/README.md) | numeric_content | numeric_content | 0 |
+| [1cd4fc62e17d](../../artifacts/1c/1cd4fc62e17db4342960c4c719f359fe39108370f6aaca2eb278d2e5c87e4a11/README.md) | case_records | not_selected_for_supplement | 5 |
+| [ec7e53fff8ac](../../artifacts/ec/ec7e53fff8ac6f37a77adf8a5a0d7d0fc955b8acf8c5d619c33f1295c01e7083/README.md) | summary, numeric_content | numeric_content | 0 |
+| [8d02fdd3f68d](../../artifacts/8d/8d02fdd3f68df805d7591058026eb454dc160f3bdd57cb060c9b8ce80eecf0e3/README.md) | fingerprint only | not_selected_for_supplement | 0 |
+| [1dac86615548](../../artifacts/1d/1dac866155483809102fbefda96b99f48488ee334ee1164c263ece08e2909c14/README.md) | fingerprint only | not_selected_for_supplement | 0 |
+| [80f8abb2ad64](../../artifacts/80/80f8abb2ad64a8b29a616964ddbc212dd3ff8585ff4a6ce84ec06d4a5ef41634/README.md) | case_records | not_selected_for_supplement | 5 |
+| [34629b72a202](../../artifacts/34/34629b72a2021a2a9c87c369604a8768fda2f7a17eefc0fb632f2ba6c8ac207e/README.md) | fingerprint only | not_selected_for_supplement | 0 |
+| [d4c37954e43c](../../artifacts/d4/d4c37954e43c78b1707be2234b560da3a395be4b09f9a0da365a6ceb55a41009/README.md) | numeric_content | numeric_content | 0 |
+| [2c68b689c0e4](../../artifacts/2c/2c68b689c0e4e5489755b53ce21ba1ae330488d8274bd6f2e8301e1ebe4a34ec/README.md) | case_records | not_selected_for_supplement | 5 |
+| [50a2ceeb15ef](../../artifacts/50/50a2ceeb15ef9fa5dd4019e1395e1196e761b5a6b68d7f9c74c66ce0d847d681/README.md) | summary, numeric_content | numeric_content | 0 |

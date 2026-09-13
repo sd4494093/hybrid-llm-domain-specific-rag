@@ -1,0 +1,89 @@
+{
+  "measurements": {
+    "candidate_limit": 50,
+    "case_count": 2,
+    "query_representation_mode": "runtime",
+    "question_text_stored": false,
+    "results": [
+      {
+        "expected_post_expansion": [],
+        "expected_post_rerank": [],
+        "post_expansion_count": 0,
+        "post_rerank_count": 0,
+        "query_changed": false,
+        "question_text_stored": false,
+        "rerank_query_results": {
+          "semantic": {
+            "status": "error"
+          }
+        },
+        "selector_results": {
+          "semantic": {
+            "expected_rows": [],
+            "expected_selected": false,
+            "selected_parent_count": 0,
+            "selected_segment_count": 0,
+            "selected_segment_positions": [],
+            "selection_debug": {}
+          }
+        },
+        "semantic_query_text_stored": false,
+        "source_text_stored": false,
+        "vector_values_stored": false
+      },
+      {
+        "expected_post_expansion": [],
+        "expected_post_rerank": [],
+        "post_expansion_count": 0,
+        "post_rerank_count": 0,
+        "query_changed": false,
+        "question_text_stored": false,
+        "rerank_query_results": {
+          "semantic": {
+            "status": "error"
+          }
+        },
+        "selector_results": {
+          "semantic": {
+            "expected_rows": [],
+            "expected_selected": false,
+            "selected_parent_count": 0,
+            "selected_segment_count": 0,
+            "selected_segment_positions": [],
+            "selection_debug": {}
+          }
+        },
+        "semantic_query_text_stored": false,
+        "source_text_stored": false,
+        "vector_values_stored": false
+      }
+    ],
+    "secret_values_printed": false,
+    "selector_contract": {
+      "max_documents": 5,
+      "max_segments": 10
+    },
+    "semantic_query_text_stored": false,
+    "semantic_weight": 0.5,
+    "source_text_stored": false,
+    "top_k": 100,
+    "vector_share": 0.96,
+    "vector_values_stored": false
+  },
+  "original_inventory": {
+    "artifact_id": "648733e6aaa65aa82521329457d832e1f84b015e73c09d6daa825b2c31e1948e",
+    "bytes": 2842,
+    "disposition": "hash_only_private_content",
+    "source_root": "tests/e2e",
+    "source_sha256": "09b24c862cd9f82b8c68eae09ed1cb82516147782d161efdddd0ad7bc0a0f14e",
+    "suffix": ".json",
+    "version_mentions": [
+      1301
+    ]
+  },
+  "source": {
+    "artifact_id": "648733e6aaa65aa82521329457d832e1f84b015e73c09d6daa825b2c31e1948e",
+    "source_sha256": "09b24c862cd9f82b8c68eae09ed1cb82516147782d161efdddd0ad7bc0a0f14e"
+  },
+  "supplement_disposition": "numeric_content"
+}

@@ -1,0 +1,82 @@
+{
+  "case_records": [
+    {
+      "artifact_id": "ba0707dcb81a007c2df174f6b7eddaeaf829989c78541003b19fea19f96787a9",
+      "case_key": "29572b988c4357dc590ea1389d6d51b2df5aada220c15b94aa49c0ac2b196a41",
+      "line": 1,
+      "projection": {
+        "judgment": {
+          "answer_url_count": 1,
+          "citation_pass": true,
+          "citation_support_pass": true,
+          "critical_case": false,
+          "deterministic_contract_pass": true,
+          "deterministic_semantic_diagnostic_pass": false,
+          "e2e_pass": true,
+          "expected_answer_type": "grounded",
+          "no_answer_detected": false,
+          "retrieval_recall_at_10": true,
+          "retrieval_recall_at_30": true,
+          "runtime_ok": true,
+          "semantic_judge_citation_support": "supported",
+          "semantic_judge_groundedness": "grounded",
+          "semantic_judge_label": "correct",
+          "semantic_judge_material_error_count": 0,
+          "semantic_judge_status": "ok",
+          "semantic_judge_unsupported_claim_count": 0,
+          "semantic_pass": false,
+          "semantic_score": 0.0,
+          "semantic_score_rounded": 0.0
+        }
+      }
+    },
+    {
+      "artifact_id": "ba0707dcb81a007c2df174f6b7eddaeaf829989c78541003b19fea19f96787a9",
+      "case_key": "bc1f20f249d82a012a222928faf8d3c5dae3731b0e83192887c3befdb044fb60",
+      "line": 2,
+      "projection": {
+        "judgment": {
+          "answer_url_count": 1,
+          "citation_pass": true,
+          "citation_support_pass": true,
+          "critical_case": false,
+          "deterministic_contract_pass": true,
+          "deterministic_semantic_diagnostic_pass": false,
+          "e2e_pass": true,
+          "expected_answer_type": "grounded",
+          "no_answer_detected": false,
+          "retrieval_recall_at_10": true,
+          "retrieval_recall_at_30": true,
+          "runtime_ok": true,
+          "semantic_judge_citation_support": "supported",
+          "semantic_judge_groundedness": "grounded",
+          "semantic_judge_label": "correct",
+          "semantic_judge_material_error_count": 0,
+          "semantic_judge_status": "ok",
+          "semantic_judge_unsupported_claim_count": 0,
+          "semantic_pass": false,
+          "semantic_score": 0.6666666666666666,
+          "semantic_score_rounded": 0.67
+        }
+      }
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "ba0707dcb81a007c2df174f6b7eddaeaf829989c78541003b19fea19f96787a9",
+    "bytes": 1866,
+    "disposition": "case_projection",
+    "exported_rows": 2,
+    "invalid_rows": 0,
+    "source_root": "tests/e2e",
+    "source_sha256": "dc54d87c1116b1fee64f4d30686226da3ff29e25580102b74cf90826f01c5e03",
+    "suffix": ".jsonl",
+    "version_mentions": [
+      377
+    ]
+  },
+  "source": {
+    "artifact_id": "ba0707dcb81a007c2df174f6b7eddaeaf829989c78541003b19fea19f96787a9",
+    "source_sha256": "dc54d87c1116b1fee64f4d30686226da3ff29e25580102b74cf90826f01c5e03"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}

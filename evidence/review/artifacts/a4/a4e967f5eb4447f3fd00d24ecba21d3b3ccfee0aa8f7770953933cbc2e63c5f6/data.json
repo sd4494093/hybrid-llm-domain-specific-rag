@@ -1,0 +1,71 @@
+{
+  "case_records": [
+    {
+      "artifact_id": "a4e967f5eb4447f3fd00d24ecba21d3b3ccfee0aa8f7770953933cbc2e63c5f6",
+      "case_key": "1d78065c0d17cbc60a661dcc0585b2f55d7e34fc3a338b18685156ca2083a58c",
+      "line": 1,
+      "projection": {
+        "judgment": {
+          "answer_url_count": 2
+        },
+        "latency_ms": 43312,
+        "status": "ok"
+      }
+    },
+    {
+      "artifact_id": "a4e967f5eb4447f3fd00d24ecba21d3b3ccfee0aa8f7770953933cbc2e63c5f6",
+      "case_key": "42fbd16b0f827014c15398edeb0bf3be79f9956a1e6d1e4b4ae228709d0a2d80",
+      "line": 2,
+      "projection": {
+        "judgment": {
+          "answer_url_count": 1
+        },
+        "latency_ms": 42466,
+        "status": "ok"
+      }
+    },
+    {
+      "artifact_id": "a4e967f5eb4447f3fd00d24ecba21d3b3ccfee0aa8f7770953933cbc2e63c5f6",
+      "case_key": "5e5a03da88c8db9756c4dff35f8892bbeb41b3728c9db4675b199b8c20bc6c2b",
+      "line": 3,
+      "projection": {
+        "judgment": {
+          "answer_url_count": 1
+        },
+        "latency_ms": 20692,
+        "status": "ok"
+      }
+    },
+    {
+      "artifact_id": "a4e967f5eb4447f3fd00d24ecba21d3b3ccfee0aa8f7770953933cbc2e63c5f6",
+      "case_key": "e380593b72bc5c3ccec8981002b947969ca27f1fa97dd0ad3b07601894f7846b",
+      "line": 4,
+      "projection": {
+        "judgment": {
+          "answer_url_count": 1
+        },
+        "latency_ms": 17400,
+        "status": "ok"
+      }
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "a4e967f5eb4447f3fd00d24ecba21d3b3ccfee0aa8f7770953933cbc2e63c5f6",
+    "bytes": 511049,
+    "disposition": "case_projection",
+    "exported_rows": 4,
+    "invalid_rows": 0,
+    "source_root": "tests/e2e",
+    "source_sha256": "58551d3c352bd32a5ceb7d82032fe54735a0eb0a674d10f31a49f2d37698d4b5",
+    "suffix": ".jsonl",
+    "version_mentions": [
+      7,
+      70
+    ]
+  },
+  "source": {
+    "artifact_id": "a4e967f5eb4447f3fd00d24ecba21d3b3ccfee0aa8f7770953933cbc2e63c5f6",
+    "source_sha256": "58551d3c352bd32a5ceb7d82032fe54735a0eb0a674d10f31a49f2d37698d4b5"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}

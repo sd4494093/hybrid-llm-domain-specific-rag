@@ -1,0 +1,55 @@
+{
+  "case_records": [
+    {
+      "artifact_id": "3e5e8d7dc3e0994569f1979b3f8c6c6333e5d9842397d538499aab5b89ebd314",
+      "case_key": "ba331334574148fe2894f9aa4a72506870c605d74bc403c43cacdf934df3448f",
+      "line": 1,
+      "projection": {
+        "cohort_manifest_sha256": "254ef3a963ba403c6b175d5e9b47434b31ec205fb8297a0a5b4225c9bb40c087",
+        "latency_ms": 75208,
+        "question_sha256": "3ac7221f9500a6cc203014aa463ac85a8e3bc5d76e5e9dcd3b7aa299b7a9c001",
+        "status": "error"
+      }
+    },
+    {
+      "artifact_id": "3e5e8d7dc3e0994569f1979b3f8c6c6333e5d9842397d538499aab5b89ebd314",
+      "case_key": "0d22c16ab4b166986b908e7ce96c8e7dddbf42a833eacb1584577456be84302c",
+      "line": 2,
+      "projection": {
+        "cohort_manifest_sha256": "254ef3a963ba403c6b175d5e9b47434b31ec205fb8297a0a5b4225c9bb40c087",
+        "latency_ms": 75879,
+        "question_sha256": "fae694bfbd419e37cbdccc73019516aad7a5b2d432edcf2983cbe17eeca78f73",
+        "status": "error"
+      }
+    },
+    {
+      "artifact_id": "3e5e8d7dc3e0994569f1979b3f8c6c6333e5d9842397d538499aab5b89ebd314",
+      "case_key": "d7688d1fcbe2f17e5da4162ff8fac802386c1c9ee2710fb00c6f901d27b74953",
+      "line": 3,
+      "projection": {
+        "cohort_manifest_sha256": "254ef3a963ba403c6b175d5e9b47434b31ec205fb8297a0a5b4225c9bb40c087",
+        "latency_ms": 64801,
+        "question_sha256": "f76c5f3d35d26e384246ab6f323ecaef01f6c0125f2780060b68cd5c5e6942f5",
+        "status": "error"
+      }
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "3e5e8d7dc3e0994569f1979b3f8c6c6333e5d9842397d538499aab5b89ebd314",
+    "bytes": 4692,
+    "disposition": "case_projection",
+    "exported_rows": 3,
+    "invalid_rows": 0,
+    "source_root": "tests/e2e",
+    "source_sha256": "ba2a7a71f64add0f12eec12b942c1a111e2ae78a267e06a5e5d5d49854920c6c",
+    "suffix": ".jsonl",
+    "version_mentions": [
+      279
+    ]
+  },
+  "source": {
+    "artifact_id": "3e5e8d7dc3e0994569f1979b3f8c6c6333e5d9842397d538499aab5b89ebd314",
+    "source_sha256": "ba2a7a71f64add0f12eec12b942c1a111e2ae78a267e06a5e5d5d49854920c6c"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}

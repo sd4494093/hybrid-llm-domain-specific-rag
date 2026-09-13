@@ -1,0 +1,66 @@
+{
+  "case_records": [
+    {
+      "artifact_id": "05744b8f2d1261b5b94e8a51994d0df0b4e60090bf7527a82ca6755225cc1586",
+      "case_key": "b2c201d2a59f85ff30d2f41438f60e185753e20dfb47e552040d632fb6771bc5",
+      "line": 1,
+      "projection": {
+        "judgment": {
+          "answer_url_count": 1,
+          "e2e_pass": true,
+          "runtime_ok": true
+        },
+        "latency_ms": 72173,
+        "status": "ok"
+      }
+    },
+    {
+      "artifact_id": "05744b8f2d1261b5b94e8a51994d0df0b4e60090bf7527a82ca6755225cc1586",
+      "case_key": "df11401f2d37d41aa88e3eef00ad7c7677b8cd80a050c3ded5ab4fed18f63dd7",
+      "line": 2,
+      "projection": {
+        "judgment": {
+          "answer_url_count": 0,
+          "e2e_pass": false,
+          "failure_class": "no_answer",
+          "runtime_ok": true
+        },
+        "latency_ms": 45547,
+        "status": "ok"
+      }
+    },
+    {
+      "artifact_id": "05744b8f2d1261b5b94e8a51994d0df0b4e60090bf7527a82ca6755225cc1586",
+      "case_key": "99c520a02e7685df8548e3dc4ef45cb274aa2b003d897d5cc76528cdbd864f34",
+      "line": 3,
+      "projection": {
+        "judgment": {
+          "answer_url_count": 1,
+          "e2e_pass": true,
+          "runtime_ok": true
+        },
+        "latency_ms": 82452,
+        "status": "ok"
+      }
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "05744b8f2d1261b5b94e8a51994d0df0b4e60090bf7527a82ca6755225cc1586",
+    "bytes": 246477,
+    "disposition": "case_projection",
+    "exported_rows": 3,
+    "invalid_rows": 0,
+    "source_root": "tests/e2e",
+    "source_sha256": "98eac2a54f1c8631fc7735b09c281609c8c620f108c67d23d29e85dfc45edd40",
+    "suffix": ".jsonl",
+    "version_mentions": [
+      1021,
+      1022
+    ]
+  },
+  "source": {
+    "artifact_id": "05744b8f2d1261b5b94e8a51994d0df0b4e60090bf7527a82ca6755225cc1586",
+    "source_sha256": "98eac2a54f1c8631fc7735b09c281609c8c620f108c67d23d29e85dfc45edd40"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}

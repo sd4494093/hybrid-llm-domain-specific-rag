@@ -1,5 +1,9 @@
 # v506: Located Evidence
 
+## Read Actual Evidence
+
+[Open paginated results, case verdicts, and explicit gaps](../../review/v0501-v0550/v0506/README.md). 42 path-associated artifacts have public test content.
+
 Coverage: `located_references`. This version has 73 path-associated artifacts, 79 document references, and 1 commit-subject references.
 
 Path mentions can identify a comparator, schema or question-set revision. They are not proof of a tested implementation.

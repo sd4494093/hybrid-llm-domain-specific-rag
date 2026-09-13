@@ -1,0 +1,252 @@
+{
+  "archived_summary": {
+    "artifact_id": "d7a1539d564e02f7ab7b2e5696fd69871fbff6991ad544b7060a2c6e5fa674e2",
+    "projection": {
+      "dimension_rates": {
+        "answer_type": {
+          "grounded": {
+            "count": 166,
+            "pass_count": 71
+          },
+          "no_answer": {
+            "count": 26,
+            "pass_count": 25
+          },
+          "refusal": {
+            "count": 8,
+            "pass_count": 8
+          }
+        },
+        "domain": {
+          "commercial_customer_marketing": {
+            "count": 30,
+            "pass_count": 18
+          },
+          "corporate_operations_policy_communications": {
+            "count": 26,
+            "pass_count": 15
+          },
+          "it_security_digital_workplace": {
+            "count": 36,
+            "pass_count": 16
+          },
+          "people_learning": {
+            "count": 28,
+            "pass_count": 17
+          },
+          "product_engineering": {
+            "count": 35,
+            "pass_count": 23
+          },
+          "safety_field_operations": {
+            "count": 45,
+            "pass_count": 15
+          }
+        },
+        "language": {
+          "cs": {
+            "count": 4,
+            "pass_count": 2
+          },
+          "de": {
+            "count": 9,
+            "pass_count": 6
+          },
+          "en": {
+            "count": 134,
+            "pass_count": 69
+          },
+          "es": {
+            "count": 10,
+            "pass_count": 5
+          },
+          "fr": {
+            "count": 6,
+            "pass_count": 5
+          },
+          "it": {
+            "count": 2,
+            "pass_count": 1
+          },
+          "nl": {
+            "count": 13,
+            "pass_count": 6
+          },
+          "pl": {
+            "count": 4,
+            "pass_count": 2
+          },
+          "pt": {
+            "count": 12,
+            "pass_count": 5
+          },
+          "ro": {
+            "count": 4,
+            "pass_count": 2
+          },
+          "tr": {
+            "count": 2,
+            "pass_count": 1
+          }
+        }
+      },
+      "e2e_pass_count": 104,
+      "e2e_pass_rate": 0.52,
+      "failure_classes": {
+        "citation_wrong_source": 3,
+        "grounded_no_answer": 1,
+        "no_answer_incorrect": 1,
+        "semantic_incomplete": 26,
+        "semantic_incorrect": 47,
+        "semantic_judge_rejected": 18
+      },
+      "first_attempt_success_count": 200,
+      "indeterminate_count": 0,
+      "integrity": {
+        "duplicate_case_id_count": 0,
+        "grounded_count": 166,
+        "negative_evidence_contract_count": 26,
+        "no_answer_count": 26,
+        "query_mode": "question_only",
+        "refusal_count": 8,
+        "row_count": 200,
+        "semantic_fact_count": 516,
+        "source_contract_count": 166,
+        "source_evidence_count": 509,
+        "status": "PASS",
+        "violation_count": 0
+      },
+      "machine_semantic_judge_required": true,
+      "machine_semantic_judgments_present": true,
+      "quality_gate": {
+        "checks": {
+          "citation_support_correctness_rate": {
+            "actual": 0.5180722891566265,
+            "min": 0.95,
+            "pass": false
+          },
+          "correct_refusal_rate": {
+            "actual": 0.9705882352941176,
+            "min": 0.9,
+            "pass": true
+          },
+          "critical_semantic_correctness_rate": {
+            "actual": 0.9583333333333334,
+            "min": 0.95,
+            "pass": true
+          },
+          "expected_question_count": {
+            "actual": 200,
+            "expected": 200,
+            "pass": true
+          },
+          "false_refusal_rate": {
+            "actual": 0.006024096385542169,
+            "max": 0.05,
+            "pass": true
+          },
+          "grounded_rate": {
+            "actual": 0.9096385542168675,
+            "min": 0.95,
+            "pass": false
+          },
+          "retrieval_recall_at_10": {
+            "actual": 0.6144578313253012,
+            "min": 0.9,
+            "pass": false
+          },
+          "runtime_success_rate": {
+            "actual": 1.0,
+            "min": 0.99,
+            "pass": true
+          },
+          "semantic_correctness_rate": {
+            "actual": 0.745,
+            "min": 0.85,
+            "pass": false
+          },
+          "unsupported_assertion_rate": {
+            "actual": 0.07,
+            "pass": false
+          }
+        },
+        "status": "FAIL"
+      },
+      "quality_metrics": {
+        "citation_support_correctness_rate": {
+          "denominator": 166,
+          "numerator": 86,
+          "rate": 0.5180722891566265
+        },
+        "correct_refusal_rate": {
+          "denominator": 34,
+          "numerator": 33,
+          "rate": 0.9705882352941176
+        },
+        "critical_semantic_correctness_rate": {
+          "denominator": 24,
+          "numerator": 23,
+          "rate": 0.9583333333333334
+        },
+        "critical_severe_error_count": 0,
+        "false_refusal_rate": {
+          "denominator": 166,
+          "numerator": 1,
+          "rate": 0.006024096385542169
+        },
+        "grounded_rate": {
+          "denominator": 166,
+          "numerator": 151,
+          "rate": 0.9096385542168675
+        },
+        "retrieval_recall_at_10": {
+          "denominator": 166,
+          "numerator": 102,
+          "rate": 0.6144578313253012
+        },
+        "runtime_success_rate": {
+          "denominator": 200,
+          "numerator": 200,
+          "rate": 1.0
+        },
+        "semantic_correctness_rate": {
+          "denominator": 200,
+          "numerator": 149,
+          "rate": 0.745
+        },
+        "unsupported_assertion_rate": {
+          "denominator": 200,
+          "numerator": 14,
+          "rate": 0.07
+        }
+      },
+      "question_count": 200,
+      "recovered_after_retry_count": 0,
+      "result_count": 200,
+      "run_provenance_sha256": "f3f935d36234a0c65cf3e2bb9a9d5a80ed696827565f74ba5bf271b55c3b3bdd",
+      "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+      "status": "FAIL",
+      "unrecovered_transport_failure_count": 0
+    },
+    "source_sha256": "60b5e167ae944e9dcd99934c15878178631e75852411cbe9c0d313a5e9b70d9f",
+    "version_mentions": [
+      328
+    ]
+  },
+  "original_inventory": {
+    "artifact_id": "d7a1539d564e02f7ab7b2e5696fd69871fbff6991ad544b7060a2c6e5fa674e2",
+    "bytes": 13558,
+    "disposition": "structured_summary_projection",
+    "source_root": "tests/e2e",
+    "source_sha256": "60b5e167ae944e9dcd99934c15878178631e75852411cbe9c0d313a5e9b70d9f",
+    "suffix": ".json",
+    "version_mentions": [
+      328
+    ]
+  },
+  "source": {
+    "artifact_id": "d7a1539d564e02f7ab7b2e5696fd69871fbff6991ad544b7060a2c6e5fa674e2",
+    "source_sha256": "60b5e167ae944e9dcd99934c15878178631e75852411cbe9c0d313a5e9b70d9f"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}

@@ -1,0 +1,70 @@
+{
+  "measurements": [
+    {
+      "answer_chars": 1704,
+      "chat_attempts": 1,
+      "error": null,
+      "http_code": 200,
+      "judgment": {
+        "answer_url_count": 1,
+        "e2e_pass": true,
+        "retriever_resource_count": 16,
+        "runtime_ok": true
+      },
+      "latency_ms": 72173,
+      "retried_runtime_error": false,
+      "retriever_resource_count": 16,
+      "status": "ok"
+    },
+    {
+      "answer_chars": 61,
+      "chat_attempts": 1,
+      "error": null,
+      "http_code": 200,
+      "judgment": {
+        "answer_url_count": 0,
+        "e2e_pass": false,
+        "failure_class": "no_answer",
+        "retriever_resource_count": 16,
+        "runtime_ok": true
+      },
+      "latency_ms": 45547,
+      "retried_runtime_error": false,
+      "retriever_resource_count": 16,
+      "status": "ok"
+    },
+    {
+      "answer_chars": 1077,
+      "chat_attempts": 1,
+      "error": null,
+      "http_code": 200,
+      "judgment": {
+        "answer_url_count": 1,
+        "e2e_pass": true,
+        "retriever_resource_count": 10,
+        "runtime_ok": true
+      },
+      "latency_ms": 82452,
+      "retried_runtime_error": false,
+      "retriever_resource_count": 10,
+      "status": "ok"
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "244097feaaff96f5e7933548b0e8436a6668fded1859c927bf2513264374febc",
+    "bytes": 336293,
+    "disposition": "hash_only_private_content",
+    "source_root": "tests/e2e",
+    "source_sha256": "4af58523d3dc4b3930c3835b0093e6da2cadd7fc5205583520331b50d8600172",
+    "suffix": ".json",
+    "version_mentions": [
+      1021,
+      1022
+    ]
+  },
+  "source": {
+    "artifact_id": "244097feaaff96f5e7933548b0e8436a6668fded1859c927bf2513264374febc",
+    "source_sha256": "4af58523d3dc4b3930c3835b0093e6da2cadd7fc5205583520331b50d8600172"
+  },
+  "supplement_disposition": "numeric_content"
+}

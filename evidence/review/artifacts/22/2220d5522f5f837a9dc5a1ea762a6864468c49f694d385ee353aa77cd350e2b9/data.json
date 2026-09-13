@@ -1,0 +1,68 @@
+{
+  "archived_summary": {
+    "artifact_id": "2220d5522f5f837a9dc5a1ea762a6864468c49f694d385ee353aa77cd350e2b9",
+    "projection": {
+      "cohort_manifest_sha256": "8260f0eaa6b2e69e62964552f89766678336cad1153e692f4ff44bff2aaa23ad",
+      "first_attempt_success_count": 1,
+      "question_count": 1,
+      "questions_sha256": "294e299788d588ae1f2441d91bb99eb0441752718be1bec6016c60b0266235a6",
+      "recovered_after_retry_count": 0,
+      "result_count": 1,
+      "run_provenance_sha256": "39eb18a3f0f810c0250e732dace7cff8b5fac4a3237ae5fa9dd142b0460df42e",
+      "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+      "status": "ok",
+      "unrecovered_transport_failure_count": 0
+    },
+    "source_sha256": "78b5156571849c5a077b4577288478578e4c1d2429d9f8d2512865f1bcddbf88",
+    "version_mentions": [
+      1316
+    ]
+  },
+  "measurements": {
+    "cohort_manifest_sha256": "8260f0eaa6b2e69e62964552f89766678336cad1153e692f4ff44bff2aaa23ad",
+    "exact_cardinality": true,
+    "first_attempt_success_count": 1,
+    "first_attempt_success_rate": 1.0,
+    "initial_runtime_error_count": 0,
+    "oracle_blind_runtime": true,
+    "question_count": 1,
+    "questions_sha256": "294e299788d588ae1f2441d91bb99eb0441752718be1bec6016c60b0266235a6",
+    "recovered_after_retry_count": 0,
+    "result_count": 1,
+    "retried_runtime_error_count": 0,
+    "run_provenance_sha256": "39eb18a3f0f810c0250e732dace7cff8b5fac4a3237ae5fa9dd142b0460df42e",
+    "secret_values_printed": false,
+    "shard_count": 1,
+    "shards": [
+      {
+        "exit_code": 0,
+        "result_count": 1,
+        "shard_index": 1,
+        "status": "ok"
+      }
+    ],
+    "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+    "status": "ok",
+    "transport_failure_count": 0,
+    "transport_ok_count": 1,
+    "transport_ok_rate": 1.0,
+    "unrecovered_transport_failure_count": 0,
+    "vector_values_printed": false
+  },
+  "original_inventory": {
+    "artifact_id": "2220d5522f5f837a9dc5a1ea762a6864468c49f694d385ee353aa77cd350e2b9",
+    "bytes": 1701,
+    "disposition": "structured_summary_projection",
+    "source_root": "tests/e2e",
+    "source_sha256": "78b5156571849c5a077b4577288478578e4c1d2429d9f8d2512865f1bcddbf88",
+    "suffix": ".json",
+    "version_mentions": [
+      1316
+    ]
+  },
+  "source": {
+    "artifact_id": "2220d5522f5f837a9dc5a1ea762a6864468c49f694d385ee353aa77cd350e2b9",
+    "source_sha256": "78b5156571849c5a077b4577288478578e4c1d2429d9f8d2512865f1bcddbf88"
+  },
+  "supplement_disposition": "numeric_content"
+}

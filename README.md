@@ -3,7 +3,8 @@
 Companion artifacts for a research manuscript by Junjie Wang, Michael Bewong,
 and Lihong Zheng. Publication acceptance is not claimed.
 
-Start with the [iteration history](evidence/ITERATION_HISTORY.md) and the
+Start with the [paginated evidence browser](evidence/review/README.md), the
+[iteration history](evidence/ITERATION_HISTORY.md) and the
 [full-cohort evaluation inventory](evidence/FULL_COHORT_EVALUATIONS.md).
 Every identifier from v1 to v1660 has a report, including identifiers for which
 no reference was located. Version numbers do not establish experiment counts.
@@ -27,6 +28,8 @@ machine labels and strict E2E results remain in the source archive.
 
 ## Review Entry Points
 
+- [Actual result files and per-case verdicts, 50 versions per range](evidence/review/README.md)
+- [Supplemental coverage and remaining gaps](evidence/review/coverage.json)
 - [Complete version index](evidence/ITERATION_HISTORY.md)
 - [Coverage and omissions](evidence/coverage.json)
 - [Baseline evidence and retry resolution](evidence/baseline-system-evaluation/README.md)
@@ -52,8 +55,16 @@ With authorized access to the private experiment checkout:
 ```bash
 python3 tools/export_evidence.py --source /path/to/private/repository
 python3 tools/curate_evidence.py --source /path/to/private/repository
+python3 -m pip install -r tools/requirements-export.txt
+python3 tools/build_review_evidence.py --source /path/to/private/repository
 python3 tools/verify_evidence.py --write-manifest
 ```
+
+The browser builder refuses to overwrite an existing `evidence/review` tree.
+Archive it outside the repository before rebuilding. The supplemental export
+checks private file hashes against the original inventory; changed or missing
+sources are reported, never silently substituted. See the
+[browser repair report](docs/evidence-browser-repair.md) for scope and limitations.
 
 The exporter reads private artifacts; it never changes the source checkout.
 It emits allowlisted statistics, pseudonymous case keys, and source hashes.

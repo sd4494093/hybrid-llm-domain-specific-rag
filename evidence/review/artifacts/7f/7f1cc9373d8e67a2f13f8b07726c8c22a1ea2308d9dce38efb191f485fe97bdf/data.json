@@ -1,0 +1,170 @@
+{
+  "archived_summary": {
+    "artifact_id": "7f1cc9373d8e67a2f13f8b07726c8c22a1ea2308d9dce38efb191f485fe97bdf",
+    "projection": {
+      "dimension_rates": {
+        "answer_type": {
+          "grounded": {
+            "count": 5,
+            "pass_count": 4
+          }
+        },
+        "domain": {
+          "commercial_customer_marketing": {
+            "count": 1,
+            "pass_count": 1
+          },
+          "it_security_digital_workplace": {
+            "count": 2,
+            "pass_count": 1
+          },
+          "product_engineering": {
+            "count": 2,
+            "pass_count": 2
+          }
+        },
+        "language": {
+          "de": {
+            "count": 1,
+            "pass_count": 1
+          },
+          "en": {
+            "count": 1,
+            "pass_count": 0
+          },
+          "pt": {
+            "count": 3,
+            "pass_count": 3
+          }
+        }
+      },
+      "e2e_pass_count": 4,
+      "e2e_pass_rate": 0.8,
+      "failure_classes": {
+        "semantic_judge_rejected": 1
+      },
+      "first_attempt_success_count": 5,
+      "indeterminate_count": 0,
+      "integrity": {
+        "duplicate_case_id_count": 0,
+        "grounded_count": 5,
+        "negative_evidence_contract_count": 0,
+        "no_answer_count": 0,
+        "query_mode": "question_only",
+        "refusal_count": 0,
+        "row_count": 5,
+        "semantic_fact_count": 14,
+        "source_contract_count": 5,
+        "source_evidence_count": 16,
+        "status": "PASS",
+        "violation_count": 0
+      },
+      "machine_semantic_judge_required": true,
+      "machine_semantic_judgments_present": true,
+      "question_count": 5,
+      "recovered_after_retry_count": 0,
+      "result_count": 5,
+      "run_provenance_sha256": "01919d2fb85c2b1f0d26f9251cf61549a1165b4bbcef9356fdcae2f5aa392999",
+      "semantic_judge_model": "gpt-5.5",
+      "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+      "unrecovered_transport_failure_count": 0
+    },
+    "source_sha256": "10f7366e79dde866fdd60a38664447e1ab32aa2713897478070a43055bd28a42",
+    "version_mentions": [
+      1342
+    ]
+  },
+  "measurements": {
+    "dimension_rates": {
+      "answer_type": {
+        "grounded": {
+          "count": 5,
+          "pass_count": 4,
+          "pass_rate": 0.8
+        }
+      },
+      "domain": {
+        "commercial_customer_marketing": {
+          "count": 1,
+          "pass_count": 1,
+          "pass_rate": 1.0
+        },
+        "it_security_digital_workplace": {
+          "count": 2,
+          "pass_count": 1,
+          "pass_rate": 0.5
+        },
+        "product_engineering": {
+          "count": 2,
+          "pass_count": 2,
+          "pass_rate": 1.0
+        }
+      },
+      "language": {
+        "de": {
+          "count": 1,
+          "pass_count": 1,
+          "pass_rate": 1.0
+        },
+        "en": {
+          "count": 1,
+          "pass_count": 0,
+          "pass_rate": 0.0
+        },
+        "pt": {
+          "count": 3,
+          "pass_count": 3,
+          "pass_rate": 1.0
+        }
+      }
+    },
+    "e2e_pass_count": 4,
+    "e2e_pass_rate": 0.8,
+    "failure_classes": {
+      "semantic_judge_rejected": 1
+    },
+    "first_attempt_success_count": 5,
+    "indeterminate_count": 0,
+    "integrity": {
+      "duplicate_case_id_count": 0,
+      "grounded_count": 5,
+      "negative_evidence_contract_count": 0,
+      "no_answer_count": 0,
+      "query_mode": "question_only",
+      "refusal_count": 0,
+      "row_count": 5,
+      "semantic_fact_count": 14,
+      "source_contract_count": 5,
+      "source_evidence_count": 16,
+      "status": "PASS",
+      "violation_count": 0
+    },
+    "machine_semantic_judge_required": true,
+    "machine_semantic_judgments_present": true,
+    "question_count": 5,
+    "recovered_after_retry_count": 0,
+    "result_count": 5,
+    "run_provenance_sha256": "01919d2fb85c2b1f0d26f9251cf61549a1165b4bbcef9356fdcae2f5aa392999",
+    "secret_values_printed": false,
+    "semantic_judge_model": "gpt-5.5",
+    "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+    "unrecovered_transport_failure_count": 0,
+    "vector_values_printed": false
+  },
+  "original_inventory": {
+    "artifact_id": "7f1cc9373d8e67a2f13f8b07726c8c22a1ea2308d9dce38efb191f485fe97bdf",
+    "bytes": 2954,
+    "disposition": "structured_summary_projection",
+    "source_root": "tests/e2e",
+    "source_sha256": "10f7366e79dde866fdd60a38664447e1ab32aa2713897478070a43055bd28a42",
+    "suffix": ".json",
+    "version_mentions": [
+      1342
+    ]
+  },
+  "source": {
+    "artifact_id": "7f1cc9373d8e67a2f13f8b07726c8c22a1ea2308d9dce38efb191f485fe97bdf",
+    "source_sha256": "10f7366e79dde866fdd60a38664447e1ab32aa2713897478070a43055bd28a42"
+  },
+  "supplement_disposition": "numeric_content"
+}

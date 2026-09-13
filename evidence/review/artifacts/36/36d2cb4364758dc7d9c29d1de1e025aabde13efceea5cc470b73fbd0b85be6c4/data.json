@@ -1,0 +1,69 @@
+{
+  "archived_summary": {
+    "artifact_id": "36d2cb4364758dc7d9c29d1de1e025aabde13efceea5cc470b73fbd0b85be6c4",
+    "projection": {
+      "case_workers": 1,
+      "cohort_manifest_sha256": "62dda34335fbfaf9f5bfc21a31e397dacdca91f8c0aa38852679fde0e2fd78ac",
+      "first_attempt_success_count": 4,
+      "max_workers": 1,
+      "question_count": 5,
+      "questions_sha256": "0785f436624c159d56abdc6067666cb4b99d8880ca9659c4e628f2d9bf4d73d6",
+      "recovered_after_retry_count": 0,
+      "result_count": 5,
+      "run_provenance_sha256": "e113b7917223f08f58fea71176f2c62242a3990f8c05063b47321825a605cf85",
+      "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+      "unrecovered_transport_failure_count": 1
+    },
+    "source_sha256": "a062f31568a0be3916a74ad5adddd79cc9466d1f865e53d09ec9a9670b6861fd",
+    "version_mentions": [
+      1494
+    ]
+  },
+  "measurements": {
+    "case_workers": 1,
+    "cohort_manifest_sha256": "62dda34335fbfaf9f5bfc21a31e397dacdca91f8c0aa38852679fde0e2fd78ac",
+    "exact_cardinality": true,
+    "first_attempt_success_count": 4,
+    "first_attempt_success_rate": 0.8,
+    "initial_runtime_error_count": 1,
+    "max_workers": 1,
+    "oracle_blind_runtime": true,
+    "question_count": 5,
+    "questions_sha256": "0785f436624c159d56abdc6067666cb4b99d8880ca9659c4e628f2d9bf4d73d6",
+    "recovered_after_retry_count": 0,
+    "result_count": 5,
+    "retried_runtime_error_count": 0,
+    "run_provenance_sha256": "e113b7917223f08f58fea71176f2c62242a3990f8c05063b47321825a605cf85",
+    "secret_values_printed": false,
+    "shard_count": 1,
+    "shards": [
+      {
+        "exit_code": 1,
+        "result_count": 5,
+        "shard_index": 1
+      }
+    ],
+    "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+    "transport_failure_count": 1,
+    "transport_ok_count": 4,
+    "transport_ok_rate": 0.8,
+    "unrecovered_transport_failure_count": 1,
+    "vector_values_printed": false
+  },
+  "original_inventory": {
+    "artifact_id": "36d2cb4364758dc7d9c29d1de1e025aabde13efceea5cc470b73fbd0b85be6c4",
+    "bytes": 1786,
+    "disposition": "structured_summary_projection",
+    "source_root": ".playwright",
+    "source_sha256": "a062f31568a0be3916a74ad5adddd79cc9466d1f865e53d09ec9a9670b6861fd",
+    "suffix": ".json",
+    "version_mentions": [
+      1494
+    ]
+  },
+  "source": {
+    "artifact_id": "36d2cb4364758dc7d9c29d1de1e025aabde13efceea5cc470b73fbd0b85be6c4",
+    "source_sha256": "a062f31568a0be3916a74ad5adddd79cc9466d1f865e53d09ec9a9670b6861fd"
+  },
+  "supplement_disposition": "numeric_content"
+}

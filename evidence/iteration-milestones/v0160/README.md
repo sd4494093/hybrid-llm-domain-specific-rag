@@ -1,5 +1,9 @@
 # v160: Located Evidence
 
+## Read Actual Evidence
+
+[Open paginated results, case verdicts, and explicit gaps](../../review/v0151-v0200/v0160/README.md). 0 path-associated artifacts have public test content.
+
 Coverage: `not_located`. This version has 0 path-associated artifacts, 0 document references, and 0 commit-subject references.
 
 Path mentions can identify a comparator, schema or question-set revision. They are not proof of a tested implementation.
@@ -9,4 +13,4 @@ Path mentions can identify a comparator, schema or question-set revision. They a
 | Artifact | Cases or rows | Status | Semantic numerator/denominator | E2E pass |
 |---|---:|---|---|---|
 
-No structured summary located by version-associated path. Consult document events and commit references; no score is inferred.
+The original summary-only export contained no summary for this version. Supplemental numerical results and case files, when available, are linked above; no score is inferred.

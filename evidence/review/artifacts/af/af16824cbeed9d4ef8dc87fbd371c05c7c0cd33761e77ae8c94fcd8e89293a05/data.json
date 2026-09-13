@@ -1,0 +1,54 @@
+{
+  "case_records": [
+    {
+      "artifact_id": "af16824cbeed9d4ef8dc87fbd371c05c7c0cd33761e77ae8c94fcd8e89293a05",
+      "case_key": "c8d06691f31c224a3478547656b81c09811a9d79c25cba6b8e5108935b20d2af",
+      "line": 1,
+      "projection": {
+        "cohort_manifest_sha256": "92444dcf90ea31623cdd1ebb0168bba22b2807d8c2e2386b2a9a153a0a915b88",
+        "judgment": {
+          "answer_url_count": 0,
+          "e2e_pass": false,
+          "failure_class": "no_answer",
+          "runtime_ok": true
+        },
+        "latency_ms": 44631,
+        "status": "ok"
+      }
+    },
+    {
+      "artifact_id": "af16824cbeed9d4ef8dc87fbd371c05c7c0cd33761e77ae8c94fcd8e89293a05",
+      "case_key": "8cb55a1129199a97353d5c562f6f3e61abfb39c3a139df8cc13f7be0dcf566e5",
+      "line": 2,
+      "projection": {
+        "cohort_manifest_sha256": "92444dcf90ea31623cdd1ebb0168bba22b2807d8c2e2386b2a9a153a0a915b88",
+        "judgment": {
+          "answer_url_count": 0,
+          "e2e_pass": false,
+          "runtime_ok": true
+        },
+        "latency_ms": 23928,
+        "status": "ok"
+      }
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "af16824cbeed9d4ef8dc87fbd371c05c7c0cd33761e77ae8c94fcd8e89293a05",
+    "bytes": 128859,
+    "disposition": "case_projection",
+    "exported_rows": 2,
+    "invalid_rows": 0,
+    "source_root": "tests/e2e",
+    "source_sha256": "bacb0295f66c7c466f0ce91133a27c6d5d59cb77b8a0dfca38203ed829334dd6",
+    "suffix": ".jsonl",
+    "version_mentions": [
+      23,
+      151
+    ]
+  },
+  "source": {
+    "artifact_id": "af16824cbeed9d4ef8dc87fbd371c05c7c0cd33761e77ae8c94fcd8e89293a05",
+    "source_sha256": "bacb0295f66c7c466f0ce91133a27c6d5d59cb77b8a0dfca38203ed829334dd6"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}

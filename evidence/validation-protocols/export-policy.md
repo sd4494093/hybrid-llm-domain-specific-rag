@@ -41,7 +41,22 @@ JSON summary candidates larger than 16 MiB and Markdown files larger than
 read errors and files changed during export are counted. All original files,
 including those excluded from content projection, remain inventoried.
 
-## Verification
+## Readable Supplement
+
+The [paginated browser](../review/README.md) expands existing public case records
+and summaries without modifying the original archive. Its supplemental exporter
+examines all inventoried JSON and previously unprojected JSONL associated with
+v1000-v1660, including `results.json` and large files omitted by the older filter.
+Streaming parsing retains only explicit numeric, Boolean, enum and hash fields
+inside allowlisted containers. Lists preserve positions; null ranks and false
+flags remain visible. No raw dataset, parent, segment or case IDs are added.
+
+Every source must match its inventoried SHA-256 before supplemental content is
+published. Missing, changed, unparseable, and unprojectable inputs have explicit
+dispositions. Other private formats remain fingerprint/event-only, not fabricated
+results. Coverage counts distinguish test-content artifacts from references.
+
+## Release Verification
 
 `tools/verify_evidence.py` parses every compressed record, enforces the projection
 allowlist, verifies cross-references and label totals, checks a denylist of

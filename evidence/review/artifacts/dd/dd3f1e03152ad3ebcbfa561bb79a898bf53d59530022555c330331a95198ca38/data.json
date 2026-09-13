@@ -1,0 +1,71 @@
+{
+  "case_records": [
+    {
+      "artifact_id": "dd3f1e03152ad3ebcbfa561bb79a898bf53d59530022555c330331a95198ca38",
+      "case_key": "e5b4f0d60a537b87f1c3b40384bada78c6a4cef064f6310308422d1e0f77dbb0",
+      "line": 1,
+      "projection": {
+        "judgment": {
+          "answer_url_count": 0
+        },
+        "latency_ms": 155487,
+        "status": "ok"
+      }
+    },
+    {
+      "artifact_id": "dd3f1e03152ad3ebcbfa561bb79a898bf53d59530022555c330331a95198ca38",
+      "case_key": "a073038ed1adbb786fd80e6bb784eac525856df9bbcef178ab16cad1357b3cfa",
+      "line": 2,
+      "projection": {
+        "judgment": {
+          "answer_url_count": 1
+        },
+        "latency_ms": 57880,
+        "status": "ok"
+      }
+    },
+    {
+      "artifact_id": "dd3f1e03152ad3ebcbfa561bb79a898bf53d59530022555c330331a95198ca38",
+      "case_key": "776d62595b577ccd74988c7d9c1b31ec727ad1e17a77fba040b8930c492ef272",
+      "line": 3,
+      "projection": {
+        "judgment": {
+          "failure_class": "runtime_error_or_timeout"
+        },
+        "latency_ms": 240102,
+        "status": "error"
+      }
+    },
+    {
+      "artifact_id": "dd3f1e03152ad3ebcbfa561bb79a898bf53d59530022555c330331a95198ca38",
+      "case_key": "13f83aa0b3df5e2c49a55ac6725409b8a6336d487778aa08d850d900e457016b",
+      "line": 4,
+      "projection": {
+        "judgment": {
+          "answer_url_count": 1
+        },
+        "latency_ms": 43286,
+        "status": "ok"
+      }
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "dd3f1e03152ad3ebcbfa561bb79a898bf53d59530022555c330331a95198ca38",
+    "bytes": 197389,
+    "disposition": "case_projection",
+    "exported_rows": 4,
+    "invalid_rows": 0,
+    "source_root": "tests/e2e",
+    "source_sha256": "0826e90b5b0e6fd620a9e036356e150b881a6ea0f8155c4af70ae62fb265df62",
+    "suffix": ".jsonl",
+    "version_mentions": [
+      602,
+      603
+    ]
+  },
+  "source": {
+    "artifact_id": "dd3f1e03152ad3ebcbfa561bb79a898bf53d59530022555c330331a95198ca38",
+    "source_sha256": "0826e90b5b0e6fd620a9e036356e150b881a6ea0f8155c4af70ae62fb265df62"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}

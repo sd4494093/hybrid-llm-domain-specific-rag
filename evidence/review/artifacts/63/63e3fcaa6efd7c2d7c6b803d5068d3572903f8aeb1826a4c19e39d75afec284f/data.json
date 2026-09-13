@@ -1,0 +1,215 @@
+{
+  "archived_summary": {
+    "artifact_id": "63e3fcaa6efd7c2d7c6b803d5068d3572903f8aeb1826a4c19e39d75afec284f",
+    "projection": {
+      "dimension_rates": {
+        "answer_type": {
+          "grounded": {
+            "count": 13,
+            "pass_count": 12
+          }
+        },
+        "domain": {
+          "commercial_customer_marketing": {
+            "count": 2,
+            "pass_count": 2
+          },
+          "corporate_operations_policy_communications": {
+            "count": 2,
+            "pass_count": 1
+          },
+          "it_security_digital_workplace": {
+            "count": 3,
+            "pass_count": 3
+          },
+          "people_learning": {
+            "count": 3,
+            "pass_count": 3
+          },
+          "safety_field_operations": {
+            "count": 3,
+            "pass_count": 3
+          }
+        },
+        "language": {
+          "de": {
+            "count": 2,
+            "pass_count": 2
+          },
+          "en": {
+            "count": 5,
+            "pass_count": 5
+          },
+          "es": {
+            "count": 1,
+            "pass_count": 1
+          },
+          "it": {
+            "count": 2,
+            "pass_count": 2
+          },
+          "pt": {
+            "count": 1,
+            "pass_count": 0
+          },
+          "ro": {
+            "count": 2,
+            "pass_count": 2
+          }
+        }
+      },
+      "e2e_pass_count": 12,
+      "e2e_pass_rate": 0.9230769230769231,
+      "failure_classes": {
+        "semantic_judge_rejected": 1
+      },
+      "first_attempt_success_count": 13,
+      "indeterminate_count": 0,
+      "integrity": {
+        "duplicate_case_id_count": 0,
+        "grounded_count": 13,
+        "negative_evidence_contract_count": 0,
+        "no_answer_count": 0,
+        "query_mode": "question_only",
+        "refusal_count": 0,
+        "row_count": 13,
+        "semantic_fact_count": 37,
+        "source_contract_count": 13,
+        "source_evidence_count": 33,
+        "status": "PASS",
+        "violation_count": 0
+      },
+      "machine_semantic_judge_required": true,
+      "machine_semantic_judgments_present": true,
+      "question_count": 13,
+      "recovered_after_retry_count": 0,
+      "result_count": 13,
+      "run_provenance_sha256": "75d3b94671bb362b047593a11b6729a0093cb744e4a2c33a149eea5b788c75ba",
+      "semantic_judge_model": "gpt-5.5",
+      "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+      "unrecovered_transport_failure_count": 0
+    },
+    "source_sha256": "f1cb8486381606d5bac4157f51112176aae1fb9fb055a85d8c079b473c6be9a6",
+    "version_mentions": [
+      1287
+    ]
+  },
+  "measurements": {
+    "dimension_rates": {
+      "answer_type": {
+        "grounded": {
+          "count": 13,
+          "pass_count": 12,
+          "pass_rate": 0.9230769230769231
+        }
+      },
+      "domain": {
+        "commercial_customer_marketing": {
+          "count": 2,
+          "pass_count": 2,
+          "pass_rate": 1.0
+        },
+        "corporate_operations_policy_communications": {
+          "count": 2,
+          "pass_count": 1,
+          "pass_rate": 0.5
+        },
+        "it_security_digital_workplace": {
+          "count": 3,
+          "pass_count": 3,
+          "pass_rate": 1.0
+        },
+        "people_learning": {
+          "count": 3,
+          "pass_count": 3,
+          "pass_rate": 1.0
+        },
+        "safety_field_operations": {
+          "count": 3,
+          "pass_count": 3,
+          "pass_rate": 1.0
+        }
+      },
+      "language": {
+        "de": {
+          "count": 2,
+          "pass_count": 2,
+          "pass_rate": 1.0
+        },
+        "en": {
+          "count": 5,
+          "pass_count": 5,
+          "pass_rate": 1.0
+        },
+        "es": {
+          "count": 1,
+          "pass_count": 1,
+          "pass_rate": 1.0
+        },
+        "it": {
+          "count": 2,
+          "pass_count": 2,
+          "pass_rate": 1.0
+        },
+        "pt": {
+          "count": 1,
+          "pass_count": 0,
+          "pass_rate": 0.0
+        },
+        "ro": {
+          "count": 2,
+          "pass_count": 2,
+          "pass_rate": 1.0
+        }
+      }
+    },
+    "e2e_pass_count": 12,
+    "e2e_pass_rate": 0.9230769230769231,
+    "failure_classes": {
+      "semantic_judge_rejected": 1
+    },
+    "first_attempt_success_count": 13,
+    "indeterminate_count": 0,
+    "integrity": {
+      "duplicate_case_id_count": 0,
+      "grounded_count": 13,
+      "negative_evidence_contract_count": 0,
+      "no_answer_count": 0,
+      "query_mode": "question_only",
+      "refusal_count": 0,
+      "row_count": 13,
+      "semantic_fact_count": 37,
+      "source_contract_count": 13,
+      "source_evidence_count": 33,
+      "status": "PASS",
+      "violation_count": 0
+    },
+    "machine_semantic_judge_required": true,
+    "machine_semantic_judgments_present": true,
+    "question_count": 13,
+    "recovered_after_retry_count": 0,
+    "result_count": 13,
+    "run_provenance_sha256": "75d3b94671bb362b047593a11b6729a0093cb744e4a2c33a149eea5b788c75ba",
+    "secret_values_printed": false,
+    "semantic_judge_model": "gpt-5.5",
+    "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+    "unrecovered_transport_failure_count": 0,
+    "vector_values_printed": false
+  },
+  "original_inventory": {
+    "artifact_id": "63e3fcaa6efd7c2d7c6b803d5068d3572903f8aeb1826a4c19e39d75afec284f",
+    "bytes": 4080,
+    "disposition": "structured_summary_projection",
+    "source_root": "tests/e2e",
+    "source_sha256": "f1cb8486381606d5bac4157f51112176aae1fb9fb055a85d8c079b473c6be9a6",
+    "suffix": ".json",
+    "version_mentions": [
+      1287
+    ]
+  },
+  "source": {
+    "artifact_id": "63e3fcaa6efd7c2d7c6b803d5068d3572903f8aeb1826a4c19e39d75afec284f",
+    "source_sha256": "f1cb8486381606d5bac4157f51112176aae1fb9fb055a85d8c079b473c6be9a6"
+  },
+  "supplement_disposition": "numeric_content"
+}

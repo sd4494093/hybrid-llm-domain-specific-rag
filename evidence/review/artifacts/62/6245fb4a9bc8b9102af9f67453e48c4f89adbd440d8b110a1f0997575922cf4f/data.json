@@ -1,0 +1,38 @@
+{
+  "archived_summary": {
+    "artifact_id": "6245fb4a9bc8b9102af9f67453e48c4f89adbd440d8b110a1f0997575922cf4f",
+    "projection": {
+      "metrics": {
+        "e2e_pass_count": 38,
+        "e2e_pass_rate": 0.76,
+        "failure_classes": {
+          "no_answer": 10,
+          "runtime_error_or_timeout": 1
+        },
+        "no_answer_count": 10,
+        "question_count": 50
+      },
+      "top_k": 30
+    },
+    "source_sha256": "78841bb00e3304671ed768744afb2b9c5f74c91baeae00d84cc2e3f477582eb9",
+    "version_mentions": [
+      116
+    ]
+  },
+  "original_inventory": {
+    "artifact_id": "6245fb4a9bc8b9102af9f67453e48c4f89adbd440d8b110a1f0997575922cf4f",
+    "bytes": 9471,
+    "disposition": "structured_summary_projection",
+    "source_root": "tests/e2e",
+    "source_sha256": "78841bb00e3304671ed768744afb2b9c5f74c91baeae00d84cc2e3f477582eb9",
+    "suffix": ".json",
+    "version_mentions": [
+      116
+    ]
+  },
+  "source": {
+    "artifact_id": "6245fb4a9bc8b9102af9f67453e48c4f89adbd440d8b110a1f0997575922cf4f",
+    "source_sha256": "78841bb00e3304671ed768744afb2b9c5f74c91baeae00d84cc2e3f477582eb9"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}

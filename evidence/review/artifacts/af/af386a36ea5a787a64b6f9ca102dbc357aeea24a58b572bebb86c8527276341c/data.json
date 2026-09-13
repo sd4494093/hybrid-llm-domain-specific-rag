@@ -1,0 +1,70 @@
+{
+  "archived_summary": {
+    "artifact_id": "af386a36ea5a787a64b6f9ca102dbc357aeea24a58b572bebb86c8527276341c",
+    "projection": {
+      "case_workers": 1,
+      "cohort_manifest_sha256": "6cd980b8b94f42c1695aecb4651175168c0ab4e49a466b893af00995353ed90c",
+      "first_attempt_success_count": 1,
+      "question_count": 1,
+      "questions_sha256": "f47d1c6ebf9ad5b3cc1de94c6a2d111d100980a89bb2d6d3067b53f47e74cfd5",
+      "recovered_after_retry_count": 0,
+      "result_count": 1,
+      "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+      "status": "ok",
+      "top_k": 6,
+      "unrecovered_transport_failure_count": 0
+    },
+    "source_sha256": "96b01f80a2c2b0d71aaf9ffa3560f7daf69f7983c9ab8ec4f787387cef16a554",
+    "version_mentions": [
+      1390
+    ]
+  },
+  "measurements": {
+    "case_workers": 1,
+    "chat_retries": 0,
+    "cohort_manifest_sha256": "6cd980b8b94f42c1695aecb4651175168c0ab4e49a466b893af00995353ed90c",
+    "exact_cardinality": true,
+    "first_attempt_success_count": 1,
+    "full_answer_printed": true,
+    "full_cohort_question_count": 474,
+    "initial_runtime_error_count": 0,
+    "keyword_weight": 0.3,
+    "metadata_filter_mode_is_oracle": false,
+    "oracle_blind_runtime": true,
+    "question_count": 1,
+    "questions_sha256": "f47d1c6ebf9ad5b3cc1de94c6a2d111d100980a89bb2d6d3067b53f47e74cfd5",
+    "recovered_after_retry_count": 0,
+    "result_count": 1,
+    "resumed_case_count": 0,
+    "retried_runtime_error_count": 0,
+    "retriever_snippet_chars": 2000,
+    "retry_backoff_seconds": 2.0,
+    "secret_values_printed": false,
+    "shard_count": 474,
+    "shard_index": 232,
+    "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+    "source_snippets_printed": true,
+    "status": "ok",
+    "timeout_seconds": 180.0,
+    "top_k": 6,
+    "unrecovered_transport_failure_count": 0,
+    "vector_values_printed": false,
+    "vector_weight": 0.7
+  },
+  "original_inventory": {
+    "artifact_id": "af386a36ea5a787a64b6f9ca102dbc357aeea24a58b572bebb86c8527276341c",
+    "bytes": 2355,
+    "disposition": "structured_summary_projection",
+    "source_root": "tests/e2e",
+    "source_sha256": "96b01f80a2c2b0d71aaf9ffa3560f7daf69f7983c9ab8ec4f787387cef16a554",
+    "suffix": ".json",
+    "version_mentions": [
+      1390
+    ]
+  },
+  "source": {
+    "artifact_id": "af386a36ea5a787a64b6f9ca102dbc357aeea24a58b572bebb86c8527276341c",
+    "source_sha256": "96b01f80a2c2b0d71aaf9ffa3560f7daf69f7983c9ab8ec4f787387cef16a554"
+  },
+  "supplement_disposition": "numeric_content"
+}

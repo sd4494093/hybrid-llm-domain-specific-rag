@@ -30,6 +30,11 @@ Versions without located references: 170.
 
 ## Reading the Evidence
 
+**[Open the paginated evidence browser](review/README.md)** for actual result
+files, per-case verdicts, supplemental numerical probes and explicit omissions.
+Each range contains at most 50 versions, avoiding GitHub's truncated listing of
+the legacy 1,660-folder directory. See [supplement coverage](review/coverage.json).
+
 Each version links to source artifact IDs, summary IDs, document event IDs, and
 Git commit hashes. Path and prose mentions may refer to an older comparator or
 an oracle/schema version; they do not establish tested code identity. The
@@ -46,10 +51,10 @@ hashes bind projections to the private source. Public file hashes are listed in
 
 ## Verified Anchors
 
-- [MVP UAT](baseline-UAT-20260608/README.md): 2,000 aggregated runs; combined
+- [MVP UAT](baseline-system-evaluation/README.md): 2,000 aggregated runs; combined
   evaluation resolves two initial Judge errors. 1,204 correct, 587 partial,
   172 incorrect, 37 refusal. Usefulness is 1,791/2,000 = 89.55%.
-- [v1660](v1660-final-baseline/README.md): natural-user 2,000-case cohort,
+- [v1660](proposed-system-evaluation/README.md): natural-user 2,000-case cohort,
   semantic correctness 1,451/2,000 = 72.55%, including 396 correct refusals;
   411 partially correct recovery cases yield 1,862/2,000 = 93.1% usefulness.
   The 85% strict semantic target is not reached.

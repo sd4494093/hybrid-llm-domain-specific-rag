@@ -1,0 +1,65 @@
+{
+  "archived_summary": {
+    "artifact_id": "bd84a38aec8d0981e20c6e2f98546ef946dac1d22702d1cba893f97a73ea3583",
+    "projection": {
+      "by_label": {
+        "correct": 1036,
+        "correct_refusal": 395,
+        "error": 4,
+        "incorrect": 80,
+        "incorrect_refusal": 99,
+        "partial": 386
+      },
+      "cohort_manifest_sha256": "06253659fbb217c5e35afb2c59d626faad904e3e99a8a9b0993eec82611afc0d",
+      "correct": 1431,
+      "error": 4,
+      "model": "gpt-5.6-sol",
+      "reasoning_effort": "high",
+      "total": 2000,
+      "uncertain": 0
+    },
+    "source_sha256": "ca3c425b80ea5daa8db9b8b5b42237f1880dd0d1e9f47b3eb203285fde5f0bd3",
+    "version_mentions": [
+      1441
+    ]
+  },
+  "measurements": {
+    "by_label": {
+      "correct": 1036,
+      "correct_refusal": 395,
+      "error": 4,
+      "incorrect": 80,
+      "incorrect_refusal": 99,
+      "partial": 386
+    },
+    "cohort_manifest_sha256": "06253659fbb217c5e35afb2c59d626faad904e3e99a8a9b0993eec82611afc0d",
+    "correct": 1431,
+    "error": 4,
+    "evaluated_count": 1850,
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "resumed_count": 150,
+    "retried_case_count": 0,
+    "runtime_source_evidence_case_count": 1517,
+    "runtime_source_evidence_entry_count": 9195,
+    "secret_values_printed": false,
+    "total": 2000,
+    "uncertain": 0
+  },
+  "original_inventory": {
+    "artifact_id": "bd84a38aec8d0981e20c6e2f98546ef946dac1d22702d1cba893f97a73ea3583",
+    "bytes": 1164,
+    "disposition": "structured_summary_projection",
+    "source_root": "tests/e2e",
+    "source_sha256": "ca3c425b80ea5daa8db9b8b5b42237f1880dd0d1e9f47b3eb203285fde5f0bd3",
+    "suffix": ".json",
+    "version_mentions": [
+      1441
+    ]
+  },
+  "source": {
+    "artifact_id": "bd84a38aec8d0981e20c6e2f98546ef946dac1d22702d1cba893f97a73ea3583",
+    "source_sha256": "ca3c425b80ea5daa8db9b8b5b42237f1880dd0d1e9f47b3eb203285fde5f0bd3"
+  },
+  "supplement_disposition": "numeric_content"
+}

@@ -1,0 +1,57 @@
+{
+  "case_records": [
+    {
+      "artifact_id": "bb27378327a353ddce73a57657880b184e9b308b6b7ea55f933ff6f307181518",
+      "case_key": "a068c76e1be49d752ce27f850dd16fcec5861e6b5ade373529d788571aff58d7",
+      "line": 1,
+      "projection": {
+        "answer_sha256": "e8af08c2febc125986be97e2006b863110f18503eeb114e21a6dbf05a68488d4",
+        "contradiction": false,
+        "evaluator_status": "ok",
+        "groundedness": "partially_grounded",
+        "label": "correct",
+        "model": "gpt-5.5",
+        "question_sha256": "977c07216af41ecd3b8ca33e5796143d29565827ee005f50e60b9e76fead6c9e",
+        "reference_answer_sha256": "9e243e84bbc1060f92fae1aca9b17eecd8800d00bc0d2b0aa455becb732a6499",
+        "score_0_5": 4,
+        "source_evidence_sha256": "66d5d3d6e6bf469b2e7009b2cda4e06c4b6b7b5bed812a2b3d7121c81df8cd97"
+      }
+    },
+    {
+      "artifact_id": "bb27378327a353ddce73a57657880b184e9b308b6b7ea55f933ff6f307181518",
+      "case_key": "db788d5edf1918170d656aa5108ba0c7283ad319dc21abedf73b66496b3cf117",
+      "line": 2,
+      "projection": {
+        "answer_sha256": "ec531f3bb0db84fc8473cfa2cf35dafab9d85eb31d250fb4eda5ab800ccd98ff",
+        "contradiction": false,
+        "evaluator_status": "ok",
+        "groundedness": "partially_grounded",
+        "label": "partial",
+        "model": "gpt-5.5",
+        "question_sha256": "01935198144bef74c77f3212b811e5b4539e48ea97277196000d1f141b7dc2d8",
+        "reference_answer_sha256": "d7e264cbd7e875f8b0429df510dff77a77c593c538d125649c616c5e7df639c2",
+        "score_0_5": 2,
+        "source_evidence_sha256": "7a74da48252d97572d4b32b6f94953c40a17fe141844c5f48b941bc999106491"
+      }
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "bb27378327a353ddce73a57657880b184e9b308b6b7ea55f933ff6f307181518",
+    "bytes": 2295,
+    "disposition": "case_projection",
+    "exported_rows": 2,
+    "invalid_rows": 0,
+    "source_root": "tests/e2e",
+    "source_sha256": "9863b11527eccb12ca91b23b5e5ad664404d49fb92b5d4250efa7160b86a7694",
+    "suffix": ".jsonl",
+    "version_mentions": [
+      11,
+      80
+    ]
+  },
+  "source": {
+    "artifact_id": "bb27378327a353ddce73a57657880b184e9b308b6b7ea55f933ff6f307181518",
+    "source_sha256": "9863b11527eccb12ca91b23b5e5ad664404d49fb92b5d4250efa7160b86a7694"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}

@@ -1,0 +1,87 @@
+{
+  "case_records": [
+    {
+      "artifact_id": "2decb0ab68609f32dad79aeac5504a3995339310f253e2c3c63a71240573e591",
+      "case_key": "856fdb8768b40c20ed298e35045b3ee6e5a3a3179c2dcc01666b3d7a52c503e5",
+      "line": 1,
+      "projection": {
+        "answer_sha256": "c2997850afb69458c1b17e925b8758295ee631b0b6c8256671ce249780ad207f",
+        "citation_support": "unsupported",
+        "contradiction": false,
+        "evaluator_status": "ok",
+        "groundedness": "partially_grounded",
+        "label": "partial",
+        "model": "gpt-5.5",
+        "oracle_facts_sha256": "76d5e613bd0c522f2d69a89f3706cabd70185dba58078001c11f001ec77c3b65",
+        "question_sha256": "d0ccefb4de130cf2969385a619c5d018c69e13b1749a698badb40953a5a65515",
+        "reference_answer_sha256": "f2ffcc0aadcb62cca13fc749271f33e79cde08d3a37c65fc6b896b79146a62f4",
+        "runtime_source_evidence_count": 5,
+        "runtime_source_evidence_sha256": "c4704607648987c5cd6fa08cb211f72fb6185afcba4a751bd6732c760dd36212",
+        "score_0_5": 3,
+        "source_evidence_sha256": "08f4683c0a1bce552a0a11a2c98f99188a855812e2395545d308879bd31816fe"
+      }
+    },
+    {
+      "artifact_id": "2decb0ab68609f32dad79aeac5504a3995339310f253e2c3c63a71240573e591",
+      "case_key": "a7097ecfb1b0a1ae29f812bec029bb9a9c33d8ef7d6df49367670a2d8f0dc447",
+      "line": 2,
+      "projection": {
+        "answer_sha256": "73e5311931072e668df639838e430b6aa2570e14d31a4cf2e0f75cd6afe184ce",
+        "citation_support": "supported",
+        "contradiction": false,
+        "evaluator_status": "ok",
+        "groundedness": "grounded",
+        "label": "correct",
+        "model": "gpt-5.5",
+        "oracle_facts_sha256": "8e03cd5fed0214adea7ed35363b394efa5fce0eddf34b403baa61c1adb640f03",
+        "question_sha256": "dc3d268c590366294b6be87cc9f62d058429b71602c071d73b53beb61a3888a8",
+        "reference_answer_sha256": "2e2557ac64d394ba21f05463b4e870af778467d357a0a8ce8274cd289a29352e",
+        "runtime_source_evidence_count": 8,
+        "runtime_source_evidence_sha256": "c14749c0de20616215b710e7c02dffef3bdbaa90b9a476f9e0eccd6cf44eb3f2",
+        "score_0_5": 5,
+        "source_evidence_sha256": "5ebce81257d023e6dab613f2df708721b166f937e477d15f705e5dca39ad20b2"
+      }
+    },
+    {
+      "artifact_id": "2decb0ab68609f32dad79aeac5504a3995339310f253e2c3c63a71240573e591",
+      "case_key": "836cb4b73ddb9f3510b9acf8e7807b95877f6de3a990ff8db0d74d505123501a",
+      "line": 3,
+      "projection": {
+        "answer_sha256": "61b829839e5f7628151f3a9143491cef9e6a17863dabb44a14497b938fbe926d",
+        "citation_support": "supported",
+        "contradiction": false,
+        "evaluator_status": "ok",
+        "groundedness": "grounded",
+        "label": "correct",
+        "model": "gpt-5.5",
+        "oracle_facts_sha256": "2ae0d0cfe99c594318e04bac46eef95127f05832711c36d50b1685537a35a690",
+        "question_sha256": "3a05f6e309e94c63b229c5bc59fb7abe09fc0abd1a97ccd0f1ca50db3073c044",
+        "reference_answer_sha256": "42ef7424aa29f6dbad5113d20aa72cfc45075bd8e9bab3c915498a0b3f3b2a0b",
+        "runtime_source_evidence_count": 6,
+        "runtime_source_evidence_sha256": "d46acfe11ef96a27cb5a1da9347a2892883b2eacd5ef164a6b23ef75d88669c1",
+        "score_0_5": 5,
+        "source_evidence_sha256": "03bc93d2dc0128b2c78c3b08c506364be0b150081c7f9d6d193d2a2d971bdf41"
+      }
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "2decb0ab68609f32dad79aeac5504a3995339310f253e2c3c63a71240573e591",
+    "bytes": 4153,
+    "disposition": "case_projection",
+    "exported_rows": 3,
+    "invalid_rows": 0,
+    "source_root": "tests/e2e",
+    "source_sha256": "5139898956568cde0d17aaa6a0039e8c5a4d7cef734adf9dcb0d6b20db17d154",
+    "suffix": ".jsonl",
+    "version_mentions": [
+      604,
+      605,
+      606
+    ]
+  },
+  "source": {
+    "artifact_id": "2decb0ab68609f32dad79aeac5504a3995339310f253e2c3c63a71240573e591",
+    "source_sha256": "5139898956568cde0d17aaa6a0039e8c5a4d7cef734adf9dcb0d6b20db17d154"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}

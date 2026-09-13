@@ -1,0 +1,55 @@
+{
+  "case_records": [
+    {
+      "artifact_id": "2e07fe0fa074b56d4cfeec1e90c1ad68b6e49579080db24bac54d898885928f4",
+      "case_key": "4bc082cfc375a641ae55b379772267ada3eaf14028c2f376be6c4e56cae953cb",
+      "line": 1,
+      "projection": {
+        "judgment": {
+          "answer_url_count": 3,
+          "citation_pass": true,
+          "citation_support_pass": true,
+          "critical_case": false,
+          "deterministic_contract_pass": true,
+          "deterministic_semantic_diagnostic_pass": false,
+          "e2e_pass": false,
+          "exact_source_recall_at_10": true,
+          "exact_source_recall_at_30": true,
+          "expected_answer_type": "grounded",
+          "failure_class": "semantic_judge_rejected",
+          "no_answer_detected": false,
+          "retrieval_recall_at_10": true,
+          "retrieval_recall_at_30": true,
+          "runtime_ok": true,
+          "semantic_judge_citation_support": "supported",
+          "semantic_judge_groundedness": "partially_grounded",
+          "semantic_judge_label": "partial",
+          "semantic_judge_material_error_count": 0,
+          "semantic_judge_status": "ok",
+          "semantic_judge_unsupported_claim_count": 0,
+          "semantic_pass": false,
+          "semantic_score": 0.6666666666666666,
+          "semantic_score_rounded": 0.67
+        }
+      }
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "2e07fe0fa074b56d4cfeec1e90c1ad68b6e49579080db24bac54d898885928f4",
+    "bytes": 1037,
+    "disposition": "case_projection",
+    "exported_rows": 1,
+    "invalid_rows": 0,
+    "source_root": "tests/e2e",
+    "source_sha256": "0dee546dc9f1e48759ae214c2616d37e4834a4ff7937a23ba6303c4e275ca28f",
+    "suffix": ".jsonl",
+    "version_mentions": [
+      1317
+    ]
+  },
+  "source": {
+    "artifact_id": "2e07fe0fa074b56d4cfeec1e90c1ad68b6e49579080db24bac54d898885928f4",
+    "source_sha256": "0dee546dc9f1e48759ae214c2616d37e4834a4ff7937a23ba6303c4e275ca28f"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}

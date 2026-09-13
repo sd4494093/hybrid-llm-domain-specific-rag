@@ -1,0 +1,11 @@
+# Source Artifact d41003b75feb
+
+Original type: `.log`. Source SHA-256: `210448531ba6cf841258742dd37a04da65178f291c45ef44457c99560ea54145`.
+
+Public content: fingerprint only; no reviewable test result. Supplement: `not_selected_for_supplement`.
+
+[Read data](data.json)
+
+Data page references inside JSON are relative to this artifact directory.
+
+Source paths, identities, questions, answers and rationales are withheld. Array positions are retained; empty objects or null placeholders mean omitted content, not successful cases.

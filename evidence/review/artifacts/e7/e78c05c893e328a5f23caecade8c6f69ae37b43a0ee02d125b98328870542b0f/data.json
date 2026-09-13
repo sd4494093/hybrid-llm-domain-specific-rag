@@ -1,0 +1,47 @@
+{
+  "case_records": [
+    {
+      "artifact_id": "e78c05c893e328a5f23caecade8c6f69ae37b43a0ee02d125b98328870542b0f",
+      "case_key": "0f721740a1cd78823f0f395415fcca77b95cf76b28d4f95709f75b1b78850bbe",
+      "line": 1,
+      "projection": {
+        "judgment": {
+          "answer_url_count": 1
+        },
+        "latency_ms": 84941,
+        "status": "ok"
+      }
+    },
+    {
+      "artifact_id": "e78c05c893e328a5f23caecade8c6f69ae37b43a0ee02d125b98328870542b0f",
+      "case_key": "a47427e708b00576da7b9d3e3f4ba349b60c3d7ffc137417c417cb4f9e3ea4c7",
+      "line": 2,
+      "projection": {
+        "judgment": {
+          "answer_url_count": 1
+        },
+        "latency_ms": 64925,
+        "status": "ok"
+      }
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "e78c05c893e328a5f23caecade8c6f69ae37b43a0ee02d125b98328870542b0f",
+    "bytes": 133543,
+    "disposition": "case_projection",
+    "exported_rows": 2,
+    "invalid_rows": 0,
+    "source_root": "tests/e2e",
+    "source_sha256": "88f5b9efc51dcf38e5a45ef367a85b63b747824b685eb127ca0be3ae265058ce",
+    "suffix": ".jsonl",
+    "version_mentions": [
+      556,
+      557
+    ]
+  },
+  "source": {
+    "artifact_id": "e78c05c893e328a5f23caecade8c6f69ae37b43a0ee02d125b98328870542b0f",
+    "source_sha256": "88f5b9efc51dcf38e5a45ef367a85b63b747824b685eb127ca0be3ae265058ce"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}

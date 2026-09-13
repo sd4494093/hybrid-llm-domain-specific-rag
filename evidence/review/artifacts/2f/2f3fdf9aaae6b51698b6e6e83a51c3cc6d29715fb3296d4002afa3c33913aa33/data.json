@@ -1,0 +1,50 @@
+{
+  "case_records": [
+    {
+      "artifact_id": "2f3fdf9aaae6b51698b6e6e83a51c3cc6d29715fb3296d4002afa3c33913aa33",
+      "case_key": "744aba691f14e0b5da10f61a8d6cfb2999004d88c08254dd19a41e5d594ce20c",
+      "line": 1,
+      "projection": {
+        "cohort_manifest_sha256": "ea6c13fb9f513362881086b90334375f817089cd0ae8b48f271638c6e9af5253",
+        "latency_ms": 185169,
+        "model_config_sha256": "5b381afb3cc4162d403a9ed1f760f2b40407f1c75355b8326f6decea2212fd63",
+        "question_sha256": "224b844726798b2f2e2dde3a2b61ec66451550bacba875b88efa7222421ea6e0",
+        "run_provenance_sha256": "781a09c9902938735c686f63b0bf0217162d33b74ddaaaf397236fed4dc27d96",
+        "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+        "status": "error"
+      }
+    },
+    {
+      "artifact_id": "2f3fdf9aaae6b51698b6e6e83a51c3cc6d29715fb3296d4002afa3c33913aa33",
+      "case_key": "c785931dfe185b44bb739565192bc02017a4ca26843514d3b498d6acb83075c0",
+      "line": 2,
+      "projection": {
+        "cohort_manifest_sha256": "ea6c13fb9f513362881086b90334375f817089cd0ae8b48f271638c6e9af5253",
+        "latency_ms": 191853,
+        "model_config_sha256": "5b381afb3cc4162d403a9ed1f760f2b40407f1c75355b8326f6decea2212fd63",
+        "question_sha256": "cb25e27a124a864354ea16764d0c0ba2c006e721855ca47469353ba9d4366339",
+        "run_provenance_sha256": "781a09c9902938735c686f63b0bf0217162d33b74ddaaaf397236fed4dc27d96",
+        "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+        "status": "error"
+      }
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "2f3fdf9aaae6b51698b6e6e83a51c3cc6d29715fb3296d4002afa3c33913aa33",
+    "bytes": 6691,
+    "disposition": "case_projection",
+    "exported_rows": 2,
+    "invalid_rows": 0,
+    "source_root": "tests/e2e",
+    "source_sha256": "9b5412632ebf016f6aa62c92f0e5f0a2ac9da3c8bdc785c856f4e21e10004a81",
+    "suffix": ".jsonl",
+    "version_mentions": [
+      300
+    ]
+  },
+  "source": {
+    "artifact_id": "2f3fdf9aaae6b51698b6e6e83a51c3cc6d29715fb3296d4002afa3c33913aa33",
+    "source_sha256": "9b5412632ebf016f6aa62c92f0e5f0a2ac9da3c8bdc785c856f4e21e10004a81"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}

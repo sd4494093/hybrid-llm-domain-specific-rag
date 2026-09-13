@@ -1,0 +1,38 @@
+{
+  "measurements": {
+    "failure_classes": {
+      "citation_wrong_source": 43,
+      "grounded_no_answer": 43,
+      "no_answer_incorrect": 9,
+      "runtime_error_or_timeout": 21,
+      "semantic_incorrect": 3,
+      "semantic_judge_indeterminate": 1,
+      "semantic_judge_rejected": 291
+    },
+    "runtime": {
+      "exact_cardinality": true,
+      "first_attempt_success_count": 1959,
+      "first_attempt_success_rate": 0.9795,
+      "recovered_after_retry_count": 20,
+      "result_count": 2000,
+      "unrecovered_transport_failure_count": 21
+    },
+    "semantic": {}
+  },
+  "original_inventory": {
+    "artifact_id": "dd45c0437ae452828ae94ace931fcef8c209607799b431583a4f31b1e2cf7761",
+    "bytes": 5668,
+    "disposition": "hash_only_private_content",
+    "source_root": "tests/e2e",
+    "source_sha256": "1d1c0f55c48019912769b9ea90f7ab26ee3a3e30618e61b3b3463f433babd52b",
+    "suffix": ".json",
+    "version_mentions": [
+      1225
+    ]
+  },
+  "source": {
+    "artifact_id": "dd45c0437ae452828ae94ace931fcef8c209607799b431583a4f31b1e2cf7761",
+    "source_sha256": "1d1c0f55c48019912769b9ea90f7ab26ee3a3e30618e61b3b3463f433babd52b"
+  },
+  "supplement_disposition": "numeric_content"
+}

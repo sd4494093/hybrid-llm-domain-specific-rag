@@ -1,0 +1,61 @@
+{
+  "measurements": [
+    {
+      "line": 1,
+      "measurements": {
+        "citation_support": "supported",
+        "contradiction": true,
+        "semantic_label": "incorrect"
+      }
+    },
+    {
+      "line": 2,
+      "measurements": {
+        "citation_support": "supported",
+        "contradiction": false,
+        "semantic_label": "partial"
+      }
+    },
+    {
+      "line": 3,
+      "measurements": {
+        "citation_support": "supported",
+        "contradiction": false,
+        "semantic_label": "partial"
+      }
+    },
+    {
+      "line": 4,
+      "measurements": {
+        "citation_support": "supported",
+        "contradiction": true,
+        "semantic_label": "partial"
+      }
+    },
+    {
+      "line": 5,
+      "measurements": {
+        "citation_support": "supported",
+        "contradiction": false,
+        "semantic_label": "partial"
+      }
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "789b47f57ec450dc1ef821ffead02a5104724cbb85f928bc99a33c73cb6b8682",
+    "bytes": 4823,
+    "disposition": "hash_only_private_content",
+    "source_root": "tests/e2e",
+    "source_sha256": "d7e08f3ba1d3a0044c60da012cd0769fb96e6a57f68f12b597c50c02087bdd04",
+    "suffix": ".jsonl",
+    "version_mentions": [
+      13,
+      1337
+    ]
+  },
+  "source": {
+    "artifact_id": "789b47f57ec450dc1ef821ffead02a5104724cbb85f928bc99a33c73cb6b8682",
+    "source_sha256": "d7e08f3ba1d3a0044c60da012cd0769fb96e6a57f68f12b597c50c02087bdd04"
+  },
+  "supplement_disposition": "numeric_content"
+}

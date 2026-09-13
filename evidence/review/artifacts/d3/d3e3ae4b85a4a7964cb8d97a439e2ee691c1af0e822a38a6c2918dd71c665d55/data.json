@@ -1,0 +1,64 @@
+{
+  "archived_summary": {
+    "artifact_id": "d3e3ae4b85a4a7964cb8d97a439e2ee691c1af0e822a38a6c2918dd71c665d55",
+    "projection": {
+      "case_workers": 1,
+      "first_attempt_success_count": 0,
+      "question_count": 3,
+      "questions_sha256": "0188579388a0aad18997e43ff74e576e5898e5a97e09686fde5d326db9d10c00",
+      "recovered_after_retry_count": 0,
+      "result_count": 3,
+      "top_k": 50,
+      "unrecovered_transport_failure_count": 3
+    },
+    "source_sha256": "83c0f9a420c3bc268d4696f8395236beaaf1f89491f11bd7ac19fe2f5a046bc2",
+    "version_mentions": [
+      1257
+    ]
+  },
+  "measurements": {
+    "case_workers": 1,
+    "chat_retries": 1,
+    "exact_cardinality": true,
+    "first_attempt_success_count": 0,
+    "full_answer_printed": false,
+    "full_cohort_question_count": 3,
+    "initial_runtime_error_count": 3,
+    "keyword_weight": 0.3,
+    "metadata_filter_mode_is_oracle": false,
+    "oracle_blind_runtime": false,
+    "question_count": 3,
+    "questions_sha256": "0188579388a0aad18997e43ff74e576e5898e5a97e09686fde5d326db9d10c00",
+    "recovered_after_retry_count": 0,
+    "result_count": 3,
+    "resumed_case_count": 0,
+    "retried_runtime_error_count": 0,
+    "retriever_snippet_chars": 1800,
+    "retry_backoff_seconds": 2.0,
+    "secret_values_printed": false,
+    "shard_count": 1,
+    "shard_index": 1,
+    "source_snippets_printed": true,
+    "timeout_seconds": 90.0,
+    "top_k": 50,
+    "unrecovered_transport_failure_count": 3,
+    "vector_values_printed": false,
+    "vector_weight": 0.7
+  },
+  "original_inventory": {
+    "artifact_id": "d3e3ae4b85a4a7964cb8d97a439e2ee691c1af0e822a38a6c2918dd71c665d55",
+    "bytes": 2428,
+    "disposition": "structured_summary_projection",
+    "source_root": "tests/e2e",
+    "source_sha256": "83c0f9a420c3bc268d4696f8395236beaaf1f89491f11bd7ac19fe2f5a046bc2",
+    "suffix": ".json",
+    "version_mentions": [
+      1257
+    ]
+  },
+  "source": {
+    "artifact_id": "d3e3ae4b85a4a7964cb8d97a439e2ee691c1af0e822a38a6c2918dd71c665d55",
+    "source_sha256": "83c0f9a420c3bc268d4696f8395236beaaf1f89491f11bd7ac19fe2f5a046bc2"
+  },
+  "supplement_disposition": "numeric_content"
+}

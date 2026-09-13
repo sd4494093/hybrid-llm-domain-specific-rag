@@ -1,0 +1,57 @@
+{
+  "archived_summary": {
+    "artifact_id": "f4ecf7a6a804b4a015bc2404968da2813c4c46211fa1376bfa5be571bbbb565a",
+    "projection": {
+      "by_label": {
+        "correct": 4,
+        "partial": 1
+      },
+      "cohort_manifest_sha256": "06253659fbb217c5e35afb2c59d626faad904e3e99a8a9b0993eec82611afc0d",
+      "correct": 4,
+      "error": 0,
+      "model": "gpt-5.6-sol",
+      "reasoning_effort": "high",
+      "total": 5,
+      "uncertain": 0
+    },
+    "source_sha256": "5338c4bfdc871736c0b78b8bb35a804fc2935cbfd1702027da030bb9a32a2081",
+    "version_mentions": [
+      1451
+    ]
+  },
+  "measurements": {
+    "by_label": {
+      "correct": 4,
+      "partial": 1
+    },
+    "cohort_manifest_sha256": "06253659fbb217c5e35afb2c59d626faad904e3e99a8a9b0993eec82611afc0d",
+    "correct": 4,
+    "error": 0,
+    "evaluated_count": 5,
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "resumed_count": 0,
+    "retried_case_count": 0,
+    "runtime_source_evidence_case_count": 5,
+    "runtime_source_evidence_entry_count": 43,
+    "secret_values_printed": false,
+    "total": 5,
+    "uncertain": 0
+  },
+  "original_inventory": {
+    "artifact_id": "f4ecf7a6a804b4a015bc2404968da2813c4c46211fa1376bfa5be571bbbb565a",
+    "bytes": 972,
+    "disposition": "structured_summary_projection",
+    "source_root": "tests/e2e",
+    "source_sha256": "5338c4bfdc871736c0b78b8bb35a804fc2935cbfd1702027da030bb9a32a2081",
+    "suffix": ".json",
+    "version_mentions": [
+      1451
+    ]
+  },
+  "source": {
+    "artifact_id": "f4ecf7a6a804b4a015bc2404968da2813c4c46211fa1376bfa5be571bbbb565a",
+    "source_sha256": "5338c4bfdc871736c0b78b8bb35a804fc2935cbfd1702027da030bb9a32a2081"
+  },
+  "supplement_disposition": "numeric_content"
+}

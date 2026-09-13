@@ -1,0 +1,49 @@
+{
+  "case_records": [
+    {
+      "artifact_id": "67e24c0baa260bebad0af6dcbb89129693d64f5b669cebee673405481e963237",
+      "case_key": "d3d0f6e9bf0e0079ef6679c4a61a36a05df631fe7d913b25d3c882797e66c85c",
+      "line": 1,
+      "projection": {
+        "cohort_manifest_sha256": "77b96e6cae325ad49358529dc48d3e10990dc82ab18f125dfbc558e9abe6b962",
+        "latency_ms": 66675,
+        "model_config_sha256": "bf73e0301a3024f42f759b63b4aff64cf99396bcb054ec36a7ed395542ff71cc",
+        "question_sha256": "cc4393af7d8ce9d36680e6d7c66ee251cd8c763abdecccca816e68fcadc5ca45",
+        "run_provenance_sha256": "02e9a2c076bbd45657f7ba2cbd29d9df56b4e7376c2a286b2dc378c397ca8dea",
+        "status": "ok"
+      }
+    },
+    {
+      "artifact_id": "67e24c0baa260bebad0af6dcbb89129693d64f5b669cebee673405481e963237",
+      "case_key": "d670c76c9fd244448c3cb6bc385a02969d373e9491665dfe2e2b072095ee134f",
+      "line": 2,
+      "projection": {
+        "cohort_manifest_sha256": "77b96e6cae325ad49358529dc48d3e10990dc82ab18f125dfbc558e9abe6b962",
+        "latency_ms": 60111,
+        "model_config_sha256": "bf73e0301a3024f42f759b63b4aff64cf99396bcb054ec36a7ed395542ff71cc",
+        "question_sha256": "b8ae514a78c914fff180f2b4e6da85c765c3399a149291897ff5e5d1580ef615",
+        "run_provenance_sha256": "02e9a2c076bbd45657f7ba2cbd29d9df56b4e7376c2a286b2dc378c397ca8dea",
+        "status": "ok"
+      }
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "67e24c0baa260bebad0af6dcbb89129693d64f5b669cebee673405481e963237",
+    "bytes": 180040,
+    "disposition": "case_projection",
+    "exported_rows": 2,
+    "invalid_rows": 0,
+    "source_root": "tests/e2e",
+    "source_sha256": "082a183eb9e379bc65a90c96d6ba724da89479a19002892face23158f9b5c0ff",
+    "suffix": ".jsonl",
+    "version_mentions": [
+      953,
+      954
+    ]
+  },
+  "source": {
+    "artifact_id": "67e24c0baa260bebad0af6dcbb89129693d64f5b669cebee673405481e963237",
+    "source_sha256": "082a183eb9e379bc65a90c96d6ba724da89479a19002892face23158f9b5c0ff"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}

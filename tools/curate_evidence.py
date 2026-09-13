@@ -83,7 +83,7 @@ def main():
         (path / "README.md").write_text("\n".join(lines) + "\n")
 
     # Bind the original and the resolved baseline rather than overwriting history.
-    baseline_dir = out / "baseline-UAT-20260608"
+    baseline_dir = out / "baseline-system-evaluation"
     initial_ref, initial = bound(BASELINE + "/full_semantic_judge/semantic_judge_summary.json")
     final_ref, baseline = bound(BASELINE + "/full_semantic_judge_combined/semantic_judge_summary.json")
     baseline_rows = cases(BASELINE + "/full_semantic_judge_combined/semantic_judge_results.jsonl", baseline_dir / "case-labels.json", "semantic_label")
@@ -98,7 +98,7 @@ def main():
          "retry_resolution": {"initial_judge_errors": initial["judge_error_rows"], "combined_judge_errors": baseline["judge_error_rows"], "combined_retry_rows": baseline["retry_rows"]},
          "comparison_limit": "Different cohort and evaluator from September natural-user evaluation; sample-size equality is not protocol equivalence."})
 
-    final_dir = out / "v1660-final-baseline"
+    final_dir = out / "proposed-system-evaluation"
     sources = {}
     for alias, rel in {"evaluation": "/evaluation-complete/summary.json", "judge": "/judge-complete/summary.json",
                        "failure-cohort": "/failure-cohort/summary.json", "promotion": "/baseline-decision.json"}.items():

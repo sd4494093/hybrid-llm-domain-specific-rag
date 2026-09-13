@@ -1,0 +1,85 @@
+{
+  "case_records": [
+    {
+      "artifact_id": "98ce3b2ade2105066e508531e49e82f2aec8723c3308bea61a4dc4271bec5cf0",
+      "case_key": "2744eb9d879e30ad49a765a1aaed71a09670d749cb979e172dc26a1cd33157b4",
+      "line": 1,
+      "projection": {
+        "answer_sha256": "07af22c711b6032ce9d3755e792967a2a3382ae4fe203ade235d326858baacde",
+        "citation_support": "supported",
+        "contradiction": false,
+        "evaluator_status": "ok",
+        "groundedness": "grounded",
+        "label": "correct",
+        "model": "gpt-5.5",
+        "oracle_facts_sha256": "258cbb931d4ca402c8d0a77cffa52e060c667234cb035c1b9e06001a87a90d8b",
+        "question_sha256": "a0990a8401fe895f377ec9e1f0a902476f72953b3fe8b39635884bff25a932d2",
+        "reference_answer_sha256": "98c32eb5815d91e5bbb7e4d000967891e287ba163eab1a63ff4753d5b8cf8e0c",
+        "runtime_source_evidence_count": 4,
+        "runtime_source_evidence_sha256": "1d3e9e527fd49d8a0e10f5a2796ddd4086a470bda8eafbf753fa6240d6630de1",
+        "score_0_5": 5,
+        "source_evidence_sha256": "5a058ef3258f0b09884942b03cec82d3ef0fa0e78bf5b08b11e95b02dd6b68d8"
+      }
+    },
+    {
+      "artifact_id": "98ce3b2ade2105066e508531e49e82f2aec8723c3308bea61a4dc4271bec5cf0",
+      "case_key": "122bf08cb4f0385f01b57f48e0325e271538fa18296d4d531aa9508142605c2e",
+      "line": 2,
+      "projection": {
+        "answer_sha256": "b1571578abde45860a0368ebec053f072da6856f8c598b66999043cc96878c70",
+        "citation_support": "supported",
+        "contradiction": false,
+        "evaluator_status": "ok",
+        "groundedness": "grounded",
+        "label": "correct",
+        "model": "gpt-5.5",
+        "oracle_facts_sha256": "643e66cc77ee99e55c20ec23f5a17084f3e987e8de1722bce6eb28358b12e144",
+        "question_sha256": "7ec24277cbdcc12ee69a35f009c61c5503b2d91a2a58f0af649ad271c3241311",
+        "reference_answer_sha256": "fc2bd6ec4f7270c8135f1ea020e2e0957099291a006179f9c96988d41e7a4316",
+        "runtime_source_evidence_count": 2,
+        "runtime_source_evidence_sha256": "9d0b26953e61ee1901af13a26d7e01048160b1d823cb757ae76debdd51cf6a82",
+        "score_0_5": 5,
+        "source_evidence_sha256": "52edb44d148acefdcbd6f8fe1ea7d10170b83417d242a5ac2d37db337c3e76cc"
+      }
+    },
+    {
+      "artifact_id": "98ce3b2ade2105066e508531e49e82f2aec8723c3308bea61a4dc4271bec5cf0",
+      "case_key": "fa283d1b257a425bf2becfb842b4ccafe93f571a7cf9f5a3a2ba6672c566eba8",
+      "line": 3,
+      "projection": {
+        "answer_sha256": "165ce092d1d8591d3dd08afe985f20b17d41447f7d4d080a4fa5154ce31c7b40",
+        "citation_support": "supported",
+        "contradiction": false,
+        "evaluator_status": "ok",
+        "groundedness": "partially_grounded",
+        "label": "partial",
+        "model": "gpt-5.5",
+        "oracle_facts_sha256": "6004d177340669bae5fe6bc2e6b2f48a568b101f518cc0b2be1b9b7b2c73acee",
+        "question_sha256": "14fd361d98a2201de9d9916dc01070ef08fa9a64f8bb7fb07d761b2d9ac615b0",
+        "reference_answer_sha256": "c92e9e281b49c6e4ab3ad49fe08a5e9a8e8409bd29f9bc038ca943d5e1c6ee46",
+        "runtime_source_evidence_count": 8,
+        "runtime_source_evidence_sha256": "d001d89c4a4e850c1960bc38d59e902d29020021c2acdf1b17c33d8eb85021fc",
+        "score_0_5": 2,
+        "source_evidence_sha256": "a0f9b7bf2b4201e7bbfa6e9abfdc22096bf51259a46728ab294973ebfb86f1f5"
+      }
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "98ce3b2ade2105066e508531e49e82f2aec8723c3308bea61a4dc4271bec5cf0",
+    "bytes": 4255,
+    "disposition": "case_projection",
+    "exported_rows": 3,
+    "invalid_rows": 0,
+    "source_root": "tests/e2e",
+    "source_sha256": "4e94e0f28dfc0606e18c371af323d1549d7f1bd0ea9f962cabcb418717d1649b",
+    "suffix": ".jsonl",
+    "version_mentions": [
+      1320
+    ]
+  },
+  "source": {
+    "artifact_id": "98ce3b2ade2105066e508531e49e82f2aec8723c3308bea61a4dc4271bec5cf0",
+    "source_sha256": "4e94e0f28dfc0606e18c371af323d1549d7f1bd0ea9f962cabcb418717d1649b"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}

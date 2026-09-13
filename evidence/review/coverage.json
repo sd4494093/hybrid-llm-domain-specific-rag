@@ -1,0 +1,19 @@
+{
+  "counts": {
+    "artifacts": 62778,
+    "artifacts_with_test_content": 16417,
+    "case_records": 399300,
+    "supplement_no_allowlisted_measurements": 537,
+    "supplement_numeric_content": 5222,
+    "supplement_parse_error": 4,
+    "v1000_plus_versions_with_test_content": 531,
+    "versions_with_test_content": 1313
+  },
+  "inventory_sha256": "b730708afed332393547e854405f741db5cf624adcc5ccc3ddf478250879962a",
+  "limits": [
+    "Original snapshot retained; missing or changed private sources are not replaced.",
+    "Allowlisted measurements only, not full private artifacts or independent semantic regrading.",
+    "Version association is not execution identity; case counts include overlapping runs."
+  ],
+  "scope": "all_version_navigation_and_archived_content; supplemental_JSON_JSONL_for_v1000_to_v1660"
+}

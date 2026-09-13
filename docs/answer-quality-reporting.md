@@ -20,9 +20,9 @@ separate strict E2E metric, whose original results remain in the raw archive.
 
 ## Source Mapping
 
-[Paper reporting](../evidence/v1660-final-baseline/paper-reporting.json) maps
+[Paper reporting](../evidence/proposed-system-evaluation/paper-reporting.json) maps
 the 1,451 strict successes and the 411 planner/partial ownership cases from the
-[source summary](../evidence/v1660-final-baseline/summary.json). The original
+[source summary](../evidence/proposed-system-evaluation/summary.json). The original
 Judge's five-label distribution remains available: 1,055 correct, 396 correct
 refusal, 354 partial, 91 incorrect, and 104 incorrect refusal. The paper's
 partially correct category is the recovery-layer grouping, not a rename of

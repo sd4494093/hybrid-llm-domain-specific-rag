@@ -1,0 +1,80 @@
+{
+  "archived_summary": {
+    "artifact_id": "f8d9f05f98e720cd390ade05c2fe3a3d99afe2fa469190d468cf0684cd60194b",
+    "projection": {
+      "dimension_rates": {
+        "answer_type": {
+          "grounded": {
+            "count": 7,
+            "pass_count": 5
+          },
+          "no_answer": {
+            "count": 1,
+            "pass_count": 1
+          }
+        },
+        "language": {
+          "en": {
+            "count": 8,
+            "pass_count": 6
+          }
+        }
+      },
+      "e2e_pass_count": 6,
+      "e2e_pass_rate": 0.75,
+      "failure_classes": {
+        "citation_wrong_source": 1,
+        "semantic_judge_rejected": 1
+      },
+      "first_attempt_success_count": 0,
+      "indeterminate_count": 0,
+      "integrity": {
+        "duplicate_case_id_count": 0,
+        "grounded_count": 7,
+        "negative_evidence_contract_count": 1,
+        "no_answer_count": 1,
+        "query_mode": "question_only",
+        "refusal_count": 0,
+        "row_count": 8,
+        "semantic_fact_count": 22,
+        "source_contract_count": 7,
+        "source_evidence_count": 33,
+        "status": "PASS",
+        "violation_count": 0
+      },
+      "machine_semantic_judge_required": true,
+      "machine_semantic_judgments_present": true,
+      "question_count": 8,
+      "recovered_after_retry_count": 0,
+      "result_count": 8,
+      "semantic_judge_model": "gpt-5.5",
+      "unrecovered_transport_failure_count": 0
+    },
+    "source_sha256": "486ef7102d7d7d139936c373d8d82a6a18bfe61980e50d938aed5e8dfa3b418a",
+    "version_mentions": [
+      880,
+      887,
+      888,
+      889
+    ]
+  },
+  "original_inventory": {
+    "artifact_id": "f8d9f05f98e720cd390ade05c2fe3a3d99afe2fa469190d468cf0684cd60194b",
+    "bytes": 3830,
+    "disposition": "structured_summary_projection",
+    "source_root": "tests/e2e",
+    "source_sha256": "486ef7102d7d7d139936c373d8d82a6a18bfe61980e50d938aed5e8dfa3b418a",
+    "suffix": ".json",
+    "version_mentions": [
+      880,
+      887,
+      888,
+      889
+    ]
+  },
+  "source": {
+    "artifact_id": "f8d9f05f98e720cd390ade05c2fe3a3d99afe2fa469190d468cf0684cd60194b",
+    "source_sha256": "486ef7102d7d7d139936c373d8d82a6a18bfe61980e50d938aed5e8dfa3b418a"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}

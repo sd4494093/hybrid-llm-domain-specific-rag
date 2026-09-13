@@ -1,0 +1,40 @@
+{
+  "measurements": {
+    "failure_classes": {
+      "citation_wrong_source": 37,
+      "grounded_no_answer": 21,
+      "no_answer_incorrect": 41,
+      "runtime_error_or_timeout": 10,
+      "semantic_incomplete": 3,
+      "semantic_incorrect": 1,
+      "semantic_judge_rejected": 374
+    },
+    "runtime": {
+      "exact_cardinality": true,
+      "first_attempt_success_count": 1972,
+      "first_attempt_success_rate": 0.986,
+      "recovered_after_retry_count": 18,
+      "result_count": 2000,
+      "unrecovered_transport_failure_count": 10
+    },
+    "semantic": {
+      "critical_severe_error_count": 0
+    }
+  },
+  "original_inventory": {
+    "artifact_id": "0334f6521d4994fa080cf5d6af5be8675711eb4894435574286690aee7979e0f",
+    "bytes": 11236,
+    "disposition": "hash_only_private_content",
+    "source_root": "tests/e2e",
+    "source_sha256": "04caacc96a29ea6fd49bf8dee601ca4405db37d8a33bd01f6971bc2df09f0114",
+    "suffix": ".json",
+    "version_mentions": [
+      1223
+    ]
+  },
+  "source": {
+    "artifact_id": "0334f6521d4994fa080cf5d6af5be8675711eb4894435574286690aee7979e0f",
+    "source_sha256": "04caacc96a29ea6fd49bf8dee601ca4405db37d8a33bd01f6971bc2df09f0114"
+  },
+  "supplement_disposition": "numeric_content"
+}

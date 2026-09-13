@@ -1,0 +1,50 @@
+{
+  "measurements": [
+    {
+      "answer_chars": 2090,
+      "chat_attempts": 2,
+      "cohort_manifest_sha256": "0595580630c98f9b42fee82d7124647c33b3492d2adc9088760a1fc6417a4318",
+      "error": null,
+      "http_code": 200,
+      "latency_ms": 423448,
+      "model_config_sha256": "1cd713b66af0b54395b516d4a8868034cde1fe7fe9748ed19e82d8a61856cc28",
+      "question_sha256": "81825f5206ab3d78785b9fe4ef95e943f81ed2843f801be581f96a72f731c75a",
+      "retried_runtime_error": true,
+      "retriever_resource_count": 16,
+      "run_provenance_sha256": "2b1fe4eaa0859b00a6b12c55a373d2117cd962e17d97c77a6be69ae010d78898",
+      "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+      "status": "ok"
+    },
+    {
+      "answer_chars": 581,
+      "chat_attempts": 2,
+      "cohort_manifest_sha256": "0595580630c98f9b42fee82d7124647c33b3492d2adc9088760a1fc6417a4318",
+      "error": null,
+      "http_code": 200,
+      "latency_ms": 554005,
+      "model_config_sha256": "1cd713b66af0b54395b516d4a8868034cde1fe7fe9748ed19e82d8a61856cc28",
+      "question_sha256": "c6b254a9953117c305e2810e37929dfb00ad7e43d233ccb326cc797c701f2fda",
+      "retried_runtime_error": true,
+      "retriever_resource_count": 16,
+      "run_provenance_sha256": "2b1fe4eaa0859b00a6b12c55a373d2117cd962e17d97c77a6be69ae010d78898",
+      "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+      "status": "ok"
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "0fa904a29d57313b78d6223e7d23064df165c62f3ce3e64a70e3dcd025ee567f",
+    "bytes": 692086,
+    "disposition": "hash_only_private_content",
+    "source_root": ".playwright",
+    "source_sha256": "ae98db9c710f6700ee2f75827863230cf68951733feb2652e488a9cf12caf912",
+    "suffix": ".json",
+    "version_mentions": [
+      1520
+    ]
+  },
+  "source": {
+    "artifact_id": "0fa904a29d57313b78d6223e7d23064df165c62f3ce3e64a70e3dcd025ee567f",
+    "source_sha256": "ae98db9c710f6700ee2f75827863230cf68951733feb2652e488a9cf12caf912"
+  },
+  "supplement_disposition": "numeric_content"
+}

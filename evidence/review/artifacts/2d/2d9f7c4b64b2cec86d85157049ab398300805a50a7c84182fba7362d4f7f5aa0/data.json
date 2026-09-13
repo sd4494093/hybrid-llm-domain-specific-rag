@@ -1,0 +1,131 @@
+{
+  "archived_summary": {
+    "artifact_id": "2d9f7c4b64b2cec86d85157049ab398300805a50a7c84182fba7362d4f7f5aa0",
+    "projection": {
+      "dimension_rates": {
+        "answer_type": {
+          "grounded": {
+            "count": 1,
+            "pass_count": 1
+          }
+        },
+        "domain": {
+          "corporate_operations_policy_communications": {
+            "count": 1,
+            "pass_count": 1
+          }
+        },
+        "language": {
+          "en": {
+            "count": 1,
+            "pass_count": 1
+          }
+        }
+      },
+      "e2e_pass_count": 1,
+      "e2e_pass_rate": 1.0,
+      "first_attempt_success_count": 0,
+      "indeterminate_count": 0,
+      "integrity": {
+        "duplicate_case_id_count": 0,
+        "grounded_count": 1,
+        "negative_evidence_contract_count": 0,
+        "no_answer_count": 0,
+        "query_mode": "question_only",
+        "refusal_count": 0,
+        "row_count": 1,
+        "semantic_fact_count": 3,
+        "source_contract_count": 1,
+        "source_evidence_count": 3,
+        "status": "PASS",
+        "violation_count": 0
+      },
+      "machine_semantic_judge_required": true,
+      "machine_semantic_judgments_present": true,
+      "question_count": 1,
+      "recovered_after_retry_count": 1,
+      "result_count": 1,
+      "run_provenance_sha256": "577328caf6fb6faa84b9cf5f0ef148a31b919e67685b07124a5c019b16907679",
+      "semantic_judge_model": "gpt-5.5",
+      "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+      "status": "PASS",
+      "unrecovered_transport_failure_count": 0
+    },
+    "source_sha256": "fb65c177a431924acad0d64c2f893c33070f1475d79ba7d59faf8de7f18b330f",
+    "version_mentions": [
+      1348
+    ]
+  },
+  "measurements": {
+    "dimension_rates": {
+      "answer_type": {
+        "grounded": {
+          "count": 1,
+          "pass_count": 1,
+          "pass_rate": 1.0
+        }
+      },
+      "domain": {
+        "corporate_operations_policy_communications": {
+          "count": 1,
+          "pass_count": 1,
+          "pass_rate": 1.0
+        }
+      },
+      "language": {
+        "en": {
+          "count": 1,
+          "pass_count": 1,
+          "pass_rate": 1.0
+        }
+      }
+    },
+    "e2e_pass_count": 1,
+    "e2e_pass_rate": 1.0,
+    "failure_classes": {},
+    "first_attempt_success_count": 0,
+    "indeterminate_count": 0,
+    "integrity": {
+      "duplicate_case_id_count": 0,
+      "grounded_count": 1,
+      "negative_evidence_contract_count": 0,
+      "no_answer_count": 0,
+      "query_mode": "question_only",
+      "refusal_count": 0,
+      "row_count": 1,
+      "semantic_fact_count": 3,
+      "source_contract_count": 1,
+      "source_evidence_count": 3,
+      "status": "PASS",
+      "violation_count": 0
+    },
+    "machine_semantic_judge_required": true,
+    "machine_semantic_judgments_present": true,
+    "question_count": 1,
+    "recovered_after_retry_count": 1,
+    "result_count": 1,
+    "run_provenance_sha256": "577328caf6fb6faa84b9cf5f0ef148a31b919e67685b07124a5c019b16907679",
+    "secret_values_printed": false,
+    "semantic_judge_model": "gpt-5.5",
+    "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+    "status": "PASS",
+    "unrecovered_transport_failure_count": 0,
+    "vector_values_printed": false
+  },
+  "original_inventory": {
+    "artifact_id": "2d9f7c4b64b2cec86d85157049ab398300805a50a7c84182fba7362d4f7f5aa0",
+    "bytes": 2392,
+    "disposition": "structured_summary_projection",
+    "source_root": "tests/e2e",
+    "source_sha256": "fb65c177a431924acad0d64c2f893c33070f1475d79ba7d59faf8de7f18b330f",
+    "suffix": ".json",
+    "version_mentions": [
+      1348
+    ]
+  },
+  "source": {
+    "artifact_id": "2d9f7c4b64b2cec86d85157049ab398300805a50a7c84182fba7362d4f7f5aa0",
+    "source_sha256": "fb65c177a431924acad0d64c2f893c33070f1475d79ba7d59faf8de7f18b330f"
+  },
+  "supplement_disposition": "numeric_content"
+}

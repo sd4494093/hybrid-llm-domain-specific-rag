@@ -1,0 +1,65 @@
+{
+  "archived_summary": {
+    "artifact_id": "96092c6c50f8059773e31d511c22ce3141c76f79c5538378be7c43a30a15b103",
+    "projection": {
+      "by_label": {
+        "correct": 810,
+        "correct_refusal": 400,
+        "error": 1,
+        "incorrect": 135,
+        "incorrect_refusal": 227,
+        "partial": 427
+      },
+      "cohort_manifest_sha256": "06253659fbb217c5e35afb2c59d626faad904e3e99a8a9b0993eec82611afc0d",
+      "correct": 1210,
+      "error": 1,
+      "model": "gpt-5.6-sol",
+      "reasoning_effort": "high",
+      "total": 2000,
+      "uncertain": 0
+    },
+    "source_sha256": "4a40ade7f08bbdf347ae7ce654106e18c173e8bc030bf62c828c6e3a106bbeba",
+    "version_mentions": [
+      1526
+    ]
+  },
+  "measurements": {
+    "by_label": {
+      "correct": 810,
+      "correct_refusal": 400,
+      "error": 1,
+      "incorrect": 135,
+      "incorrect_refusal": 227,
+      "partial": 427
+    },
+    "cohort_manifest_sha256": "06253659fbb217c5e35afb2c59d626faad904e3e99a8a9b0993eec82611afc0d",
+    "correct": 1210,
+    "error": 1,
+    "evaluated_count": 881,
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "resumed_count": 1119,
+    "retried_case_count": 6,
+    "runtime_source_evidence_case_count": 1377,
+    "runtime_source_evidence_entry_count": 7599,
+    "secret_values_printed": false,
+    "total": 2000,
+    "uncertain": 0
+  },
+  "original_inventory": {
+    "artifact_id": "96092c6c50f8059773e31d511c22ce3141c76f79c5538378be7c43a30a15b103",
+    "bytes": 1057,
+    "disposition": "structured_summary_projection",
+    "source_root": ".playwright",
+    "source_sha256": "4a40ade7f08bbdf347ae7ce654106e18c173e8bc030bf62c828c6e3a106bbeba",
+    "suffix": ".json",
+    "version_mentions": [
+      1526
+    ]
+  },
+  "source": {
+    "artifact_id": "96092c6c50f8059773e31d511c22ce3141c76f79c5538378be7c43a30a15b103",
+    "source_sha256": "4a40ade7f08bbdf347ae7ce654106e18c173e8bc030bf62c828c6e3a106bbeba"
+  },
+  "supplement_disposition": "numeric_content"
+}

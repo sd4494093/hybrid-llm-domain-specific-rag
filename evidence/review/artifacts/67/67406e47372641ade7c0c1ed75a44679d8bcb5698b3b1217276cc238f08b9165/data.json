@@ -1,0 +1,49 @@
+{
+  "case_records": [
+    {
+      "artifact_id": "67406e47372641ade7c0c1ed75a44679d8bcb5698b3b1217276cc238f08b9165",
+      "case_key": "8cb55a1129199a97353d5c562f6f3e61abfb39c3a139df8cc13f7be0dcf566e5",
+      "line": 1,
+      "projection": {
+        "cohort_manifest_sha256": "77b96e6cae325ad49358529dc48d3e10990dc82ab18f125dfbc558e9abe6b962",
+        "latency_ms": 289,
+        "model_config_sha256": "97e1e1b551be0fe27419fcf159a0f04f9c49597bd53e4dfa580edf9516fe1caf",
+        "question_sha256": "d3656d0e5ef7cdf0af183efa31732ce6c2b2ec09c936861d69acf1f8e3fd07e1",
+        "run_provenance_sha256": "d57984d8b0f4aed96834a68dc5f0c8d310674318c4fcf84af62ecdbba3949ca8",
+        "status": "ok"
+      }
+    },
+    {
+      "artifact_id": "67406e47372641ade7c0c1ed75a44679d8bcb5698b3b1217276cc238f08b9165",
+      "case_key": "5b4817f5b2c1c0df700550eee414e2081fdfbfc8a8caf20d3f7819cf9a03e962",
+      "line": 2,
+      "projection": {
+        "cohort_manifest_sha256": "77b96e6cae325ad49358529dc48d3e10990dc82ab18f125dfbc558e9abe6b962",
+        "latency_ms": 58933,
+        "model_config_sha256": "97e1e1b551be0fe27419fcf159a0f04f9c49597bd53e4dfa580edf9516fe1caf",
+        "question_sha256": "3e28a1a9c5204255a9348220686d8596cbdade72192798739481fe6559a8ed52",
+        "run_provenance_sha256": "d57984d8b0f4aed96834a68dc5f0c8d310674318c4fcf84af62ecdbba3949ca8",
+        "status": "ok"
+      }
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "67406e47372641ade7c0c1ed75a44679d8bcb5698b3b1217276cc238f08b9165",
+    "bytes": 69401,
+    "disposition": "case_projection",
+    "exported_rows": 2,
+    "invalid_rows": 0,
+    "source_root": "tests/e2e",
+    "source_sha256": "563b29ed2efdfbc8171f69aa86147fe439521c5cbc994a85f5084b3f67e5d71d",
+    "suffix": ".jsonl",
+    "version_mentions": [
+      949,
+      950
+    ]
+  },
+  "source": {
+    "artifact_id": "67406e47372641ade7c0c1ed75a44679d8bcb5698b3b1217276cc238f08b9165",
+    "source_sha256": "563b29ed2efdfbc8171f69aa86147fe439521c5cbc994a85f5084b3f67e5d71d"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}
