@@ -12,15 +12,15 @@ no reference was located. Version numbers do not establish experiment counts.
 
 | Evaluation | Correctness contract | Result |
 |---|---|---|
-| Historical MVP UAT, 2,000 aggregated runs | Correct label | 1,204/2,000 = 60.20% |
-| Historical MVP UAT | Correct plus partial | 1,791/2,000 = 89.55% |
-| v1660, 2,000 natural-user cases | Correct plus correct refusal | 1,451/2,000 = 72.55% |
-| v1660 | Partially correct: planner/prefill recovery | 411/2,000 = 20.55% |
-| v1660 | Correct or partially correct | 1,862/2,000 = 93.10% |
+| Baseline system, 2,000 aggregated runs | Correct label | 1,204/2,000 = 60.20% |
+| Baseline system | Correct plus partial | 1,791/2,000 = 89.55% |
+| Proposed system, 2,000 natural-user cases | Correct plus correct refusal | 1,451/2,000 = 72.55% |
+| Proposed system | Partially correct: planner/prefill recovery | 411/2,000 = 20.55% |
+| Proposed system | Correct or partially correct | 1,862/2,000 = 93.10% |
 
 The cohorts and grading definitions differ. Equal sample sizes do not establish
-a controlled comparison. The v1660 promotion decision records +16 semantic
-successes over v1441, but the 85% strict semantic target remains unmet.
+a controlled comparison. The proposed system evaluation records +16 semantic
+successes over an earlier iteration (v1441), but the 85% strict semantic target remains unmet.
 See the [answer-quality reporting definition](docs/answer-quality-reporting.md)
 for the mapping of recovery cases to partially correct answers. Original
 machine labels and strict E2E results remain in the source archive.
@@ -29,8 +29,8 @@ machine labels and strict E2E results remain in the source archive.
 
 - [Complete version index](evidence/ITERATION_HISTORY.md)
 - [Coverage and omissions](evidence/coverage.json)
-- [Baseline evidence and retry resolution](evidence/baseline-UAT-20260608/README.md)
-- [v1660 label and failure accounting](evidence/v1660-final-baseline/README.md)
+- [Baseline evidence and retry resolution](evidence/baseline-system-evaluation/README.md)
+- [Proposed system label and failure accounting](evidence/proposed-system-evaluation/README.md)
 - [Evaluation protocol](evidence/validation-protocols/semantic-judge-protocol.md)
 - [Export policy](evidence/validation-protocols/export-policy.md)
 - [Architecture](docs/architecture.md)

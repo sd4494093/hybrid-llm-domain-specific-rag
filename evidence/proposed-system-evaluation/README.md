@@ -1,4 +1,4 @@
-# v1660: Local Dev Natural-User Evaluation
+# Proposed System Evaluation: Natural-User Cases
 
 Evidence finalized September 7, 2026. The full cohort contains 2,000 cases:
 1,600 grounded-answer cases, 300 no-answer cases and 100 policy-refusal cases.
@@ -44,7 +44,7 @@ semantic labels or owning-layer buckets.
 ## Retrieval and Reliability
 
 Reported runtime source Recall@10 is 1,483/1,600 = 92.6875%, using the grounded
-subset and the evaluator's source contract. It is distinct from July's
+subset and the evaluator's source contract. It is distinct from an earlier
 oracle-assisted document lookup diagnostic, which reached 100% over a
 different 2,000-case set using source identity query variants.
 
@@ -57,11 +57,11 @@ judgment resolution in the final Judge merge.
 
 ## Acceptance and Limits
 
-The promotion decision compares v1441's 1,435 semantic successes with v1660's
+The internal promotion decision compares an earlier iteration's 1,435 semantic successes with the proposed system's
 1,451, a net gain of 16 (+0.80 percentage points). Promotion establishes the
 next local iteration baseline; it does not establish production readiness,
 the 85% target, per-case monotonicity, or statistical significance.
-June MVP UAT uses a different question and grading contract.
+The baseline system evaluation uses a different question and grading contract.
 
 The paper's 93.1% usefulness includes 411 partially correct recovery cases.
 The remaining 138 partition into no-answer 108 and citation/source 30.

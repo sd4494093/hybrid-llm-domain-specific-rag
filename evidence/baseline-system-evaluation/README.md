@@ -1,4 +1,4 @@
-# Historical MVP UAT: Aggregated 2,000 Runs
+# Baseline System Evaluation: Aggregated 2,000 Runs
 
 The final combined machine-assisted evaluation reports 1,204 correct,
 587 partial, 172 incorrect and 37 refusal labels. Exact recomputation gives
@@ -20,14 +20,14 @@ Judge model in the combined rows is `gpt-5.5`. An independent human gold
 adjudication is not established by these files.
 
 These are 2,000 aggregated runs, not a claim of 2,000 distinct prompts.
-No regional table is published. This June evaluation does not share the
-September natural-user cohort hashes. Its refusal label cannot be equated
+No regional table is published. This baseline evaluation does not share the
+proposed system evaluation cohort hashes. Its refusal label cannot be equated
 with the later correct-refusal contract.
 
 The source summary rounds usefulness to 89.5%; the exact fraction
 1,791/2,000 is 89.55%. Both the original projection and recomputed fraction
 remain available. A causal quality-gate gain cannot be inferred merely by
-subtracting this result from v1660.
+subtracting this result from the proposed system evaluation.
 
 See the [full iteration history](../ITERATION_HISTORY.md) and
 [evaluation protocol](../validation-protocols/semantic-judge-protocol.md).
