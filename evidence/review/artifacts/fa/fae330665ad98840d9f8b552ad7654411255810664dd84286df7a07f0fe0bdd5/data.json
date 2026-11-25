@@ -1,0 +1,58 @@
+{
+  "archived_summary": {
+    "artifact_id": "fae330665ad98840d9f8b552ad7654411255810664dd84286df7a07f0fe0bdd5",
+    "projection": {
+      "metrics": {
+        "e2e_pass_count": 0,
+        "e2e_pass_rate": 0.0,
+        "failure_classes": {
+          "runtime_error_or_timeout": 1
+        },
+        "no_answer_count": 0,
+        "question_count": 1
+      },
+      "top_k": 100
+    },
+    "source_sha256": "135a8b2e6a02ed9be5f5baca5952b380a40f758f7f12d0ea06f5146d680aaba5",
+    "version_mentions": [
+      1474
+    ]
+  },
+  "measurements": {
+    "chat_retries": 0,
+    "full_answer_printed": true,
+    "initial_runtime_error_count": 1,
+    "metrics": {
+      "e2e_pass_count": 0,
+      "e2e_pass_rate": 0.0,
+      "failure_classes": {
+        "runtime_error_or_timeout": 1
+      },
+      "no_answer_count": 0,
+      "question_count": 1
+    },
+    "retried_runtime_error_count": 0,
+    "retriever_snippet_chars": 2000,
+    "retry_backoff_seconds": 2.0,
+    "secret_values_printed": false,
+    "source_snippets_printed": true,
+    "top_k": 100,
+    "vector_values_printed": false
+  },
+  "original_inventory": {
+    "artifact_id": "fae330665ad98840d9f8b552ad7654411255810664dd84286df7a07f0fe0bdd5",
+    "bytes": 2168,
+    "disposition": "structured_summary_projection",
+    "source_root": ".playwright",
+    "source_sha256": "135a8b2e6a02ed9be5f5baca5952b380a40f758f7f12d0ea06f5146d680aaba5",
+    "suffix": ".json",
+    "version_mentions": [
+      1474
+    ]
+  },
+  "source": {
+    "artifact_id": "fae330665ad98840d9f8b552ad7654411255810664dd84286df7a07f0fe0bdd5",
+    "source_sha256": "135a8b2e6a02ed9be5f5baca5952b380a40f758f7f12d0ea06f5146d680aaba5"
+  },
+  "supplement_disposition": "numeric_content"
+}

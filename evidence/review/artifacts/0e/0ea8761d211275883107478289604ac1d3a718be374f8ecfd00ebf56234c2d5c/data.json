@@ -1,0 +1,82 @@
+{
+  "measurements": [
+    {
+      "answer_chars": 0,
+      "chat_attempts": 2,
+      "http_code": null,
+      "judgment": {
+        "failure_class": "runtime_error_or_timeout"
+      },
+      "latency_ms": 240001,
+      "retried_runtime_error": true,
+      "retriever_resource_count": 0,
+      "status": "error"
+    },
+    {
+      "answer_chars": 0,
+      "chat_attempts": 2,
+      "http_code": null,
+      "judgment": {
+        "failure_class": "runtime_error_or_timeout"
+      },
+      "latency_ms": 240001,
+      "retried_runtime_error": true,
+      "retriever_resource_count": 0,
+      "status": "error"
+    },
+    {
+      "answer_chars": 0,
+      "chat_attempts": 2,
+      "http_code": null,
+      "judgment": {
+        "failure_class": "runtime_error_or_timeout"
+      },
+      "latency_ms": 240001,
+      "retried_runtime_error": true,
+      "retriever_resource_count": 0,
+      "status": "error"
+    },
+    {
+      "answer_chars": 1222,
+      "chat_attempts": 2,
+      "error": null,
+      "http_code": 200,
+      "judgment": {
+        "answer_url_count": 1
+      },
+      "latency_ms": 227748,
+      "retried_runtime_error": true,
+      "retriever_resource_count": 10,
+      "status": "ok"
+    },
+    {
+      "answer_chars": 898,
+      "chat_attempts": 1,
+      "error": null,
+      "http_code": 200,
+      "judgment": {
+        "answer_url_count": 1
+      },
+      "latency_ms": 82832,
+      "retried_runtime_error": false,
+      "retriever_resource_count": 5,
+      "status": "ok"
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "0ea8761d211275883107478289604ac1d3a718be374f8ecfd00ebf56234c2d5c",
+    "bytes": 225836,
+    "disposition": "hash_only_private_content",
+    "source_root": ".playwright",
+    "source_sha256": "246d85c015e1e9d067f9cabee2b69f2b25643f6e0b2a65679766645c9b7e3242",
+    "suffix": ".json",
+    "version_mentions": [
+      1601
+    ]
+  },
+  "source": {
+    "artifact_id": "0ea8761d211275883107478289604ac1d3a718be374f8ecfd00ebf56234c2d5c",
+    "source_sha256": "246d85c015e1e9d067f9cabee2b69f2b25643f6e0b2a65679766645c9b7e3242"
+  },
+  "supplement_disposition": "numeric_content"
+}

@@ -1,0 +1,75 @@
+{
+  "artifact_id": "6c1402b08b8c528324e43e24db5a6eb451444520cbea5d1ea2464b8f448bb006",
+  "projection": {
+    "dimension_rates": {
+      "answer_type": {
+        "grounded": {
+          "count": 5,
+          "pass_count": 3
+        }
+      },
+      "domain": {
+        "commercial_customer_marketing": {
+          "count": 1,
+          "pass_count": 1
+        },
+        "it_security_digital_workplace": {
+          "count": 2,
+          "pass_count": 1
+        },
+        "product_engineering": {
+          "count": 2,
+          "pass_count": 1
+        }
+      },
+      "language": {
+        "de": {
+          "count": 1,
+          "pass_count": 0
+        },
+        "en": {
+          "count": 1,
+          "pass_count": 1
+        },
+        "pt": {
+          "count": 3,
+          "pass_count": 2
+        }
+      }
+    },
+    "e2e_pass_count": 3,
+    "e2e_pass_rate": 0.6,
+    "failure_classes": {
+      "semantic_judge_rejected": 2
+    },
+    "first_attempt_success_count": 5,
+    "indeterminate_count": 0,
+    "integrity": {
+      "duplicate_case_id_count": 0,
+      "grounded_count": 5,
+      "negative_evidence_contract_count": 0,
+      "no_answer_count": 0,
+      "query_mode": "question_only",
+      "refusal_count": 0,
+      "row_count": 5,
+      "semantic_fact_count": 14,
+      "source_contract_count": 5,
+      "source_evidence_count": 16,
+      "status": "PASS",
+      "violation_count": 0
+    },
+    "machine_semantic_judge_required": true,
+    "machine_semantic_judgments_present": true,
+    "question_count": 5,
+    "recovered_after_retry_count": 0,
+    "result_count": 5,
+    "run_provenance_sha256": "a865dfd45479618f1380ff9d3d1ee338ee79bcb58aae3a426c4b244aa87839cc",
+    "semantic_judge_model": "gpt-5.5",
+    "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+    "unrecovered_transport_failure_count": 0
+  },
+  "source_sha256": "5cbc410e396739b8ff3829d944c3d6b67016ccaef1a613d35e6a47967cc3475d",
+  "version_mentions": [
+    1339
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "archived_summary": {
+    "artifact_id": "a18edbc4a0ff6f7e2760f1ebe9e01f8e71ea3e5a494ffaf06b58be901022da32",
+    "projection": {
+      "dimension_rates": {
+        "answer_type": {
+          "grounded": {
+            "count": 1,
+            "pass_count": 1
+          }
+        },
+        "domain": {
+          "product_engineering": {
+            "count": 1,
+            "pass_count": 1
+          }
+        },
+        "language": {
+          "de": {
+            "count": 1,
+            "pass_count": 1
+          }
+        }
+      },
+      "e2e_pass_count": 1,
+      "e2e_pass_rate": 1.0,
+      "first_attempt_success_count": 1,
+      "indeterminate_count": 0,
+      "integrity": {
+        "duplicate_case_id_count": 0,
+        "grounded_count": 1,
+        "negative_evidence_contract_count": 0,
+        "no_answer_count": 0,
+        "query_mode": "question_only",
+        "refusal_count": 0,
+        "row_count": 1,
+        "semantic_fact_count": 3,
+        "source_contract_count": 1,
+        "source_evidence_count": 3,
+        "status": "PASS",
+        "violation_count": 0
+      },
+      "machine_semantic_judge_required": true,
+      "machine_semantic_judgments_present": true,
+      "question_count": 1,
+      "recovered_after_retry_count": 0,
+      "result_count": 1,
+      "run_provenance_sha256": "8178b84cdefd00a38f1c39e8d7c22903ebf2842b9ee5a12c73fcc1617f7dfdde",
+      "semantic_judge_model": "gpt-5.5",
+      "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+      "status": "PASS",
+      "unrecovered_transport_failure_count": 0
+    },
+    "source_sha256": "cb2a2bbe69c215ef170652d4727f5294f74d208e0afc1acb5ff6a0e0c1d44c7e",
+    "version_mentions": [
+      1324
+    ]
+  },
+  "measurements": {
+    "dimension_rates": {
+      "answer_type": {
+        "grounded": {
+          "count": 1,
+          "pass_count": 1,
+          "pass_rate": 1.0
+        }
+      },
+      "domain": {
+        "product_engineering": {
+          "count": 1,
+          "pass_count": 1,
+          "pass_rate": 1.0
+        }
+      },
+      "language": {
+        "de": {
+          "count": 1,
+          "pass_count": 1,
+          "pass_rate": 1.0
+        }
+      }
+    },
+    "e2e_pass_count": 1,
+    "e2e_pass_rate": 1.0,
+    "failure_classes": {},
+    "first_attempt_success_count": 1,
+    "indeterminate_count": 0,
+    "integrity": {
+      "duplicate_case_id_count": 0,
+      "grounded_count": 1,
+      "negative_evidence_contract_count": 0,
+      "no_answer_count": 0,
+      "query_mode": "question_only",
+      "refusal_count": 0,
+      "row_count": 1,
+      "semantic_fact_count": 3,
+      "source_contract_count": 1,
+      "source_evidence_count": 3,
+      "status": "PASS",
+      "violation_count": 0
+    },
+    "machine_semantic_judge_required": true,
+    "machine_semantic_judgments_present": true,
+    "question_count": 1,
+    "recovered_after_retry_count": 0,
+    "result_count": 1,
+    "run_provenance_sha256": "8178b84cdefd00a38f1c39e8d7c22903ebf2842b9ee5a12c73fcc1617f7dfdde",
+    "secret_values_printed": false,
+    "semantic_judge_model": "gpt-5.5",
+    "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+    "status": "PASS",
+    "unrecovered_transport_failure_count": 0,
+    "vector_values_printed": false
+  },
+  "original_inventory": {
+    "artifact_id": "a18edbc4a0ff6f7e2760f1ebe9e01f8e71ea3e5a494ffaf06b58be901022da32",
+    "bytes": 2366,
+    "disposition": "structured_summary_projection",
+    "source_root": "tests/e2e",
+    "source_sha256": "cb2a2bbe69c215ef170652d4727f5294f74d208e0afc1acb5ff6a0e0c1d44c7e",
+    "suffix": ".json",
+    "version_mentions": [
+      1324
+    ]
+  },
+  "source": {
+    "artifact_id": "a18edbc4a0ff6f7e2760f1ebe9e01f8e71ea3e5a494ffaf06b58be901022da32",
+    "source_sha256": "cb2a2bbe69c215ef170652d4727f5294f74d208e0afc1acb5ff6a0e0c1d44c7e"
+  },
+  "supplement_disposition": "numeric_content"
+}

@@ -1,0 +1,60 @@
+{
+  "archived_summary": {
+    "artifact_id": "3a1de2bdbb2908d9635c3c7e3d7206f787f4906a281a2b49f5fde42afdb29b84",
+    "projection": {
+      "cohort_manifest_sha256": "6cd980b8b94f42c1695aecb4651175168c0ab4e49a466b893af00995353ed90c",
+      "metrics": {
+        "e2e_pass_count": 0,
+        "e2e_pass_rate": 0.0,
+        "failure_classes": {
+          "runtime_error_or_timeout": 1
+        },
+        "no_answer_count": 0,
+        "question_count": 1
+      },
+      "top_k": 100
+    },
+    "source_sha256": "ec535f5dd553e6681f77742eb0cca8b7212b2f663e655b25d372ca303f2b54fd",
+    "version_mentions": [
+      1232
+    ]
+  },
+  "measurements": {
+    "chat_retries": 2,
+    "cohort_manifest_sha256": "6cd980b8b94f42c1695aecb4651175168c0ab4e49a466b893af00995353ed90c",
+    "full_answer_printed": false,
+    "initial_runtime_error_count": 1,
+    "metrics": {
+      "e2e_pass_count": 0,
+      "e2e_pass_rate": 0.0,
+      "failure_classes": {
+        "runtime_error_or_timeout": 1
+      },
+      "no_answer_count": 0,
+      "question_count": 1
+    },
+    "retried_runtime_error_count": 1,
+    "retriever_snippet_chars": 2000,
+    "retry_backoff_seconds": 2.0,
+    "secret_values_printed": false,
+    "source_snippets_printed": true,
+    "top_k": 100,
+    "vector_values_printed": false
+  },
+  "original_inventory": {
+    "artifact_id": "3a1de2bdbb2908d9635c3c7e3d7206f787f4906a281a2b49f5fde42afdb29b84",
+    "bytes": 2395,
+    "disposition": "structured_summary_projection",
+    "source_root": "tests/e2e",
+    "source_sha256": "ec535f5dd553e6681f77742eb0cca8b7212b2f663e655b25d372ca303f2b54fd",
+    "suffix": ".json",
+    "version_mentions": [
+      1232
+    ]
+  },
+  "source": {
+    "artifact_id": "3a1de2bdbb2908d9635c3c7e3d7206f787f4906a281a2b49f5fde42afdb29b84",
+    "source_sha256": "ec535f5dd553e6681f77742eb0cca8b7212b2f663e655b25d372ca303f2b54fd"
+  },
+  "supplement_disposition": "numeric_content"
+}

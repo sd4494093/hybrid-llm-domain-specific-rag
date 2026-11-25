@@ -1,0 +1,54 @@
+{
+  "case_records": [
+    {
+      "artifact_id": "30b21c28ce2b9f5fc539c69359fc74c36534084aa45775a8d1ca95482990554e",
+      "case_key": "e655ad9f712fa77925e49825032d7e4a40231ff2951509191241d84e9045c4f6",
+      "line": 1,
+      "projection": {
+        "judgment": {
+          "answer_url_count": 3,
+          "citation_pass": true,
+          "citation_support_pass": true,
+          "critical_case": false,
+          "deterministic_contract_pass": true,
+          "deterministic_semantic_diagnostic_pass": false,
+          "e2e_pass": true,
+          "exact_source_recall_at_10": true,
+          "exact_source_recall_at_30": true,
+          "expected_answer_type": "grounded",
+          "no_answer_detected": false,
+          "retrieval_recall_at_10": true,
+          "retrieval_recall_at_30": true,
+          "runtime_ok": true,
+          "semantic_judge_citation_support": "supported",
+          "semantic_judge_groundedness": "grounded",
+          "semantic_judge_label": "correct",
+          "semantic_judge_material_error_count": 0,
+          "semantic_judge_status": "ok",
+          "semantic_judge_unsupported_claim_count": 0,
+          "semantic_pass": false,
+          "semantic_score": 0.6666666666666666,
+          "semantic_score_rounded": 0.67
+        }
+      }
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "30b21c28ce2b9f5fc539c69359fc74c36534084aa45775a8d1ca95482990554e",
+    "bytes": 1054,
+    "disposition": "case_projection",
+    "exported_rows": 1,
+    "invalid_rows": 0,
+    "source_root": "tests/e2e",
+    "source_sha256": "8cd6574e93f8ee425324b7ad0051593759e0f22b61030283049274926f922936",
+    "suffix": ".jsonl",
+    "version_mentions": [
+      659
+    ]
+  },
+  "source": {
+    "artifact_id": "30b21c28ce2b9f5fc539c69359fc74c36534084aa45775a8d1ca95482990554e",
+    "source_sha256": "8cd6574e93f8ee425324b7ad0051593759e0f22b61030283049274926f922936"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}

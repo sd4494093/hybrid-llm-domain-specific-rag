@@ -1,0 +1,35 @@
+{
+  "case_records": [
+    {
+      "artifact_id": "0f8758980b4383ce0a1ccab37a2a9e806008cbb5eee1ccaa03b3527afd68b379",
+      "case_key": "8784416d047a3451b1b8e1181aa6fe8f6a64a9a90885cd697884d7affa2fe860",
+      "line": 1,
+      "projection": {
+        "cohort_manifest_sha256": "fe54cef7929b876558cb1e0638ccb73fe5a6dfeb5b51aab2667c397536ca36ae",
+        "latency_ms": 268376,
+        "model_config_sha256": "36ea364cf2fe78592df49cffd745224d053b264a99caac3d3a6f865a7493b216",
+        "question_sha256": "411c2d3843dbc0b7b9a27887ebc036e77ac26ddb55a1e3b28d0d861432000620",
+        "run_provenance_sha256": "e6e26a13fa730ccb352e73a078dadb6963923fc0ab2875f32c4b5d3afea0bc6d",
+        "status": "error"
+      }
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "0f8758980b4383ce0a1ccab37a2a9e806008cbb5eee1ccaa03b3527afd68b379",
+    "bytes": 1560,
+    "disposition": "case_projection",
+    "exported_rows": 1,
+    "invalid_rows": 0,
+    "source_root": ".playwright",
+    "source_sha256": "c0d656b5d9e0e4a3d51bc499629137e52343ede5eb2975e7c1f3bf17798cf20b",
+    "suffix": ".jsonl",
+    "version_mentions": [
+      1575
+    ]
+  },
+  "source": {
+    "artifact_id": "0f8758980b4383ce0a1ccab37a2a9e806008cbb5eee1ccaa03b3527afd68b379",
+    "source_sha256": "c0d656b5d9e0e4a3d51bc499629137e52343ede5eb2975e7c1f3bf17798cf20b"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}

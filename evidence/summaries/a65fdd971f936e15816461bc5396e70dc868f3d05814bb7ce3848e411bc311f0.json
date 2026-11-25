@@ -1,0 +1,81 @@
+{
+  "artifact_id": "a65fdd971f936e15816461bc5396e70dc868f3d05814bb7ce3848e411bc311f0",
+  "projection": {
+    "dimension_rates": {
+      "answer_type": {
+        "grounded": {
+          "count": 4,
+          "pass_count": 4
+        },
+        "no_answer": {
+          "count": 2,
+          "pass_count": 2
+        }
+      },
+      "domain": {
+        "commercial_customer_marketing": {
+          "count": 2,
+          "pass_count": 2
+        },
+        "corporate_operations_policy_communications": {
+          "count": 2,
+          "pass_count": 2
+        },
+        "it_security_digital_workplace": {
+          "count": 2,
+          "pass_count": 2
+        }
+      },
+      "language": {
+        "de": {
+          "count": 1,
+          "pass_count": 1
+        },
+        "en": {
+          "count": 3,
+          "pass_count": 3
+        },
+        "it": {
+          "count": 1,
+          "pass_count": 1
+        },
+        "pt": {
+          "count": 1,
+          "pass_count": 1
+        }
+      }
+    },
+    "e2e_pass_count": 6,
+    "e2e_pass_rate": 1.0,
+    "first_attempt_success_count": 6,
+    "indeterminate_count": 0,
+    "integrity": {
+      "duplicate_case_id_count": 0,
+      "grounded_count": 4,
+      "negative_evidence_contract_count": 2,
+      "no_answer_count": 2,
+      "query_mode": "question_only",
+      "refusal_count": 0,
+      "row_count": 6,
+      "semantic_fact_count": 13,
+      "source_contract_count": 4,
+      "source_evidence_count": 13,
+      "status": "PASS",
+      "violation_count": 0
+    },
+    "machine_semantic_judge_required": true,
+    "machine_semantic_judgments_present": true,
+    "question_count": 6,
+    "recovered_after_retry_count": 0,
+    "result_count": 6,
+    "run_provenance_sha256": "1da8d950390f6caf5aa3e6ca7d86870ef9130a2188484b3df94b4de445029987",
+    "semantic_judge_model": "gpt-5.5",
+    "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+    "status": "PASS",
+    "unrecovered_transport_failure_count": 0
+  },
+  "source_sha256": "fd39d67f40602975c298f06d0db7eb1cabe8f8db0a0f42fc9bb8b3e6996aedae",
+  "version_mentions": [
+    1325
+  ]
+}

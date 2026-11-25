@@ -1,0 +1,41 @@
+{
+  "answer_audit_triggered_rechunking_demonstrated": false,
+  "context_continuity": {
+    "after_label": "correct",
+    "before_label": "incorrect",
+    "change_commit": "995223b676fd82a68e2cae363b28c56f29ad761d",
+    "controls": {
+      "cases": 3,
+      "correct": 3
+    },
+    "decision": "accepted_for_local_continuation",
+    "first_attempt_success_count": 17,
+    "later_cohort": {
+      "cases": 200,
+      "quality_gate": "FAIL",
+      "strict_correct": 165
+    },
+    "regression_labels": {
+      "correct": 15,
+      "partial": 2
+    },
+    "repair_positions": {
+      "anchor_position": 18,
+      "continuation_position": 19,
+      "replaced_position": 11
+    },
+    "target_case_key": "6d0954ded9c577552318c19a51312a55bdebc690751a7733ef2db225b513ec3d"
+  },
+  "full_final_cohort_online_verifier_intervention_counts_available": false,
+  "hydrated_sibling_rerank": {
+    "after_expected_parent_selected": false,
+    "after_label": "partial",
+    "after_score": 2,
+    "before_expected_parent_selected": true,
+    "before_label": "partial",
+    "before_score": 3,
+    "decision": "REJECT",
+    "owning_layer": "parent_selection",
+    "revert_commit": "a4041d5f61f80d7dae7565c040b0c605346b6cbf"
+  }
+}

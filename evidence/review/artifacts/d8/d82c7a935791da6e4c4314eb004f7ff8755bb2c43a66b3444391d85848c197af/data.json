@@ -1,0 +1,68 @@
+{
+  "archived_summary": {
+    "artifact_id": "d82c7a935791da6e4c4314eb004f7ff8755bb2c43a66b3444391d85848c197af",
+    "projection": {
+      "case_workers": 1,
+      "cohort_manifest_sha256": "2e3d08e602a2ffe594e6de28a03b6b3cf754237df32704a36669358e2c7e6964",
+      "first_attempt_success_count": 1,
+      "question_count": 5,
+      "questions_sha256": "3612e6670a2dcfca3fd08ddf98709e5ee4d366de177f6f9c1037cd13835edfe0",
+      "reasoning_effort": "high",
+      "recovered_after_retry_count": 1,
+      "result_count": 5,
+      "top_k": 30,
+      "unrecovered_transport_failure_count": 3
+    },
+    "source_sha256": "b7e538187cc787187a38543d72f98f50bf5a6f6e6e334eea2cf31d285458cb9d",
+    "version_mentions": [
+      1441
+    ]
+  },
+  "measurements": {
+    "case_workers": 1,
+    "chat_retries": 2,
+    "cohort_manifest_sha256": "2e3d08e602a2ffe594e6de28a03b6b3cf754237df32704a36669358e2c7e6964",
+    "exact_cardinality": true,
+    "first_attempt_success_count": 1,
+    "full_answer_printed": true,
+    "full_cohort_question_count": 5,
+    "initial_runtime_error_count": 4,
+    "keyword_weight": 0.3,
+    "metadata_filter_mode_is_oracle": false,
+    "oracle_blind_runtime": true,
+    "question_count": 5,
+    "questions_sha256": "3612e6670a2dcfca3fd08ddf98709e5ee4d366de177f6f9c1037cd13835edfe0",
+    "reasoning_effort": "high",
+    "recovered_after_retry_count": 1,
+    "result_count": 5,
+    "resumed_case_count": 0,
+    "retried_runtime_error_count": 4,
+    "retriever_snippet_chars": 2000,
+    "retry_backoff_seconds": 2.0,
+    "secret_values_printed": false,
+    "shard_count": 1,
+    "shard_index": 1,
+    "source_snippets_printed": true,
+    "timeout_seconds": 120.0,
+    "top_k": 30,
+    "unrecovered_transport_failure_count": 3,
+    "vector_values_printed": false,
+    "vector_weight": 0.7
+  },
+  "original_inventory": {
+    "artifact_id": "d82c7a935791da6e4c4314eb004f7ff8755bb2c43a66b3444391d85848c197af",
+    "bytes": 2305,
+    "disposition": "structured_summary_projection",
+    "source_root": ".playwright",
+    "source_sha256": "b7e538187cc787187a38543d72f98f50bf5a6f6e6e334eea2cf31d285458cb9d",
+    "suffix": ".json",
+    "version_mentions": [
+      1441
+    ]
+  },
+  "source": {
+    "artifact_id": "d82c7a935791da6e4c4314eb004f7ff8755bb2c43a66b3444391d85848c197af",
+    "source_sha256": "b7e538187cc787187a38543d72f98f50bf5a6f6e6e334eea2cf31d285458cb9d"
+  },
+  "supplement_disposition": "numeric_content"
+}

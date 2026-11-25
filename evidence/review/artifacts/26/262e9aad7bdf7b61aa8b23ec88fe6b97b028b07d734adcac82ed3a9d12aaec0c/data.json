@@ -1,0 +1,73 @@
+{
+  "archived_summary": {
+    "artifact_id": "262e9aad7bdf7b61aa8b23ec88fe6b97b028b07d734adcac82ed3a9d12aaec0c",
+    "projection": {
+      "dimension_rates": {
+        "answer_type": {
+          "grounded": {
+            "count": 7,
+            "pass_count": 7
+          }
+        },
+        "language": {
+          "en": {
+            "count": 7,
+            "pass_count": 7
+          }
+        }
+      },
+      "e2e_pass_count": 7,
+      "e2e_pass_rate": 1.0,
+      "first_attempt_success_count": 0,
+      "indeterminate_count": 0,
+      "integrity": {
+        "duplicate_case_id_count": 0,
+        "grounded_count": 7,
+        "negative_evidence_contract_count": 0,
+        "no_answer_count": 0,
+        "query_mode": "question_only",
+        "refusal_count": 0,
+        "row_count": 7,
+        "semantic_fact_count": 23,
+        "source_contract_count": 7,
+        "source_evidence_count": 26,
+        "status": "PASS",
+        "violation_count": 0
+      },
+      "machine_semantic_judge_required": true,
+      "machine_semantic_judgments_present": true,
+      "question_count": 7,
+      "recovered_after_retry_count": 0,
+      "result_count": 7,
+      "semantic_judge_model": "gpt-5.5",
+      "status": "PASS",
+      "unrecovered_transport_failure_count": 0
+    },
+    "source_sha256": "5ec7f9fdd77cc85d0bbf427154e747009cea742c786da52227b94653aa29566b",
+    "version_mentions": [
+      880,
+      881,
+      882,
+      883
+    ]
+  },
+  "original_inventory": {
+    "artifact_id": "262e9aad7bdf7b61aa8b23ec88fe6b97b028b07d734adcac82ed3a9d12aaec0c",
+    "bytes": 3375,
+    "disposition": "structured_summary_projection",
+    "source_root": "tests/e2e",
+    "source_sha256": "5ec7f9fdd77cc85d0bbf427154e747009cea742c786da52227b94653aa29566b",
+    "suffix": ".json",
+    "version_mentions": [
+      880,
+      881,
+      882,
+      883
+    ]
+  },
+  "source": {
+    "artifact_id": "262e9aad7bdf7b61aa8b23ec88fe6b97b028b07d734adcac82ed3a9d12aaec0c",
+    "source_sha256": "5ec7f9fdd77cc85d0bbf427154e747009cea742c786da52227b94653aa29566b"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}

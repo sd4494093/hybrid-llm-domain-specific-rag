@@ -1,0 +1,91 @@
+{
+  "archived_summary": {
+    "artifact_id": "7905608a3432956d3a9ba6ca35c2bcd37971b0a617ab3e4fa5e7637cb344ec7c",
+    "projection": {
+      "cohort_manifest_sha256": "9fae57368ba5698bf37c226b3636fcca9d13089e2625dec54128646e2ed7ebe1",
+      "e2e_pass_count": 28,
+      "no_answer_count": 7,
+      "question_count": 36,
+      "reasoning_effort": "high",
+      "semantic_judge_model": "gpt-5.6-sol",
+      "semantic_judge_reasoning_effort": "high"
+    },
+    "source_sha256": "eb589384e9b34da2713856ced50eeaa33de5851417ab8e5609b8fff83510cad7",
+    "version_mentions": [
+      1471
+    ]
+  },
+  "measurements": {
+    "cohort_manifest_sha256": "9fae57368ba5698bf37c226b3636fcca9d13089e2625dec54128646e2ed7ebe1",
+    "e2e_pass_count": 28,
+    "initial_runtime_error_count": 4,
+    "no_answer_count": 7,
+    "question_count": 36,
+    "reasoning_effort": "high",
+    "retried_runtime_error_count": 4,
+    "semantic_judge_model": "gpt-5.6-sol",
+    "semantic_judge_reasoning_effort": "high",
+    "shard_count": 4,
+    "shards": [
+      {
+        "metrics": {
+          "e2e_pass_count": 7,
+          "e2e_pass_rate": 0.7777777777777778,
+          "failure_classes": {
+            "no_answer": 2
+          },
+          "no_answer_count": 2,
+          "question_count": 9
+        }
+      },
+      {
+        "metrics": {
+          "e2e_pass_count": 8,
+          "e2e_pass_rate": 0.8888888888888888,
+          "failure_classes": {
+            "no_answer": 1
+          },
+          "no_answer_count": 1,
+          "question_count": 9
+        }
+      },
+      {
+        "metrics": {
+          "e2e_pass_count": 9,
+          "e2e_pass_rate": 1,
+          "failure_classes": {},
+          "no_answer_count": 0,
+          "question_count": 9
+        },
+        "status": "ok"
+      },
+      {
+        "metrics": {
+          "e2e_pass_count": 4,
+          "e2e_pass_rate": 0.4444444444444444,
+          "failure_classes": {
+            "no_answer": 4
+          },
+          "no_answer_count": 4,
+          "question_count": 9
+        }
+      }
+    ]
+  },
+  "original_inventory": {
+    "artifact_id": "7905608a3432956d3a9ba6ca35c2bcd37971b0a617ab3e4fa5e7637cb344ec7c",
+    "bytes": 11145,
+    "disposition": "structured_summary_projection",
+    "source_root": ".playwright",
+    "source_sha256": "eb589384e9b34da2713856ced50eeaa33de5851417ab8e5609b8fff83510cad7",
+    "suffix": ".json",
+    "version_mentions": [
+      1471
+    ]
+  },
+  "source": {
+    "artifact_id": "7905608a3432956d3a9ba6ca35c2bcd37971b0a617ab3e4fa5e7637cb344ec7c",
+    "source_sha256": "eb589384e9b34da2713856ced50eeaa33de5851417ab8e5609b8fff83510cad7"
+  },
+  "supplement_disposition": "numeric_content"
+}

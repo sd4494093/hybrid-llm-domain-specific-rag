@@ -1,0 +1,67 @@
+{
+  "archived_summary": {
+    "artifact_id": "3eddca64ba362a045dc54a05f4f340caf0cc8c9e33ff1dcbeb73c50b66572c3b",
+    "projection": {
+      "case_workers": 1,
+      "cohort_manifest_sha256": "fe54cef7929b876558cb1e0638ccb73fe5a6dfeb5b51aab2667c397536ca36ae",
+      "first_attempt_success_count": 13,
+      "max_workers": 1,
+      "question_count": 20,
+      "questions_sha256": "7bff52ce9e7165ef0e4aed0d19c605c3534a8b128acbdd4bd9c572b0f81532be",
+      "recovered_after_retry_count": 5,
+      "result_count": 20,
+      "run_provenance_sha256": "018597e5fbb4ac40f8eccc71c05580006664d0a7e7768f624a9b3fbb240fd402",
+      "unrecovered_transport_failure_count": 2
+    },
+    "source_sha256": "effa3e9d11017d569dc25e3d4a4343b9e19963e4309832dfdc88c37239f37dc5",
+    "version_mentions": [
+      1588
+    ]
+  },
+  "measurements": {
+    "case_workers": 1,
+    "cohort_manifest_sha256": "fe54cef7929b876558cb1e0638ccb73fe5a6dfeb5b51aab2667c397536ca36ae",
+    "exact_cardinality": true,
+    "first_attempt_success_count": 13,
+    "first_attempt_success_rate": 0.65,
+    "initial_runtime_error_count": 7,
+    "max_workers": 1,
+    "oracle_blind_runtime": true,
+    "question_count": 20,
+    "questions_sha256": "7bff52ce9e7165ef0e4aed0d19c605c3534a8b128acbdd4bd9c572b0f81532be",
+    "recovered_after_retry_count": 5,
+    "result_count": 20,
+    "retried_runtime_error_count": 7,
+    "run_provenance_sha256": "018597e5fbb4ac40f8eccc71c05580006664d0a7e7768f624a9b3fbb240fd402",
+    "secret_values_printed": false,
+    "shard_count": 1,
+    "shards": [
+      {
+        "exit_code": 1,
+        "result_count": 20,
+        "shard_index": 1
+      }
+    ],
+    "transport_failure_count": 2,
+    "transport_ok_count": 18,
+    "transport_ok_rate": 0.9,
+    "unrecovered_transport_failure_count": 2,
+    "vector_values_printed": false
+  },
+  "original_inventory": {
+    "artifact_id": "3eddca64ba362a045dc54a05f4f340caf0cc8c9e33ff1dcbeb73c50b66572c3b",
+    "bytes": 2047,
+    "disposition": "structured_summary_projection",
+    "source_root": ".playwright",
+    "source_sha256": "effa3e9d11017d569dc25e3d4a4343b9e19963e4309832dfdc88c37239f37dc5",
+    "suffix": ".json",
+    "version_mentions": [
+      1588
+    ]
+  },
+  "source": {
+    "artifact_id": "3eddca64ba362a045dc54a05f4f340caf0cc8c9e33ff1dcbeb73c50b66572c3b",
+    "source_sha256": "effa3e9d11017d569dc25e3d4a4343b9e19963e4309832dfdc88c37239f37dc5"
+  },
+  "supplement_disposition": "numeric_content"
+}

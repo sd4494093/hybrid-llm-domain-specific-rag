@@ -1,0 +1,20 @@
+# v34: Artifacts 1 to 12
+
+[Version overview](README.md)
+
+JSON probe cases are inside the linked numerical data; the last column counts archived JSONL records only.
+
+| Source artifact | Public content | Supplement disposition | Archived JSONL rows |
+|---|---|---|---:|
+| [ee744eac8310](../../artifacts/ee/ee744eac831014fc8eb2ef5c13dbe52d1f9e67e6167e802a441b09cc4086e256/README.md) | case_records | not_selected_for_supplement | 6 |
+| [3e24b60f035e](../../artifacts/3e/3e24b60f035e223faaae4915106c6b909cce47c3c0f43c543cde462fc6c2f90d/README.md) | case_records | not_selected_for_supplement | 2 |
+| [fe4085c86787](../../artifacts/fe/fe4085c86787c4ab861187cbad0439d9f37895d308f8510f7faf755f39c47af6/README.md) | fingerprint only | not_selected_for_supplement | 0 |
+| [6ac20508cd8c](../../artifacts/6a/6ac20508cd8cbe87006dd264e994d1be4eff946cfa28a4d4092d140a60b7d9de/README.md) | case_records | not_selected_for_supplement | 6 |
+| [6709a52bd5ca](../../artifacts/67/6709a52bd5cab371c72b9e4f3265044190d0bbe89b1cd3f2e9b185fd403ab85b/README.md) | summary | not_selected_for_supplement | 0 |
+| [d7a908961cfb](../../artifacts/d7/d7a908961cfb5c8aa2e8399e007db910b422f9445c93af309685c1bcbdda2f92/README.md) | case_records | not_selected_for_supplement | 5 |
+| [bf5797a97600](../../artifacts/bf/bf5797a9760091d20c4dfb5e79ccd0cafa306e59b5db0ecf708b4850c22ee4c7/README.md) | case_records | not_selected_for_supplement | 4 |
+| [0474dab8ec4e](../../artifacts/04/0474dab8ec4edcd67b57e2f445c3b0d57a4721b2a66bb1f86a34b535ac37ba82/README.md) | fingerprint only | not_selected_for_supplement | 0 |
+| [c65118b65f7d](../../artifacts/c6/c65118b65f7decb2941c99b33efd630eadc384d3e63f9ccaf31b8896102b663b/README.md) | case_records | not_selected_for_supplement | 5 |
+| [59d7761f88b0](../../artifacts/59/59d7761f88b0da73e17e9826e1efe0a4a5b81554c0944a2b0ae78c1c42bf3930/README.md) | summary | not_selected_for_supplement | 0 |
+| [a5662b2bd869](../../artifacts/a5/a5662b2bd869e487ae4b65e2caeef4e00a25b2b3fc026a89315db7331cd723f8/README.md) | case_records | not_selected_for_supplement | 5 |
+| [203fb06c068c](../../artifacts/20/203fb06c068c680e7366e35f634b3f3e0e8597462144a71e3567639b2aa89a59/README.md) | summary | not_selected_for_supplement | 0 |

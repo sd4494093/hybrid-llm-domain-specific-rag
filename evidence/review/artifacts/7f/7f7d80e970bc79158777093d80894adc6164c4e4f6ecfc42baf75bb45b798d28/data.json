@@ -1,0 +1,51 @@
+{
+  "measurements": [
+    {
+      "line": 1,
+      "measurements": {
+        "expected_answer_type": "grounded"
+      }
+    },
+    {
+      "line": 2,
+      "measurements": {
+        "expected_answer_type": "grounded"
+      }
+    },
+    {
+      "line": 3,
+      "measurements": {
+        "expected_answer_type": "no_answer"
+      }
+    },
+    {
+      "line": 4,
+      "measurements": {
+        "expected_answer_type": "no_answer"
+      }
+    },
+    {
+      "line": 5,
+      "measurements": {
+        "expected_answer_type": "refusal"
+      }
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "7f7d80e970bc79158777093d80894adc6164c4e4f6ecfc42baf75bb45b798d28",
+    "bytes": 9348,
+    "disposition": "hash_only_private_content",
+    "source_root": "tests/e2e",
+    "source_sha256": "c65578761884d442e27140712c2663009ba8da8f11856e3a2e56a33a672c0d40",
+    "suffix": ".jsonl",
+    "version_mentions": [
+      18,
+      1364
+    ]
+  },
+  "source": {
+    "artifact_id": "7f7d80e970bc79158777093d80894adc6164c4e4f6ecfc42baf75bb45b798d28",
+    "source_sha256": "c65578761884d442e27140712c2663009ba8da8f11856e3a2e56a33a672c0d40"
+  },
+  "supplement_disposition": "numeric_content"
+}

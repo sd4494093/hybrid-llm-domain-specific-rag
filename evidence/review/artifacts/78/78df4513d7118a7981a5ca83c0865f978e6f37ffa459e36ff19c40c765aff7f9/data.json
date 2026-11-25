@@ -1,0 +1,52 @@
+{
+  "measurements": [
+    {
+      "line": 1,
+      "measurements": {
+        "citation_support": "supported",
+        "contradiction": true,
+        "semantic_label": "incorrect"
+      }
+    },
+    {
+      "line": 2,
+      "measurements": {
+        "citation_support": "supported",
+        "contradiction": true,
+        "semantic_label": "incorrect"
+      }
+    },
+    {
+      "line": 3,
+      "measurements": {
+        "citation_support": "supported",
+        "contradiction": false,
+        "semantic_label": "partial"
+      }
+    },
+    {
+      "line": 4,
+      "measurements": {
+        "citation_support": "supported",
+        "contradiction": false,
+        "semantic_label": "partial"
+      }
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "78df4513d7118a7981a5ca83c0865f978e6f37ffa459e36ff19c40c765aff7f9",
+    "bytes": 3858,
+    "disposition": "hash_only_private_content",
+    "source_root": "tests/e2e",
+    "source_sha256": "b6ba5a308c2f87c61d354c80fd90732175a0fce21e5d1160c0ffae0eeb5d5dde",
+    "suffix": ".jsonl",
+    "version_mentions": [
+      1322
+    ]
+  },
+  "source": {
+    "artifact_id": "78df4513d7118a7981a5ca83c0865f978e6f37ffa459e36ff19c40c765aff7f9",
+    "source_sha256": "b6ba5a308c2f87c61d354c80fd90732175a0fce21e5d1160c0ffae0eeb5d5dde"
+  },
+  "supplement_disposition": "numeric_content"
+}

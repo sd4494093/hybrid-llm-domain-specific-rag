@@ -1,0 +1,11 @@
+# Source Artifact 982906120f20
+
+Original type: `.json`. Source SHA-256: `bfa68522b8d42b52db93eef571976aa99453de08b89dd4bcd51b6f7e14d051ab`.
+
+Public content: numeric_content. Supplement: `numeric_content`.
+
+[Read data](data.json)
+
+Data page references inside JSON are relative to this artifact directory.
+
+Source paths, identities, questions, answers and rationales are withheld. Array positions are retained; empty objects or null placeholders mean omitted content, not successful cases.

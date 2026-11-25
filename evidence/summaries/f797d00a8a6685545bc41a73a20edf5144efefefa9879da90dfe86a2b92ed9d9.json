@@ -1,0 +1,57 @@
+{
+  "artifact_id": "f797d00a8a6685545bc41a73a20edf5144efefefa9879da90dfe86a2b92ed9d9",
+  "projection": {
+    "dimension_rates": {
+      "answer_type": {
+        "grounded": {
+          "count": 1,
+          "pass_count": 1
+        }
+      },
+      "domain": {
+        "safety_field_operations": {
+          "count": 1,
+          "pass_count": 1
+        }
+      },
+      "language": {
+        "en": {
+          "count": 1,
+          "pass_count": 1
+        }
+      }
+    },
+    "e2e_pass_count": 1,
+    "e2e_pass_rate": 1.0,
+    "first_attempt_success_count": 1,
+    "indeterminate_count": 0,
+    "integrity": {
+      "duplicate_case_id_count": 0,
+      "grounded_count": 1,
+      "negative_evidence_contract_count": 0,
+      "no_answer_count": 0,
+      "query_mode": "question_only",
+      "refusal_count": 0,
+      "row_count": 1,
+      "semantic_fact_count": 3,
+      "source_contract_count": 1,
+      "source_evidence_count": 2,
+      "status": "PASS",
+      "violation_count": 0
+    },
+    "machine_semantic_judge_required": true,
+    "machine_semantic_judgments_present": true,
+    "question_count": 1,
+    "recovered_after_retry_count": 0,
+    "result_count": 1,
+    "run_provenance_sha256": "76f54d41b268bbf5ee7dd7ff70b4e6d464120b6cac5faa9d6d863cf0673e9630",
+    "semantic_judge_model": "gpt-5.5",
+    "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+    "status": "PASS",
+    "unrecovered_transport_failure_count": 0
+  },
+  "source_sha256": "b240d9ffbee48262152ed5ddf51627fb5cb2eacc23eccfc6e4d697437a24238d",
+  "version_mentions": [
+    1323
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "measurements": [
+    {
+      "answer_chars": 1448,
+      "chat_attempts": 1,
+      "error": null,
+      "http_code": 200,
+      "judgment": {
+        "answer_url_count": 3
+      },
+      "latency_ms": 110960,
+      "retried_runtime_error": false,
+      "retriever_resource_count": 16,
+      "status": "ok"
+    },
+    {
+      "answer_chars": 1941,
+      "chat_attempts": 1,
+      "error": null,
+      "http_code": 200,
+      "judgment": {
+        "answer_url_count": 4
+      },
+      "latency_ms": 40275,
+      "retried_runtime_error": false,
+      "retriever_resource_count": 10,
+      "status": "ok"
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "e33c61162d18d7f1cb972bb210049e51fbd07cd2871f3c063321b9e90924a067",
+    "bytes": 356192,
+    "disposition": "hash_only_private_content",
+    "source_root": "tests/e2e",
+    "source_sha256": "bffdbea10b192cd1f83382e41268aa0abd6d0cb70748d4303f23bf5d71a966c1",
+    "suffix": ".json",
+    "version_mentions": [
+      1302
+    ]
+  },
+  "source": {
+    "artifact_id": "e33c61162d18d7f1cb972bb210049e51fbd07cd2871f3c063321b9e90924a067",
+    "source_sha256": "bffdbea10b192cd1f83382e41268aa0abd6d0cb70748d4303f23bf5d71a966c1"
+  },
+  "supplement_disposition": "numeric_content"
+}

@@ -1,0 +1,68 @@
+{
+  "archived_summary": {
+    "artifact_id": "7049954a19e80037b076c84b7e8eb0dc1ced46d3cdd8034bc8a063ad9391b45a",
+    "projection": {
+      "case_workers": 1,
+      "first_attempt_success_count": 5,
+      "question_count": 5,
+      "questions_sha256": "bf5bf668e9991b98f7eb1af4c74f6653a9a8d54617cdd0c0c4d2e64dff6b5eaf",
+      "reasoning_effort": "high",
+      "recovered_after_retry_count": 0,
+      "result_count": 5,
+      "status": "ok",
+      "top_k": 10,
+      "unrecovered_transport_failure_count": 0
+    },
+    "source_sha256": "2fef0eead02e90efa1a703b246f577f15addf8a5915404229ae133105969bb7c",
+    "version_mentions": [
+      1451
+    ]
+  },
+  "measurements": {
+    "case_workers": 1,
+    "chat_retries": 2,
+    "exact_cardinality": true,
+    "first_attempt_success_count": 5,
+    "full_answer_printed": true,
+    "full_cohort_question_count": 5,
+    "initial_runtime_error_count": 0,
+    "keyword_weight": 0.35,
+    "metadata_filter_mode_is_oracle": false,
+    "oracle_blind_runtime": false,
+    "question_count": 5,
+    "questions_sha256": "bf5bf668e9991b98f7eb1af4c74f6653a9a8d54617cdd0c0c4d2e64dff6b5eaf",
+    "reasoning_effort": "high",
+    "recovered_after_retry_count": 0,
+    "result_count": 5,
+    "resumed_case_count": 0,
+    "retried_runtime_error_count": 0,
+    "retriever_snippet_chars": 2000,
+    "retry_backoff_seconds": 2.0,
+    "secret_values_printed": false,
+    "shard_count": 1,
+    "shard_index": 1,
+    "source_snippets_printed": true,
+    "status": "ok",
+    "timeout_seconds": 300.0,
+    "top_k": 10,
+    "unrecovered_transport_failure_count": 0,
+    "vector_values_printed": false,
+    "vector_weight": 0.65
+  },
+  "original_inventory": {
+    "artifact_id": "7049954a19e80037b076c84b7e8eb0dc1ced46d3cdd8034bc8a063ad9391b45a",
+    "bytes": 2610,
+    "disposition": "structured_summary_projection",
+    "source_root": "tests/e2e",
+    "source_sha256": "2fef0eead02e90efa1a703b246f577f15addf8a5915404229ae133105969bb7c",
+    "suffix": ".json",
+    "version_mentions": [
+      1451
+    ]
+  },
+  "source": {
+    "artifact_id": "7049954a19e80037b076c84b7e8eb0dc1ced46d3cdd8034bc8a063ad9391b45a",
+    "source_sha256": "2fef0eead02e90efa1a703b246f577f15addf8a5915404229ae133105969bb7c"
+  },
+  "supplement_disposition": "numeric_content"
+}

@@ -1,0 +1,97 @@
+{
+  "measurements": [
+    {
+      "answer_chars": 932,
+      "chat_attempts": 1,
+      "error": null,
+      "http_code": 200,
+      "judgment": {
+        "answer_url_count": 2
+      },
+      "latency_ms": 100672,
+      "retried_runtime_error": false,
+      "retriever_resource_count": 10,
+      "status": "ok"
+    },
+    {
+      "answer_chars": 1264,
+      "chat_attempts": 1,
+      "error": null,
+      "http_code": 200,
+      "judgment": {
+        "answer_url_count": 2
+      },
+      "latency_ms": 106356,
+      "retried_runtime_error": false,
+      "retriever_resource_count": 10,
+      "status": "ok"
+    },
+    {
+      "answer_chars": 899,
+      "chat_attempts": 1,
+      "error": null,
+      "http_code": 200,
+      "judgment": {
+        "answer_url_count": 1
+      },
+      "latency_ms": 96091,
+      "retried_runtime_error": false,
+      "retriever_resource_count": 10,
+      "status": "ok"
+    },
+    {
+      "answer_chars": 0,
+      "chat_attempts": 1,
+      "http_code": null,
+      "judgment": {
+        "failure_class": "runtime_error_or_timeout"
+      },
+      "latency_ms": 120001,
+      "retried_runtime_error": false,
+      "retriever_resource_count": 0,
+      "status": "error"
+    },
+    {
+      "answer_chars": 1720,
+      "chat_attempts": 1,
+      "error": null,
+      "http_code": 200,
+      "judgment": {
+        "answer_url_count": 2
+      },
+      "latency_ms": 76634,
+      "retried_runtime_error": false,
+      "retriever_resource_count": 10,
+      "status": "ok"
+    },
+    {
+      "answer_chars": 571,
+      "chat_attempts": 1,
+      "error": null,
+      "http_code": 200,
+      "judgment": {
+        "answer_url_count": 1
+      },
+      "latency_ms": 93703,
+      "retried_runtime_error": false,
+      "retriever_resource_count": 10,
+      "status": "ok"
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "9e390e3c8bd6360d7389402f9d81f9ad1839a79bf23bf8b3d8ad7a88fd265ed5",
+    "bytes": 1760421,
+    "disposition": "hash_only_private_content",
+    "source_root": "tests/e2e",
+    "source_sha256": "ec0638d972135598d3c1cef7c87223500760d0f851934de2060000c6d003deb6",
+    "suffix": ".json",
+    "version_mentions": [
+      1435
+    ]
+  },
+  "source": {
+    "artifact_id": "9e390e3c8bd6360d7389402f9d81f9ad1839a79bf23bf8b3d8ad7a88fd265ed5",
+    "source_sha256": "ec0638d972135598d3c1cef7c87223500760d0f851934de2060000c6d003deb6"
+  },
+  "supplement_disposition": "numeric_content"
+}

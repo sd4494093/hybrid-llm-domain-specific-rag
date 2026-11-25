@@ -1,0 +1,36 @@
+{
+  "case_records": [
+    {
+      "artifact_id": "392638587bda8d6a220fa7cf8a588ca1635b747ecca6daff69b68b6ae6383b74",
+      "case_key": "744aba691f14e0b5da10f61a8d6cfb2999004d88c08254dd19a41e5d594ce20c",
+      "line": 1,
+      "projection": {
+        "cohort_manifest_sha256": "ea6c13fb9f513362881086b90334375f817089cd0ae8b48f271638c6e9af5253",
+        "latency_ms": 176644,
+        "model_config_sha256": "5b381afb3cc4162d403a9ed1f760f2b40407f1c75355b8326f6decea2212fd63",
+        "question_sha256": "224b844726798b2f2e2dde3a2b61ec66451550bacba875b88efa7222421ea6e0",
+        "run_provenance_sha256": "b10607137476df27bc5cab7d601d5296eed9da0924d6c14b0dc1ac713f92292e",
+        "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+        "status": "error"
+      }
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "392638587bda8d6a220fa7cf8a588ca1635b747ecca6daff69b68b6ae6383b74",
+    "bytes": 3327,
+    "disposition": "case_projection",
+    "exported_rows": 1,
+    "invalid_rows": 0,
+    "source_root": "tests/e2e",
+    "source_sha256": "42db0c4c7a7700665b130fbb666e16a3d0a55598da817a470ebd7713a3746a9a",
+    "suffix": ".jsonl",
+    "version_mentions": [
+      303
+    ]
+  },
+  "source": {
+    "artifact_id": "392638587bda8d6a220fa7cf8a588ca1635b747ecca6daff69b68b6ae6383b74",
+    "source_sha256": "42db0c4c7a7700665b130fbb666e16a3d0a55598da817a470ebd7713a3746a9a"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}

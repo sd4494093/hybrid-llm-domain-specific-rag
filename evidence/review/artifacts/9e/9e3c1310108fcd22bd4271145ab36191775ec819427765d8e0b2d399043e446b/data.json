@@ -1,0 +1,75 @@
+{
+  "archived_summary": {
+    "artifact_id": "9e3c1310108fcd22bd4271145ab36191775ec819427765d8e0b2d399043e446b",
+    "projection": {
+      "dimension_rates": {
+        "answer_type": {
+          "grounded": {
+            "count": 4,
+            "pass_count": 2
+          }
+        },
+        "language": {
+          "en": {
+            "count": 4,
+            "pass_count": 2
+          }
+        }
+      },
+      "e2e_pass_count": 2,
+      "e2e_pass_rate": 0.5,
+      "failure_classes": {
+        "semantic_judge_rejected": 2
+      },
+      "first_attempt_success_count": 0,
+      "indeterminate_count": 0,
+      "integrity": {
+        "duplicate_case_id_count": 0,
+        "grounded_count": 4,
+        "negative_evidence_contract_count": 0,
+        "no_answer_count": 0,
+        "query_mode": "question_only",
+        "refusal_count": 0,
+        "row_count": 4,
+        "semantic_fact_count": 14,
+        "source_contract_count": 4,
+        "source_evidence_count": 22,
+        "status": "PASS",
+        "violation_count": 0
+      },
+      "machine_semantic_judge_required": true,
+      "machine_semantic_judgments_present": true,
+      "question_count": 4,
+      "recovered_after_retry_count": 0,
+      "result_count": 4,
+      "semantic_judge_model": "gpt-5.5",
+      "unrecovered_transport_failure_count": 0
+    },
+    "source_sha256": "8895fa953fbb224d1c046e428b00ffcb2974785f63f5d690134fd0f2f1ff67f6",
+    "version_mentions": [
+      890,
+      891,
+      892,
+      893
+    ]
+  },
+  "original_inventory": {
+    "artifact_id": "9e3c1310108fcd22bd4271145ab36191775ec819427765d8e0b2d399043e446b",
+    "bytes": 2901,
+    "disposition": "structured_summary_projection",
+    "source_root": "tests/e2e",
+    "source_sha256": "8895fa953fbb224d1c046e428b00ffcb2974785f63f5d690134fd0f2f1ff67f6",
+    "suffix": ".json",
+    "version_mentions": [
+      890,
+      891,
+      892,
+      893
+    ]
+  },
+  "source": {
+    "artifact_id": "9e3c1310108fcd22bd4271145ab36191775ec819427765d8e0b2d399043e446b",
+    "source_sha256": "8895fa953fbb224d1c046e428b00ffcb2974785f63f5d690134fd0f2f1ff67f6"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}

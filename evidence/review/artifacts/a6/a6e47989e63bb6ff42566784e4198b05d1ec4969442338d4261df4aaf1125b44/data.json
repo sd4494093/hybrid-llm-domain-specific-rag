@@ -1,0 +1,55 @@
+{
+  "case_records": [
+    {
+      "artifact_id": "a6e47989e63bb6ff42566784e4198b05d1ec4969442338d4261df4aaf1125b44",
+      "case_key": "b475c698af04dc1bd76126b1015a606d6d74675aec869cd41cb41d027e62aec0",
+      "line": 1,
+      "projection": {
+        "cohort_manifest_sha256": "44b1cca67ac4082484d230b5cf94846a92f8b5d904901776887b361f078e7b84",
+        "latency_ms": 50773,
+        "question_sha256": "627d12d36eb4f5fb01f83c6396373e82c105495d1af56f79e782b656892ebcf9",
+        "status": "ok"
+      }
+    },
+    {
+      "artifact_id": "a6e47989e63bb6ff42566784e4198b05d1ec4969442338d4261df4aaf1125b44",
+      "case_key": "f919c7b3314df342d55c264990c067d1d1c25370b43166f4d590d30639dc6e41",
+      "line": 2,
+      "projection": {
+        "cohort_manifest_sha256": "44b1cca67ac4082484d230b5cf94846a92f8b5d904901776887b361f078e7b84",
+        "latency_ms": 57303,
+        "question_sha256": "b47bcfda57569421b11fd81a7ee9701c6f6868acf15fa9716523865204bc405d",
+        "status": "ok"
+      }
+    },
+    {
+      "artifact_id": "a6e47989e63bb6ff42566784e4198b05d1ec4969442338d4261df4aaf1125b44",
+      "case_key": "b8fba12b76be0d7d0273a324b6926765f5c02bd9c0e549e079847c6c52c13a87",
+      "line": 3,
+      "projection": {
+        "cohort_manifest_sha256": "44b1cca67ac4082484d230b5cf94846a92f8b5d904901776887b361f078e7b84",
+        "latency_ms": 54862,
+        "question_sha256": "d3df51fa07786ccd2ad6d00b719f36b3e1333a2d49c69d3259f464847a9b1606",
+        "status": "ok"
+      }
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "a6e47989e63bb6ff42566784e4198b05d1ec4969442338d4261df4aaf1125b44",
+    "bytes": 258255,
+    "disposition": "case_projection",
+    "exported_rows": 3,
+    "invalid_rows": 0,
+    "source_root": "tests/e2e",
+    "source_sha256": "b630f1e76f6a8911c3b8c5c8a3752387a602fc3c886fe4399364dd15b0f712aa",
+    "suffix": ".jsonl",
+    "version_mentions": [
+      257
+    ]
+  },
+  "source": {
+    "artifact_id": "a6e47989e63bb6ff42566784e4198b05d1ec4969442338d4261df4aaf1125b44",
+    "source_sha256": "b630f1e76f6a8911c3b8c5c8a3752387a602fc3c886fe4399364dd15b0f712aa"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}

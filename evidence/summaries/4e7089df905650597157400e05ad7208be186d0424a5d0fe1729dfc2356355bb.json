@@ -1,0 +1,162 @@
+{
+  "artifact_id": "4e7089df905650597157400e05ad7208be186d0424a5d0fe1729dfc2356355bb",
+  "projection": {
+    "dimension_rates": {
+      "answer_type": {
+        "grounded": {
+          "count": 41,
+          "pass_count": 26
+        },
+        "no_answer": {
+          "count": 7,
+          "pass_count": 7
+        },
+        "refusal": {
+          "count": 2,
+          "pass_count": 2
+        }
+      },
+      "language": {
+        "en": {
+          "count": 50,
+          "pass_count": 35
+        }
+      }
+    },
+    "e2e_pass_count": 35,
+    "e2e_pass_rate": 0.7,
+    "failure_classes": {
+      "citation_wrong_source": 1,
+      "semantic_incomplete": 1,
+      "semantic_incorrect": 4,
+      "semantic_judge_rejected": 9
+    },
+    "indeterminate_count": 0,
+    "integrity": {
+      "duplicate_case_id_count": 0,
+      "grounded_count": 41,
+      "negative_evidence_contract_count": 7,
+      "no_answer_count": 7,
+      "query_mode": "question_only",
+      "refusal_count": 2,
+      "row_count": 50,
+      "semantic_fact_count": 127,
+      "source_contract_count": 41,
+      "source_evidence_count": 151,
+      "status": "PASS",
+      "violation_count": 0
+    },
+    "machine_semantic_judge_required": true,
+    "machine_semantic_judgments_present": true,
+    "quality_gate": {
+      "checks": {
+        "citation_support_correctness_rate": {
+          "actual": 0.6341463414634146,
+          "min": 0.95,
+          "pass": false
+        },
+        "correct_refusal_rate": {
+          "actual": 1.0,
+          "min": 0.9,
+          "pass": true
+        },
+        "critical_semantic_correctness_rate": {
+          "actual": 0.6111111111111112,
+          "min": 0.95,
+          "pass": false
+        },
+        "expected_question_count": {
+          "actual": 50,
+          "expected": 50,
+          "pass": true
+        },
+        "false_refusal_rate": {
+          "actual": 0.0,
+          "max": 0.05,
+          "pass": true
+        },
+        "grounded_rate": {
+          "actual": 0.6585365853658537,
+          "min": 0.95,
+          "pass": false
+        },
+        "retrieval_recall_at_10": {
+          "actual": 0.6829268292682927,
+          "min": 0.9,
+          "pass": false
+        },
+        "runtime_success_rate": {
+          "actual": 1.0,
+          "min": 0.99,
+          "pass": true
+        },
+        "semantic_correctness_rate": {
+          "actual": 0.72,
+          "min": 0.95,
+          "pass": false
+        },
+        "unsupported_assertion_rate": {
+          "actual": 0.28,
+          "pass": false
+        }
+      },
+      "status": "FAIL"
+    },
+    "quality_metrics": {
+      "citation_support_correctness_rate": {
+        "denominator": 41,
+        "numerator": 26,
+        "rate": 0.6341463414634146
+      },
+      "correct_refusal_rate": {
+        "denominator": 9,
+        "numerator": 9,
+        "rate": 1.0
+      },
+      "critical_semantic_correctness_rate": {
+        "denominator": 18,
+        "numerator": 11,
+        "rate": 0.6111111111111112
+      },
+      "critical_severe_error_count": 7,
+      "false_refusal_rate": {
+        "denominator": 41,
+        "numerator": 0,
+        "rate": 0.0
+      },
+      "grounded_rate": {
+        "denominator": 41,
+        "numerator": 27,
+        "rate": 0.6585365853658537
+      },
+      "retrieval_recall_at_10": {
+        "denominator": 41,
+        "numerator": 28,
+        "rate": 0.6829268292682927
+      },
+      "runtime_success_rate": {
+        "denominator": 50,
+        "numerator": 50,
+        "rate": 1.0
+      },
+      "semantic_correctness_rate": {
+        "denominator": 50,
+        "numerator": 36,
+        "rate": 0.72
+      },
+      "unsupported_assertion_rate": {
+        "denominator": 50,
+        "numerator": 14,
+        "rate": 0.28
+      }
+    },
+    "question_count": 50,
+    "result_count": 50,
+    "status": "FAIL"
+  },
+  "source_sha256": "324c282404c32ec8a5a5904e06bcffc80e388e179e474d7cbf000526530ba57f",
+  "version_mentions": [
+    26,
+    183
+  ]
+}

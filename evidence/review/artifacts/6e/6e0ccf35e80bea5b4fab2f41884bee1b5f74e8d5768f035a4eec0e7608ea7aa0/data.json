@@ -1,0 +1,74 @@
+{
+  "archived_summary": {
+    "artifact_id": "6e0ccf35e80bea5b4fab2f41884bee1b5f74e8d5768f035a4eec0e7608ea7aa0",
+    "projection": {
+      "cohort_manifest_sha256": "c9ac3d6089816e26a70b7636cfaa06653cc47dff10d0ef99cff98bb39403b5f2",
+      "first_attempt_success_count": 5,
+      "question_count": 5,
+      "questions_sha256": "836ea9213ca9f31df3bf19eeedc793196066b8272bcca087366e0ec386e247e5",
+      "recovered_after_retry_count": 0,
+      "result_count": 5,
+      "run_provenance_sha256": "48d0cd6305aab5b562a8a6de813db9f2725aa94414ff233a65cc3c4135b3f37a",
+      "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+      "status": "ok",
+      "unrecovered_transport_failure_count": 0
+    },
+    "source_sha256": "3127fb17121ab194e06fd8e3dc95e49a48a2d2a8bb2bbe587e4da44e477f1650",
+    "version_mentions": [
+      1345
+    ]
+  },
+  "measurements": {
+    "cohort_manifest_sha256": "c9ac3d6089816e26a70b7636cfaa06653cc47dff10d0ef99cff98bb39403b5f2",
+    "exact_cardinality": true,
+    "first_attempt_success_count": 5,
+    "first_attempt_success_rate": 1.0,
+    "initial_runtime_error_count": 0,
+    "oracle_blind_runtime": true,
+    "question_count": 5,
+    "questions_sha256": "836ea9213ca9f31df3bf19eeedc793196066b8272bcca087366e0ec386e247e5",
+    "recovered_after_retry_count": 0,
+    "result_count": 5,
+    "retried_runtime_error_count": 0,
+    "run_provenance_sha256": "48d0cd6305aab5b562a8a6de813db9f2725aa94414ff233a65cc3c4135b3f37a",
+    "secret_values_printed": false,
+    "shard_count": 2,
+    "shards": [
+      {
+        "exit_code": 0,
+        "result_count": 2,
+        "shard_index": 1,
+        "status": "ok"
+      },
+      {
+        "exit_code": 0,
+        "result_count": 3,
+        "shard_index": 2,
+        "status": "ok"
+      }
+    ],
+    "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+    "status": "ok",
+    "transport_failure_count": 0,
+    "transport_ok_count": 5,
+    "transport_ok_rate": 1.0,
+    "unrecovered_transport_failure_count": 0,
+    "vector_values_printed": false
+  },
+  "original_inventory": {
+    "artifact_id": "6e0ccf35e80bea5b4fab2f41884bee1b5f74e8d5768f035a4eec0e7608ea7aa0",
+    "bytes": 2197,
+    "disposition": "structured_summary_projection",
+    "source_root": "tests/e2e",
+    "source_sha256": "3127fb17121ab194e06fd8e3dc95e49a48a2d2a8bb2bbe587e4da44e477f1650",
+    "suffix": ".json",
+    "version_mentions": [
+      1345
+    ]
+  },
+  "source": {
+    "artifact_id": "6e0ccf35e80bea5b4fab2f41884bee1b5f74e8d5768f035a4eec0e7608ea7aa0",
+    "source_sha256": "3127fb17121ab194e06fd8e3dc95e49a48a2d2a8bb2bbe587e4da44e477f1650"
+  },
+  "supplement_disposition": "numeric_content"
+}

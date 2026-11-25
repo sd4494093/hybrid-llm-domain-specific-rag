@@ -1,0 +1,44 @@
+{
+  "measurements": [
+    {
+      "line": 1,
+      "measurements": {
+        "expected_answer_type": "grounded"
+      }
+    },
+    {
+      "line": 2,
+      "measurements": {
+        "expected_answer_type": "refusal"
+      }
+    },
+    {
+      "line": 3,
+      "measurements": {
+        "expected_answer_type": "grounded"
+      }
+    },
+    {
+      "line": 4,
+      "measurements": {
+        "expected_answer_type": "no_answer"
+      }
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "4cbf724fbdef9bb77f0e99e4b89e0033fd1a66fa6da6b410118f3b8d44d4136c",
+    "bytes": 7589,
+    "disposition": "hash_only_private_content",
+    "source_root": "tests/e2e",
+    "source_sha256": "a7b25f3bd6b967a29fbae5ee064a656ab360c86176230a43c798bf60b8c3f3f5",
+    "suffix": ".jsonl",
+    "version_mentions": [
+      1310
+    ]
+  },
+  "source": {
+    "artifact_id": "4cbf724fbdef9bb77f0e99e4b89e0033fd1a66fa6da6b410118f3b8d44d4136c",
+    "source_sha256": "a7b25f3bd6b967a29fbae5ee064a656ab360c86176230a43c798bf60b8c3f3f5"
+  },
+  "supplement_disposition": "numeric_content"
+}

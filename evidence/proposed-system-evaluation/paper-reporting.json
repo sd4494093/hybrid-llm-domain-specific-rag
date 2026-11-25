@@ -1,0 +1,23 @@
+{
+  "version": "v1660",
+  "reporting_definition_date": "2026-11-17",
+  "definition_provenance": "Counting correction using preserved final semantic labels; no new grading or aggregate reclassification.",
+  "source_summary": "summary.json",
+  "total": 2000,
+  "strict_semantic_correct": {"numerator": 1451, "denominator": 2000, "rate": 0.7255},
+  "partially_correct": {"numerator": 354, "denominator": 2000, "rate": 0.177},
+  "correct_or_partial": {"numerator": 1805, "denominator": 2000, "rate": 0.9025},
+  "remaining": {"numerator": 195, "denominator": 2000, "rate": 0.0975},
+  "remaining_labels": {"incorrect": 91, "incorrect_refusal": 104},
+  "partial_source_field": "case-labels.json:rows[].projection.label == partial",
+  "diagnostic_ownership": {"planner/partial": 411, "no-answer": 108, "citation/source": 30},
+  "withdrawn_interpretation": {
+    "reporting_definition_date": "2026-09-10",
+    "ownership_count_used_as_partial": 411,
+    "correct_or_partial": {"numerator": 1862, "denominator": 2000, "rate": 0.931},
+    "remaining_ownership": {"no-answer": 108, "citation/source": 30},
+    "status": "withdrawn_as_semantic_answer_rate",
+    "reason": "Diagnostic ownership is not semantic regrading: the 411 contain 340 partial and 71 incorrect labels, while 14 partial labels lie elsewhere."
+  },
+  "interpretation": "Strict and inclusive correctness use original semantic labels. Diagnostic ownership remains separate. Original source files and judgments are unchanged."
+}

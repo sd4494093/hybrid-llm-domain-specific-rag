@@ -1,0 +1,30 @@
+# v1289: Artifacts 1 to 22
+
+[Version overview](README.md)
+
+JSON probe cases are inside the linked numerical data; the last column counts archived JSONL records only.
+
+| Source artifact | Public content | Supplement disposition | Archived JSONL rows |
+|---|---|---|---:|
+| [4b8583595f3d](../../artifacts/4b/4b8583595f3d7199f18a545377db90031c16b0b9dde230ee6f9667588745bb93/README.md) | case_records | not_selected_for_supplement | 5 |
+| [7da4f9b7a315](../../artifacts/7d/7da4f9b7a315ab3c97a8de56e069b96c23a8371960c4af7a458a590b3fa45a87/README.md) | summary, numeric_content | numeric_content | 0 |
+| [fb5f05ddcc93](../../artifacts/fb/fb5f05ddcc93884cc45ec60b4dae9b6b62ca986c84fbd989ceb25d793da1e51a/README.md) | fingerprint only | not_selected_for_supplement | 0 |
+| [11c8b65b6468](../../artifacts/11/11c8b65b646893cb926fb96753e586ffc72c91d495f2a142099b9c0f43ce0c04/README.md) | summary, numeric_content | numeric_content | 0 |
+| [7c8f2cc60eb0](../../artifacts/7c/7c8f2cc60eb089d9068268b8b21060e751bba6a035648a579cd81420d415a9d5/README.md) | summary, numeric_content | numeric_content | 0 |
+| [3bad8d26c289](../../artifacts/3b/3bad8d26c289abc5e0dc4dd3ebed010972adf51922b9a003093b04eff72736e3/README.md) | numeric_content | numeric_content | 0 |
+| [b1437133d72a](../../artifacts/b1/b1437133d72a9fe783527859293a07e0ac26e7abf0b51e174c7b8df039075129/README.md) | case_records | not_selected_for_supplement | 5 |
+| [46df4d0678dc](../../artifacts/46/46df4d0678dcc321340b56a81c7a536691233e5e7649fa139eb41796c0c09632/README.md) | summary, numeric_content | numeric_content | 0 |
+| [4b84dfdddcd2](../../artifacts/4b/4b84dfdddcd2cef4187ff0e3240fc52ecf516aa8e1d78d6cd023feb6ffa42fb5/README.md) | fingerprint only | not_selected_for_supplement | 0 |
+| [50577b1b145c](../../artifacts/50/50577b1b145cfa8afc44bc6808de8f02c6fe82a466ec9ca8752441f5a2f0a0d9/README.md) | fingerprint only | not_selected_for_supplement | 0 |
+| [149266ed2fe6](../../artifacts/14/149266ed2fe6d3639cc0de94866966f71b7ca072934dabbc8e0b0b7510b287f5/README.md) | case_records | not_selected_for_supplement | 5 |
+| [f703d0d84a44](../../artifacts/f7/f703d0d84a44fa6b6bee980db59158a126299db7c8d5b3df239372787303ff3a/README.md) | fingerprint only | not_selected_for_supplement | 0 |
+| [b64239f004be](../../artifacts/b6/b64239f004bedceb9c4902a45b5f09cc8e05a7a5a9d7cef970e1557b66e91671/README.md) | numeric_content | numeric_content | 0 |
+| [8bb49a9639dd](../../artifacts/8b/8bb49a9639dd9396471d54589df944e641367b12b3f77a1b964b2eeb1b3a248d/README.md) | case_records | not_selected_for_supplement | 5 |
+| [6a1650b77948](../../artifacts/6a/6a1650b77948a2640e59e0cd3c3ec24be03a6aa43a407dbd8468372cadbfdb13/README.md) | summary, numeric_content | numeric_content | 0 |
+| [361d89a84268](../../artifacts/36/361d89a84268430222ce727430b8958c8654e098245e3e50474ea6b0e639f150/README.md) | case_records | not_selected_for_supplement | 5 |
+| [470431014da8](../../artifacts/47/470431014da85a506537ad2a36c6bc924083ae53644df8ed17911675b2bf17bd/README.md) | case_records | not_selected_for_supplement | 5 |
+| [183508a45ffe](../../artifacts/18/183508a45ffeef279305aab44efc582b3961b8014b34638ec146dfdb207328c1/README.md) | summary, numeric_content | numeric_content | 0 |
+| [a505e8f5ed4c](../../artifacts/a5/a505e8f5ed4cc10219974c7755087f30a3db154487ab6604a6ea64786e55b662/README.md) | fingerprint only | no_allowlisted_measurements | 0 |
+| [8a27c7a1ffdf](../../artifacts/8a/8a27c7a1ffdf64f5224f4eea01f4444864290d8f2fd2d117a926488abc9a720c/README.md) | summary, numeric_content | numeric_content | 0 |
+| [05b0378dda74](../../artifacts/05/05b0378dda746df8abe7e48a54af7167c72db18f698991e89fdc2bf61228a7ab/README.md) | numeric_content | numeric_content | 0 |
+| [aa2230067bcd](../../artifacts/aa/aa2230067bcd013923f6556eaaa2e679894aa54dd47f4d26a987a00ad15e754a/README.md) | numeric_content | numeric_content | 0 |

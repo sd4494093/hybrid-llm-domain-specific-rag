@@ -1,0 +1,493 @@
+{
+  "measurements": {
+    "candidate_limit": 200,
+    "case_count": 1,
+    "document_title_text_stored": false,
+    "proposal_partition_loaded": false,
+    "query_representation_mode": "runtime",
+    "question_text_stored": false,
+    "results": [
+      {
+        "candidate_count": 200,
+        "candidate_numeric_surface": {
+          "item_count": 200,
+          "review_pages": [
+            "pages/0000/000000.json",
+            "pages/0000/000001.json",
+            "pages/0000/000002.json",
+            "pages/0000/000003.json"
+          ]
+        },
+        "candidate_unique_parents": 180,
+        "document_title_text_stored": false,
+        "expected_candidates": [
+          {
+            "fused_rerank_rank": null,
+            "original_full_text_rank": null,
+            "original_rerank_rank": null,
+            "original_single_terms": null,
+            "original_vector_rank": null,
+            "original_window_gain": null,
+            "original_window_terms": null,
+            "rank": 55,
+            "semantic_full_text_rank": 64,
+            "semantic_rerank_rank": null,
+            "semantic_rerank_score": null,
+            "semantic_rerank_score_present": false,
+            "semantic_vector_rank": 151
+          }
+        ],
+        "expected_in_candidates": true,
+        "expected_in_partition_input": true,
+        "expected_in_tail": true,
+        "expected_parent_full_text_rank": 64,
+        "expected_parent_lane_count": 2,
+        "expected_parent_rrf_rank": 65,
+        "expected_parent_vector_rank": 151,
+        "expected_partition_input": [
+          {
+            "fused_rerank_rank": null,
+            "original_full_text_rank": null,
+            "original_rerank_rank": null,
+            "original_single_terms": null,
+            "original_vector_rank": null,
+            "original_window_gain": null,
+            "original_window_terms": null,
+            "rank": 151,
+            "semantic_full_text_rank": 64,
+            "semantic_rerank_rank": null,
+            "semantic_rerank_score": null,
+            "semantic_rerank_score_present": false,
+            "semantic_vector_rank": 151
+          },
+          {
+            "fused_rerank_rank": null,
+            "original_full_text_rank": null,
+            "original_rerank_rank": null,
+            "original_single_terms": null,
+            "original_vector_rank": null,
+            "original_window_gain": null,
+            "original_window_terms": null,
+            "rank": 290,
+            "semantic_full_text_rank": 125,
+            "semantic_rerank_rank": null,
+            "semantic_rerank_score": null,
+            "semantic_rerank_score_present": false,
+            "semantic_vector_rank": null
+          },
+          {
+            "fused_rerank_rank": null,
+            "original_full_text_rank": null,
+            "original_rerank_rank": null,
+            "original_single_terms": null,
+            "original_vector_rank": null,
+            "original_window_gain": null,
+            "original_window_terms": null,
+            "rank": 295,
+            "semantic_full_text_rank": 131,
+            "semantic_rerank_rank": null,
+            "semantic_rerank_score": null,
+            "semantic_rerank_score_present": false,
+            "semantic_vector_rank": null
+          },
+          {
+            "fused_rerank_rank": null,
+            "original_full_text_rank": null,
+            "original_rerank_rank": null,
+            "original_single_terms": null,
+            "original_vector_rank": null,
+            "original_window_gain": null,
+            "original_window_terms": null,
+            "rank": 298,
+            "semantic_full_text_rank": 135,
+            "semantic_rerank_rank": null,
+            "semantic_rerank_score": null,
+            "semantic_rerank_score_present": false,
+            "semantic_vector_rank": null
+          }
+        ],
+        "expected_post_expansion": [
+          {
+            "fused_rerank_rank": 71,
+            "original_full_text_rank": null,
+            "original_rerank_rank": 55,
+            "original_single_terms": null,
+            "original_vector_rank": null,
+            "original_window_gain": null,
+            "original_window_terms": null,
+            "rank": 71,
+            "semantic_full_text_rank": 64,
+            "semantic_rerank_rank": 96,
+            "semantic_rerank_score": 0.04066988,
+            "semantic_rerank_score_present": true,
+            "semantic_vector_rank": 151
+          }
+        ],
+        "expected_post_rerank": [
+          {
+            "fused_rerank_rank": 71,
+            "original_full_text_rank": null,
+            "original_rerank_rank": 55,
+            "original_single_terms": null,
+            "original_vector_rank": null,
+            "original_window_gain": null,
+            "original_window_terms": null,
+            "rank": 71,
+            "semantic_full_text_rank": 64,
+            "semantic_rerank_rank": 96,
+            "semantic_rerank_score": 0.04066988,
+            "semantic_rerank_score_present": true,
+            "semantic_vector_rank": 151
+          }
+        ],
+        "expected_tail": [
+          {
+            "fused_rerank_rank": null,
+            "original_full_text_rank": null,
+            "original_rerank_rank": null,
+            "original_single_terms": null,
+            "original_vector_rank": null,
+            "original_window_gain": null,
+            "original_window_terms": null,
+            "rank": 63,
+            "semantic_full_text_rank": 125,
+            "semantic_rerank_rank": null,
+            "semantic_rerank_score": null,
+            "semantic_rerank_score_present": false,
+            "semantic_vector_rank": null
+          },
+          {
+            "fused_rerank_rank": null,
+            "original_full_text_rank": null,
+            "original_rerank_rank": null,
+            "original_single_terms": null,
+            "original_vector_rank": null,
+            "original_window_gain": null,
+            "original_window_terms": null,
+            "rank": 66,
+            "semantic_full_text_rank": 131,
+            "semantic_rerank_rank": null,
+            "semantic_rerank_score": null,
+            "semantic_rerank_score_present": false,
+            "semantic_vector_rank": null
+          },
+          {
+            "fused_rerank_rank": null,
+            "original_full_text_rank": null,
+            "original_rerank_rank": null,
+            "original_single_terms": null,
+            "original_vector_rank": null,
+            "original_window_gain": null,
+            "original_window_terms": null,
+            "rank": 69,
+            "semantic_full_text_rank": 135,
+            "semantic_rerank_rank": null,
+            "semantic_rerank_score": null,
+            "semantic_rerank_score_present": false,
+            "semantic_vector_rank": null
+          }
+        ],
+        "expected_unique_parent_first_rank": 151,
+        "partition_input_count": 319,
+        "partition_input_unique_parents": 262,
+        "post_expansion_count": 247,
+        "post_rerank_count": 200,
+        "query_changed": true,
+        "question_text_stored": false,
+        "rerank_query_results": {
+          "original": {
+            "elapsed_seconds": 44.836353,
+            "expected_post_expansion": [
+              {
+                "fused_rerank_rank": 29,
+                "original_full_text_rank": null,
+                "original_rerank_rank": 55,
+                "original_single_terms": null,
+                "original_vector_rank": null,
+                "original_window_gain": null,
+                "original_window_terms": null,
+                "rank": 29,
+                "semantic_full_text_rank": 64,
+                "semantic_rerank_rank": 42,
+                "semantic_rerank_score": 0.04072584,
+                "semantic_rerank_score_present": true,
+                "semantic_vector_rank": 151
+              }
+            ],
+            "expected_post_rerank": [
+              {
+                "fused_rerank_rank": 29,
+                "original_full_text_rank": null,
+                "original_rerank_rank": 55,
+                "original_single_terms": null,
+                "original_vector_rank": null,
+                "original_window_gain": null,
+                "original_window_terms": null,
+                "rank": 29,
+                "semantic_full_text_rank": 64,
+                "semantic_rerank_rank": 42,
+                "semantic_rerank_score": 0.04072584,
+                "semantic_rerank_score_present": true,
+                "semantic_vector_rank": 151
+              }
+            ],
+            "expected_selected": false,
+            "expected_selector_rows": [],
+            "post_expansion_count": 219,
+            "selected_parent_count": 4,
+            "selected_segment_count": 10,
+            "selected_segment_positions": [
+              {
+                "position": 13,
+                "rank": 1
+              },
+              {
+                "position": 1,
+                "rank": 2
+              },
+              {
+                "position": 3,
+                "rank": 3
+              },
+              {
+                "position": 5,
+                "rank": 4
+              },
+              {
+                "position": 1,
+                "rank": 5
+              },
+              {
+                "position": null,
+                "rank": 6
+              },
+              {
+                "position": 2,
+                "rank": 7
+              },
+              {
+                "position": null,
+                "rank": 8
+              },
+              {
+                "position": null,
+                "rank": 9
+              },
+              {
+                "position": 4,
+                "rank": 10
+              }
+            ],
+            "selection_debug": {
+              "candidate_document_count": 180,
+              "candidate_surface_complete": true,
+              "candidate_surface_exported_count": 180,
+              "comparison_numeric_range_query": false,
+              "comparison_subject_count": 0,
+              "eligible_document_count": 118,
+              "expected_effective_in_eligible": true,
+              "expected_in_candidate_pool": true,
+              "expected_in_eligible": true,
+              "explicit_comparison": false,
+              "resolved_comparison": false,
+              "strong_title_parent_budget_eligible": false
+            }
+          },
+          "semantic": {
+            "elapsed_seconds": 49.245708,
+            "expected_post_expansion": [
+              {
+                "fused_rerank_rank": 71,
+                "original_full_text_rank": null,
+                "original_rerank_rank": 55,
+                "original_single_terms": null,
+                "original_vector_rank": null,
+                "original_window_gain": null,
+                "original_window_terms": null,
+                "rank": 71,
+                "semantic_full_text_rank": 64,
+                "semantic_rerank_rank": 96,
+                "semantic_rerank_score": 0.04066988,
+                "semantic_rerank_score_present": true,
+                "semantic_vector_rank": 151
+              }
+            ],
+            "expected_post_rerank": [
+              {
+                "fused_rerank_rank": 71,
+                "original_full_text_rank": null,
+                "original_rerank_rank": 55,
+                "original_single_terms": null,
+                "original_vector_rank": null,
+                "original_window_gain": null,
+                "original_window_terms": null,
+                "rank": 71,
+                "semantic_full_text_rank": 64,
+                "semantic_rerank_rank": 96,
+                "semantic_rerank_score": 0.04066988,
+                "semantic_rerank_score_present": true,
+                "semantic_vector_rank": 151
+              }
+            ],
+            "expected_selected": false,
+            "expected_selector_rows": [],
+            "post_expansion_count": 247,
+            "selected_parent_count": 4,
+            "selected_segment_count": 10,
+            "selected_segment_positions": [
+              {
+                "position": 1,
+                "rank": 1
+              },
+              {
+                "position": null,
+                "rank": 2
+              },
+              {
+                "position": 1,
+                "rank": 3
+              },
+              {
+                "position": 7,
+                "rank": 4
+              },
+              {
+                "position": null,
+                "rank": 5
+              },
+              {
+                "position": 3,
+                "rank": 6
+              },
+              {
+                "position": null,
+                "rank": 7
+              },
+              {
+                "position": null,
+                "rank": 8
+              },
+              {
+                "position": null,
+                "rank": 9
+              },
+              {
+                "position": 8,
+                "rank": 10
+              }
+            ],
+            "selection_debug": {
+              "candidate_document_count": 180,
+              "candidate_surface_complete": true,
+              "candidate_surface_exported_count": 180,
+              "comparison_numeric_range_query": false,
+              "comparison_subject_count": 0,
+              "eligible_document_count": 118,
+              "expected_effective_in_eligible": true,
+              "expected_in_candidate_pool": true,
+              "expected_in_eligible": false,
+              "explicit_comparison": false,
+              "resolved_comparison": false,
+              "strong_title_parent_budget_eligible": false
+            }
+          }
+        },
+        "selector_results": {
+          "semantic": {
+            "expected_rows": [],
+            "expected_selected": false,
+            "selected_parent_count": 4,
+            "selected_segment_count": 10,
+            "selected_segment_positions": [
+              {
+                "position": null,
+                "rank": 1
+              },
+              {
+                "position": null,
+                "rank": 2
+              },
+              {
+                "position": null,
+                "rank": 3
+              },
+              {
+                "position": 7,
+                "rank": 4
+              },
+              {
+                "position": null,
+                "rank": 5
+              },
+              {
+                "position": null,
+                "rank": 6
+              },
+              {
+                "position": null,
+                "rank": 7
+              },
+              {
+                "position": null,
+                "rank": 8
+              },
+              {
+                "position": null,
+                "rank": 9
+              },
+              {
+                "position": 8,
+                "rank": 10
+              }
+            ],
+            "selection_debug": {
+              "candidate_document_count": 180,
+              "candidate_surface_complete": true,
+              "candidate_surface_exported_count": 180,
+              "comparison_numeric_range_query": false,
+              "comparison_subject_count": 0,
+              "eligible_document_count": 118,
+              "expected_effective_in_eligible": true,
+              "expected_in_candidate_pool": true,
+              "expected_in_eligible": false,
+              "explicit_comparison": false,
+              "resolved_comparison": false,
+              "strong_title_parent_budget_eligible": true
+            }
+          }
+        },
+        "semantic_query_text_stored": false,
+        "source_text_stored": false,
+        "tail_count": 119,
+        "vector_values_stored": false
+      }
+    ],
+    "secret_values_printed": false,
+    "selector_contract": {
+      "max_documents": 5,
+      "max_segments": 10
+    },
+    "semantic_query_text_stored": false,
+    "semantic_weight": 0.5,
+    "source_text_stored": false,
+    "top_k": 200,
+    "vector_share": 0.96,
+    "vector_values_stored": false
+  },
+  "original_inventory": {
+    "artifact_id": "f69be9b0f100b634b40f5d7b5369df403745f49889f35f8402de511cfca351aa",
+    "bytes": 303337,
+    "disposition": "hash_only_private_content",
+    "source_root": "tests/e2e",
+    "source_sha256": "b98e397b5fe2aca12444d32fb2efb7ca5374e6b48231e892bab46580571d2397",
+    "suffix": ".json",
+    "version_mentions": [
+      1372
+    ]
+  },
+  "source": {
+    "artifact_id": "f69be9b0f100b634b40f5d7b5369df403745f49889f35f8402de511cfca351aa",
+    "source_sha256": "b98e397b5fe2aca12444d32fb2efb7ca5374e6b48231e892bab46580571d2397"
+  },
+  "supplement_disposition": "numeric_content"
+}

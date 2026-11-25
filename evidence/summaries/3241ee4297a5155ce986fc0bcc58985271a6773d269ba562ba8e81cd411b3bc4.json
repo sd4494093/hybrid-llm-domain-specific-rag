@@ -1,0 +1,76 @@
+{
+  "artifact_id": "3241ee4297a5155ce986fc0bcc58985271a6773d269ba562ba8e81cd411b3bc4",
+  "projection": {
+    "cohort_manifest_sha256": "06424b4d8c6a11819ef8f00a19535c8306e0823bc41282c7053bbaf6e4bfbb60",
+    "dimension_rates": {
+      "answer_type": {
+        "grounded": {
+          "count": 5,
+          "pass_count": 3
+        }
+      },
+      "domain": {
+        "it_security_digital_workplace": {
+          "count": 3,
+          "pass_count": 2
+        },
+        "product_engineering": {
+          "count": 1,
+          "pass_count": 0
+        },
+        "safety_field_operations": {
+          "count": 1,
+          "pass_count": 1
+        }
+      },
+      "language": {
+        "en": {
+          "count": 4,
+          "pass_count": 3
+        },
+        "fr": {
+          "count": 1,
+          "pass_count": 0
+        }
+      }
+    },
+    "e2e_pass_count": 3,
+    "e2e_pass_rate": 0.6,
+    "failure_classes": {
+      "citation_wrong_source": 1,
+      "semantic_judge_rejected": 1
+    },
+    "first_attempt_success_count": 5,
+    "indeterminate_count": 0,
+    "integrity": {
+      "duplicate_case_id_count": 0,
+      "grounded_count": 5,
+      "negative_evidence_contract_count": 0,
+      "no_answer_count": 0,
+      "query_mode": "question_only",
+      "refusal_count": 0,
+      "row_count": 5,
+      "semantic_fact_count": 16,
+      "source_contract_count": 5,
+      "source_evidence_count": 15,
+      "status": "PASS",
+      "violation_count": 0
+    },
+    "judgments_sha256": "9330f108d88f6ff6132b1b7a99a42ed90d1549ea086f438b5e2be937d4e60912",
+    "machine_semantic_judge_required": true,
+    "machine_semantic_judgments_present": true,
+    "oracles_sha256": "318e0e0ab19da1d3bd5332dd7777c3c9cb6c1a8cca1b53c5fd13a379a3f43b0f",
+    "question_count": 5,
+    "questions_sha256": "ba9ea2b0646ac4059d376c32df373362cfe385400f8b492c6b2dfc8a748feb65",
+    "recovered_after_retry_count": 0,
+    "result_count": 5,
+    "semantic_judge_model": "gpt-5.6-sol",
+    "semantic_judge_reasoning_effort": "high",
+    "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+    "unrecovered_transport_failure_count": 0
+  },
+  "source_sha256": "9eb65b950e981a340cada45cd2fa599dd15113c8421bb8143bd6809ac7def0a2",
+  "version_mentions": [
+    1441
+  ]
+}

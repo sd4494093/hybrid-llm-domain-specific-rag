@@ -1,0 +1,11 @@
+# Source Artifact cac19114b085
+
+Original type: `.jsonl`. Source SHA-256: `fed3ae29c97211cd9306f71d35f04133e3d9e5257e9aaf74a79a7fbdd64a6fd8`.
+
+Public content: case_records. Supplement: `not_selected_for_supplement`.
+
+[Read data](data.json)
+
+Data page references inside JSON are relative to this artifact directory.
+
+Source paths, identities, questions, answers and rationales are withheld. Array positions are retained; empty objects or null placeholders mean omitted content, not successful cases.

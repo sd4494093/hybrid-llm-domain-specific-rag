@@ -1,0 +1,118 @@
+{
+  "measurements": [
+    {
+      "answer_chars": 1323,
+      "chat_attempts": 1,
+      "error": null,
+      "http_code": 200,
+      "judgment": {
+        "answer_url_count": 1,
+        "e2e_pass": true,
+        "retriever_resource_count": 11,
+        "runtime_ok": true
+      },
+      "latency_ms": 64700,
+      "retried_runtime_error": false,
+      "retriever_resource_count": 11,
+      "status": "ok"
+    },
+    {
+      "answer_chars": 740,
+      "chat_attempts": 1,
+      "error": null,
+      "http_code": 200,
+      "judgment": {
+        "answer_url_count": 2,
+        "e2e_pass": true,
+        "retriever_resource_count": 10,
+        "runtime_ok": true
+      },
+      "latency_ms": 64983,
+      "retried_runtime_error": false,
+      "retriever_resource_count": 10,
+      "status": "ok"
+    },
+    {
+      "answer_chars": 61,
+      "chat_attempts": 1,
+      "error": null,
+      "http_code": 200,
+      "judgment": {
+        "answer_url_count": 0,
+        "e2e_pass": false,
+        "failure_class": "no_answer",
+        "retriever_resource_count": 16,
+        "runtime_ok": true
+      },
+      "latency_ms": 44665,
+      "retried_runtime_error": false,
+      "retriever_resource_count": 16,
+      "status": "ok"
+    },
+    {
+      "answer_chars": 840,
+      "chat_attempts": 1,
+      "error": null,
+      "http_code": 200,
+      "judgment": {
+        "answer_url_count": 2,
+        "e2e_pass": true,
+        "retriever_resource_count": 16,
+        "runtime_ok": true
+      },
+      "latency_ms": 77807,
+      "retried_runtime_error": false,
+      "retriever_resource_count": 16,
+      "status": "ok"
+    },
+    {
+      "answer_chars": 1027,
+      "chat_attempts": 1,
+      "error": null,
+      "http_code": 200,
+      "judgment": {
+        "answer_url_count": 2,
+        "e2e_pass": true,
+        "retriever_resource_count": 16,
+        "runtime_ok": true
+      },
+      "latency_ms": 87760,
+      "retried_runtime_error": false,
+      "retriever_resource_count": 16,
+      "status": "ok"
+    },
+    {
+      "answer_chars": 617,
+      "chat_attempts": 1,
+      "error": null,
+      "http_code": 200,
+      "judgment": {
+        "answer_url_count": 1,
+        "e2e_pass": true,
+        "retriever_resource_count": 16,
+        "runtime_ok": true
+      },
+      "latency_ms": 66285,
+      "retried_runtime_error": false,
+      "retriever_resource_count": 16,
+      "status": "ok"
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "0eb18666d26dcd65ba1969d41d8c1822990634e2a86934676d5b185840d08bbc",
+    "bytes": 674833,
+    "disposition": "hash_only_private_content",
+    "source_root": "tests/e2e",
+    "source_sha256": "6805fd7b226cd35b1c3c29a00e7d3571bf2bbedbb603d66471dba45e9a5c9a8e",
+    "suffix": ".json",
+    "version_mentions": [
+      1025,
+      1026
+    ]
+  },
+  "source": {
+    "artifact_id": "0eb18666d26dcd65ba1969d41d8c1822990634e2a86934676d5b185840d08bbc",
+    "source_sha256": "6805fd7b226cd35b1c3c29a00e7d3571bf2bbedbb603d66471dba45e9a5c9a8e"
+  },
+  "supplement_disposition": "numeric_content"
+}

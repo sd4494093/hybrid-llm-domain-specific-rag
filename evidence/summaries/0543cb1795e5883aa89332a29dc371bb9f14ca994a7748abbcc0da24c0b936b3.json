@@ -1,0 +1,77 @@
+{
+  "artifact_id": "0543cb1795e5883aa89332a29dc371bb9f14ca994a7748abbcc0da24c0b936b3",
+  "projection": {
+    "cohort_manifest_sha256": "06cc8abe7f68b7063b9ac6663c7c712fc282f697d2ac4073b5f3df4b51d23a0d",
+    "dimension_rates": {
+      "answer_type": {
+        "grounded": {
+          "count": 5,
+          "pass_count": 2
+        }
+      },
+      "domain": {
+        "commercial_customer_marketing": {
+          "count": 1,
+          "pass_count": 1
+        },
+        "people_learning": {
+          "count": 2,
+          "pass_count": 0
+        },
+        "product_engineering": {
+          "count": 2,
+          "pass_count": 1
+        }
+      },
+      "language": {
+        "de": {
+          "count": 1,
+          "pass_count": 1
+        },
+        "en": {
+          "count": 3,
+          "pass_count": 1
+        },
+        "fr": {
+          "count": 1,
+          "pass_count": 0
+        }
+      }
+    },
+    "e2e_pass_count": 2,
+    "e2e_pass_rate": 0.4,
+    "failure_classes": {
+      "semantic_judge_rejected": 3
+    },
+    "first_attempt_success_count": 5,
+    "indeterminate_count": 0,
+    "integrity": {
+      "duplicate_case_id_count": 0,
+      "grounded_count": 5,
+      "negative_evidence_contract_count": 0,
+      "no_answer_count": 0,
+      "query_mode": "question_only",
+      "refusal_count": 0,
+      "row_count": 5,
+      "semantic_fact_count": 15,
+      "source_contract_count": 5,
+      "source_evidence_count": 12,
+      "status": "PASS",
+      "violation_count": 0
+    },
+    "judgments_sha256": "e25d629d764f49a0cbb15305c053255c7ada084a577d38cd065a15e894f3bfc8",
+    "machine_semantic_judge_required": true,
+    "machine_semantic_judgments_present": true,
+    "oracles_sha256": "da20970cb621eae2d703b08b63e23898d9abcda5d612eb4881e5be249bcea89b",
+    "question_count": 5,
+    "questions_sha256": "01a43a3b44c40f01ad2d0deffb05a4cd6b91645dab01a9c92c6f8a4eb593c824",
+    "recovered_after_retry_count": 0,
+    "result_count": 5,
+    "semantic_judge_model": "gpt-5.6-sol",
+    "semantic_judge_reasoning_effort": "high",
+    "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+    "unrecovered_transport_failure_count": 0
+  },
+  "source_sha256": "80e321992c3a93288a69dfc983c6bc90d25b19d206edf2e8a03431effa4b12e7",
+  "version_mentions": []
+}

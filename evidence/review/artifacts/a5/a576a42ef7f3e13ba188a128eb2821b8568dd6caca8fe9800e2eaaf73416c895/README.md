@@ -1,0 +1,11 @@
+# Source Artifact a576a42ef7f3
+
+Original type: `other`. Source SHA-256: `da10e1e876a5ff55a4be955cbd057d97369b53fa222f399b517704969931ff9c`.
+
+Public content: fingerprint only; no reviewable test result. Supplement: `not_selected_for_supplement`.
+
+[Read data](data.json)
+
+Data page references inside JSON are relative to this artifact directory.
+
+Source paths, identities, questions, answers and rationales are withheld. Array positions are retained; empty objects or null placeholders mean omitted content, not successful cases.

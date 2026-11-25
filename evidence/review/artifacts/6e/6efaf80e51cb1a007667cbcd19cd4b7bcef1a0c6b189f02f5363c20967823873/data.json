@@ -1,0 +1,47 @@
+{
+  "archived_summary": {
+    "artifact_id": "6efaf80e51cb1a007667cbcd19cd4b7bcef1a0c6b189f02f5363c20967823873",
+    "projection": {
+      "cohort_manifest_sha256": "18298d37ae22d37fcf00b5f8b6c8a7c37fa55e79f2aa3a273fe1673ed844d7ac",
+      "questions_sha256": "5aa034a319eb2d30289b26a515057b641c2901d031aff6f31034da67ee29fcb1",
+      "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0"
+    },
+    "source_sha256": "5c9d85946ba6b5650d97a7b910f9e0a7185e81153efe7b967a101ab8732f30a1",
+    "version_mentions": [
+      1435
+    ]
+  },
+  "measurements": {
+    "cohort_manifest_sha256": "18298d37ae22d37fcf00b5f8b6c8a7c37fa55e79f2aa3a273fe1673ed844d7ac",
+    "git_worktree_clean": true,
+    "questions_sha256": "5aa034a319eb2d30289b26a515057b641c2901d031aff6f31034da67ee29fcb1",
+    "runtime_contract": {
+      "case_workers": 1,
+      "chat_retries": 2,
+      "keyword_weight": 0.35,
+      "reasoning_effort": "low",
+      "retry_backoff_seconds": 2.0,
+      "shard_count": 5,
+      "timeout_seconds": 300.0,
+      "top_k": 10,
+      "vector_weight": 0.65
+    },
+    "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0"
+  },
+  "original_inventory": {
+    "artifact_id": "6efaf80e51cb1a007667cbcd19cd4b7bcef1a0c6b189f02f5363c20967823873",
+    "bytes": 3927,
+    "disposition": "structured_summary_projection",
+    "source_root": "tests/e2e",
+    "source_sha256": "5c9d85946ba6b5650d97a7b910f9e0a7185e81153efe7b967a101ab8732f30a1",
+    "suffix": ".json",
+    "version_mentions": [
+      1435
+    ]
+  },
+  "source": {
+    "artifact_id": "6efaf80e51cb1a007667cbcd19cd4b7bcef1a0c6b189f02f5363c20967823873",
+    "source_sha256": "5c9d85946ba6b5650d97a7b910f9e0a7185e81153efe7b967a101ab8732f30a1"
+  },
+  "supplement_disposition": "numeric_content"
+}

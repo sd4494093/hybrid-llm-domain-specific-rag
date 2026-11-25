@@ -1,0 +1,48 @@
+{
+  "case_records": [
+    {
+      "artifact_id": "e38c1e9bdc89a6c8b2a52ff72bcca4240cfde827c311dcf1439a6460d7b07cdc",
+      "case_key": "adc4bd61cb7d2c2719b82fb5b2149847d0e35cef128b9e7526a6e69f67b2f128",
+      "line": 1,
+      "projection": {
+        "cohort_manifest_sha256": "1e82b2eb9936862df8b25883eb2d9e815a2b1e6abd52815ddf07ade0eaf46655",
+        "latency_ms": 284168,
+        "model_config_sha256": "448aaa95039fdef74c1bc38af114f5cb40d9016e68d840c06e77a7a614e6607f",
+        "question_sha256": "b98988bce9a4e873b0c9036c2305254c0da29fed20162b513fa729e284e837e4",
+        "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+        "status": "error"
+      }
+    },
+    {
+      "artifact_id": "e38c1e9bdc89a6c8b2a52ff72bcca4240cfde827c311dcf1439a6460d7b07cdc",
+      "case_key": "4f6667f11cbd0182a2313a3771e075c93e7e073eeadb0cd7bf256a36a9a9d427",
+      "line": 2,
+      "projection": {
+        "cohort_manifest_sha256": "1e82b2eb9936862df8b25883eb2d9e815a2b1e6abd52815ddf07ade0eaf46655",
+        "latency_ms": 386745,
+        "model_config_sha256": "448aaa95039fdef74c1bc38af114f5cb40d9016e68d840c06e77a7a614e6607f",
+        "question_sha256": "69e1bd6ef3074b3fcd19e6be146f600d5f0f9656b3462d40deec5351dfbad2cd",
+        "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+        "status": "error"
+      }
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "e38c1e9bdc89a6c8b2a52ff72bcca4240cfde827c311dcf1439a6460d7b07cdc",
+    "bytes": 5098,
+    "disposition": "case_projection",
+    "exported_rows": 2,
+    "invalid_rows": 0,
+    "source_root": "tests/e2e",
+    "source_sha256": "f7bc5690d9768132c8a275d43946164298343ca7300a3fd84c91f795bd1539f9",
+    "suffix": ".jsonl",
+    "version_mentions": [
+      395
+    ]
+  },
+  "source": {
+    "artifact_id": "e38c1e9bdc89a6c8b2a52ff72bcca4240cfde827c311dcf1439a6460d7b07cdc",
+    "source_sha256": "f7bc5690d9768132c8a275d43946164298343ca7300a3fd84c91f795bd1539f9"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}

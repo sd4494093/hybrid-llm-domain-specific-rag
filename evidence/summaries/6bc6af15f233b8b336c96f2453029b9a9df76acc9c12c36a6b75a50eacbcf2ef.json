@@ -1,0 +1,47 @@
+{
+  "artifact_id": "6bc6af15f233b8b336c96f2453029b9a9df76acc9c12c36a6b75a50eacbcf2ef",
+  "projection": {
+    "dimension_rates": {
+      "answer_type": {
+        "grounded": {
+          "count": 17,
+          "pass_count": 16
+        }
+      },
+      "language": {
+        "en": {
+          "count": 17,
+          "pass_count": 16
+        }
+      }
+    },
+    "e2e_pass_count": 16,
+    "e2e_pass_rate": 0.9411764705882353,
+    "failure_classes": {
+      "citation_wrong_source": 1
+    },
+    "indeterminate_count": 0,
+    "integrity": {
+      "duplicate_case_id_count": 0,
+      "grounded_count": 17,
+      "negative_evidence_contract_count": 0,
+      "no_answer_count": 0,
+      "query_mode": "question_only",
+      "refusal_count": 0,
+      "row_count": 17,
+      "semantic_fact_count": 57,
+      "source_contract_count": 17,
+      "source_evidence_count": 63,
+      "status": "PASS",
+      "violation_count": 0
+    },
+    "machine_semantic_judge_required": true,
+    "machine_semantic_judgments_present": true,
+    "question_count": 17,
+    "result_count": 17
+  },
+  "source_sha256": "a10b3c3b21109333e612afc2d52958b2ca88cbeeff0296677f0ec68dab66b670",
+  "version_mentions": [
+    236
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "artifact_id": "ff992254c383c2db5959644331d9f397e4e874e0cbec290c3a5520476cde3ebc",
+  "projection": {
+    "dimension_rates": {
+      "answer_type": {
+        "no_answer": {
+          "count": 2,
+          "pass_count": 2
+        },
+        "refusal": {
+          "count": 1,
+          "pass_count": 1
+        }
+      },
+      "domain": {
+        "commercial_customer_marketing": {
+          "count": 1,
+          "pass_count": 1
+        },
+        "corporate_operations_policy_communications": {
+          "count": 1,
+          "pass_count": 1
+        },
+        "it_security_digital_workplace": {
+          "count": 1,
+          "pass_count": 1
+        }
+      },
+      "language": {
+        "en": {
+          "count": 2,
+          "pass_count": 2
+        },
+        "pt": {
+          "count": 1,
+          "pass_count": 1
+        }
+      }
+    },
+    "e2e_pass_count": 3,
+    "e2e_pass_rate": 1.0,
+    "first_attempt_success_count": 3,
+    "indeterminate_count": 0,
+    "integrity": {
+      "duplicate_case_id_count": 0,
+      "grounded_count": 0,
+      "negative_evidence_contract_count": 2,
+      "no_answer_count": 2,
+      "query_mode": "question_only",
+      "refusal_count": 1,
+      "row_count": 3,
+      "semantic_fact_count": 0,
+      "source_contract_count": 0,
+      "source_evidence_count": 0,
+      "status": "PASS",
+      "violation_count": 0
+    },
+    "machine_semantic_judge_required": true,
+    "machine_semantic_judgments_present": true,
+    "question_count": 3,
+    "recovered_after_retry_count": 0,
+    "result_count": 3,
+    "run_provenance_sha256": "9badd036839a75934d38254abc25d3e2ef1762d368edde718f47e07053cb4748",
+    "semantic_judge_model": "gpt-5.5",
+    "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+    "status": "PASS",
+    "unrecovered_transport_failure_count": 0
+  },
+  "source_sha256": "bee033ff6b9b059e5add2c82031b71bb7da18e6ef4a5687737a97aceb78431bc",
+  "version_mentions": [
+    1311
+  ]
+}

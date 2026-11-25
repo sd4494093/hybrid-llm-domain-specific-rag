@@ -1,0 +1,85 @@
+{
+  "case_records": [
+    {
+      "artifact_id": "61b1cca69ede758c4837982a3805a51edb485dfade1d937111e213f201f15e53",
+      "case_key": "c590308eb7bc32e5da96e8141c80e2a3bc03229d2e7a5d8fd52d3608fa7ffa67",
+      "line": 1,
+      "projection": {
+        "answer_sha256": "cf02dc7d9f94a2fc551c5c510212bcde244d8e237efb6075ee05a1bf8fa0da45",
+        "citation_support": "supported",
+        "contradiction": false,
+        "evaluator_status": "ok",
+        "groundedness": "grounded",
+        "label": "correct",
+        "model": "gpt-5.5",
+        "oracle_facts_sha256": "eb263dac118d78da3b082a00e064855fa150c5d47757176d12a062b8cfb9a2b4",
+        "question_sha256": "69e1bd6ef3074b3fcd19e6be146f600d5f0f9656b3462d40deec5351dfbad2cd",
+        "reference_answer_sha256": "7f35c58cb0b922c674ae0634d793805f458165a963bc7fd4253f38d839595269",
+        "runtime_source_evidence_count": 20,
+        "runtime_source_evidence_sha256": "67e389f692e116f689cee095e0d386d1dd9dcb9126dc22611edcdc6c90dc11af",
+        "score_0_5": 5,
+        "source_evidence_sha256": "8f4e76c43abd9c2a8815cc9e3af9b0061b5b9a3bc3a450fd31ea0954501f110d"
+      }
+    },
+    {
+      "artifact_id": "61b1cca69ede758c4837982a3805a51edb485dfade1d937111e213f201f15e53",
+      "case_key": "856fdb8768b40c20ed298e35045b3ee6e5a3a3179c2dcc01666b3d7a52c503e5",
+      "line": 2,
+      "projection": {
+        "answer_sha256": "dc694ad276ff43bc20c18aadc3e4c85315bfcfcec429f2410d2a2f45b9afec21",
+        "citation_support": "supported",
+        "contradiction": false,
+        "evaluator_status": "ok",
+        "groundedness": "grounded",
+        "label": "correct",
+        "model": "gpt-5.5",
+        "oracle_facts_sha256": "76d5e613bd0c522f2d69a89f3706cabd70185dba58078001c11f001ec77c3b65",
+        "question_sha256": "d0ccefb4de130cf2969385a619c5d018c69e13b1749a698badb40953a5a65515",
+        "reference_answer_sha256": "f2ffcc0aadcb62cca13fc749271f33e79cde08d3a37c65fc6b896b79146a62f4",
+        "runtime_source_evidence_count": 7,
+        "runtime_source_evidence_sha256": "c9b1545697d5bfbefe61175396868c57f392d9e815c5df8658edbac43c604519",
+        "score_0_5": 5,
+        "source_evidence_sha256": "08f4683c0a1bce552a0a11a2c98f99188a855812e2395545d308879bd31816fe"
+      }
+    },
+    {
+      "artifact_id": "61b1cca69ede758c4837982a3805a51edb485dfade1d937111e213f201f15e53",
+      "case_key": "35c6c96767ba8992978fedb1509d55b99abf6f6e37d0edc14841585287f5e562",
+      "line": 3,
+      "projection": {
+        "answer_sha256": "db770d93fe411606782fce7a77a58245816b26025ab18a78c508e32050a69aa3",
+        "citation_support": "supported",
+        "contradiction": false,
+        "evaluator_status": "ok",
+        "groundedness": "grounded",
+        "label": "correct",
+        "model": "gpt-5.5",
+        "oracle_facts_sha256": "d7fedced59e82dfa70a9d2e5d38b33d54d90b59896fdb80d617fc3168acd8a07",
+        "question_sha256": "c4949670492f67817e45acc90655e210c010961a0f8104d5e91573a77f9d0b23",
+        "reference_answer_sha256": "63558228d6fd96b01222e04f104fed8ce151059540fd75adb0ee2054b8507508",
+        "runtime_source_evidence_count": 9,
+        "runtime_source_evidence_sha256": "77f5516766c6a7b047c057b8e7bbd5cac03efdbef7c6c74645365bf6cb90c0d6",
+        "score_0_5": 5,
+        "source_evidence_sha256": "0df5d6217f139d8f64c43e9f48c7a3dcdaaaa4b5a982c53e91e35dfe5a30d80c"
+      }
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "61b1cca69ede758c4837982a3805a51edb485dfade1d937111e213f201f15e53",
+    "bytes": 3860,
+    "disposition": "case_projection",
+    "exported_rows": 3,
+    "invalid_rows": 0,
+    "source_root": "tests/e2e",
+    "source_sha256": "20e52e27c380548137dce80e25c2f57d866d51ec896c08cabb275584e688d2d3",
+    "suffix": ".jsonl",
+    "version_mentions": [
+      376
+    ]
+  },
+  "source": {
+    "artifact_id": "61b1cca69ede758c4837982a3805a51edb485dfade1d937111e213f201f15e53",
+    "source_sha256": "20e52e27c380548137dce80e25c2f57d866d51ec896c08cabb275584e688d2d3"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}

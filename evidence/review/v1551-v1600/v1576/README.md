@@ -1,0 +1,13 @@
+# v1576: Reviewable Evidence
+
+[Version range](../README.md) | [Reference data, events and commits](data.json)
+
+0 path-associated files: **0 with test content**, 0 fingerprint/event-only. 0 archived case records (retries and overlapping runs are not deduplicated).
+
+Document references: 2; commit references: 1.
+
+A version mention may be a comparator or schema revision, not the executing version. Small probes are not full-cohort accuracy measurements.
+
+The linked artifacts contain actual allowlisted measurements or per-case verdicts where available. Fingerprint-only entries do not establish test outcomes.
+
+No path-associated artifact was located in the archived inventory. Document/commit mentions, when present, do not fill that gap.

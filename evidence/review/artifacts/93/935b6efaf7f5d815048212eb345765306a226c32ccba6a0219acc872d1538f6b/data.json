@@ -1,0 +1,71 @@
+{
+  "case_records": [
+    {
+      "artifact_id": "935b6efaf7f5d815048212eb345765306a226c32ccba6a0219acc872d1538f6b",
+      "case_key": "f0f2efeea39313cbe5fb584943cecece6505f85e1900d007ca8c336c5a79027b",
+      "line": 1,
+      "projection": {
+        "judgment": {
+          "answer_url_count": 2
+        },
+        "latency_ms": 33830,
+        "status": "ok"
+      }
+    },
+    {
+      "artifact_id": "935b6efaf7f5d815048212eb345765306a226c32ccba6a0219acc872d1538f6b",
+      "case_key": "0f721740a1cd78823f0f395415fcca77b95cf76b28d4f95709f75b1b78850bbe",
+      "line": 2,
+      "projection": {
+        "judgment": {
+          "answer_url_count": 2
+        },
+        "latency_ms": 176622,
+        "status": "ok"
+      }
+    },
+    {
+      "artifact_id": "935b6efaf7f5d815048212eb345765306a226c32ccba6a0219acc872d1538f6b",
+      "case_key": "e380593b72bc5c3ccec8981002b947969ca27f1fa97dd0ad3b07601894f7846b",
+      "line": 3,
+      "projection": {
+        "judgment": {
+          "answer_url_count": 1
+        },
+        "latency_ms": 26623,
+        "status": "ok"
+      }
+    },
+    {
+      "artifact_id": "935b6efaf7f5d815048212eb345765306a226c32ccba6a0219acc872d1538f6b",
+      "case_key": "776d62595b577ccd74988c7d9c1b31ec727ad1e17a77fba040b8930c492ef272",
+      "line": 4,
+      "projection": {
+        "judgment": {
+          "answer_url_count": 1
+        },
+        "latency_ms": 15469,
+        "status": "ok"
+      }
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "935b6efaf7f5d815048212eb345765306a226c32ccba6a0219acc872d1538f6b",
+    "bytes": 386696,
+    "disposition": "case_projection",
+    "exported_rows": 4,
+    "invalid_rows": 0,
+    "source_root": "tests/e2e",
+    "source_sha256": "3e1aaa5e5b774f69ac171c5b5ffbdf28b16d8de189565eeceb4a9f741486da1c",
+    "suffix": ".jsonl",
+    "version_mentions": [
+      3,
+      376
+    ]
+  },
+  "source": {
+    "artifact_id": "935b6efaf7f5d815048212eb345765306a226c32ccba6a0219acc872d1538f6b",
+    "source_sha256": "3e1aaa5e5b774f69ac171c5b5ffbdf28b16d8de189565eeceb4a9f741486da1c"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}

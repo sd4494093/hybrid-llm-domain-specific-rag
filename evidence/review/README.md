@@ -1,0 +1,42 @@
+# Paginated Evidence Review
+
+Each range contains at most 50 versions. Follow a version to its artifact tables, then open actual data and numbered pages. This avoids GitHub's truncated directory listing without removing historical links.
+
+Supplemental numerical JSON/JSONL results cover v1000-v1660; archived summaries and case verdicts are readable for all located versions. Original content is still withheld where it cannot be safely projected. A fingerprint is not a test result.
+
+[Coverage and limitations](coverage.json) | [Export policy](../validation-protocols/export-policy.md)
+
+- [v1-v50](v0001-v0050/README.md)
+- [v51-v100](v0051-v0100/README.md)
+- [v101-v150](v0101-v0150/README.md)
+- [v151-v200](v0151-v0200/README.md)
+- [v201-v250](v0201-v0250/README.md)
+- [v251-v300](v0251-v0300/README.md)
+- [v301-v350](v0301-v0350/README.md)
+- [v351-v400](v0351-v0400/README.md)
+- [v401-v450](v0401-v0450/README.md)
+- [v451-v500](v0451-v0500/README.md)
+- [v501-v550](v0501-v0550/README.md)
+- [v551-v600](v0551-v0600/README.md)
+- [v601-v650](v0601-v0650/README.md)
+- [v651-v700](v0651-v0700/README.md)
+- [v701-v750](v0701-v0750/README.md)
+- [v751-v800](v0751-v0800/README.md)
+- [v801-v850](v0801-v0850/README.md)
+- [v851-v900](v0851-v0900/README.md)
+- [v901-v950](v0901-v0950/README.md)
+- [v951-v1000](v0951-v1000/README.md)
+- [v1001-v1050](v1001-v1050/README.md)
+- [v1051-v1100](v1051-v1100/README.md)
+- [v1101-v1150](v1101-v1150/README.md)
+- [v1151-v1200](v1151-v1200/README.md)
+- [v1201-v1250](v1201-v1250/README.md)
+- [v1251-v1300](v1251-v1300/README.md)
+- [v1301-v1350](v1301-v1350/README.md)
+- [v1351-v1400](v1351-v1400/README.md)
+- [v1401-v1450](v1401-v1450/README.md)
+- [v1451-v1500](v1451-v1500/README.md)
+- [v1501-v1550](v1501-v1550/README.md)
+- [v1551-v1600](v1551-v1600/README.md)
+- [v1601-v1650](v1601-v1650/README.md)
+- [v1651-v1660](v1651-v1660/README.md)

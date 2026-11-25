@@ -1,0 +1,86 @@
+{
+  "archived_summary": {
+    "artifact_id": "61a6748349e921207e23abea9a7a6936a8c1b0faa9384c85cc32209c1253e816",
+    "projection": {
+      "dimension_rates": {
+        "answer_type": {
+          "grounded": {
+            "count": 41,
+            "pass_count": 38
+          },
+          "no_answer": {
+            "count": 7,
+            "pass_count": 6
+          },
+          "refusal": {
+            "count": 2,
+            "pass_count": 2
+          }
+        },
+        "language": {
+          "en": {
+            "count": 50,
+            "pass_count": 46
+          }
+        }
+      },
+      "e2e_pass_count": 46,
+      "e2e_pass_rate": 0.92,
+      "failure_classes": {
+        "citation_wrong_source": 1,
+        "no_answer_incorrect": 1,
+        "semantic_judge_rejected": 2
+      },
+      "first_attempt_success_count": 50,
+      "indeterminate_count": 0,
+      "integrity": {
+        "duplicate_case_id_count": 0,
+        "grounded_count": 41,
+        "negative_evidence_contract_count": 7,
+        "no_answer_count": 7,
+        "query_mode": "question_only",
+        "refusal_count": 2,
+        "row_count": 50,
+        "semantic_fact_count": 127,
+        "source_contract_count": 41,
+        "source_evidence_count": 151,
+        "status": "PASS",
+        "violation_count": 0
+      },
+      "machine_semantic_judge_required": true,
+      "machine_semantic_judgments_present": true,
+      "question_count": 50,
+      "recovered_after_retry_count": 0,
+      "result_count": 50,
+      "run_provenance_sha256": "42793c1c2e2313a7988c5a416d69f27a37989278c96f0f9ca01eb541955e757e",
+      "semantic_judge_model": "gpt-5.5",
+      "unrecovered_transport_failure_count": 0
+    },
+    "source_sha256": "42eca1a2b4691bf9e30e581e9c1ace76def9d734c256696b43683ca98ce18482",
+    "version_mentions": [
+      910,
+      911,
+      912,
+      913
+    ]
+  },
+  "original_inventory": {
+    "artifact_id": "61a6748349e921207e23abea9a7a6936a8c1b0faa9384c85cc32209c1253e816",
+    "bytes": 8553,
+    "disposition": "structured_summary_projection",
+    "source_root": "tests/e2e",
+    "source_sha256": "42eca1a2b4691bf9e30e581e9c1ace76def9d734c256696b43683ca98ce18482",
+    "suffix": ".json",
+    "version_mentions": [
+      910,
+      911,
+      912,
+      913
+    ]
+  },
+  "source": {
+    "artifact_id": "61a6748349e921207e23abea9a7a6936a8c1b0faa9384c85cc32209c1253e816",
+    "source_sha256": "42eca1a2b4691bf9e30e581e9c1ace76def9d734c256696b43683ca98ce18482"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}

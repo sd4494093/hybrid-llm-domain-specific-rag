@@ -1,0 +1,21 @@
+# v815: Artifacts 1 to 13
+
+[Version overview](README.md)
+
+JSON probe cases are inside the linked numerical data; the last column counts archived JSONL records only.
+
+| Source artifact | Public content | Supplement disposition | Archived JSONL rows |
+|---|---|---|---:|
+| [44d7fd1dcba1](../../artifacts/44/44d7fd1dcba1c93194d1ec67da3277aaed8e4fa0e7df9c3ea1a336713c4bf6d4/README.md) | fingerprint only | not_selected_for_supplement | 0 |
+| [29187262dc3c](../../artifacts/29/29187262dc3c782e8db4572ec6c1322ad181f722b06e7d19c0c84cae0dcf9976/README.md) | summary | not_selected_for_supplement | 0 |
+| [6d9dffa42126](../../artifacts/6d/6d9dffa42126b696186bcf6d297d46e0174f6a2c47e881b4ba5d758b1d5c6aa4/README.md) | summary | not_selected_for_supplement | 0 |
+| [8dab263b92fb](../../artifacts/8d/8dab263b92fb227c35c3bef636013054f2e0e9a712cc481fa358e0030198f62c/README.md) | fingerprint only | not_selected_for_supplement | 0 |
+| [79e5efea85e5](../../artifacts/79/79e5efea85e5bceeccce412fa681ad7104194fb4dff2edfb9eba84fae4930939/README.md) | case_records | not_selected_for_supplement | 9 |
+| [01ada9d7b65f](../../artifacts/01/01ada9d7b65fd443b7e47ce40767dfc58b8e058af1cf9f317ea6dc8cb66a7e92/README.md) | summary | not_selected_for_supplement | 0 |
+| [ecf5b9a296a0](../../artifacts/ec/ecf5b9a296a0ad9bb137070290fa804a3c4c0d7f0d6c682961ac63efcb30fdde/README.md) | fingerprint only | not_selected_for_supplement | 0 |
+| [00f1c11e0d99](../../artifacts/00/00f1c11e0d99283e0ae0d6b03c2f2d06ae0279b956964714eba908806f3384c9/README.md) | fingerprint only | not_selected_for_supplement | 0 |
+| [b140e016265b](../../artifacts/b1/b140e016265b4e375d0e57271c9e97d8a7aedea54519ddcc4b37f0e883eaab4e/README.md) | case_records | not_selected_for_supplement | 9 |
+| [7bfa8d82ffff](../../artifacts/7b/7bfa8d82ffff6a923fa1ef8fba822d152366524a5e1a7e63a852070428631329/README.md) | fingerprint only | not_selected_for_supplement | 0 |
+| [a6fc2afd2a5e](../../artifacts/a6/a6fc2afd2a5edce942d3ed5f532b2aa99a2d6cbf4ddcd931c4c4965cf2eae231/README.md) | fingerprint only | not_selected_for_supplement | 0 |
+| [e5ae972e6257](../../artifacts/e5/e5ae972e62571cc8a6a542499992f4b567d5eb120074928ad3c36de40f792946/README.md) | case_records | not_selected_for_supplement | 9 |
+| [fed0f0dd07b9](../../artifacts/fe/fed0f0dd07b951430ce89db9edb5f9e39ca6c0db8961c0af469eaa96b854e51e/README.md) | summary | not_selected_for_supplement | 0 |

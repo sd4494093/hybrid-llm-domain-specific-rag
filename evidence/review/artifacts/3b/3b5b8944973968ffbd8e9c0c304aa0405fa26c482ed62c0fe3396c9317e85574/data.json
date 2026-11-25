@@ -1,0 +1,61 @@
+{
+  "archived_summary": {
+    "artifact_id": "3b5b8944973968ffbd8e9c0c304aa0405fa26c482ed62c0fe3396c9317e85574",
+    "projection": {
+      "by_label": {
+        "correct": 883,
+        "correct_refusal": 398,
+        "error": 349,
+        "incorrect": 99,
+        "incorrect_refusal": 55,
+        "partial": 216
+      },
+      "cohort_manifest_sha256": "06253659fbb217c5e35afb2c59d626faad904e3e99a8a9b0993eec82611afc0d",
+      "correct": 1281,
+      "error": 349,
+      "total": 2000,
+      "uncertain": 0
+    },
+    "source_sha256": "c5d8258338f2c8c4d55993a9add8e0199c53d7ae6c2b3932c34ef675a07a6939",
+    "version_mentions": [
+      1436
+    ]
+  },
+  "measurements": {
+    "by_label": {
+      "correct": 883,
+      "correct_refusal": 398,
+      "error": 349,
+      "incorrect": 99,
+      "incorrect_refusal": 55,
+      "partial": 216
+    },
+    "cohort_manifest_sha256": "06253659fbb217c5e35afb2c59d626faad904e3e99a8a9b0993eec82611afc0d",
+    "correct": 1281,
+    "error": 349,
+    "evaluated_count": 2000,
+    "resumed_count": 0,
+    "retried_case_count": 391,
+    "runtime_source_evidence_case_count": 1513,
+    "runtime_source_evidence_entry_count": 9458,
+    "secret_values_printed": false,
+    "total": 2000,
+    "uncertain": 0
+  },
+  "original_inventory": {
+    "artifact_id": "3b5b8944973968ffbd8e9c0c304aa0405fa26c482ed62c0fe3396c9317e85574",
+    "bytes": 1094,
+    "disposition": "structured_summary_projection",
+    "source_root": "tests/e2e",
+    "source_sha256": "c5d8258338f2c8c4d55993a9add8e0199c53d7ae6c2b3932c34ef675a07a6939",
+    "suffix": ".json",
+    "version_mentions": [
+      1436
+    ]
+  },
+  "source": {
+    "artifact_id": "3b5b8944973968ffbd8e9c0c304aa0405fa26c482ed62c0fe3396c9317e85574",
+    "source_sha256": "c5d8258338f2c8c4d55993a9add8e0199c53d7ae6c2b3932c34ef675a07a6939"
+  },
+  "supplement_disposition": "numeric_content"
+}

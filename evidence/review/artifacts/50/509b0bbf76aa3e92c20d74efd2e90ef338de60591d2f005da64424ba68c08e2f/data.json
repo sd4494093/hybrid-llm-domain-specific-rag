@@ -1,0 +1,85 @@
+{
+  "archived_summary": {
+    "artifact_id": "509b0bbf76aa3e92c20d74efd2e90ef338de60591d2f005da64424ba68c08e2f",
+    "projection": {
+      "dimension_rates": {
+        "answer_type": {
+          "grounded": {
+            "count": 3,
+            "pass_count": 1
+          }
+        },
+        "domain": {
+          "corporate_operations_policy_communications": {
+            "count": 2,
+            "pass_count": 1
+          },
+          "it_security_digital_workplace": {
+            "count": 1,
+            "pass_count": 0
+          }
+        },
+        "language": {
+          "en": {
+            "count": 2,
+            "pass_count": 1
+          },
+          "pt": {
+            "count": 1,
+            "pass_count": 0
+          }
+        }
+      },
+      "e2e_pass_count": 1,
+      "e2e_pass_rate": 0.3333333333333333,
+      "failure_classes": {
+        "semantic_incomplete": 1,
+        "semantic_judge_rejected": 1
+      },
+      "first_attempt_success_count": 3,
+      "indeterminate_count": 0,
+      "integrity": {
+        "duplicate_case_id_count": 0,
+        "grounded_count": 3,
+        "negative_evidence_contract_count": 0,
+        "no_answer_count": 0,
+        "query_mode": "question_only",
+        "refusal_count": 0,
+        "row_count": 3,
+        "semantic_fact_count": 9,
+        "source_contract_count": 3,
+        "source_evidence_count": 8,
+        "status": "PASS",
+        "violation_count": 0
+      },
+      "machine_semantic_judge_required": true,
+      "machine_semantic_judgments_present": true,
+      "question_count": 3,
+      "recovered_after_retry_count": 0,
+      "result_count": 3,
+      "run_provenance_sha256": "4ba4dd8e5c754ec223a503f866afba8daeb64b1d43260c45d51aec81faed6069",
+      "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+      "unrecovered_transport_failure_count": 0
+    },
+    "source_sha256": "78f8e1fd555487cf0f486453a15e034a3325a4e9f4bd393f799945a0bb51f834",
+    "version_mentions": [
+      376
+    ]
+  },
+  "original_inventory": {
+    "artifact_id": "509b0bbf76aa3e92c20d74efd2e90ef338de60591d2f005da64424ba68c08e2f",
+    "bytes": 2686,
+    "disposition": "structured_summary_projection",
+    "source_root": "tests/e2e",
+    "source_sha256": "78f8e1fd555487cf0f486453a15e034a3325a4e9f4bd393f799945a0bb51f834",
+    "suffix": ".json",
+    "version_mentions": [
+      376
+    ]
+  },
+  "source": {
+    "artifact_id": "509b0bbf76aa3e92c20d74efd2e90ef338de60591d2f005da64424ba68c08e2f",
+    "source_sha256": "78f8e1fd555487cf0f486453a15e034a3325a4e9f4bd393f799945a0bb51f834"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}

@@ -1,0 +1,149 @@
+{
+  "artifact_id": "9e1e0e6306b35f7cfe9c4439344e619bd34f71aa55dbb12242a8045dd75c855f",
+  "projection": {
+    "cohort_manifest_sha256": "0595580630c98f9b42fee82d7124647c33b3492d2adc9088760a1fc6417a4318",
+    "dimension_rates": {
+      "answer_type": {
+        "grounded": {
+          "count": 4,
+          "pass_count": 0
+        }
+      },
+      "domain": {
+        "it_security_digital_workplace": {
+          "count": 1,
+          "pass_count": 0
+        },
+        "people_learning": {
+          "count": 1,
+          "pass_count": 0
+        },
+        "safety_field_operations": {
+          "count": 2,
+          "pass_count": 0
+        }
+      },
+      "language": {
+        "de": {
+          "count": 1,
+          "pass_count": 0
+        },
+        "en": {
+          "count": 2,
+          "pass_count": 0
+        },
+        "ro": {
+          "count": 1,
+          "pass_count": 0
+        }
+      }
+    },
+    "e2e_pass_count": 0,
+    "e2e_pass_rate": 0.0,
+    "failure_classes": {
+      "semantic_judge_rejected": 4
+    },
+    "first_attempt_success_count": 4,
+    "indeterminate_count": 0,
+    "integrity": {
+      "duplicate_case_id_count": 0,
+      "grounded_count": 4,
+      "negative_evidence_contract_count": 0,
+      "no_answer_count": 0,
+      "query_mode": "question_only",
+      "refusal_count": 0,
+      "row_count": 4,
+      "semantic_fact_count": 13,
+      "source_contract_count": 4,
+      "source_evidence_count": 12,
+      "status": "PASS",
+      "violation_count": 0
+    },
+    "judgments_sha256": "203594ef8916e1fa40fc5eab70e52b9bce8fe00085f1282f03b34bd787f1f661",
+    "machine_semantic_judge_required": true,
+    "machine_semantic_judgments_present": true,
+    "oracles_sha256": "76c92a65253bd16e744104b26fcc51cffef1f60cc2bdfe85d97a7ef7570b3780",
+    "quality_gate": {
+      "checks": {
+        "expected_question_count": {
+          "actual": 4,
+          "expected": 2000,
+          "pass": false
+        },
+        "semantic_correctness_rate": {
+          "actual": 0.0,
+          "actual_numerator": 0,
+          "min": 0.85,
+          "min_numerator": 1700,
+          "pass": false
+        }
+      },
+      "status": "FAIL"
+    },
+    "quality_metrics": {
+      "citation_support_correctness_rate": {
+        "denominator": 4,
+        "numerator": 4,
+        "rate": 1.0
+      },
+      "contradiction_rate": {
+        "denominator": 4,
+        "numerator": 1,
+        "rate": 0.25
+      },
+      "correct_refusal_rate": {
+        "denominator": 0,
+        "numerator": 0
+      },
+      "critical_semantic_correctness_rate": {
+        "denominator": 0,
+        "numerator": 0
+      },
+      "critical_severe_error_count": 0,
+      "false_refusal_rate": {
+        "denominator": 4,
+        "numerator": 0,
+        "rate": 0.0
+      },
+      "grounded_rate": {
+        "denominator": 4,
+        "numerator": 2,
+        "rate": 0.5
+      },
+      "retrieval_recall_at_10": {
+        "denominator": 4,
+        "numerator": 4,
+        "rate": 1.0
+      },
+      "runtime_success_rate": {
+        "denominator": 4,
+        "numerator": 4,
+        "rate": 1.0
+      },
+      "semantic_correctness_rate": {
+        "denominator": 4,
+        "numerator": 0,
+        "rate": 0.0
+      },
+      "unsupported_assertion_rate": {
+        "denominator": 4,
+        "numerator": 0,
+        "rate": 0.0
+      }
+    },
+    "question_count": 4,
+    "questions_sha256": "9924b60b5544cdbed10f55bdbb58567c126e4a832fc4f4a5fed05764934b4081",
+    "recovered_after_retry_count": 0,
+    "result_count": 4,
+    "run_provenance_sha256": "1eab7a81e24501cd13cbb0d74e82e1ba9b5e2d196e3b351e30fe7a02327b15a7",
+    "semantic_judge_model": "gpt-5.6-sol",
+    "semantic_judge_reasoning_effort": "high",
+    "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+    "status": "FAIL",
+    "unrecovered_transport_failure_count": 0
+  },
+  "source_sha256": "1d33261879de35b2566f5e62fc5202ca0e0536868f000b798e2795176052fd44",
+  "version_mentions": [
+    1524
+  ]
+}

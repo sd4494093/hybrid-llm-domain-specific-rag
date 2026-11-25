@@ -1,0 +1,23 @@
+# Source Artifact 0acdfb6c99ea
+
+Original type: `.json`. Source SHA-256: `28b3e25751f6cf760e9898b35d4113f96907fe45cc06ee4142a3378acfc7cf1b`.
+
+Public content: numeric_content. Supplement: `numeric_content`.
+
+[Read data](data.json)
+
+Data page references inside JSON are relative to this artifact directory.
+
+Source paths, identities, questions, answers and rationales are withheld. Array positions are retained; empty objects or null placeholders mean omitted content, not successful cases.
+
+- [Data pages 1](page-index-0000.md)
+
+## Candidate Probe
+
+Reported case count: 1; candidate limit: 100.
+
+Array positions identify cases within this source only. The table shows at most ten rows; all projected data remain linked above.
+
+| Case position | Expected vector rank | Expected full-text rank | In input | In candidates | In tail |
+|---|---:|---:|---|---|---|
+| 1 | 74 | null | true | true | false |

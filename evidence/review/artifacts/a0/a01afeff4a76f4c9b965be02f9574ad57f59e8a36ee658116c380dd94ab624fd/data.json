@@ -1,0 +1,56 @@
+{
+  "case_records": [
+    {
+      "artifact_id": "a01afeff4a76f4c9b965be02f9574ad57f59e8a36ee658116c380dd94ab624fd",
+      "case_key": "a77b6c2b067e99915dd2c41833f92260569f1726cd6283e7ad8f119272bbd584",
+      "line": 1,
+      "projection": {
+        "judgment": {
+          "answer_url_count": 1,
+          "citation_pass": true,
+          "citation_support_pass": true,
+          "critical_case": false,
+          "deterministic_contract_pass": true,
+          "deterministic_semantic_diagnostic_pass": false,
+          "e2e_pass": false,
+          "exact_source_recall_at_10": true,
+          "exact_source_recall_at_30": true,
+          "expected_answer_type": "grounded",
+          "failure_class": "semantic_judge_rejected",
+          "no_answer_detected": false,
+          "retrieval_recall_at_10": true,
+          "retrieval_recall_at_30": true,
+          "runtime_ok": true,
+          "semantic_judge_citation_support": "supported",
+          "semantic_judge_groundedness": "grounded",
+          "semantic_judge_label": "partial",
+          "semantic_judge_material_error_count": 1,
+          "semantic_judge_status": "ok",
+          "semantic_judge_unsupported_claim_count": 0,
+          "semantic_pass": false,
+          "semantic_score": 0.0,
+          "semantic_score_rounded": 0.0
+        }
+      }
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "a01afeff4a76f4c9b965be02f9574ad57f59e8a36ee658116c380dd94ab624fd",
+    "bytes": 1003,
+    "disposition": "case_projection",
+    "exported_rows": 1,
+    "invalid_rows": 0,
+    "source_root": "tests/e2e",
+    "source_sha256": "97dac957a8f862a62cd405fb4b1206cc814d6003aeab77b67c89488c112dfb95",
+    "suffix": ".jsonl",
+    "version_mentions": [
+      18,
+      1365
+    ]
+  },
+  "source": {
+    "artifact_id": "a01afeff4a76f4c9b965be02f9574ad57f59e8a36ee658116c380dd94ab624fd",
+    "source_sha256": "97dac957a8f862a62cd405fb4b1206cc814d6003aeab77b67c89488c112dfb95"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}

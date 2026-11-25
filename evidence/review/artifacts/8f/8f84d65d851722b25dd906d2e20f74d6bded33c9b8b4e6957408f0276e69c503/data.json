@@ -1,0 +1,45 @@
+{
+  "case_records": [
+    {
+      "artifact_id": "8f84d65d851722b25dd906d2e20f74d6bded33c9b8b4e6957408f0276e69c503",
+      "case_key": "59eee61be057ebb8085c6f133f1d5bdc88e585b4e7517dbc93d53b787edf7694",
+      "line": 1,
+      "projection": {
+        "answer_sha256": "8a09eee439145cc21fe79924159ff087998f0ab93854bc8c6b898306cea2dad1",
+        "citation_support": "supported",
+        "contradiction": false,
+        "evaluator_status": "ok",
+        "groundedness": "grounded",
+        "label": "partial",
+        "model": "gpt-5.5",
+        "oracle_facts_sha256": "4b8f939fa4e3f87ef78291a68ad2e72243e64def99d356039f67b2ee232133aa",
+        "question_sha256": "6b6595685b885e1833f30902b0d9feb951a904a1196454c70bbf005413486a64",
+        "reference_answer_sha256": "69b6e424aeab856e35fe434a75506b28d250ae5e1db7ad5e06764bebd8cef7c2",
+        "runtime_source_evidence_count": 3,
+        "runtime_source_evidence_sha256": "4d8fe9037c5ea6c4a81b8c9ab122a07d64ed74412ec1c4849d1b492e588fa30d",
+        "score_0_5": 3,
+        "source_evidence_sha256": "667936ff9361fbf25fcb1a379fcbca8f85aa8353f8d4a5edf0fff8af75465b2c"
+      }
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "8f84d65d851722b25dd906d2e20f74d6bded33c9b8b4e6957408f0276e69c503",
+    "bytes": 1513,
+    "disposition": "case_projection",
+    "exported_rows": 1,
+    "invalid_rows": 0,
+    "source_root": "tests/e2e",
+    "source_sha256": "980ff0512cbaf0a916802956568e7c0b496f2ab9958d689c330aa6c5f5bcb737",
+    "suffix": ".jsonl",
+    "version_mentions": [
+      1039,
+      1044,
+      1045
+    ]
+  },
+  "source": {
+    "artifact_id": "8f84d65d851722b25dd906d2e20f74d6bded33c9b8b4e6957408f0276e69c503",
+    "source_sha256": "980ff0512cbaf0a916802956568e7c0b496f2ab9958d689c330aa6c5f5bcb737"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}

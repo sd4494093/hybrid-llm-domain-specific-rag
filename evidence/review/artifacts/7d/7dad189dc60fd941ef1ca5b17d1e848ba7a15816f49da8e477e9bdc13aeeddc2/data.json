@@ -1,0 +1,88 @@
+{
+  "case_records": [
+    {
+      "artifact_id": "7dad189dc60fd941ef1ca5b17d1e848ba7a15816f49da8e477e9bdc13aeeddc2",
+      "case_key": "a3c63a45dd927d0e6305067590d5c6edf26318a2ae19c0eacb822f4945caf0da",
+      "line": 1,
+      "projection": {
+        "answer_sha256": "48e19e1d348d58dae6f6da66606f37494d1bfbb53a472b411fa65cdbdaac7a74",
+        "citation_support": "supported",
+        "contradiction": false,
+        "evaluator_status": "ok",
+        "groundedness": "grounded",
+        "label": "incorrect",
+        "model": "gpt-5.6-sol",
+        "oracle_facts_sha256": "ca54cb0b3a9365d41384fa7150e4547c3fb9f952f58326d76cde06168251ac9a",
+        "question_sha256": "20adf776c99ec862a44a568d5b191d1ada0a0450b91d23e60c741c43c34947e9",
+        "reasoning_effort": "high",
+        "reference_answer_sha256": "e999790f160cf9ecacd96451c29d9c59f663159ada1957468079aae24582ba8a",
+        "runtime_source_evidence_count": 2,
+        "runtime_source_evidence_sha256": "acce91c7a85a4cc4c78481ceba820dc8eb53457624bebb4b9917e425a29492f7",
+        "score_0_5": 0,
+        "source_evidence_sha256": "946a752f8666b22d85d9ce741028815538c6c09985ca50f50267c1f5c4f77566"
+      }
+    },
+    {
+      "artifact_id": "7dad189dc60fd941ef1ca5b17d1e848ba7a15816f49da8e477e9bdc13aeeddc2",
+      "case_key": "763588abca8f95116a6b23c0cebaef445ae39ae7453de21113720ff95cc1e78f",
+      "line": 2,
+      "projection": {
+        "answer_sha256": "0dad2c5f0d52bd18806a93480472edaa945531fd83c16b3f93a9f855b6e66fc8",
+        "citation_support": "supported",
+        "contradiction": false,
+        "evaluator_status": "ok",
+        "groundedness": "grounded",
+        "label": "correct",
+        "model": "gpt-5.6-sol",
+        "oracle_facts_sha256": "f3ebc177ccdec2e58c8e50144eecc3fd617a84114b5cf40d221b97a130a7f289",
+        "question_sha256": "57e121f5a40eff3e838039007c14bf6e92887db9331b0d48002e01d11a94b6cf",
+        "reasoning_effort": "high",
+        "reference_answer_sha256": "2c16ede50ddeef41fab921625d8489bd6b334016c9aa68c2cf8a90d6f4281741",
+        "runtime_source_evidence_count": 9,
+        "runtime_source_evidence_sha256": "2b446485c8c42dbe1ad13911e2afe5b151b9675f7c49251c1be2c3ee3f6e0b6a",
+        "score_0_5": 5,
+        "source_evidence_sha256": "ee4f4d82d2ab22b02c628fee1544928c713377fb88ea1578590bb3dd54bf65e8"
+      }
+    },
+    {
+      "artifact_id": "7dad189dc60fd941ef1ca5b17d1e848ba7a15816f49da8e477e9bdc13aeeddc2",
+      "case_key": "e98efd0e1fb15260af79b271a36ce45ee72791bd3b2c1dbbf5503ae20179b274",
+      "line": 3,
+      "projection": {
+        "answer_sha256": "fac3cfa292db5a9dc840b83980278267ab2b06b84a4caf105d7bb8633accef0e",
+        "citation_support": "unsupported",
+        "contradiction": false,
+        "evaluator_status": "ok",
+        "groundedness": "partially_grounded",
+        "label": "partial",
+        "model": "gpt-5.6-sol",
+        "oracle_facts_sha256": "8a9ea83a0dd191709b7ee29fd81241761899d16ad21d0b494ec4a84c6d4c19ae",
+        "question_sha256": "e5c1701979c706144f8473766a7c865e4d2575c57c9284c560c76119fce2b6c0",
+        "reasoning_effort": "high",
+        "reference_answer_sha256": "bb874a4dae0e3569cfcf7b76485d9a11b1de1e908575c671a89fb16177357174",
+        "runtime_source_evidence_count": 5,
+        "runtime_source_evidence_sha256": "169d80b2f0454d5b6da993d676915ef7c9d7bc7bce8b9e96760c8e9dbe759952",
+        "score_0_5": 3,
+        "source_evidence_sha256": "d1dcb86c5c08cffd778bddeaa89e3133996c4f600aaddc94435591037fcbe584"
+      }
+    }
+  ],
+  "original_inventory": {
+    "artifact_id": "7dad189dc60fd941ef1ca5b17d1e848ba7a15816f49da8e477e9bdc13aeeddc2",
+    "bytes": 4716,
+    "disposition": "case_projection",
+    "exported_rows": 3,
+    "invalid_rows": 0,
+    "source_root": ".playwright",
+    "source_sha256": "9c036ca68f7becc1316f9471b2631cc9781e93bed413c4a35c031fbdabbb09e6",
+    "suffix": ".jsonl",
+    "version_mentions": [
+      1616
+    ]
+  },
+  "source": {
+    "artifact_id": "7dad189dc60fd941ef1ca5b17d1e848ba7a15816f49da8e477e9bdc13aeeddc2",
+    "source_sha256": "9c036ca68f7becc1316f9471b2631cc9781e93bed413c4a35c031fbdabbb09e6"
+  },
+  "supplement_disposition": "not_selected_for_supplement"
+}

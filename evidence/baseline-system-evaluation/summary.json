@@ -1,0 +1,88 @@
+{
+  "answer_model": "gpt-5.6-terra",
+  "answer_reasoning_effort": "high",
+  "candidate_trace_depth": 100,
+  "cohort_manifest_sha256": "06253659fbb217c5e35afb2c59d626faad904e3e99a8a9b0993eec82611afc0d",
+  "first_attempt_success_count": 1996,
+  "index_manifest_sha256": "2b1382cbb3629e68babbaadca544775e5bfab5ade3554d605e6d6a5f3e8f0d3b",
+  "judge_contract": "scoped_expected_and_cited_runtime_evidence.v6",
+  "judge_errors": 0,
+  "judge_model": "gpt-5.6-sol",
+  "judge_reasoning_effort": "high",
+  "judge_skips": 0,
+  "metrics": {
+    "e2e": {
+      "count": 1103,
+      "total": 2000
+    },
+    "exact_source_recall_at_10": {
+      "count": 824,
+      "total": 1600
+    },
+    "runtime_ok": {
+      "count": 2000,
+      "total": 2000
+    },
+    "strict": {
+      "count": 1318,
+      "total": 2000
+    },
+    "strict_or_partial": {
+      "count": 1740,
+      "total": 2000
+    }
+  },
+  "paired_deltas": {
+    "e2e": {
+      "both_fail": 405,
+      "both_pass": 930,
+      "denominator": 2000,
+      "gain_v1660": 492,
+      "loss_v1660": 173
+    },
+    "exact_source_recall_at_10": {
+      "both_fail": 597,
+      "both_pass": 605,
+      "denominator": 1600,
+      "gain_v1660": 179,
+      "loss_v1660": 219
+    },
+    "strict": {
+      "both_fail": 343,
+      "both_pass": 1112,
+      "denominator": 2000,
+      "gain_v1660": 339,
+      "loss_v1660": 206
+    },
+    "strict_or_partial": {
+      "both_fail": 74,
+      "both_pass": 1619,
+      "denominator": 2000,
+      "gain_v1660": 186,
+      "loss_v1660": 121
+    },
+    "strict_source_at_10_e2e": {
+      "both_fail": 786,
+      "both_pass": 699,
+      "denominator": 2000,
+      "gain_v1660": 309,
+      "loss_v1660": 206
+    }
+  },
+  "prompt_visible_context": {
+    "field": "retriever_resources",
+    "max": 16,
+    "min": 0
+  },
+  "recomputed_labels": {
+    "correct": 929,
+    "correct_refusal": 389,
+    "incorrect": 87,
+    "incorrect_refusal": 173,
+    "partial": 422
+  },
+  "recovered_after_retry_count": 4,
+  "runtime_results_sha256": "80dfd927f05641205c39011887c0dc4e18df8517ea44a7bf07ea8694a19d871d",
+  "scope": "v1660_parameter_aligned_conventional_rag_control_same_development_cohort",
+  "total": 2000
+}

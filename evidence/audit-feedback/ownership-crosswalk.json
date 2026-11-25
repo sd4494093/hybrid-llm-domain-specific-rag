@@ -1,0 +1,3320 @@
+{
+  "crosswalk": {
+    "citation/source": {
+      "incorrect": 16,
+      "partial": 14
+    },
+    "no-answer": {
+      "incorrect": 4,
+      "incorrect_refusal": 104
+    },
+    "planner/partial": {
+      "incorrect": 71,
+      "partial": 340
+    }
+  },
+  "label_counts": {
+    "correct": 1055,
+    "correct_refusal": 396,
+    "incorrect": 91,
+    "incorrect_refusal": 104,
+    "partial": 354
+  },
+  "new_semantic_grading": false,
+  "rows": [
+    {
+      "answer_sha256": "403b07a15c0be44dc6a0a0268775a7d3bffbbf43fd8b594b70c53ff52827fc70",
+      "case_key": "4cf9d21d5262867d536c167d01f0cf28d6968899382b2a4f5e0fc3ea2727dff2",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "a068c76e1be49d752ce27f850dd16fcec5861e6b5ade373529d788571aff58d7",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "db788d5edf1918170d656aa5108ba0c7283ad319dc21abedf73b66496b3cf117",
+      "original_judge_label": "incorrect",
+      "ownership": "citation/source"
+    },
+    {
+      "answer_sha256": "472d841f1f348596079e843ed0e30f2076a9a7c6ac0ee7599b19f1423d96a8b6",
+      "case_key": "54ca50623c0ec1a3e86855a89b686e89ca518cba038c5669750d36804e88272c",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "6e4fd40dcd4250ff296f7cb2ba25068556cdc8807ece3e36d16c0301a19ba804",
+      "case_key": "3aeb9773fa06971dff2003b0cb214d18e24f6638f6cac301d9ff6cfd0718ef6a",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "59a00cb280a000489252989025a528ed065eb26a28548782f51db51a8cf4f500",
+      "case_key": "094adb3d40d5e1a6b21ac28c26c67c3c86be40670b75ac4334ce3ac2d5005bfc",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "6c98f93b4fb398fe01aeaefe5df2a74d8e9bd54429d29ef838714f9fb6fd5cc0",
+      "case_key": "93b7aa6994f7747279073cfd08b8f2adef0fcdb834bae51dab35509b23a5349c",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "c6f15e031c49b7179c9cc8b4f99399ba45df737e3fd4eff58795a618e3a45996",
+      "case_key": "ad31385235f99627bc81acf7e9a66fc261a7e85767be63785bc0f0b7ac3b41dc",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "3ea30decfaf3187990f74ddf9630f1b81dd29ff0eb4126eebc1ead3fe3161121",
+      "case_key": "8fda84f7ced190bda44b5604612acd93efba02883db298d542c12393cc3869f5",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "c1c9aacd0543d6c5e7c5b171ae76e800874a6c1e417a7a97f0e153817c2e98d6",
+      "case_key": "c590308eb7bc32e5da96e8141c80e2a3bc03229d2e7a5d8fd52d3608fa7ffa67",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "ba028829b7399c3fbd9260ab15ca9d13293e3f485970cad9b9afee0c6eaced60",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "aa463f67b2d1e08bd324339883c6d47c5003fd81f8b4e5cca4ffff0718399f05",
+      "case_key": "7397ff1bb2ff982b5807023dec871dc36a8f47c624d90a566465607c3fb5712c",
+      "original_judge_label": "incorrect",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "89a96b01643b0e2767c483ee1fc0a068a2b8bc371a2e992550f02ee08cd87b43",
+      "case_key": "711fa001e030dbf59a1d8695cb617454f354603b540df3583300811e675a5b44",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "eea653c3ac7ba53b7582019600dd7a25dd849ef746abc86a666427bfaf3dda2c",
+      "case_key": "b49e7e0b77791278b15694fed9c6f69f07f79f736cd290adff3b0c615a223bf9",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "d7cc36343b44a0385687b4abf00032b5e857d20330be45302212573a3980fbe2",
+      "case_key": "59c06f334f74dde5021d03bfdd7f2ea024b2c9164321f3dee9b30009de69ac77",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "0b4bc6d44943a3d1ae4cda04b59cacbb1dd975fae09bb82b1a980c33754fa8da",
+      "case_key": "fa7a8830791f4b7d7f276ef9965a813044db6d7c6dc83ba0744063dd3a9551f9",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "af4dbf3314418d2386c82a4d48f30076885c9a039eae08809fe3351d4c78e55c",
+      "case_key": "40db520637446fec4fd529596227f3813cb7d6f7c536e8a7ffd8021efc524612",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "09c5d21ab38e54f020ec4d61ef999a3f18325a9799bc4b410edc1fb0e14ad23f",
+      "case_key": "d8a42923d43d5f87d38f8f6aef82dbb5858c6d1be18c4e9c7177ee863239c04a",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "f028f3b10e7e4a7fb186de06b01348a8ed41fff113a2e70bcd110da2455ece11",
+      "case_key": "9a94fee599753b766aafad7f1bc628a8632cdb49c98e9fb0323988d15e53a536",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "a3a2f6c1dedcaccf75a25d1c1d716ea21d9ee26d0c35b1ce0b9e34ef3a0cbe35",
+      "case_key": "b21e5fa038d6fc96e40d8f79b46fbcbe926308050aa26bb1fe4d71350a4424d4",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "86d5b5db66c6c780b6de128862cd50b136dfb32caabb5f4c568d748e2c034c95",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "1d50bd202c1200f876733a7d072bf0001f91ea1483c0c5f41287d11b8c5e232d",
+      "case_key": "549153c3bf5e6b9e99a28d063bfcb7989b824bbb3f40377bd838d6896e97edbd",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "51c6d1eafbc9e4d7d63bb88a80c09db0e1f35e42c33f9c0eac273e408b053a02",
+      "case_key": "0122c3226467c3e3de616e914800569ce755ed8fbc24e4b58ed2080008234362",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "9152ce28ca893ca86cccd48891b18175ad70b31f92ee1d1df0ee2f717d7c5638",
+      "case_key": "c0b9c276406aa7277441dcb6a23160fe376f7123a12b4bd283aeb55c0fe1a55f",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "b43b67ba857dbac9027c50ebca8c2f66f760d25b3fc61d959c9779ea1d237e55",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "d7a3f4d17ae76aebf896c64165c3a0854f104e6972b6a9b443e9971d2b0c2c44",
+      "case_key": "cd52f3f1b8c0679b1576a8f71cb23bca4a62e852d563dd0837c1059e9cecd08b",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "719f81bd4599a18f394355ed2e14a78d68358059c7451a19aec27a4454845f1a",
+      "case_key": "29572b988c4357dc590ea1389d6d51b2df5aada220c15b94aa49c0ac2b196a41",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "54b79c41440464595d8346f70f7d236308511a2a1fcb8fb545453ab4d623b051",
+      "case_key": "be3d9f9c79151445163b22a18637a5781beb141d11ff7e2aed2f5d60db792971",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "066b3ae2219828419dbe7ce86214d609de1847126cbf0dca523a1a610a06135a",
+      "case_key": "2860bb711a2acb1f4f49676aaa04b6b318ee5117a0d28496a1421af6db2fa5db",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "1aa7a649dba97215eeef4ade634e4e2656044187573af1b1477fe0a316f23933",
+      "case_key": "4f01eda742bd029773897dac4f33dd85f93241cc21b19eaf392e467f357f927e",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "883e3b0846bf21af4b326937c93660ea32ce25649701e809093714d8b493d875",
+      "case_key": "9917535f802ea6dcad5717ac8ae7f0e7cfe2c48bd6cd83cf3e40aa222b3eecfd",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "858bb313f0260ba7e54be8f1d4dae01bea766b40253febd98ab1ebf5598b2f4f",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "4cf5bb5ec0becfc11142e01662229de2007b4beb63e12a9b20dda3abf3c08827",
+      "case_key": "ff908af67db0814e5fbb03210863aa9564b24a4489e7f52a66132e49c348c0a8",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "253c3298e37b2c5779af7e3f2171888a122770be08321c179ce58f48bbb2ff84",
+      "case_key": "6b2abfcee663aa021303ea9de2cff4036792d633c437fdca5c60976123ddbae5",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "869921fcc3bf59242feed33f9df10bdef36a142815c877e4bf3c7481a399a987",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "2cf9412c2185248b5fad67fffc3c94c195d47c2752282f1f6d37d75103ba25d7",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "8a898b3f49730e62b055d7d4ff791e777e6917bf33ffe91b963a4ecabdbffc54",
+      "case_key": "c2452b643049fb07fbdd1f2509bf26bc92db631922773dd25401a6c3ecd0f325",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "7be514104f9f0163dc794baeea65697d1f340d6e5b4cc69fdb284d1d0e54886b",
+      "case_key": "d910e56d778fe2a73f302cc4148ce0c2f14981d137558162ce6b6751c0ee1232",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "5d7629b735877e50b1f3eae9dd098975f98587c759280a750b55e623abf240f6",
+      "case_key": "dfea04bd35b4965308c2397df13823beefac2219a8624a55b613648fb53f6cfc",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "f7f3dfe6aa691a7addf2efa3259a8be39e4860a2b2494a9536adf5f43f0e6d54",
+      "case_key": "b60c84e0305faab85870e0a2996482f7aa6cb0e8ac90f5f0447f54e604edd4a2",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "f41da793f117a53fc4efa4e6e7f93134ca84269df4ad29283b67ac5a6efb443d",
+      "case_key": "f23fc78f904ef1739dc415f0abbd2c05298cc54b1b0beaa463e75724c71395fe",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "88ce8ea83a94969fbc2221fe5adaf2cf537b49fd1d8fb46688f33afb68b1ca7e",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "5929804baec5f9b12f0be20081790a14a462683b28b814062a1384e7a0e269bf",
+      "case_key": "8c5a321846fcad9f3c428cfd6e80e211675d5fb9eab3960995d9dfdf12087f5b",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "8f1d41bae88b3fc366e50da0ae27e30b81f38e23218157dd53a3e170560b64e4",
+      "case_key": "c497c7d5ed825afd8c6937502c38b385552089a9a38c5e6ec6173d41e848f226",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "f5af1b9d24a25d7511b9e2070015a844a46005a8ddcf254bb00cb72ee96afb52",
+      "case_key": "c6f60bd78660a97a3252da2df526ca7cbc318ac886a7e061ea6f561c03709757",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "586ee8460194a1128eb36db7c4cb047a74242970b6bbbc2d6818d052b68a25d6",
+      "case_key": "f3616471ba80f5d8f09d0cc76aaafb4fde4bcd2212a2b34626b0c8f19921da0c",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "0441d25eaea5c19afd7b1649263874767d0a2de0ffedb0ebb4ca9c85ce625e3f",
+      "case_key": "5953294dc282e5333874961f6732a7d601f33a7158cbe467601d042875a0dee6",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "de542c496712d726538ecfcec107a2b20d85ea09e3b654b34851eb05f0904bc0",
+      "case_key": "a7097ecfb1b0a1ae29f812bec029bb9a9c33d8ef7d6df49367670a2d8f0dc447",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "79658b1057d7ee440927d1266e706e88ab6e5ee60cd81c8ad2b45cb5a6873275",
+      "case_key": "bee2e9b20fe216beaa642b7508189682eba579264c6a983dcdb0014a7b632f60",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "b387e07cb95201dcfbdfd7411149833726ba19518f03698af88b9b35202fee71",
+      "case_key": "16407baee3ac7484fdcac4fdb7003b937ae4632fc8c6ed2347d180ee37f8e896",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "23c91a94c0e51822cef668f65c8ae9c004824596ca2477729644a19ef8d92396",
+      "case_key": "b1b07518f622c6c4a6d1b85c307eff06bd3c9dc9e9ea57e24c28f1a33d1a1665",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "5588cbdabc172b2b410c3debbce848a91d95ae639911b4e20de14bc101a43469",
+      "case_key": "1ae676e3a0bbbfdc0405d099855b90c1fa3e0d959316f28ca4c4b6930cc0c3b1",
+      "original_judge_label": "partial",
+      "ownership": "citation/source"
+    },
+    {
+      "answer_sha256": "9a315616decc4cf34891ee629523ebcea32a6a9b167f0d569a22e52609871e45",
+      "case_key": "8e37f6842a7d697c414a3b51d7d5a60727fcfe1158b507264550b6580f995ebe",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "61d903561f21955d0e1038030440a1f656d94bb18b36dca179641c9d7305eeb4",
+      "case_key": "9128f1efea78b3d50e3654b7e2a9f915fa4ef5537af4943f01b46e0413cea2ba",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "4229f8f767dd2d18352da6dd9f323d218d602a23178a480be9e0b356c12ed3e2",
+      "case_key": "d7b223275c9087259f1efe0b581c03b36aef1c10212dedd783e2217b14e99e49",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "d5418c1327bcd383e2b29a9522d6066bb179ab84127a5ee73b1742a8f8820095",
+      "case_key": "23261c4487ce560b81b96a9339fcf4726e471e52e66b9262329c122af96029e4",
+      "original_judge_label": "partial",
+      "ownership": "citation/source"
+    },
+    {
+      "answer_sha256": "0fb75a8495587a39fa4157721f79b22018df198c38416ba33e15920abcedd120",
+      "case_key": "5c039e181108fc40b0064c5addb7c37ba4433ea8d65e4a2361eb5e6717a66f0f",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "a3c63a45dd927d0e6305067590d5c6edf26318a2ae19c0eacb822f4945caf0da",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "8b3ccbf428b8bb48c86d92fc39109594910c44e7cae53c1f609523960ee66ef4",
+      "case_key": "5cb3180ec637024a04bb6edcea622b654f946f9aa0b9b3449671607804101cf8",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "8f1435bf572b750cb31b2ffe76335b33b8907af56b6aa6a56642330927956b00",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "21fd522a5ff5e4de421d6a44755a71d5cc74ce002b121437184cd852b84c759d",
+      "case_key": "bcde5a3238c8f81e402525ba3f661ecc0f3080fab6af5345b4bc57f7419b74b3",
+      "original_judge_label": "incorrect",
+      "ownership": "citation/source"
+    },
+    {
+      "answer_sha256": "a5faf1e77b72e9942fdcb0259f4a052a27dd9304488e84565354e43e29b4ce37",
+      "case_key": "fea69c73da5ae3d254b4aa9ea32ff7a59f8cda627cf24ab26d01fde5c5e993a9",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "73332ac80738229adb0ecdf5c7dcdb8f2628c04ee7d99b77a867069ccb96bb4b",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "3d321eb35d20541050113f9139bb2569f7b2c838a1640b5cb5958596a3cf2003",
+      "case_key": "79dd081daf4fed946e7e21103358e79c1fb1aec484a0354b42af93ccf50c60d6",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "16a32cf423b5f73a1976ee0df8955f060d99ea9214172ae71f85f4c2def36e9c",
+      "case_key": "721334c1e6c0503c2877ed3a3d8c3ab2c52159d1e76f891e4d601b36c562de7c",
+      "original_judge_label": "incorrect",
+      "ownership": "citation/source"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "bf52919638af1ca5ae89f8507f9746cac11f0a4adad9631acee48449585a04d4",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "4ea9b01a874c31c65d60f4a9794733e0c9f72ec8e885f3857a20163a8cbeb56c",
+      "case_key": "f72953610e8eadf036884294203226bc74a8cb7e94e6c70d975a75b80885b009",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "5466a6177075efdf6f32cbf4acf299692f3d397ddb0806a8d2b9ca752d1e34f3",
+      "case_key": "208d881d448ce2ae684cd86275bf050f7850e2dd6a11d139943d5b938d55280a",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "eb1cc5d763c20bdf3ff47f767d0410c9a3f3fa9fe0b91a38000d80b658643229",
+      "case_key": "1b17a2090dca1610e6efaeaed7ead7e274d60c1b11f5330d4eeb3c53c3fd8749",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "129760865eec6e3d3b1cdbd9e764589cb1f33aac1f97c0e9a9746a518166aab3",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "2973616b13939771c958004bda6de3d93bc180b817db0f414d3b88314cec933a",
+      "case_key": "45e0d136145213e6a59f6fdadd4e5101bcd54402e6765ac92942630f333dc0b4",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "427e3775209255779cb2a57c51662b25b25bc814d88498f6ce01d2780fd86aa8",
+      "case_key": "0dccd54f079df9cfeb880534c3c5f22c0554f5a8424b8ad0d3c9bd6eb33a89c6",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "e380872fa20774cd979b5a1f7e837df1bca3e2810ebd24b149eb42494aa77393",
+      "case_key": "bb02565ad2bc39d875b3c7a6db7157a5279bb423f76c3e260f0ac4e8124b0b34",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "6f27b7678a841c21955dbc64aa7c477b5d1c7ce34f966bc8f8c9e4cfe3e087ba",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "19e7b35f83abdb57890bda451f1b31fc759dcd4e4e7a1b8e2545b00df49b8c3e",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "dd22a0b04bf27897bbffee7bfb7b61c049063dd6fab1440461af32ee1c5a845c",
+      "case_key": "733791c5f0e8d5bdd0cbaaf2fe1c31484e696193a3186e20a45e7aea780be673",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "cff96a9a831412039b03319549c25f29442c2687f5d2bc9a6bc5dc63c1b254fc",
+      "case_key": "b0cb1deb9d4923e7324c8368b901f2d338c80ad9b45384eea8ea09cf870208c8",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "28166842d8bd2bfad993a1c232b86f38958e3ef9fe65e1edcd74b51b111c5409",
+      "case_key": "b73e88d95007aab0a9703277c33c7f780a5cf2a8aa1803c9d12320eba90d4e55",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "f00251b45f91302e3bd3cdeeac09d80aa03c14faad724a67b73c6cb4ed115f9a",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "a05ba1a902e43150431c2df09d25596c26399ba1a2c807c52c604ee3d436babb",
+      "case_key": "17070a5feeac9583e5ecc5b565d8d916f56c04a56666696dd929c76bd21a4f21",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "50f6c09be6c36f1af91b088009b732becfb5291670a33b704529223a8f1464f7",
+      "case_key": "a4309b93c444df9609868652ad475d3ad0363077c4eb5de65e687805c65e12ee",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "625f345b7ace2679ad8b1b4151ccc593b26915606711d3a9c173c006ac8e26cf",
+      "case_key": "7677562327f0062db378f53d9a1c7bf1356bffa833e8f50966c7a6fd67121ed7",
+      "original_judge_label": "incorrect",
+      "ownership": "citation/source"
+    },
+    {
+      "answer_sha256": "7ac6417a1bbddcff66488fedb62d9d1b7547f4cd9ff2c1f084ce68b9f0f0e9a2",
+      "case_key": "ed0c3c5292e0bdccf311060bd21fe376229ca20e6518764521a484a7609fbe7a",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "4e164ec2c6ca37d0d11ae157c9a1489499bacfcb04b71f427820b14972c18db2",
+      "case_key": "7d9bb484b743930580b596e0631bec3d243d54ee264a0de84730544cd816d969",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "bc273af4dba167e01cc797cb318ef481165e2b48fe7a54dbe96c311e56184fc2",
+      "case_key": "6d0801fad17b8967346859d445f7ce8efc22c52e3d26771316b2da1a86983e91",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "35c6c96767ba8992978fedb1509d55b99abf6f6e37d0edc14841585287f5e562",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "c178d1d87879ae70ecae9d64e7447f029a7959a3b2edd2d6513c33926be41076",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "307bd1e2e7098485b384204de4508348d9c031b609b328b863d8c85d5bb8e731",
+      "case_key": "cda26b59ad5fa1e4da448b77c6de5882f7fed56c1f2960a4a72b8985a91bad95",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "4d4487be927f2bfbb8b1d879f995bd782ddb88f6e1f1b232d38a5a0b1347f4c4",
+      "case_key": "455c0e20cfbbc588f1550b3c9deaf1aceca05f81d5248ec8ac2cdeee8a9bf4a6",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "f11a027ffa7e00870fc853a85e208c6fa81d182f56cc8abfe6eec6820126bdf1",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "05541de4438da85dccc736b879d46a08eb357eccb9cb8a19b27da37296066525",
+      "case_key": "f0f4d39595a262835412f3f251f997622ce0710ad6048e00c0557fb6d087f2cd",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "2fd024731a78d31f2cbb57c65180f2b83623e34f44e8c8110264ed0f4f32c734",
+      "case_key": "241ae7c2f88fa26d1b2a17c9f02cdd8d804efe4126f32bea26d31730693c1435",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "0b54be6b954d2322a6e4b7deffd8e9cd65a06695c922682c43ed38f346d463e1",
+      "case_key": "22318984693a5a0d65217ca927467b893d309845dc424336c14923d70af599c9",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "9e593eaedea14cd871e43778c88a79475e8b8cb8c28c8abbbb64ecf2dd4e4d51",
+      "case_key": "ff3f794490fbecb3420f4b550cd48a0af87ae299ba9fcea5c32df3d8c497ebda",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "faf923dbf1ef03aba8d16719e3bf9935399153d7b86bbce568118df4f10f3a3b",
+      "case_key": "c9025fbbfb7759368a967a026231ce7f462c64fa875e73e1c34859a943115603",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "5db03780b62183c15fe31f6f5c8956a1ad6f213838ce5b6fb34a2663d9531220",
+      "case_key": "6f5ba6e6054c9193bf85f04b140ca25bdb99e34021ad14f0fa82eb92010bd4bf",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "6d82aa1db583474077fcfc58cfaab8562b1fdf4291713f38a013dfc5ad0f15cd",
+      "case_key": "a07831f986e63aa209ee391a12159d1ff88992e588c5ef2a47db0bb948ce42e7",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "4a5d7f59226a60677842b2ee49def326c4cf99b39a073537b9585937dd495348",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "727196116257ad6e598964943fb285b8f6273ee78696f6e43d8bd8f8022b4e2e",
+      "case_key": "20683bb37a8acf8f91c26a36be941edd0fd53481dfb974f675f398f7d58b3df3",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "4a4391330bb9e1659ddca2f13178aeec77fe7eed302d32a8458e97167769c96d",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "eb3f98ab318d7422476a13c1f8e287d90b8d6828828776819c54c49ea3c475e2",
+      "case_key": "913e123fee7eab81e045967c4c4df35725eba19e57adeb3b9ce8031a6a81542a",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "3bbf10c142f414d0864b43d94bd46b15abc2e709a855e190674c5c96eee3c049",
+      "case_key": "a5c4e3ad1adb61897d427b63fdfa92a4d9d56185e2001e69f834b078fca24af3",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "7157ce09c19e3e5d14ed6caaad37a5260a931d1ca3fc702485b72d0f5f05834a",
+      "case_key": "42c42c9a6a2bb410bbac82421f591da732e8ac815f8519a377cfb270943724dc",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "7adcbbdfd192ff90bc2e40d0ce4a9b820137a6099be5740b66d6744590c4a625",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "cf715e0d335f17e160e9cf1634b17e7712acb64f5227c6035aeddcbeba7b1e81",
+      "case_key": "6a9fba2dcc064bcfb69c350523e26a3c52837f7bff09cfb25f846d431a4f9811",
+      "original_judge_label": "incorrect",
+      "ownership": "citation/source"
+    },
+    {
+      "answer_sha256": "ed6d5b3a547d30f567e90aeec0af46b7eba6ee76fccc6ad83a3be1a63b4841d8",
+      "case_key": "6ec3368c98cbbe7599f16f9a6471debee93b2cd7f658d15ca6fb63517709d326",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "21a07f80563d27fbe768cd595911dc6eba8230eccfb8beb86af1f6786f9db6d8",
+      "case_key": "ac4e6462f64e1a384db3982b06dd2609629fbe7b6a34c3d4b61c755136f3898a",
+      "original_judge_label": "incorrect",
+      "ownership": "citation/source"
+    },
+    {
+      "answer_sha256": "5efe20bb75654bf79d45103c1424e6142b2ce3eb07345644ef9c068a1a8bec7d",
+      "case_key": "fb74502cf2b5bf31700d962c97910810715f7189f7a72039df51a266482755c7",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "d82154322b5a68d42632a950a22a6c0e65d46478904dd56819720acba00135cc",
+      "case_key": "4dfa5ed8cb3932f556eb8b2ecc66e094e3f0c6d0bb91e88952d85532d8516915",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "77f719f8077b889c9940f9415655cbeebf881bd601519b569a516640a12f9a7d",
+      "case_key": "07857034cffaf39cd65c4c7f5fe130a60f314dd3bcb8f3a69ca78fef8abc91c9",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "b8da7208c1bfa0b628d1fad0b79bed0712c635b15e9c5ae3d17ba4fcc5f34415",
+      "case_key": "da0e19b962317c8a6d1e71cd78534f41b3861f22de99da7753f524c8010ad8a7",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "0ce03bdfdebe07e774ea54f7740d1bffdfcce8a741dea8d95e7df8fdf7febd59",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "6cf1e5d9fe521c5d5cb69721de946da5c5d15d2db27ca08e184ba59564fb084d",
+      "case_key": "ae6d6fdb835accceca75a87263b97af900b52beab56099ce2f2f755bebcf94fb",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "6c5b891d91e2339bd20993aebce6b2c10b4d93c396b2f69a7471abd5d14fd13d",
+      "case_key": "afbe7946364a3d7501500919ccda8290912bb6459f690218d4d577522028f126",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "c54e25268afa3a0df2f308e83c3138247fcb431aa26954af3c021524c1a8a43b",
+      "case_key": "f4ad6b398faa81213b58b2bad2c53e48e5091d4fb04d99cd0693cfb2f96fcb37",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "eef13f2866ef46a0add8cd55eb7376f53048fecb6e61567dc9073f1644e8e92d",
+      "case_key": "664219e48f4d4c807aee8798c92195830db5c58f85a34db4f8eb0a1f16817e94",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "c9d993e4d91e99e549430ff6f910478fd5cc1a7cc841986818f41fa322d44f44",
+      "case_key": "e925110305691a494a838baf2dc48365164e85422a6ee632d106d02da9da26fd",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "50bcb629d6fa9a4c1412c94225f6be865ce33cb2e5f865960982ca8eec29b68f",
+      "case_key": "f11f268aa33054ab124fb732085b0e97387d9485bb27c907f88795a13463a186",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "d833a8f0776c22db0f736fde86f512a9e4d34e01a8d0ce5beb66ff63fbaa1f38",
+      "case_key": "c796b5b4a74f4e154e02edd8578e5f16cfb1696f5f03450185ef87a7f8787d11",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "0e49c899df95712062f60798b06054f0d1f68836dc2c34e1111580ff954bb6bb",
+      "case_key": "53ae27afde3375d0fe85dc67a1684432f8e3fb5bd51827b1337a6efb081d25de",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "3eaaa61d8b27331024ec60c29ffae7e428176f77742d777c9cd86b395168cde7",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "b802ec059a19068c46ed834dbd62b22f57311b020b7233d6330aacd2ab98394d",
+      "case_key": "7d8db5954037b1464865166239bfa2782c7c53aa847a1b408d224dd488bfd45a",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "5bcb4a7cd54b5e4ef2a8b73b5bf9228a3a3eff882481e6398e0cb23ae1805a67",
+      "case_key": "ec7df9b5458ba9af5c70e4faa349fc7d11c791da2f2c75e22588da56590d42a9",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "61d084793ed783ffd2207ebf5ca4cbf6e0f3e94f8273c101b602eb68c7408d2b",
+      "case_key": "ea3b27630a6515527a5dd64c2d1e9befaa5d338b06a349926b2d672317efecf2",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "67b69603f69331b0001ac6367045c2c66fc52324bf0fef5c7d285ea0870e6e4a",
+      "case_key": "f2983b1475857d8a0ca6cc53ebdb1250170e582fd59c552fda6b2500e48af7a7",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "2f7f9fdd549c00caaba3c2882a3a77a28b4562c444b1611afc90d51cab34aedf",
+      "case_key": "11c0e67bc9a954443015afb6b6f9d59db1767ab3b8eaeb735c3ac584cdd2c7ee",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "c7042f1c6a8af6b422cc3889b68c29cbd193d82cd1ac048d59ec2ab2d1359849",
+      "case_key": "438e4e4233e069a5335143fc40bffb2f1343440b4eb02ca03123e81d3235d5f8",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "0c5be7f7909a2569a536fb00a66e59762b148e8fb03d5d2662d46196e1734195",
+      "case_key": "5add2f55266ba9fb4e2f286144c6f2312abda1ebec294d557077b3482765afca",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "85d15b2a0d3d017e5bf8b59621d6e4df65e4702abc3ca394522b56d89591ec5a",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "5c08e51aa5369a19e9a5a5350daf6d358690b3531da783691c24a1128a549372",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "4a2ea7410d00e9b140f2e64c5fe1c2e5d1d33b4baa1d6f7a0d498705c3a944ec",
+      "case_key": "688daa403a5e54ced661738d729649ebecfe9090c18ceef040d6b9a56f814159",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "cf0bfedf78913a6a36619382079437d93ec4176c2ab35560a1440883db9c31d9",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "3eb7d3de3965945418ca06ee44d0cc04245f45df563a3e359157179483dcf1b9",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "fbcec0b48f0453390ab899828f42bdd4056322215eb3f52ccd5fe8c5ea15a6e1",
+      "case_key": "31f56bc1fc7f475af4492beaaf01aed756390d8f37811918b12e9f594762f398",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "4a90a60c3304cf2ae8d0723aedd7206c0053d311db44288f3c44019b83b31d5b",
+      "case_key": "01aaf3d214bc3b42727a54a29c7cdb071d76dc74dd3ea263617fbbd936de9290",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "f1e1da2be2925a7b4fbf3119b34233e80d233e9108025e4aac238c16db8ce5ec",
+      "case_key": "7b7c93d8421eed0dd0bf367edbefd7a7075207200af6afb2397d20b82fe6b2a4",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "6b67aba7b5638cbab2f4dd5a81e1c81389adc781e4f7e1616fd572862e2c0289",
+      "case_key": "f3d7fbc10aad1d08f4c1fab2231e8eb0f069bfe48710c499b3cdbe75c87a1858",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "e37000927d34fc5cfda0d60cf5ff7a70c4c4df983103dc3c5078a31326386e9f",
+      "case_key": "bb3f13a4f0244081f98bec53d17e301b3b77d4f741b0947411582e0b81615b7e",
+      "original_judge_label": "partial",
+      "ownership": "citation/source"
+    },
+    {
+      "answer_sha256": "a2d5a0633df878ff1233490558c2036e31ea601c6a1e872a4690e342ae7227bb",
+      "case_key": "1fe0bc53a8fbe4341c85842491d84cf6ff8a8366488dd6f8904870ae3fb0c9f7",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "5c3159876d48b44bfe25af92eeef361a359b86400f0bb6753d7de872979bdc23",
+      "case_key": "712c16641d670c07d90646c23891c089c293de118ed5068f55a313e0dab240dc",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "e30f608f7b51ed42f20f7b3f10e1a05f12a175dc748f1af94a2d57b83b6a20f8",
+      "case_key": "2c7430c23f7002c87fb1908bc23e496ebfa4394214f42aa4f9c8afd9bcf00347",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "339f174eed0afa641bb6a1dd30380b4030d7a34e42ad4bb9eba8f7833b746af8",
+      "case_key": "df59433ea6cebba8d8235bfcc39420be28ae2c1962a2af5fd2963348729a0574",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "84473ee8fbf4179cda7c49365c769f9ddc9277295b915a917fc8dff4877f2b7b",
+      "case_key": "453b88503cc56f473617249f2916e3680cb75b9f141d85542e8d4e29db036e70",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "e497838be080b4d3e04543d5c809992dd6044b33d4835e3e9f36409075351546",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "d70427005fbefb7a3cdb467be05af99ac5898cfe317a02f1c2a8344ce91cafbe",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "b63430749742d546a17e72effd7a9e5c8c35f2073a8d707b8b17232384a8a735",
+      "case_key": "5a101cf3eec512b18bd41aae8cef74563e34e56a42fba55cbed94f37f7709217",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "93b1beb191a3e66a5e7d668951fca0c6708911ca9110f7bec4ae9979f371ac0f",
+      "case_key": "47cf816976cd72f5957c1d0ccc9496b9c35019142428af5009b716d84dfa1c46",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "06787f8688f6d352383f112998e81cea7901d150d0beca685f3b12cf3bd97208",
+      "case_key": "96d39014a1a7c3477212c7623deb638845ffe495a97aff20c230ca9671cca158",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "d6243dbbabd519eb72156b3a6d0b7622cbe664d3427e22dbe6dd90c4c5f7818f",
+      "case_key": "43786aaa54c8219f7966bb60d42b1d9279baa4b4a0f707ce400febadfdf0d66e",
+      "original_judge_label": "incorrect",
+      "ownership": "citation/source"
+    },
+    {
+      "answer_sha256": "38cbe987438354ef06023a3c08de24977b16aa81d0a5f40ff9b1f0518bc36625",
+      "case_key": "b49111b4c797e949a7c4bc4af92c88d1f3aba057142e47088a65a555cf518eee",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "d1af4cee50b0cc8327e11f1c26e409eaa2da8f8cca33641b761fee5047dd038e",
+      "case_key": "21f66088f2fbfe6d728b7db91ce2a7c33570017b551c7eea4915e6f4e910e3a9",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "a55e928e7b52ece91c03634112daa81607e127e0bb4a4020204a77ef257ebcd1",
+      "case_key": "584c96cc7609fb661070aa161adea03aec72203f339c2fcde73e2485600170db",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "8223b613a19c18d28b20e81aa3916e33017935ff5fc5568d552219078ee2713a",
+      "case_key": "ced7d644f942b9570b699831fbc7681fe9a3858b8a136e404a6f88daf5905c98",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "05dbb9015dfb5e070a31c11b1f826d0e70a62d6a6c661bfa5bc73174d6a0e59b",
+      "case_key": "73cf5cfca0c7a772a3373456c8e5a2037c1f7429e4074df6684462a91f3412d0",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "32b346652b380a6b2bf22dafba1da17e13834b3f4cf220249f04cf01dfd8c8a8",
+      "case_key": "4243220d624e1e0ceb08ccb40fda7c5daacb2be9645a71d3a41569ec7b1c1e5f",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "1a05f7ce4edc959d4077080c7138e60493dc1392020801b0f444e740c928efcf",
+      "case_key": "d77d537d6b500ab902124a19f82a738b457d797250c8cad745ff26602c38594c",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "da39c1d48914d4f9ef5be9f79c3885f9d0380afdf4419c18c03ebab6011325cf",
+      "case_key": "2b85c902a327fcc35856274f0e8d7988c5f66dff2459d090d06d89e52baca21d",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "fefcd74aa7bcddf949c5e9769390042c66b181305ceb08e09bd6f946536d1307",
+      "case_key": "3fc3d39bf711a04613a84e953a3d5e9c500599a0672165482b28647cd4ca6830",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "bbcbff932f00d4b9afb1a997d78650194d6b03a68773557de76732045398c6da",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "d871af99e55ed7d007127df33dfafac9cc15f0875e4228c7ed452ca43cf57ce4",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "57bb619cbb52ffe519f9d0389c58aa737b3d4707c245a669b5c166d08c0eda0c",
+      "case_key": "96a6b2195aa90d5420361beea17eae7d7dfb35f303412ca98baa8a85f23660a3",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "ab2cb26171685b184a43bcb0f332cf44299f96c0c303f97a45008e75200ef93a",
+      "case_key": "6b972fe8a80073f4fa69246c864671fe8f592e14986e205632af573b13970aa7",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "423def4a75f33710644b7be98e4b11af554913dfe60a5c83cd64d147f39891d2",
+      "case_key": "8adbacdf1ec67d3c94d0e2c2b56407b2f7760e45a02645834c6b69353cf2d63a",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "09046e5d5a0a7fef4d085c19695d42cfb24281fbeabdd20b8d227a20ded42ff4",
+      "case_key": "87ea7bfa89e6b58b58f06a7bed6c4452de82b8101c0bda9882d9e6b82905826b",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "4f00b50abeb6686f5af981402daffbb524ecdf06d7fd1c03b595444981b8ab6c",
+      "case_key": "dd8c4cae0a879c3c8970d63c8da4b35e82ca3107308c47fe740e3b7adb46ba99",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "20c7b9fde5dc05e1dd408edb4f872606da9b76afef318f2eced0814e2fa298b8",
+      "case_key": "2d40d6ab4d278911c6c931a2ae90b2dc1aa1e2709d8e5642362f4122f77cca14",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "e159057d446526103b1bf19437fdc8b697bebfa304945962f3f55eae3a344548",
+      "case_key": "6e8cac3c3081d0f6cf5dfcd4b9c2603b4f0d3b1eaaa76b7ada820023799e51bf",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "04823c90e37292886dc85b0a28a63bd4f0d1446a603606f6ced8c76c9c663308",
+      "case_key": "0442cb1bf86d5a1acdf04fe0313e87da7345b8af6630ca22a8b43cc172fca5b3",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "8c6ecd7306a8e06426d8dc3461d8b7838f7eab1ab96537e79c5f335fed2dfa1c",
+      "case_key": "c40d760e2e22c256792d40b206e4e888068abea18ab82b584a1d09639d7de234",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "40b5eebe69fee31dc3789a423e36b35c6d4839f3f6b67a2fd2aba255f80eb0a3",
+      "case_key": "7187abee5b042c1955856ca813daad5a12538861153e8d49b873bb2801a4e045",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "8e096abd143961a206cf56d278b3cd6655c86d110f5a305a313545337442e118",
+      "case_key": "2161e7f7bb38d707b9f9a5b113c9530c5c6f4b4177050313b504229a91ec6836",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "9efefd99845693a1ea8802d00fc812597ced63270c5aa81acb184e4f0075bb73",
+      "case_key": "8407759d4ce115b9311b292b16673914ca65c9d99bb4f644d33717ac982d6339",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "07ba738e0463e8980726f0aa0e63fc521a26ad9ed99f74231c1b60d68a42c423",
+      "case_key": "467f9492f91dff16dbfd1a91b09f4ea24cdf4a90eb42f069c1a58e0d9d7425f7",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "d5a992768953de3cb90ae34ab7a97c2384146e7919c9a6b035f1e5c19aa53e83",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "c4814b85ec35feddc990afcadd0efe3a3aae24120dab54fd77e2b4565d2ace7c",
+      "case_key": "db252e1f7b6be3db1e195b9a53b007a74ac737f8a0ec26d8d1832b6c43199b52",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "e4ff037bceb379ced756ecb62b47ef80f155ddc9fd078e15a0f86ff9c909545e",
+      "case_key": "e9a08c4af1ab3e3d4685f66a17508ff4166b647e8bfd0e1549ea7a3295028d5c",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "5896ac1c91ec12f9b04ae79274b39f45b82875f101b7c389fce4778ff57ee328",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "4fd30161af7d87636f6ce9742a7a62d24315c1d4bd99949554572bb91decf1c3",
+      "case_key": "86051138a652a264f98d495a0024d121e23bf0a623ffd6b9de9c4fbedc80f547",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "542c1f3d9d1f2bfb22dc62820da453c1bf20fb9aa0eef103596418a989186079",
+      "case_key": "3a6895384ccfb898ad763035cfceae3e96b41fe8c3d3d0136ad674f8b2bdb049",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "871b005b27897e1deb9728137e46c41190b1b3cf39a3eec71bdeb393c601e594",
+      "case_key": "634fd045d93a8ac3ba11176887ac3003fa7b888bfd82a4a01b6ccd1e2fa782d6",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "0c8dc5978dc59ba2e70c065a5aeeab0f6bf59570fa350b9d046fdd759c0b769e",
+      "case_key": "4765f485f53802de875f6c8c0ecfd7b8ca966d946a33c4a01d51608a5da766c6",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "044e0f511dfb99e1a68df7d5f92f3b66234fd664d756d23aff9cfd955b66807b",
+      "case_key": "8ce69c55668f26bafe7b0354ac25deed83cb528545f9b45f1207a957c727cd0c",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "c1003b8e008074bc35655ae39bcd97bc9957b6cd14bd0ce9b88e7453f7216004",
+      "case_key": "3a08e341f03db20b85c0f96052dbcabf935d1f544cd56c366cb589ae4910fb28",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "f0d505697d649d37b1b6e42fccc5696fc2ad3a2cd9d5b766050b4ec349efca59",
+      "case_key": "62be9d85281abf5368efb11f9baeaa37ca4924f46a59b8baef7fb41f097f64aa",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "cd6ad64dd915ca2a1610293386700c5ff634b61db0d478d663ff57066be3692c",
+      "case_key": "e20b41ce3f48ee0399e41e7032b348bb86438f262d4a86b02533c9718330dcd4",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "3cf9da60517da6ce82754173a06df121a496c6c970dbeb7ae577f6fd023e51aa",
+      "case_key": "5eb4c67e7e1df65d07e5b849613b9e1961b10930c5a0158148b47ce31057e3dd",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "3830f23d0acbcbc0f449dd2821b20d4a73c5f5743718458c14b65adbc2289f13",
+      "case_key": "6fe350fd841b28f32541bea65fa2d5482f7048a97fa0129dd10bfa63946f2dc0",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "253965176268e31108e5f32b35f4f6b25ffe3b514b4e83090deac78114c44537",
+      "case_key": "ef46ac25164112f7de616709fcd67fb2f0a18063f35118aa9efeb12ff29830f4",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "5f6630a9a7c4af1bad6b87a94dfc9e210bddb986cf5f42c271ad1524ed8bff49",
+      "case_key": "81b85708c3050b53cb577ede94d232d4fdad2601496972b8029eff4a4ab5041b",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "788eb4eede30905bce8506c2f267b9021e13a57a97ff0b9d69be438dad4029aa",
+      "case_key": "7318cdee5663c58c44f371c4429a1190a82ac752bcd0c930315f2a85221cef74",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "83854a1cb44ec39902c0627d3a3ebf0a327deb47034a512d844539caec2c5cbd",
+      "case_key": "c8af10e7014146f894952184fd6a2f364748df61bcfa4432ae5e334b86e06829",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "123d801382692c60f19ef08736e46cafbf605cadb259bfd021a1465fc069f60c",
+      "case_key": "5cc5fcc9a8248e63e0b4a0f84fe9f353a6344c2552370f9f56ac6c7c0b72785d",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "3824a4dc45db0ba8bbc87bfcc8931d6d2b9bcda33b931ba48fec8d8d1630ed84",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "f048a2d4d81ecb1812b46978d03cace8bf5a2e5c2272ebb538075eb0678c4101",
+      "case_key": "5308386de87c0255f16e2b13a7805748985d3e7713b0d90d3300a18c4a027554",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "cc7cbf801635878db6c8c729d7388ff3cda4454a643577f3bc86c4d03e20778f",
+      "case_key": "173eb741abca8463fe1091b025f12cb278e6e4b15c6141898b976a01308ab248",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "01fb01e313cc26403a73f3ffe9258785b4d62ba6bb8374a423300ee25f5e1853",
+      "case_key": "fa4e0429d55c89db19ac07e5e9e8bca0d1f398aed955c3f69f5df08c1e8fe0e4",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "a542e43949620305d4e8dcd5f7b5822c2114d1d89d354edfb713a29b8e4c3273",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "c03b8465b95dad6578e2872ddd3c9e125ba5b8e5a27ea7498cba5a170512b0af",
+      "case_key": "47ca6753a0b3014cc1f2f22acc4a1ecc44a509ae621ccb372f65c9ae71bdaab7",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "7f33c5f2858e07c8b3c44977220bcca9570464f1bbd294fb246296edec848e79",
+      "case_key": "6dfdc23b4a8ad14b7e9b2fe398999430044a532eb1c6af6f7b519074b149c20f",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "a1636766512fede44741dc6ae0848c97bc082b28633f8041f004c5711667db9d",
+      "case_key": "76d62bae9028c95531f915f4b388918b887995f1142e3c3cff97d9f0781791a7",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "c25211f21be8919167921c9c5a3166bef5db2d78df225c0c8b08b9cecf26291f",
+      "case_key": "fff57eae00dd70889d0cc1ccd3e0409eb7f9eee74abd3c4801f7bd394c1f60f3",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "1a6bda978d17e4d82f95242b369161ecd3d9c81fc1a85bb324d3e5aec60f1b26",
+      "case_key": "8388398b563140c788f75476036556df7faf64d66410c50d3e96307f24aa5088",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "c9bb70128a171c6ef87fb7d3821c38317684cdc5c1723f7661a6353a7778c445",
+      "case_key": "cab7f9e19dce93bde8da56d8fcd05be613990482dd4ecd3f31f74486ca97e76c",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "2c9b2d91b673c9b01c3324f8dbdfa1e4a95817f1402a647349e279c515157aaa",
+      "case_key": "e3f419c395c8d91572cdb04f51ca84b88c778d0e3feb862d2f2bab38474cb61b",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "82021a9f16038c69daa9b0090b97ac5195269ff1a01f07749912ade085595da8",
+      "case_key": "82cd9a81736870a8d6c10a0606109ea4ead010a84544d770c4ccfea7c2c9fca2",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "86901e9aab5bab19f4809d6504aef54ecb043c4fea52cc16daef830087789f1d",
+      "case_key": "737068fcedf616f30f1ce5d8afab776b2d9b50c81c95d879aae53aa4de1d9044",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "feccb99ce025aa6f88f5d8d71fd5b8e31d00de33c6ede55ab6cffc21a1fd8c78",
+      "case_key": "6acc66fab136c0db18b674af2831f83ecd8e3e9cfa25fcac35c7283d0f751eed",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "284d934a2783b13e17129f6a20c9427143f6ca9fd853183ee22db0082401f9bc",
+      "case_key": "edf4af1ae73aba104eac4bdebb974eae42c3181fa0eb1aa575d24acb7e5df3b6",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "dbd400947ea527276b7d24e652e422d84b1358c00d9673df51d582cac35d70ec",
+      "case_key": "116ea432594dcd5816e64a83577e2e84736a2992330d2cb7d46dc06cf99c9f97",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "ff803c9a6d7d4e1ec106949813c6cae771c41ffd20b760412cd7a5f18a9b59c4",
+      "case_key": "ba7af29974cb3a2e51be3da7ed0246f8bf614ec84455158d3e9b6882fea05531",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "351fe42cd18459848289292bef9184eee939584a5fe2317cc53c60c499e2377f",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "12515994920b8e8b4d5f8eb6698b9112db4ed44ae1196c6416369019d23b362c",
+      "case_key": "058b7d08448af9dd840d1c7269d57c3d131ef0562cf3b2ff4e96fe310f69c345",
+      "original_judge_label": "incorrect",
+      "ownership": "citation/source"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "b56f3173cfe3da977039999f732ec62350ab16c9902e00358fd608576235b313",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "5d40c61befdf1c1f4240c281422eb8eebae5622ed9be1533e56d90fd23c199f5",
+      "case_key": "960602a8c1687ebcc5d6c14941c12a8603ce3ed0f58ac532952f3d56fefa39d9",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "cd7c1d0aca92614109241353844566d84a954b46d423712295d2f0ad4c1f2849",
+      "case_key": "7f49f1ccfb3cec3b901c593aa0b51beb5ee57426b694ee83c429ee1f088be79d",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "899f9137b7198a06618f776282690ac660642e2e1577f7bc5b51faaf16d2f339",
+      "case_key": "5469d291a13eead8beea203816749129c0f801f4e47128ae9b68a65776149310",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "a571fb5f9fa1b3fb0b8b478a6fe087dd50217a4ed84970d585b9152833dd9c7a",
+      "case_key": "27064abfd444f1613d42a4517de638e41c9e95dd5bd281802ccdc047aeca817d",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "9bcb57db4dbcac111102164e638913b5c7adc03564a2979f84e3eaef66f472c8",
+      "case_key": "18b869ee64e25d2f22211ac566696af2e4ccd32f17a90f62e43c48644855f59e",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "889cefa6895a2fdfe0fd0a3ae99b8a4a44f9041cbc4e7cd92f9ad2bf72807457",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "b4b3785ec42bdeecb2845f580983206ee97c7a0661b631347d6c3663fe202e6a",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "95d0923b75edf9714662e1b6332ad91cb88382f2d04a142c8142e88a81aac6a9",
+      "case_key": "61b649a64796d4e2ea217f84cba380f9c08349d08aa7c3d6768f0678c22faf90",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "cbdb7cc82b989cd3327f2249dd5e8b011811aa5ecc1aa9523f12d4165f177849",
+      "case_key": "6911731179b1172d143eb71b6e29ee2214e2628cda70ce65535f0dcbf79e7af3",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "b518ed70a28f3dbe7b92d292d48b6af883001a1f2ab13d2251b297b555cb07a0",
+      "case_key": "4ca210cc4fc225a1d0998d52bdb697e3efeeed43bc118797809c3bd28a3de5ec",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "3f252a0b49fd29ff6186391f3da58207477be6646fecaf5ae214ba94b6525a94",
+      "case_key": "d504a5214e6a2a185b2e18861acb57a97cc2d93e1d0a8e86d272d086856198da",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "8b301c331938691b4c6e7d29e45ef9df48f80230ae55902842ddaced318b5e9e",
+      "case_key": "7645e0c23b1cfb112bf98d52231d4a52d6eb589ab4ffcea6964da8a40d271728",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "567b7475068b1903f9cab445d9d0f01be9098c45e21e28c5f7706294ff563f95",
+      "case_key": "a77b6c2b067e99915dd2c41833f92260569f1726cd6283e7ad8f119272bbd584",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "022eec4e1fd6e68ffa6f0aeec7112c295f7ece418daf565f066fbc0543b1d5a8",
+      "case_key": "6182f4525986a187ea0ce7ffcac18dc9f994970581aee93d4d9ecd0a31645c70",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "13efb8eaf312c7cf954b0d02c82f30ce40bc110a75010041ae4abec8f9be24d6",
+      "case_key": "013eb1fdf2f4f732fee01db0752fdddda76de4d0d83155f787c7ad84f282d251",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "9a44f8cc3b3e2520509929f54817f4c6f67a5ede86edc25e081e2c48db433478",
+      "case_key": "64318511c8fce8bbca0be295bfcbcf415c638825d461c1a917f6d3728b6a4471",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "1d95721c8002fc84caf99f7bf26600fa557758efdb6a8a3e7a2ba293960cbdc9",
+      "case_key": "61019b4b846e3fb18d901e4321cbd85be33d754b2757a21c2b4974205a185457",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "c9d14d0cdaa4e4051e6f0369316cd11282b97e327b7e54ef8bb49950ba0ddb54",
+      "case_key": "ea0be8ba1814a515785f47d2f9392322708afa7010c08828bf03e16f01ddfc5d",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "5343b77ab6298ed90f603376b07fac0ff8ff492c3647d43e072ee4e10da73244",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "255de419815da5d38b9ffb5ff8aa9e9bb5bda12fbf95fc1b9c7a9fb8623de04c",
+      "case_key": "a61759c3ef4bdf2d7fd54bcda2125b7144db8f2a695e2d74f1a10c4192429cba",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "978ba60f9c63136d734363b4691fe4d2e66055c4eeac5c55852ee86fb20ef0e9",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "084afcd1890d31081d2a3b09f088f57401e0c903017377e6de9e3b7f103f2a23",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "a7b248eed06dff48137f7f81d5042e35cdcdb2aee5e9f657bffabbf81c5372d0",
+      "case_key": "bdb44f03692a39694ce90139761c474a09063fd4965973e5e46b455dc02b6955",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "1a56d00e1082f3c2d8136524506cada8394e1f31f1806c595497a0cdf43ad528",
+      "case_key": "6863fbbf21aab592065f6e01f99bddc4623cec8dee78ad805c0cf12e08bbbf0d",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "05199ba6e565baaf13a0b767206aef3644212eaded73933f841089eb900db037",
+      "case_key": "7470d797104458b7dce947715cbd85788a0eee7cef92503476423b266e954249",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "18cb9a4bce4dfa823e48064faba36d1ecb39ad34e5d5896cfd8ff0952579f3d0",
+      "case_key": "774f02096744b58cb95a5ca2bc1094e93410dce424ddf29a49c9e061e338739d",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "3b6c0dd088afdc346ac583f6a4e0291a44b4203b4a4e461b5cad7c7d6917f609",
+      "case_key": "97f88c01d504a3d276015691fcb1e38e337551e94f67f64f5bd65dcea2af20bc",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "67102981906c0d13284dd1c2db646001607934c0cd25f8663612d0bd78208acc",
+      "case_key": "7ae2b5ca24db53a2a6a3c5d0eb94cc7c68f4c1a5e9ac26f3b20d589d26ba2432",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "7fc586e51d4845ced5e2eaf0d088e802dbe97166df605387e6c50012b96656ea",
+      "case_key": "d879d3027b9aaaa07330c8aec9902287ee63e4809411016e997692fe9e9a2de4",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "298ed4b9f4dfcc32e970ae19d1c35c5b225d38b69adf503c3954edae75cd1af9",
+      "case_key": "7b0408d047b16f406011ebfb74902dbd75dcf27bd5dba3e4a1d43e2137c08c8c",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "a7e102d7f61a0066ff3d9e486d900f7c4c7241f1bbb6d01441930e0fe7043104",
+      "case_key": "3c80b51ef766d37cac26e4d9a572122db0b37136c665aa579baad69e94b8cb77",
+      "original_judge_label": "incorrect",
+      "ownership": "citation/source"
+    },
+    {
+      "answer_sha256": "ad555040a6502c3e58bef88cbd91aaf6c582f9a2afea6301ae525365ddb96cfd",
+      "case_key": "83ffb7e96a99a1d7a0d5b7d9649b0fedc77a36b9970c5ad6538a23951f1473fc",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "fc30ba9c0e14b6ea49ec5e43609c3c3f5a3e148eafa8f6aaaef91af263e522ac",
+      "case_key": "2b30ea9d5ce25e5fb9a7e1588d158f45154aba40066b38dd0b90390c031434b4",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "3f3e2de5f2a04945dfa1eaced8818979df6e62816b4fe87c94e085af7bf89c9b",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "7f98c941a70f35b33a203044b03ca50c1b3a521056c6073c43a96a3032276a63",
+      "case_key": "0b6fe47e98cb891505cc466218c3135a04ee18db762b0643340ea697d10884c4",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "67b3bc2ab7662928e3c04c5a45b8d3935ace98cadb750658857544b0fe8d5bdf",
+      "case_key": "e4d50bbf116f1cba5c916cf43c03421b9985b5a3518e8652078a5ca8b8178ab4",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "61a2f0d8c0f0fd21898411c4af24b555188aa489d12fad7a341500ddc5d6b296",
+      "case_key": "33d797e2974b2f5595c44b6b9b349c2c32c7b5f480a43cec4b72f89cd1668259",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "e6f62889f7524dfc90642174cc5701cc8377d7d1361b8021be651e4a062734c3",
+      "case_key": "093b2ca527c28d87d1539d7bd75ffedd6cf248b0cd87dfc9111f2c89d9b851d8",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "38425dfc18d826ca99f8ce9edd4fb8214a6df1bb942c57d56523982480e6a11b",
+      "case_key": "bcb1238ec03fbc7cd94ce05b0eae53338da3e107ba9da181ed869c7666e186d6",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "2bbcc3f8c0fe88b5855a243f424c887b0c7134ed0823cda4dace8c5b01fd40b1",
+      "case_key": "6040e9f150d76fabde78c48105142b8a9206559907e3ff1dbdf15459a536fb78",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "2035c2f02f39494f243510d10a42cfefdb308142f384842dfc75c6b9590d4c24",
+      "case_key": "89c17a3d4dbd71062ca39f42c36d56a9243083b07f4d45f384d5cc1e5219d721",
+      "original_judge_label": "partial",
+      "ownership": "citation/source"
+    },
+    {
+      "answer_sha256": "409972f56788e830272d865d933d3534385501a18817536ca9955d18ef6abba8",
+      "case_key": "22b9d3e28991e056ce728f1f2217be065013e7d74fdee4b0d9617f6f3a15b2df",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "ac3a2c593008b3b47b061671b6fef9cfc00909f9072921fb53cac51fa73f0345",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "c1faec45662ea4b85779f65a4923630383d667ce44166cd931fd670393862283",
+      "case_key": "38deb27d72a7e085623b8463eaf0ad104ae62231aaab1fadba6d7e1d86b380d3",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "1f3db208a50e083ea766f2e3661fa5d7f64298aca89f9dbcea623efea87ebb83",
+      "case_key": "88a29f9ca78888892b96ad698099ff10264a2000a671baf846fd7224b299d600",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "90a1223ace6a137996dd0c4fadf4458d19b6fce9ff949ee84909d78167af0399",
+      "case_key": "4a97535da218c1bca0af401febf8105516b2ddd98199247021a57a7d4b8c7cfd",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "84bb459f43a0aff8a00d3d07c3fed182c98a2d52a5d083b18c774f054c8bbaf0",
+      "case_key": "1936b50f41b88f43b76c07793a04b0b3a25014709e98b794880806be74ca4631",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "130f5532db16fbd3307bb5b3536c48b394d6fc9a5c88293434355de5feeb745d",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "653946dd53360304568f84a69163fdd07dc9ac54bba8e230e1065b6f2862340c",
+      "case_key": "a9d5f57f09123fbf81a592ada6799b851ce0534005e446b474bb4923c8458803",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "5a2b7630663011ff9179ab505c0c90965882f1650c29a62c985e4ec1ce866369",
+      "case_key": "2009490ad52543a4db9fe7f127b987b0be035b46eeb5022c0cc56bc5793b6789",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "3b36d72f77d35cb12248a3a3bec2a6ceb302056b255dafef16c93de51ae4444f",
+      "case_key": "b7d2b3210980119ae260c08a63c9053c26281624ba03629f41fcafec98ef3ca9",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "a90037bd4cc11a42dde449b6f66cb24f09a94c4e0ec34f1de4ac8b86a882dfa8",
+      "case_key": "59ea9619fdf0c507f383e947a44d65bf214c4d72efcd8393b1ec52670787bb26",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "8fad4289942da0dc41227c16e97529804e69eda9f3af8cc9f10d7ec01437fe44",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "f1f7246c4471848c01dd7eccf41f47c9f10ac730379216eb0ddcbaf9333aa6a2",
+      "case_key": "5dc219c581f11f5b491b667d3fff8d4e4247e3f077b7971455b48439285c04bb",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "3c8f4c60dd727496c52d37b1b4fa9bbcf29475190c0586b36df78eefa8f8dc32",
+      "case_key": "df04009441d723d9b3d25f7b426d573a0ce9ea716ce5473932fd70ce6942036f",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "232dc86b33b8bf02ae360dea750438195dd4aff58fcf7328dc993a15698159be",
+      "case_key": "763588abca8f95116a6b23c0cebaef445ae39ae7453de21113720ff95cc1e78f",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "bd3a4be15fafc43cb618e68ac3171ed8a60ca4d528fc743b6315f55f7aa963ce",
+      "case_key": "842ab86edcec8cc4203d8f08e385fba94a410c2359f939e2d1d8e0e1862a8af3",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "8a5b8eea6c05c32fdc50206a54564eb95f948ae6ca1cec57c76425f3394407db",
+      "case_key": "633e765e2479c133f9806a32ce5d3f9647e07183c56022f7ea51d1b06d8f8980",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "5c8994e5e0e25528c1ce3c78b310e51f3f88d02803134fbdb1d91664d67ad2e5",
+      "case_key": "82fdaf61eae90e60a66e3a6b39488931c6e66b99c6e9c8d5f4eb7997f80548b2",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "7fa64e7533dbb913bcecd871054c4bc0d6069c79edfda8ec59963dda5581e351",
+      "case_key": "692e549ce45a0ea4f7193e781a7580a4bfcd83a94c7403f1f6ec4e89076e9da2",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "a319718625d2f2535d79df8977be83d3f9c37dc718d512ed4fdfc7a4374b7974",
+      "case_key": "ceff811a5d918164e65264944a5dcfc58099fc56e662cbca92701ea616b4a0e5",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "b9d77bf3bd64b000e1966a93492dc0ca18250b841f1a346957532cdb33bc8c12",
+      "case_key": "b80c4bbf45712d84969a4127d29847f20f9c2fd099bca7adf173455236b3c1d4",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "a421693ab1a386b6179c39bcd602fe014a5cfa0945fd531776c5268adf688eb0",
+      "case_key": "866717c79b21495badfe4492b68eec146d00362fa886fc33dde10b99dedd0640",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "f3bd3ec736354327bb4db09cfbf62493e3bb695f140b255bcb29a2eca7a10f76",
+      "case_key": "f5c418f799f5a170bfa77bc61218e6b02cc1809f812157a3f82a7926768df3f8",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "21fed35e83255c7b64a3c313a77dea4749eef80489dadb94a2c8f253c2067121",
+      "case_key": "f3edbebe7a30830f9d167893f6302991c8b6dbf13d69848cac82463bdc40cf6a",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "e15b9aa00fe2b465adab874d7ba7f778fa4ebaa21ad94827a3f60afa13049a2c",
+      "case_key": "c6756e23e58dc10f26d2911bd61e38db2a3c37b57f2b0dcbfedf5c26e82e0658",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "df9a96b3f122e8ed8658f71797818d9ad1dffafca6bba580edfa4046ed0b880e",
+      "case_key": "edab2afd2a8ecdb7f470e9a29802a2067338b4685430c87f48833b947b8ae1bd",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "cf6b0b7aec9cbc62d131ecb8846bb1eb84c98345fb6767853e3802fd223afe19",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "e6c46cd87a81630b00c961d79472289e28afeac6132d3eadf4495da2f636f00d",
+      "case_key": "65fda9735e08df1974309934c789086295137ca02a85f9cccd5950429710dd21",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "0d809ea824229e36b5c010394b37dd5e5bd6bac54e88a0077c387e604e629e71",
+      "case_key": "127d5fc107679066d9ab3862ccd69e674511ac2bc23e6ebc78ca29f7e19a88d3",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "1f56cb82c98510bdf4105fa5a7c36e06202f7667daae8d6d3d7ffce625f437bf",
+      "case_key": "c5dac418fe0f7bc2f6d845ce1c8c1400f218b236f9ad132c0c1f3d1e49646008",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "112742b28f5436127d6cf3a6806c2a62e4d302dc4ff163e4d470ca5b52001275",
+      "case_key": "8174ea6304e021b683419179d8135074147dc9e07a4af68b75057e771b48fd8e",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "0fea1d9b21380ab879539f1e2f5890db979d84b3359c1e13c8b92f5940e7cc95",
+      "case_key": "8cbe7c6821f6575b916a468de09ac5d5bcfd34713542935bfd38cbe09e14e2ab",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "02194c1073eebd70c27a8c066043b0a448070b8df59ad9eee9f4453d206cd91f",
+      "case_key": "13b1226f70ebccb168bee908913a09540e7776a24f9f3d75e64b4feea604f1de",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "6ee74b34ebaf60e7020e68114ded4490b82dee125e8713252e61f7c5a6f6946d",
+      "case_key": "1875231df5f75466b93b8ec5fad912c15018caf20b21140f4f8e06380086b91f",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "59f0162069eda58462a403a429aa75bd1b00a0c7616de543146f34092e63b8eb",
+      "case_key": "c1defb85cc4648042e79faa7582dae444149c610a5e128c81699a730794750f3",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "f407256d31c8c8a2543b9dc7af681cf10979e6af94cba76fc4aa5c6ce5e52ce8",
+      "case_key": "69b7aef02aaacd9e0936a7fb35de03499454d0cbf2cbbbff320a755bd8cf095d",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "87eb310e5f4dd596f2696da1b6f81745c1aef4b01cce9a037bb2a1b9653f6812",
+      "case_key": "b8ab013f25ae4f404a49d60c9ceb4d0cb7b1203cd3c124a44974548ae2e97498",
+      "original_judge_label": "partial",
+      "ownership": "citation/source"
+    },
+    {
+      "answer_sha256": "2bcdd7c80529a46944f7ea5ff4e8a94ddd887c4a6aa2213c5e9be55b3ee404cb",
+      "case_key": "d94870198af3a69ddf138a5eac59c53c880c66d83863e580ac20a7ebe0336a9e",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "c0edd32175a84fdc04ff82da4ee295c1e7f636a6bae4e2c1498a0109437e7e44",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "8e3e99138acca3f83da51f5613c1c12d03e50febdf528c121d8236cdf82e584e",
+      "case_key": "b9fe428a94dbabecc8b6383abdfbc9b88fa4a8d8851684efe6b9f8feef3d3c7d",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "da5fc8783154686dfc6fb11e93d77d2cce8ccba40dfb786b9c424ee5cc296b99",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "8e968767186f80b02b429e4b041e8dc5a8ac9327f1037eb35416813990f46ed3",
+      "case_key": "1692d2d0dc43258311829ac6879e302bbdebb8f9bee49e80984352a498833d61",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "73d1aba160933ccdb00ea1f11bec3da85337066eef01e4588ee1e1f6fbca7313",
+      "case_key": "6413b4b8ed4d184412f2d5fdfcd44585ad827510d9fc7232ba1573bb79fdc2cb",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "06ef3e9ab11dd62a22dcbad32f0c529d0a6ae62eb3742004c40731053306fbf2",
+      "case_key": "eb0c8d3ae00e5805043e4ab9c399fdc63d6f9162af541973d018f9d93af92604",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "026cf951cb546cd64483b16f541d04f6bdf7eda271e3d7e7d6f3cc9e580f7309",
+      "case_key": "4dba2ba725be94da9fdb2e219049c4d06f1cdf1203a55ee378ded0518abab6a9",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "c156a65b1e756401771a97f0ba576c200b7c8ff62dd07974fed6f576149b6b4f",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "aab895f75389f67701e2d0624366e1d8353c6b1fde2b61aa46df6b254c5e453d",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "5b0a1ce290239154ce9cea5ea13438f70f288238492ddf2bfa2a60fb6f4641fa",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "21bb0df219857f901111874407b49597aaee2ecfb7414100a33a3440e6564885",
+      "case_key": "229c5f1295008e44922186bce4c7b214b3c5d7606393287f1f110b8bbfcd9994",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "c7e2779925a814c00ce9ecf1baa7071a7ebe397e0f558125914b76a436bbcfb0",
+      "case_key": "7b85a8f7aa430cb57d8ac351fd82c90bc3346821234b030d3de55fb7ab3deccf",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "afb3bdea6a003768a027fc7d555b80ed061d03050c6c4a4a04fb73ba58eebce3",
+      "case_key": "06fb00998f364ffc89c382a0f44be0526ab027af233819731275a3d4373f2594",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "c1130085cc0958003cef15bc7271debbfad47d2857e8052bc3eb435a8ba54749",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "d07ab394cef34f2a6e787f48c7adb699c8876c007350af2a84aa52f3b1feb214",
+      "case_key": "4d8036c1c31b39682167c887f8a0ca5ac74f604d0c8a82c4a98572340a82dcb3",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "16d9c193bc901efd40bff75189d40d35c02bcdafe35b9af301690eda3592dff6",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "a63bb9384e89553d3cf2b9e1c2f0bd5b4e156ae8335d8df94037de238d7c658b",
+      "case_key": "69114e21d7d40ae47175a65e60fd269ce159beaf34250cd5daded1465169c51b",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "6fbc7c2e255027fe1192e87754165f6269502fdb753ee45ceb8c9ee53f92d0cc",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "432bd6f6bbb998094dc14d9952686b6ffe945c8ffdc8ca60c22d4d38e767c94e",
+      "case_key": "af832e8339275f84a0f4e7e225ebde362ca694f25c588153fa03244fa1204a10",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "2dd1b3e4d3822fcc16ff25d2075660b09377eec97631e6c2801b9fce486fd33c",
+      "case_key": "20556c23b0e6021384d48c8c4437352ee70530741048631b9c2f5c66f32e270c",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "86e1e65fd31d687e5a74962219f348b5571180c7db2c92af719f7ca4032d81ae",
+      "case_key": "0d65aec716e1bf5f58c99499539f1935c26f79567b45ab2e23d366d64090a7e9",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "4bda8f6a835c1ddcab226e8e215fcfb1f372f5ed53915d1f7b38371679cafaf9",
+      "case_key": "2ef746b94d0ef3d8c77d484344bf01dcd9f2f482a34d61fdcee1061f90e353ab",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "338175f0f13fcaa7154e91ab3189d222a8b6d6164b410e370a04760855c7b683",
+      "case_key": "26827974037e312fdd7c6392d487884b15177738e60024534db6bf2ad18107fe",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "8be3a737ff3b55bbf0dad87c639ddbe64c08efe80de694d45adc1cb43f5a379b",
+      "case_key": "6a386c1eed3b3dde9710d941298e9f9b76beeb330703460a5b58198f07697338",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "651e88175cdabbaf8b64a649a9e751bf8037080c83efc54bde7f0b4d12af421d",
+      "case_key": "ad08b90614e24347572bca988eac402337f68f0073f08bccee1da26fbe28ddd0",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "d2015085afb51b71ccee8599d93ecbfc2f823ccca3e0528faa6788fc9f4bff0d",
+      "case_key": "e0f58c7249ee90cda3b3edb1a8c109b6df17390e01b7b791e760830bbea1cd38",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "5bab366a863126133926e107589a790068545475c020814422f53c3f0e04b899",
+      "case_key": "6e391e29f728d7cf243c33a13339d4afc8a8507937c38d5a7015ef21a3d6ed2a",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "1f7f645f3210de92b9af9317f390e333bd417e279e14bc8d97dc77993e3babd3",
+      "case_key": "87b788945e752ce059c1eae6fb85a1b46b48ddce536840e6f38d6fb1639dcf3a",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "d7cb81ed0faf34da7aeee7b606d183e312a4410b3d46b420518f6a575b186a52",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "3f97740942597669f3194afb152c6599f7da5998c015a5bdf2a97ca196ea47e5",
+      "case_key": "3710cebb0a90cbc7eee52de54f8e1e7904fd943e171e0c5deb59015b0eabeaa1",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "1bd4f0ec7dd01e28924b45bb617abc23e522e59ee631d354f01077b14e14a3a3",
+      "case_key": "2dcd6abd3e20b525155eb66e80d271962bf8b445245e17643fd4677eed046940",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "1f5e7aa08804b7ecac1dc1db20448838cc0da5eff07bdaf05bb6d3e26b3dfd32",
+      "case_key": "4417287261b8766b93eb69ea6b141af5a7955ae00ad91cea7ec58028275fb34c",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "18da148f05c309fe703ad530272ea2d19c93e8934bc0fe6cccfd13343f750455",
+      "case_key": "11634711989262548b16966e882207ea8554c570a1f2d0c8600006815bc732e5",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "4652554aa757bd31ff6fb2ac81bd76ac3d61b925dfa8bfd2fdcdf477fff4c07a",
+      "case_key": "d937372a6a1b3b312867dd28a06bcda55538aaffcdb1fef06020f758a76f2ff6",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "0e474d2f4693ebc81b19a663a8b6181bb248fe44049c5a630a928440ae0eca89",
+      "case_key": "79f197515048c0f17c96b453594887bc5cfea6c85688e12c92095ecfeaedaecf",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "d064547ee87da868fa50c5a4f20978ab691cf72b4149e8b25aa6749c4dba8cb2",
+      "case_key": "fdd81375f3e4db973f063fd921f484c550c0b23fc0e786c2da4a035f94f39a11",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "ec358c14cfe16b6d7a698bd56df37db7b63cbcaa18b920c5776110fad8c18a58",
+      "case_key": "5f26420f401c15c62cf195b1816cdac7f2df3bb380cfae79441a45e8a5b3a044",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "c0b198b5f37cfd482a1260ec7e8053a14a0c2ab1543795b95f4655599229a6a5",
+      "case_key": "ce2a87ca697377d95f8daa24ffd4dde3b2e363077c961af29f43a5313dc0ae62",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "d040b3b195407a2533d402ffa3e584ac02a33c76a9d80aa5b4430b87f37fb70e",
+      "case_key": "0f865e3010454cd74bb06710bedcfa4bc78c0100e2d709d5754a41eb04d44b32",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "47531ebbf2d3d30edf19f197816529d9f5bdcf6140e2c13ec65a65c45ef34b11",
+      "case_key": "94ec0cc4eba8101a19b31ef6d0dcf436906f9baa3ae5b70289494d4dba07f2f8",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "b38bdad4a21e0f4e9586d83f034a1d33531c3586697366d10e378bd125a515cc",
+      "case_key": "365d2e604ba851ffb5bbf1f105653aada3fae1398b51f37604796ed3c024e592",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "9ad133c014affafc0bb3900e94dd21e89219c44719509d7477cb638f2784e706",
+      "case_key": "1484ad92c276467481806d2f2a90653c51d9b0cf087518f75bd671ba2464a76d",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "dcb53a27e8afedc5c3fef828ad78405fdcca81ed021e87d8f595d1137341ce32",
+      "case_key": "63e0c77ebccfec4a4eb56f707462f5aab964d06b00c309c267d0f460cadb635c",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "6842a9c09b80aacbdd242b77d40472fbfc91083ca88e320da895bb37df283c10",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "570c84a16cc780d439333da98aae353b0a3080d3b238839cf35f31852ec0243c",
+      "case_key": "3dab335d9bc208d80b1d7a42f4a24bb0a98397fd601dc9924ef097599891aff9",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "1c5bf56d425dea002d2d5c6aab956d9922bae195b0443def3f4fb68a7a1a98d4",
+      "case_key": "1aba9414e4e6c065af0dd4022859646ea08b759a2f07bd6a9d4c04c71e223516",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "7c29a71a9b57586255ea08d0f36f0cc86a79d7e24e5ad5f90d9def642e20e02d",
+      "case_key": "6130a273b48983436918413b481d913a567dd77529905b830910d2bcf094c60a",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "b664c954901df87eab604eca05f057f529573fea7fe6f3c76f797a7ceb91432d",
+      "case_key": "851ccc7f9ce7d271cd96e94273a0bc4cd91ce6a079e0c567d08472f06841d807",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "30571b259b54503ab72e4cd1bf00e41836b89d30c4ddf1bc334b7e0cf2d16dca",
+      "case_key": "fcbb3a41173bb47642b208f27c96b829df235562c43fcd8d1de2483744947cdb",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "752043baca50d48f2e30369bf2a6542f9e0ab6b782ec558ed538a11a6e2d4f18",
+      "case_key": "97cf31dc7494b6b20c7a909a4b746ca1896c7c7163e8e51c5d850b6e62db6671",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "f2b4dcea2f22ff09eb347e4465a22bdb89c4f55c00ea012f18102394eeba48a8",
+      "case_key": "62118d5033645300a2848fb6d6bd6555db7afcbd7efb0e415baa0d54b7065844",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "4c48c2d3e5b96ad9b2854bb6b4df8ab262995a96db76ec2eb68d8f60e13571a9",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "4da49b8327733eea0eb8e71d97472c4bbd13925dfd9c1396ca75065c3b709682",
+      "case_key": "561bfbf76995d49fd4c60eac0ce0aef2afc5aa698e93b67fd106d50da3e2281e",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "847b537109e4b159bf8d413fa094d17724779cafc34395e4e74ec56a15a56fa8",
+      "case_key": "c9f14569a74dde490951c97a0da43ceef8c22e7e7ecfedccefed1038c0199b72",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "f13d6ec18496bce16e975653e54ee6e566f57580ebe253e57cd39403a829340d",
+      "case_key": "0a445e47dfff7b905dee053c71471bec974efc4bae5de6e07494f17b0416de26",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "10c7d704f5e346a8e72cae4e6ff273a07d32704bd25aacaad028aae88eeb6973",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "1506d7244676ce9de639a0049dfa7852466b98efb14c97405ca1b30f97e714c4",
+      "case_key": "18ae485bc4875fef287d5df1bef38287d4006cd159f3ac6961123aa1e2751330",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "6dd621ab64ec17d6c5de077e17ccf51f43ee7554bc0b5e2d8169ab051669a241",
+      "case_key": "b39ec5a981deee5e858a36c63c7ce2b6c8b397a6cd4e13bc039f9a67dd9c3656",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "cb20c84e3d74dcbee653f605972aac8c2e8bcb95119be176791bb0c4978fcbf6",
+      "case_key": "b868a4c8674746bf5ebc168a08ca5ea8c3575daed3a93bf813e5047c896f76ac",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "e497cd2895ddfd759b83575896fa0e37e6b68af12318535d9f2b472eeb2a3afc",
+      "case_key": "b0812713871da03d166660b237e56257df8bcf16b3809e42072d6925455e9665",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "ecf9acea4bfe282bfd5b419ed3f5d6e0bb7f82a83d46c1bddecae6ef8a09189a",
+      "case_key": "59eee61be057ebb8085c6f133f1d5bdc88e585b4e7517dbc93d53b787edf7694",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "736fa4a64797e4b32b895506f01eb6222a88b20618b1181d0509da513bbafccd",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "500b451b67389ebda6346367a5448d14a69876a2d837429882066598badababb",
+      "case_key": "626c6a2daef079a8df1c1a01e1c811f0bad27b12dffead8a8d149b119fa1bf3d",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "2c60969ff79792b9e38a6aed1f45561344b0aa176387dec60a2767da85951c92",
+      "case_key": "30a2e90279eab4fe21a6997646cacc70aa4389267a9ae20edc8a2955bc40d7ce",
+      "original_judge_label": "partial",
+      "ownership": "citation/source"
+    },
+    {
+      "answer_sha256": "6cc621a9e1348bd2161825b009610197a5d62e438e793ad183a46106b0bc0166",
+      "case_key": "79918ad06b50181d0fd79d74c43fd261b3d81cd1b8c0a33874b32f5fefee13f6",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "9b8ef78ad749e313cfbefee447988cb438c0918a22da9394a364837f8eb83b82",
+      "case_key": "b95dd80a4016f88e993746f734ca2ffbf46434f0d3e57b6dc3b6e28762be1c6b",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "974d652212458eb9b95a7d50392e89a5080063c2a33a58b1e8d2e4849fb21bae",
+      "case_key": "1b634e078edd7691a481551d97e152a5b5fb16c7b89c78ee90db39e3c9369592",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "be5ed3035f9275af141931e6aa9cf265111077ece270b2f1593ffb3343b7d53c",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "b0799b5001ddd2428694ed1debba65da81861e6cc26f013033ca29008e66436d",
+      "case_key": "cf7402e3e6f1628fdc8772474da67994e1de0459865260fe34a841a342b6dda8",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "da5c1109db1160555cd65fd1a34d4b83961c87ff659b80df12c458213317ea2e",
+      "case_key": "74565a07fe2f3a97ec697c1253aa3879e75cb056d53036d747e911221c200eef",
+      "original_judge_label": "incorrect",
+      "ownership": "citation/source"
+    },
+    {
+      "answer_sha256": "b5da5cdb5eb65350cef68e1e111763623ccbcac9ba12d41a66388dfcc51ce086",
+      "case_key": "7307229c44e5fa594327065a8b4da3ce7b93aeb108516fe086f1b071d15bb6d3",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "a5091643e962aaa0dcc3887c48fbb08acf3328bf333b82b4d2b405423df85203",
+      "case_key": "aa7ddd5c472a6177a2ddd99116666cc071b2141c40f19dc0c6e4d1a9e2dd0249",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "092539794e5acf8a01fde0bcc2cd7ceca64d14e39b24f36e0f4a05882950f2e4",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "45083a803670e761bcbb1b79e52a15931dcc0a089edb0bd2a91b336053429c64",
+      "case_key": "79ad1d575238205b82a8395bb9c3fa2a6354e25200f21d456346dfbeac395550",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "e36436310a852ed08b6106dccf6396df647e4a7ae654541999967aef59355ea5",
+      "case_key": "213db6f9f0e3ec484fcf2abd3edf85dbab52a508e88c14591fd9bdabb1812fc5",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "a8d946c10d7174e28c71b378fa3deba75a01c206045b8dc8b8637401853c5152",
+      "case_key": "a6b7060c1d022255c51f743f243da847cf5caad1f9e48188f950274f4a0d363b",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "450e34436e97fecb7d63bb6c7000d6ebc18be3699da4128b0c72822b0a6beb85",
+      "case_key": "b9dd25e74c9f3c6c357a04d6451e3a902643fab401c7aa578f9acd702193797b",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "dc8827f43906a305f98f0a93ed9918e4f6d4cf1d9fbd71aefdac3b7230d4a3fb",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "6b8ad9708e3a37aecff0b2b359b0d632d297ff0a8a5757545784623faf53eaec",
+      "case_key": "e8c489dfc7d328e11c1cd7cb52708ff26c3033516c56d11bf31bcabbd84d7818",
+      "original_judge_label": "partial",
+      "ownership": "citation/source"
+    },
+    {
+      "answer_sha256": "ba8e3e171a67e3ddd5193a8ff0084ca7c4d17e084267cedeed378e0d4bcb7206",
+      "case_key": "c306231e71cd9fc810efb859c7746525666ef06a5f59b679923c25d8cb54d8d9",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "eea174c78cfd9bda7dd7416eaf6850969762cb4e3bc8ba337dff194ffc2c5f73",
+      "case_key": "b9e2fdd3c04c5655291337614db378da290eb0e08a119bc96045e5af778a8a4b",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "7ef3475c9783a387a8e3fdc2ceabd00b0e16ff232dcb45f15d8adb5bf1758809",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "91f2d4d959f1ef81c3c26d9c74ab98e3c7aca2f5ec419c5021f05ad39017a1b5",
+      "case_key": "c546b816380770e6f9cc96ec879fc6f7290c5e4e9db009c9d640de82d7e1f10b",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "b0223c0140b81728601f5c40518b629c55fabbbaf26fb9ada4601ea11ecbcfaa",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "107b9e0d060a0202fe1042b32973e5130cb66473f92ad40ace0498002e1061ed",
+      "case_key": "ac1402294f3ae51550400507dc06ce20c000caf974fbd75fcfcd21d54ee2f6bb",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "90c5651d5847e160d2b4452bf39c74d2f5911f0c2557922f8f91a4790a4c8711",
+      "case_key": "2c1e99fbbd019cdbb5a3819ae9f7b707d9289ffb3404df5e8f520cd810d9cbee",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "4376fe34d0be6edd02d0eebcbfe0e29c5878c2ff1f0552bc244162ea8e79f547",
+      "case_key": "3f9186ee1e381fd1a19974e39a92cb80313a121088ee9c3269625c265b9e5ca6",
+      "original_judge_label": "partial",
+      "ownership": "citation/source"
+    },
+    {
+      "answer_sha256": "d68663e996249769a8bef123f9ee7d2671423a384b0d64fd9270b79a6bfe27c3",
+      "case_key": "903f4982c25e43d889e6480f109d69044659004115cf8278b6c7f2aa6c767736",
+      "original_judge_label": "partial",
+      "ownership": "citation/source"
+    },
+    {
+      "answer_sha256": "2d0d1faf1c0888bfe4a844cf53463a508cc5c30c84b311f37223150ba11399a0",
+      "case_key": "ac2c76bcadd919be447d67fc4ce958dd5ae939f899d704d1640c433df31a0f99",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "2939bf6f45c4b91c9bab2359f9eaa9750a4bdd037d7e4dd28dbd1a350f0b206d",
+      "case_key": "cedcce51488f7f3827a0b02bb9eda505b268943143766c205dfbd82b59cabedb",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "94ab0233b15fe5c17ba05e57b3c33572732880a6bd9b1d0e05ff2b5b7ff4f866",
+      "case_key": "4a153f7f62cf0b9d2df26b61c3936301bb3219deac1b89d4d16050bdb4d473bc",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "8b2d4992fb53dc3ca3a3b7d4e447488db9ec79d35ce1349ea9ad81168c79efa7",
+      "case_key": "eeb469d816765660d97ab27ebd0224ae9066316f51cb7576159d02a89cf40272",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "503db38388f586bcbe53f792e21563bec49ad89c747a9425ec879e57ebba37fe",
+      "case_key": "bcff1c82789cae25469fff7af9cc4e9d2567132cd5cc49a98cddc580cdfc7837",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "4e787b51c2263a52e62a524661e71d4a5fc9e8ae2c2a125929cb827272f10b9b",
+      "case_key": "643bc9a88f55b5627b09c0aab1507af468479139daacbdbe8b4ee24eed7cac3a",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "f07d1193fe51f8a417d5eaebfb78a06858af6adfed416b14906e8938a7c48cdf",
+      "case_key": "8951bd2f967ada65115fb3db6be5dd6608aa74e18a3dc8e3e4f6dd12a5b74ff6",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "c226be17e0d11ac2274d2d2bbf5282ece4e16a7cd904185746812c6ea7e3b3de",
+      "case_key": "a86b36166d817957be03dbc27d5d56f82327bac438586f62b7e9b75ee0a3ad41",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "0125eb0180cb5b501ebf1908aaaacba21cd7f4e92bd3fcfd1d94f933b95f24fc",
+      "case_key": "161d906198de4cb93300bf5ccdd6a13cd9e9449d0686aade81262d1224df532f",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "cc25f5fa3ade0c26c9f59c3e90c7aa30ca5d3d6eb90f9f7df96c6f104559a1f6",
+      "case_key": "49dd1d86bb93d9c24396b6816c0022ff45e2202b2f66a9901fba8eb1713cad4e",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "5cec89087fac3c52639aed525b13681a6183f03712150cce03deff21114e7ede",
+      "case_key": "6d9ec828ea82ccd23be252fa90aa39100bf30c3c2cdf7fe72928ccb7d12e6925",
+      "original_judge_label": "incorrect",
+      "ownership": "citation/source"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "c6a68e1ec284ee6a80bc482be84c4d98866dbc533107babfa811e83cbc3c78cc",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "ed30a74245b7879b5eb076507c3b2b0f03ba8b22eb06b1a2811ccc50665e4768",
+      "case_key": "35c3f6d9d425069820b69ad9b66e795c88ae0e5add52059a3ffeddcd83184c4d",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "8011b39b00b74a370d61ad1b5c315d8ecf3ed45de68e88ff8a8d006d698cf9ac",
+      "case_key": "60ae3d46bb6dce6561e97294a24c9d2663811a15bc18e3acaf9e7a098e3fcc23",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "2f2020e2d3921e1ec8ec3a15799bc604d1c09baae906e8ffdf10939fb1078a6e",
+      "case_key": "231d0714b242c2bd767dc16f2e7dafd4f718078faff63a5793633b1886d7f502",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "af8ad4819e5063399ba84627ab48c4487f12f6c70692257623bae15b85004324",
+      "case_key": "ec0a405e20e112f8e424f516b2aa46d891de77b3058aa986d091c611c1c13d18",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "b33d2a88652c757a160bd55ae74fd4a31daa67f06a3a9a46d3c198fb72aab451",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "2439f5927a343153ed4e17484363f66719a57c56bff0d6e68d3063f417f9dba9",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "9d578c508d6838f67313b200ad7ce9b3afa17c5d47ef5c17247b936bca9bc599",
+      "case_key": "8b9dff86659a6723ef2520280d3b75e831f5b41da18a019940e5c1c557b170c9",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "bb86da160cf86df718054218e4e353dfcf3d6e965ce1ca5841a07bde9bb401f0",
+      "case_key": "30257fcf389a4ba2acc251fbb03125d5631d4b3c76406ec1d132599631be7794",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "5be2656675987a214d47f3caa8bd434f3d387b50b2d2d5c2de26851ac6622b03",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "d381e3da6dda5d989c1d6927ae9b1a85a2d0900edb41736a051e2e00ae1724eb",
+      "case_key": "2028e262ac0a9af9a8178dd6e5ef661cd486ec9fbc3bd929e794cc4e2a9434da",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "1fe0a6f63342c7b535651dde9f64bc440f635a720d07cff6904ea0ee4e148776",
+      "case_key": "8282fd2b865657c7be386f3f2f1cd7430b44c939196fad7db6147976b589072b",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "0f4c9897c85afcd167f1ad49f4b02576f2a6776e4ad2079dd2a607dff1d0bbe4",
+      "case_key": "84e5774f5093408c310083788f3ef485f9f0e5f75871fb3e4f8d2aee6157726b",
+      "original_judge_label": "partial",
+      "ownership": "citation/source"
+    },
+    {
+      "answer_sha256": "a48a774d1bff8441b9e25dce6ade7ff2c9be0a5dcdccfeb1b305d2d3c8a30d6f",
+      "case_key": "bbb72cf6059632533a77d6d8ca0cd2f39ea196113023b64f70f2217750e926ab",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "b8baeaedc5c382d15fdc01c63375feca2ce69b73881d79a31b9040f0754aea86",
+      "case_key": "2b03cd37378770e52275290c59c3a9093d23db6f3e3fd20d6d82e94fc4cca9f8",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "085cc02f7e319a3bf1aad57dc960c90f18c7277ab0ffb2da26a2ded2d5766145",
+      "case_key": "afb064429dace1e1bd3e66c09f9013eab74949191e8507e15de75c8db8256073",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "264c0ee198383751df9231269845116e6405b5513d6ce6b47000be86ca3937e1",
+      "case_key": "864051c4cbb19ec5f1ee810cce194c81a113a99533f4e5cc0af8118dc59e0b1a",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "9d88cd0f3efc328192da5d22a7f79c75908c046d57f4ecc560d7b404f6a9009a",
+      "case_key": "31dd966c0949500e8e3a061fe3f0df00dc8a3462caa41918e75d355c89d39822",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "763865040fb36df5ac59b7349e893e880e6e6f12fbe3e82ba1985d649c48be5d",
+      "case_key": "0bfe44b54463cefb9fc4625c341316c7d68d6ac7ba17afd3b33bad8584ee702a",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "64c32c3e13569ff9e66ea13a55c27690bcd42b2ad42fc23fd4c638c7951d7ae0",
+      "case_key": "3f1e156827ec1b479ebb6caa0ed773cc8abcf015b802953d6de2c314daa22ad4",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "077461ad33fbcb8ce67b624e7d2b410a72331442e7fba26e9df1ab8c666921ce",
+      "case_key": "a9b7f00c0aaf24e0f88def798fb13738f75dc08e1cf3c7472184c07325056df3",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "4b2dee3049488cca242a8bccb510a0c6e2f306b685085fb97c5bebff0247fbac",
+      "case_key": "0e474cab6b69d18dce5741c4f70a2c33a0f64bdce04771af4956e140afbcb994",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "2709d4763b3f41915f98d15d8e4866e3956ab933b8345b3d3938cdee3d51f354",
+      "case_key": "4f685192d8077e961c7dd43cf253b2774abd6ef37dc7151e0cbaed133bd8c6d8",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "496e43450da9dff7b5e9a79e19a458407911ba3f1d866b3c96694e20ee014a58",
+      "case_key": "a03359f040b37125bdce177862afb9e57852d45689714d77bb4370e53aca952b",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "e40469d4a1bc6f5efca642acfa8d1cc29d8b8dbe3c1b1ae61252f6f48b0626b5",
+      "case_key": "100a882412529fad1d7a4ce877b1fb74b46f0a28749f32007f14ababbce5a097",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "2a2e54bdc2ea89c0067ef6ecca7508d0e6ddde12182915b30a54f96fb0575b06",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "51253de4c8ad490f5ca74683c4f35a37e0962dea7235466a851b416867d7f257",
+      "case_key": "0d10b0ba1d0baaf6d03179082b65cbff8be1013fa7623ff5275f8ef2b3f6c627",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "4379596dbe3e6d1bc272c017501af9b0c03acea02e950f6c8ed251a1a1545fb8",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "1d55882c7b17fcf10ed9286a6afb81b5df0417ee93b9045f59eb9f39ea2a4212",
+      "case_key": "4ae4d8cd2b4cd182212488f5b1683e71ac97672b0295940a6e64628537057f80",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "563efeee7a37054ee24da79dcdfc4ea7312bf9cbac1f7fb46d4e875dbf8ec5b1",
+      "case_key": "8df7aafed4dff55770218b6a602021c255872fdc9bd434df0d4a5b8ed43cfdc6",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "b8c7d69f874a9aee9eedccad64660681b494fd2446a2d2339db75bfafba49c67",
+      "case_key": "bd5f6d3aee173d1c33e9f2c119cf023a240f791d659ffa5075625edbc75ac39b",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "729d914cb8c98ccf5e1549a2c15ff334ebffb59b840df39039b3023f2175bfed",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "7edc10ff85c1732d3b8e36a66df7ff03f022ba0c55a42091fcafb7ea445007de",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "5a2e21d359660b400616ecbfed538b2ea678151139af94cdece4af9452fce1bd",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "6fa8e75a4830d53cad783ccf559b345be04c2612e05e5b0f85de8e0b664dc278",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "ebce2116a84b2d93c859bd09abf9a76956c04cc5561425fc307556c4d4f5f43c",
+      "case_key": "71e6d54aea6e8b11e15fb032d27e4cade960c6693fd34010dd9182ce8362b0b2",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "3bd5deb1ae71088aa82a6dd6718f151387a96504dfdf16d35d86e1acadb93025",
+      "case_key": "573eedf8a183d3d78e170328f2fccf5f685bce9d32a5fe6acd304320b98e48af",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "4f739c380b7bf5a27c2e5bace97647b19b80afd9c85041e29fba76919e37a3d3",
+      "case_key": "e0278f1f7379541a43a3a379678c7d22a8a05dc4bccc1d99e3a5b973b61308f2",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "dce4a4eda2452cd8c45dd2091a2d7af16f759875d392a7d5cce5aad24b656772",
+      "case_key": "4868c12e18b1d0216213b3d1ccb3583b1c8af10b9cf4a270c6844767f648174a",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "f12086d5a00763a84a894fa7a0c20c5bc1cada8d15d11f76f2410e6cf10a0f28",
+      "case_key": "79c9a4470a9ab87f0ae305974fb07a5795666c143bbfc1a8b518a81ad3b46500",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "5108d291b31acc2154dac883ba0d635ad1102a9743560ea7d5b8875bafec7be1",
+      "case_key": "8511b03f11f35c1151c392cf178eae70c5de22cbe9a41879054f16acde5cdd6e",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "78434f85135207b452bb9d5e85b9a05f7cd95c4e324b41a7d09fdf36cab1adce",
+      "case_key": "2adb915dbbdc9b744d14f5e1fae580c5b544ae00cd02e05ec37ca3bab91aea00",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "4537138b8ad1abe69de7793d84f5239ea951aeda8649271aa07c2b45bccf0506",
+      "case_key": "5d15058eadb1ad6ba954604412745a3305d4cfcd8d565497a33819324c64bc44",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "6e3a7582b39f9520617d5c792b8a2e7f539172113beb2c31eb5af2c750006637",
+      "case_key": "f8c0ebd8e5e980dce401f21a7c37c0dafcbc77e619089ccd0478719f4b1d12cb",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "8a2db58bee24583fa2d76e515857a3a4b9c27250643098706f9ed64f35e54a9c",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "67da9527967a88e033289a3e078a2e2efbd1d0f38515398e409020a9204ef94a",
+      "case_key": "7f47047284f571de011323200d8d4a5217a521f8d8097c9c1b846c4d869a3775",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "6d17cd6074d3c44142da842bd0d10cd281b5e74896bb8bb70edf420ac2468745",
+      "case_key": "442455e235c4d88876166c09538e055567b5f945c6083b71e78c577d54c430c2",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "c67191384aff335ccf1aebbe82c00621cda234ff0222ef18a1e630513976907b",
+      "case_key": "db941001648e646cc12d23c7979d0ac0e8577fb8d9c23a0d9ef4d03f3d6e83c5",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "6027a7f15af51d14be2f909438d64bad05c42bf1496a279e0d84ceeb16e49c72",
+      "case_key": "4f9607eb0086a7088d11fca274428d719810e0b9c518c8075c9786683e30ad05",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "fdce2b17c65b14901cfe1ac55696f326adb46c8301f4a854de78ce276d5fe3bb",
+      "case_key": "87dce2629777fc5329410906fbb01d20a9e4480f19e2038cbcce8e619a406cce",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "af167a51843fd77b7c7fc1378ea9a7f53162123b9d772cddb19e27c804d72ff6",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "ed18440f86b8872ed4520684346970a72220a3ad2e217ff4b4305987d7b2b53c",
+      "case_key": "c364e46c6f872ad98a02907d65ad3a0f4d9053dc79daf6b2a2b0fe07f06b656c",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "59f59ebf159d7d4b0703c6ad82b98a41cd33e7018bdd236ff7966c833509af5c",
+      "case_key": "1bd22cdb30bdfd1a6869a3e5523d6f0e9cec0f0620d9161d3cb09fa85343e095",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "b0c450a07006844f2278128e6355bde69c3e86eed721ccf5818d681333f6a4bd",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "6bca20afe1cf2de016e4951b2d941bfe235473b48a755ea84cb0e9b3343a8b08",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "9d42900d58bc5b0e310c117d317e34139db18646f0b6ec1a6e2276e0c8ffb3a0",
+      "case_key": "c317616b56c6299d293af0a1cf2f8ab5b11112385c1c804340ad6a06f48273a7",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "07d5ea8b485b6a752eb6c4819a5624dd9046254652501dcacea85b1a14ef1d82",
+      "case_key": "fa283d1b257a425bf2becfb842b4ccafe93f571a7cf9f5a3a2ba6672c566eba8",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "415842bbbb907df11a71da7075a422cba1fc5a7627f72471821c12b898a9dcc1",
+      "case_key": "44d3a54a26f675a54b95ddfd77ea4aaa01fe7e25497b8f05b03991d46d4e9290",
+      "original_judge_label": "partial",
+      "ownership": "citation/source"
+    },
+    {
+      "answer_sha256": "aaa3948afca728f2e0c3f91d4f34af7ca7eae86ecd0846509f98df35576958e3",
+      "case_key": "1d90ed460e4f5d963046083b18300f666afada6e2d665e93a549f014645e472a",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "93ce6f02e155eda8006dde73bbd02a3aa3b3d444329f80ee59e30ffbe53ebcb7",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "9d4d8616c7b81eeb1a264c5b886a7baf3f5d1f83dde426c0120edcbbb91bb704",
+      "case_key": "acd375c00cecd5aaabd2ad4c2e8c7e95a6b37076f47641e827b6a5be626b77d9",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "be15432480c6f0e9424eca970b766e485b76ab090c264cef93646fb2295b4a52",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "721def6ffc210103359281abd8e251c1f800204932110f81e71dd75d9541992a",
+      "case_key": "daaa8362040329ad398a20f7046e41828aa9ee9c5ffdf88c5859651ab4b9ae6b",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "78ffa18ad03284403b9966f4f4d9cbfe40ac67232abd5f478de8cdc53afffcc4",
+      "case_key": "b9d707816fa439fe40b6da317033d6e865a49cb897f44cf5bc60b120c494238a",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "9db4582f77f44d59c8837e3458f1d3158f79f840c9c4466fc5bc6e1d9eeff778",
+      "case_key": "cc4267e60b4731d0de080bc14aa8bb14b1ba4763c89034b539129374ba2598f1",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "3aa215a00dec9006ecca5441c159adfa74d55599e870b04c356d800ffc0452c4",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "d8c7d25f6c87e42e17bc14bdd58a4b5b5c79083c1c72978460f9fca68fe80b28",
+      "case_key": "354e9d8a6f2a29501da5d0da438a8edac9a6b7d3d49a93895c2641ccc715bdd3",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "80eb2e3f660eaa35df390f78609bd086d64a4700a9e8261ba8e6bf8f9d4bd649",
+      "case_key": "7b4be1dc6938b6eb42936c154eb885fdcbf311c319bcdfb6caa6f121a0561bc0",
+      "original_judge_label": "incorrect",
+      "ownership": "citation/source"
+    },
+    {
+      "answer_sha256": "a2de3f995bad3ca424de6e2ce9c83832b5137edc1b5a9d3004482a8a77772939",
+      "case_key": "59814c46f36bb140588661c48e0a068ac1109736e6a8009b69d4d091cd97b042",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "3dbd29d2d95ab61e2ddabfff3eab5a89f1287ea6b5d42cb1db5daef56d8d25a3",
+      "case_key": "1b475791214ea1fbf13cbda799ca0c3edd531bd78f94d8d5625fa4e5591ee6e6",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "dfa31260bff2454d21ded6cc63e9e08d254467f6c16206bed396a65006da4376",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "3a7d54d70505df1e434e2f22f86c4cc8fc7ba08a300087240a90a79da8182218",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "f211fceb9a553feab09d0ee12268a94615d7f03637cdf573443088d82d1e1cb2",
+      "case_key": "1bc3a9bea0aa2b9c8dc5eab6febb99e43fb132083bdd11fa132c23cf07b93e30",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "d1aae4615ae3659a3e0b39fef63123df67627aa8a368cb1d363aa29593ce8998",
+      "case_key": "889f221d6c68ccc3a2acd0458ef2c630191ae406a10df60a572c98c7e1db1d3e",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "4a3c3fc64f23d6b235c193594f0ea547e7a075559e3c17ff754bc65a8c26b295",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "661a0aa2e78331a7c7b456765b46615463aee1df5c6338e3fb32f801991faa23",
+      "case_key": "a8c0903224c087b94d293aaa087b9291ea8a3b523e31f9d2c69e890e76d9f354",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "240ba6e02a88968c73d69ff9cdc39e8119451e6013126bfdd3dca68d8b7d1c55",
+      "case_key": "d949eefe8f1769d587fa52765753c16e0a5dfa84d0b68049c39ef1e3f2bc6fd4",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "113c2f610dd733995dad97c6cd1508fe6cbf66447ba187f230ed472786b58086",
+      "case_key": "faca6100ff709c0b4c0f29028357125adb287f3ff408ea3006f9949f51ca1529",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "f257ad29cb22bfa5c1721874ea451850c2a12584d77dac64f9f88499556a355f",
+      "case_key": "45540b35cc048734d7adb6457c2290392f614fee4d0727fe3988411da2c032d5",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "c142a3b420f6ef56ff595c7b117ce828ab93c23440d9183243b1738448451154",
+      "case_key": "17412eefdefc174aa449fd39d62669dc3e5b1a6b233d2d3a2fe3f97a38574a54",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "de37073ae8e1b47b2f1719a66d4b25ea28941768adee6b93e1a0bbb71867061e",
+      "case_key": "7571966d3f80797d5bb1d341df62282c7371a80da163458f3ff98ae782a71a3e",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "169ca8e3acda44be88d6f273f5bf6a7bf388ec850c0dfd95496acfc95eeb8cff",
+      "case_key": "b1a32a9df66aaea8a77d91f6c3b185ec25fcf3d51970fe968dad8934326ea0b9",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "340763e42893fc20b43f19761c085c23c72200cf7eda4dfc1bdcaa9d6f9713ba",
+      "case_key": "5094a8639fc2a8539eb312570eb483b6b33d39f50cf099f9b6cf23397bd51135",
+      "original_judge_label": "partial",
+      "ownership": "citation/source"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "24fe37207e1f5edc0f52f781c56f514b91373cc9675043be72781cae2d2e9df9",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "2358c96ca3c1cd7974b373b5cfd19163085558936702068eea8a3a1bf90216fe",
+      "case_key": "83d57f4aedcf1a1159754e6a33a037d8c18f58b8f4640862d2c92821c09682e8",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "ef69bd733dc19f43df58894eabe34064d7b8425aa7415325f16456ac199748c5",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "c5864b4ecc629541fcf80ee987cb595baadb34d90bbb6e13f2fb0ac3e0281a05",
+      "case_key": "a272b980887c825d768b698c0cb72ae40b7b922d1425a448725e10750155e06e",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "ed350ece0de00a797c440c0cdc7c1b2824deb2122abb1debd2ad8e5bad5cb609",
+      "case_key": "a536e8e0c10289683ba5050db846c99a44bc729ff2db91a95f6be9b6d72640fb",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "90170d0a0f88c05a544cddd048834b4cf0643505f3b5298d51edcabb06e0358a",
+      "case_key": "6dfddebf8a3ae6a0aecb0008fb5386b240773483eb61019a3b06ccf3fe4c5e5c",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "bbdfcd51729c2b1930f68a0a40e4edcd3a177b22be3d5bf5dd35d019da51a66b",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "cb29d0e9ae6bcce5809bb8bfdc75a82cc93ceba0dda5dee6b9cecaaf05f92eb2",
+      "case_key": "1f68aa48cdf48bac12bf89846196dc08df3c3807fcd6f8e05323100d966736a3",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "de3d064e06896ab78a1a5d6f50ec4645d516eb78cb36cc27984c9305d80dd59c",
+      "case_key": "e9f0fe6010415f9c68da1776eb62f19e402188b006be5f8cb371c34e67b144b3",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "2e30acb02a7f3d96e3e4732033eb2dea746ee9112a6fc07e3d9a94494822390b",
+      "case_key": "1520c1fc60df1b0b2d38618ffc30d7cedb0f655008840095b3b36196c74facc8",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "411952bff368d1af1c296165f14f50dcc3f7a01022a04a1b024c9bd16157fb71",
+      "case_key": "c98a0d68675d4e4b2ee98db266a73d9205aca295ed3114aca637b39dcd3c7bda",
+      "original_judge_label": "incorrect",
+      "ownership": "citation/source"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "3dba0bf2f61840ae310e63b4457f5af2743c1fc65e5ff855436c941e6734af47",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "ef0c3e824c6e6a0ec0e8abbbeb65d8db6456bc9f3b24c77e9f462fe2013e5ab2",
+      "case_key": "08a701e06c32929441561eaa28fac701d1841a48ae109443555b9934ca4a4bb7",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "517268496c34162a12d71294a44c0229703b9097f24fd89c929cd9557ec770fd",
+      "case_key": "71c8f9de83d8abef47d7d57226f31f1e23c42edb768047bf919bd9984efad728",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "09fada55d79859d3ae370d1f2cc6c71b7a3be0ecc36da7b675dae331ea42ea6d",
+      "case_key": "a10b8f0b272537f15d5959e41484c8dc64919597e0a399991c1f934d732f5a02",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "92ff083a3c1b2a9c66a385319de9744f34d5b969de1acecda2e37b9b55d577db",
+      "case_key": "4c1698509dc4f15be60cb24e2a90095ce2ce9e1cf2e3a5d3138c76a5ed183bc6",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "572485657a6c941a8a7abc31fbcfe34fe6fe4832ba0a31ead845f44ada646014",
+      "case_key": "cb23a0cbdff1a8c816c5478e2f17b38a4197285e7f59fcacd1cb4131bf8f2e0a",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "f2f6f973145b3d5d27fb53a09edbad0dce1d287a9459518d84eadb8091e39896",
+      "case_key": "82a4f54a47ac21544809a90850f9bed324f3ac7136104a7993c85fcab73fdc34",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "4867f665b8ed9cb69b2a7af039b5463739e3d8ca51ee4ceab98c0193301fc31e",
+      "case_key": "bb0c9174ecb412c08f3410bedc93d32431a0037da78e5ae9bbb56995f37dd87c",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "c0d9c9f5a9f7f1fbea6f69c7044c61a2c0d4e0e6fb5d11cf1b3abce4a489765a",
+      "case_key": "cc787b555bb2bc39d862964a5c32dd9bf8e52f38f05263ff054efac61f7644d4",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "57c74a736b6cbc088a668a4e1cdeb85b5dd547f487ad89d948ec749b0beb0047",
+      "case_key": "ca13afd8a04ce5d636ecc8423f3fac629147a4dd5850d20a4f46dfbada33ff07",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "8bc5da34b33cec1370cf44e4cf269ce3e2fa65463976d0b138d2a179a9bffbb0",
+      "case_key": "c065a1ad28984a240e8b72f33438e4c0e696c67070c64be23bda36b0f4881279",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "1a34ef07466dbff8332f3167e1376d9c84f6e29a4ff5032c71112fa503f1fb54",
+      "case_key": "ca54e1e5ccfdd2283296dd409ec3127af565dd224fdc046bbda90ac72f35e972",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "dc93eedbb17524571663fa7c90c7112fb6e73ff3b93256f52bd810124728a5a0",
+      "case_key": "b0705a929b8fbc222ffe2cefd64bfa55f0ee06928176d6db747102b8221da0dd",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "733609b515f8a2616ae7d006a3cf53a18b7007abe9192b70c1436f17546d9a3a",
+      "case_key": "25e6423fb59356f7b4bfea4af32cea28b0415b622bd05da3f26e40d1c2f3f5aa",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "4dbf25441a28090fabbab3f6b3e3e417f2881e71317fec90ee23220a282200f0",
+      "case_key": "54d5be6c48a368d64ee8da79a2f06bdb9442c577e2318dd5aaa5bb138d5fe4e4",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "ed40a97090f27ae2d9cd98ea68380df4e451d75d02167ee4bde9a8aa3cbfd774",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "fc476c31bd1d20c637c0841ea319a8456692c2ca6a93da7b26ff3f38a1a639b8",
+      "case_key": "5706b5c7907a2abb75d04208fb1e6a3aa7fd7b6d05b21a2aedfcf02611de1c81",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "760ef57104a081e7dbb09604d3f4f4f76389fa70e13a0d47bf3c78a14828b634",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "84a58f5d755eb36a17fa793a0480269f6c89cdeb711cf918d8409adc9e88210a",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "de6c3ca5b494792d18cfd25a7ba1c43dc9f095a8998c9c82acd7ac68f08bc83d",
+      "case_key": "796a3cac98fb784532eecabb8465954b6dea13d5fc9a1672b65cca1eadb5b749",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "3dd55dadb96b9cd04a06425b84006684d8577b05d1547ff72630bf6c9bbcaa45",
+      "case_key": "fff42095f0884a4078b7dfeeea494900278044c842d9ceff7d9e867cbf781b35",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "c619179fc33d53d54bcce593fc5dd2c9eb24488283832ef6ac98d782d5a56b67",
+      "case_key": "5fb4345d6869a077c61b22bf9e0a907c472ed884c18f296665e4749669a10976",
+      "original_judge_label": "incorrect",
+      "ownership": "citation/source"
+    },
+    {
+      "answer_sha256": "f9440ac5031bb79e9f1dd552c2306ea46f19aeef74f637c250ff8bc4fd82b4ed",
+      "case_key": "a9ee445c095dba4829e98f6c77fee4ac2c7f2507558d91c5ad0202db94aaf6e0",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "56d16515a63202fb2040201810d190ba6412426a0c01e3d1401de392fd4a638f",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "373ae82d06230d6bf86e9680bb28ebbd9467d3d5c953aa1538579bc062041bee",
+      "case_key": "8d8f3265881fd327aceca7685a2d376d983cdaf644c172c00c397e603719874a",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "c4936121508d39f88742fd6f01edd320a6662877752937b938e1db463d6c75a9",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "7b23408fc0fb259e355bbf2915a8b385662f2e9c378337896507187595942095",
+      "case_key": "af8aef9ce2b5aa0712d5d4acd7e7f6ae4e184c92a1832c8b1ee4a97e0c084552",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "8d6c8a48ab5d5518bd8fd6c61943666e8158f463d3f8be78bfbe3245b15aa1b2",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "200b54d31e4cd1aaa6d9a2b101831a3380ceb65fff1f1c17793c20654059214f",
+      "case_key": "3932b4bd85ff8a0915eb48bc08a987e2c81fe12c294d48dda51ca92dfc9cc869",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "0445b1df400b4e92500122e25a90e5215dc24cbe5b29f7f4ea616c2318fd3b80",
+      "case_key": "008333f13341b65490d487a45cc0f2b05f8aebbf0c70895ec87022110f909480",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "9b5e623a5d2b630605cf085faa13ab9ef5eaf8ad570d27305702776a9f6084c4",
+      "case_key": "319620d322939eae408e470f81b3b93bc9031507f5549e597f970f0330ce6c62",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "9ff27268c2e064a346457b4b63a314911203d013f5e3a83d63794373c0827265",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "455444a91bf9ab93502e56b1ab8118cc454c4a799c7ceb183376bc166904c151",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "26d1a8b7c325bf0b7a8f700929676e46f80bd0218a5b385b3aee651cc978397a",
+      "case_key": "cc1f3a6009831258fde68661c8d653fcdf73c263b5cd220a5c2ae588cafc675c",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "46f5814776c8ceb876e016429644a144e2168f0a9caa8eae5418122c50e0b65d",
+      "case_key": "945d7ae96e4fdd216289b5fffbee7b2f3e15ee982a15afe5eb773f923b3587b8",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "1383be8b116415d53fe4aed26c43b40b4a0f4dfd9fed406e801161d4b6f3e150",
+      "case_key": "21f0cba37683418f4ef0f98e4a19a99070254db53b0c86ed0df09960780e681d",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "2c9629cce26afeb88ec1c761ed7f5fee2b9570f327f01b7c59e56c3155afbd73",
+      "case_key": "eb61a1cc48882600d844f37bc1424da976431dd477e7e323996e161c2cd26249",
+      "original_judge_label": "incorrect",
+      "ownership": "citation/source"
+    },
+    {
+      "answer_sha256": "d5beaa197d5d6a8489b3352de0bc08ee95753b816075bfc404f9058bcede26c9",
+      "case_key": "7c9d5fa005dd9fa7ff5410c42648c994b59383671473e51d96679e8eaed4173a",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "1ad8e6edb01601803075b2e0186f2c920b59238bd616a5fe489227bc9759dac1",
+      "case_key": "dd3c8faa41731d2b3f9afbad1418e9322981c749280099ab3b664aaca94ce2eb",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "ea9f7d90600a45bbbce571807a2d9df510df436397aa9312fb3929aa825a24c1",
+      "case_key": "122bf08cb4f0385f01b57f48e0325e271538fa18296d4d531aa9508142605c2e",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "458a70cbdfa490e7c97b3217a29b969c98599b97b5ffd62fefc24864d14e3c7b",
+      "case_key": "4914c52205965ade5da64772715a1db56449f5980e9fdee860a61e3df7801884",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "1247ce34263f2a3351f14a11ad2616de60bb34b368a7b4a394f0b5c7aae48076",
+      "case_key": "ac9eba3792611b12fcf544a561462e1c7975a086bb844801d5fb7e7e0f50c253",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "a276ae248b75b19b1b7e2f14e2f0aa8f3bdffdba3d8829b530761a76100fd54f",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "eb7f7e05f07b887362ec3cd7146175e9f07fe6282415db37f51f8e0de836b2ee",
+      "case_key": "1fdded17db69f88e2e334423273df2c891a23ee234b5f936224282a0451ce0a5",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "99f2c9700ae649c3758b4606073aea2bb35c2e67b5ab360f68aefb2f9ee1117b",
+      "case_key": "8fd95fe11d2868cbbb9728122e61e993cf1c08877178860356837438d9e280b4",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "e5e22aff39141eba080498385f07f704456ea8969d23f86533d422637d8a38c4",
+      "case_key": "b6397e79a4ef4da937eaf538800fddf39cf57b910467c2dfcc20ad58218a93fa",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "be71f7404f7805b089ec03949d5ac38f9483a159cd1aa7e36b61f0b0866691f5",
+      "case_key": "dab53496f76e783d5f1645611c565adaa070f46fad7ac7012b3cb41d7d1f28df",
+      "original_judge_label": "incorrect",
+      "ownership": "citation/source"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "34a761f189265ed7af46b5a88ee6c6bdea0abd1dc7e9242f6b009626224bf83f",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "2a64afa7723e43a44a617dca2735f4335575d54a8955736568fb1163129a214c",
+      "case_key": "66cc05f558b29f7d91eb0d3d8ef874f6bdf2936861a49c4ab7f12c9a278e0408",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "6c9693227ba3e11beed8bb7e151106ac1785ba2fcf7445d4fed12bd1d9b62a2e",
+      "case_key": "40bdfb299f377bdc34801d7ab8df9e80e11b8b0934eb071fd7376b73c6a7a3a5",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "ab7426ad501ad5a01d90735e0acdb5afe71f5c07a2f8dbc203afa81d096cf0f0",
+      "case_key": "6c4086efab1e04ab5e85845bbb2840f14df1077645730348e85b7ecd57c95a22",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "7f9cc9c6e3b2be11821d2d62a788dd608aef308348be2c345154f8b6319f312a",
+      "case_key": "b9e75fde598fcfba84f0bb2f906fb23989431aa567c7c3855f113f0cbefd02cc",
+      "original_judge_label": "incorrect",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "0f379aca8b6c0427faa6955fa32cb098b877b42ddc30cdb7505f71f49ae2709f",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "ca7316a3ad4e9d0ae4d83e15f46f99d2bef3936969ef98e474e68061cac2149d",
+      "case_key": "bd0990fdd2df058e8042a05228a4d03d29a59bc8fae3c2ca4f54754f91428978",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "0fcda52a88942c7f2ae98aa3fdb01400cdcba9ad133a20c20561d4aada1d3daf",
+      "case_key": "53ab72c3cd117b08b393574a6d430ec478571f7081e01a356a148a03728dc8fd",
+      "original_judge_label": "partial",
+      "ownership": "citation/source"
+    },
+    {
+      "answer_sha256": "cdd6096521a082c4b14dc02302724af6f68b629f14a2bf234333d800b2ec5716",
+      "case_key": "5561338666e96aad66317c6640e28f4115b26a64f820883e5c60d5325f6e029e",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "566ab9ec10d08fa5ef1ff6915ae81d1a3533e52846119aa2ce03c73142ae0ebc",
+      "case_key": "4bd7d7d45f57959b7069941ef69403ede72e4ebd240bfdaaf5f37fcccbf6a291",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "4b13b936a74fd419aad6f0118b0b17ef5fb77e049514bc52e31812bd5a09b1d5",
+      "case_key": "2f0a2a8b76883c02d6c9fbff2288edfaf308314d64fe44d6b1e7473ddd6fc2cc",
+      "original_judge_label": "partial",
+      "ownership": "planner/partial"
+    },
+    {
+      "answer_sha256": "d9fcd97d50330b3759fee13e05f37b97e611215521d08c104e6f51d14c5f966d",
+      "case_key": "3c8db6f25b177d74056a2d84c9095e1c7cec40b25566b45879c4e8e61e868f5e",
+      "original_judge_label": "partial",
+      "ownership": "citation/source"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "6a6b74760ced6cc15fa1352ebe49fa6792c706525b0e810f83d236e3b895c0b2",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "45746d54c54c11602a4ae0dfd299d3d8fa9ff665c5abd49052355d4c352fb6d5",
+      "case_key": "b3c1cf2bdcee7a10d45e6d9db9562345dcc4bd16cc533a5476bd1472446e7cca",
+      "original_judge_label": "incorrect_refusal",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "80a6dbbd230ac67196d8e1f89ba38a60317579d28b390998b2a73bac3cd9cd92",
+      "case_key": "a50c8dd360190047d8692bd53eed0fc8963f6b6ad1f2f2c41cb7c1854f13728d",
+      "original_judge_label": "incorrect",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "a2119aa43ae9824afde13f81eca7ea5214f63acfd1a4b44571d26b2018abd8c8",
+      "case_key": "556fc6c3bc7894313c7f532019f0bf3af451b67dd6fd1d523224fc76b089a2c1",
+      "original_judge_label": "incorrect",
+      "ownership": "no-answer"
+    },
+    {
+      "answer_sha256": "0cdc2495c70f4e5adfcb6028212fa2779d7751b1890fe89e7e12d8073152be20",
+      "case_key": "ea7389ee820877cb596cfee7ea1add7ecccee0baa4c1bdd7c1d518795b25e257",
+      "original_judge_label": "incorrect",
+      "ownership": "no-answer"
+    }
+  ]
+}

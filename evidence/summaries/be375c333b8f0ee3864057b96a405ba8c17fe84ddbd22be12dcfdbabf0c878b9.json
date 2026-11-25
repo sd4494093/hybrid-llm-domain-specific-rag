@@ -1,0 +1,86 @@
+{
+  "artifact_id": "be375c333b8f0ee3864057b96a405ba8c17fe84ddbd22be12dcfdbabf0c878b9",
+  "projection": {
+    "dimension_rates": {
+      "answer_type": {
+        "grounded": {
+          "count": 9,
+          "pass_count": 7
+        }
+      },
+      "domain": {
+        "commercial_customer_marketing": {
+          "count": 2,
+          "pass_count": 1
+        },
+        "corporate_operations_policy_communications": {
+          "count": 1,
+          "pass_count": 1
+        },
+        "it_security_digital_workplace": {
+          "count": 1,
+          "pass_count": 1
+        },
+        "product_engineering": {
+          "count": 2,
+          "pass_count": 2
+        },
+        "safety_field_operations": {
+          "count": 3,
+          "pass_count": 2
+        }
+      },
+      "language": {
+        "en": {
+          "count": 6,
+          "pass_count": 4
+        },
+        "es": {
+          "count": 1,
+          "pass_count": 1
+        },
+        "pt": {
+          "count": 2,
+          "pass_count": 2
+        }
+      }
+    },
+    "e2e_pass_count": 7,
+    "e2e_pass_rate": 0.7777777777777778,
+    "failure_classes": {
+      "citation_wrong_source": 1,
+      "semantic_judge_rejected": 1
+    },
+    "first_attempt_success_count": 9,
+    "indeterminate_count": 0,
+    "integrity": {
+      "duplicate_case_id_count": 0,
+      "grounded_count": 9,
+      "negative_evidence_contract_count": 0,
+      "no_answer_count": 0,
+      "query_mode": "question_only",
+      "refusal_count": 0,
+      "row_count": 9,
+      "semantic_fact_count": 28,
+      "source_contract_count": 9,
+      "source_evidence_count": 27,
+      "status": "PASS",
+      "violation_count": 0
+    },
+    "machine_semantic_judge_required": true,
+    "machine_semantic_judgments_present": true,
+    "question_count": 9,
+    "recovered_after_retry_count": 0,
+    "result_count": 9,
+    "run_provenance_sha256": "079de2f4e397f66b22c5d13723e148e505548e1bb1154237f2eb7ac47c380019",
+    "semantic_judge_model": "gpt-5.5",
+    "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+    "unrecovered_transport_failure_count": 0
+  },
+  "source_sha256": "2060bb89545348db179a8d8429e5fbd9b3ab60869fc9d611ce80cca2ae3090b5",
+  "version_mentions": [
+    800,
+    802,
+    803
+  ]
+}

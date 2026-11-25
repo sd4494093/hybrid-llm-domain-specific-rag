@@ -1,0 +1,146 @@
+{
+  "artifact_id": "f3f13f3ca2fd23d23e1cbac580dbb77a809bff0c62bb5c191aaef550eb537bcd",
+  "projection": {
+    "cohort_manifest_sha256": "06253659fbb217c5e35afb2c59d626faad904e3e99a8a9b0993eec82611afc0d",
+    "dimension_rates": {
+      "answer_type": {
+        "grounded": {
+          "count": 1600,
+          "pass_count": 1013
+        },
+        "no_answer": {
+          "count": 300,
+          "pass_count": 299
+        },
+        "refusal": {
+          "count": 100,
+          "pass_count": 96
+        }
+      },
+      "domain": {
+        "commercial_customer_marketing": {
+          "count": 333,
+          "pass_count": 252
+        },
+        "corporate_operations_policy_communications": {
+          "count": 331,
+          "pass_count": 234
+        },
+        "it_security_digital_workplace": {
+          "count": 333,
+          "pass_count": 242
+        },
+        "people_learning": {
+          "count": 333,
+          "pass_count": 210
+        },
+        "product_engineering": {
+          "count": 335,
+          "pass_count": 236
+        },
+        "safety_field_operations": {
+          "count": 335,
+          "pass_count": 234
+        }
+      },
+      "language": {
+        "cs": {
+          "count": 39,
+          "pass_count": 29
+        },
+        "de": {
+          "count": 123,
+          "pass_count": 75
+        },
+        "en": {
+          "count": 1200,
+          "pass_count": 907
+        },
+        "es": {
+          "count": 121,
+          "pass_count": 75
+        },
+        "fr": {
+          "count": 121,
+          "pass_count": 80
+        },
+        "it": {
+          "count": 40,
+          "pass_count": 21
+        },
+        "nl": {
+          "count": 120,
+          "pass_count": 71
+        },
+        "pl": {
+          "count": 39,
+          "pass_count": 30
+        },
+        "pt": {
+          "count": 120,
+          "pass_count": 77
+        },
+        "ro": {
+          "count": 38,
+          "pass_count": 19
+        },
+        "tr": {
+          "count": 39,
+          "pass_count": 24
+        }
+      }
+    },
+    "e2e_pass_count": 1408,
+    "e2e_pass_rate": 0.704,
+    "failure_classes": {
+      "citation_wrong_source": 51,
+      "grounded_no_answer": 95,
+      "no_answer_incorrect": 1,
+      "runtime_error_or_timeout": 2,
+      "semantic_incomplete": 4,
+      "semantic_incorrect": 16,
+      "semantic_judge_indeterminate": 4,
+      "semantic_judge_rejected": 419
+    },
+    "first_attempt_success_count": 1958,
+    "indeterminate_count": 4,
+    "integrity": {
+      "duplicate_case_id_count": 0,
+      "grounded_count": 1600,
+      "negative_evidence_contract_count": 300,
+      "no_answer_count": 300,
+      "query_mode": "question_only",
+      "refusal_count": 100,
+      "row_count": 2000,
+      "semantic_fact_count": 4960,
+      "source_contract_count": 1600,
+      "source_evidence_count": 4661,
+      "status": "PASS",
+      "violation_count": 0
+    },
+    "judgments_sha256": "b2c230ae2215366a0082d5cb7a54daf72fe88b61107e05a8f54948329870ea97",
+    "machine_semantic_judge_complete": false,
+    "machine_semantic_judge_required": true,
+    "machine_semantic_judgments_present": true,
+    "oracles_sha256": "e5fff8c3555200d7b2b9646de4e4cf81b57a83bd44dca694b07e27ccd84b3613",
+    "question_count": 2000,
+    "questions_sha256": "c25febafc4cbccf2d360837bbc3af0d3c2ceb528fc7bb0a8558d5a09e3941b93",
+    "recovered_after_retry_count": 40,
+    "result_count": 2000,
+    "run_provenance_sha256": "919910fddb5b488320d199aeb9320e5eadd252e54f0ad66e495053b8ccd3eebe",
+    "semantic_judge_error_count": 4,
+    "semantic_judge_model": "gpt-5.6-sol",
+    "semantic_judge_reasoning_effort": "high",
+    "semantic_judge_status_counts": {
+      "error": 4,
+      "ok": 1996
+    },
+    "semantic_judge_uncertain_count": 0,
+    "source_snapshot_id": "a4721d52b0f2b3089e441ceaa3a0fde7c5bc7de807e07e8042e921c7e46115a0",
+    "unrecovered_transport_failure_count": 2
+  },
+  "source_sha256": "0bd1b565ee29889b09bb510cd39ef415ea1cea68157e97ed676d9a3f9c832ef2",
+  "version_mentions": [
+    1602
+  ]
+}
