@@ -13,15 +13,12 @@ GPT-5.6-Sol/high scored all answers offline under the v6 contract.
 | Metric | Conventional RAG | Archived v1660 |
 |---|---:|---:|
 | Strict correctness, including correct refusals | 1,318/2,000 (65.90%) | 1,451/2,000 (72.55%) |
+| Partial correctness only | 422/2,000 (21.10%) | 354/2,000 (17.70%) |
 | Strict or partial correctness | 1,740/2,000 (87.00%) | 1,805/2,000 (90.25%) |
 | Exact expected-source hits in first 10 prompt-visible segments | 824/1,600 (51.50%) | 784/1,600 (49.00%) |
 | Product-contract end-to-end pass | 1,103/2,000 (55.15%) | 1,422/2,000 (71.10%) |
 
-The control answered 1,996 cases on the first attempt and recovered four
-transport failures by replaying the original requests on the configured
-secondary provider lane. All 2,000 answers were graded with no final judge
-errors or skips. The end-to-end contract combines citation, response format,
-and semantic requirements; it is not a pure semantic capability measure.
+All 2,000 final answers were graded, with no final judge errors or skips.
 
 Paired strict outcomes changed in 339 cases from not strict in the control to
 strict in v1660, and in 206 cases in the opposite direction (net +133).

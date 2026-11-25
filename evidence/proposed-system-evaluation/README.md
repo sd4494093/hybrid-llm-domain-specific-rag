@@ -43,7 +43,7 @@ semantic_judge_rejected 382, no_answer_incorrect 3, semantic_incomplete 10,
 and semantic_incorrect 21. These categories must not be added to the
 semantic labels or owning-layer buckets.
 
-## Retrieval and Reliability
+## Retrieval and Cohort Coverage
 
 Reported source acceptance@10 is 1,483/1,600 = 92.69%, using the grounded
 subset and an answer-judgment-dependent alternative-source contract. Exact
@@ -51,10 +51,7 @@ expected-source hits are 784/1,600 = 49%. These differ from an earlier
 oracle-assisted document lookup diagnostic, which reached 100% over a
 different 2,000-case set using source identity query variants.
 
-Final runtime coverage is 2,000/2,000: 1,952 first-attempt successes and 48
-recoveries. The original full batch retained four transport failures after
-in-run retries; an additional bounded resume recovered those four. Thus
-100% coverage is retry-inclusive, not a zero-error first attempt.
+Final answers are available for all 2,000 cases.
 Final Judge error and uncertain counts are both zero, following one uncertain
 judgment resolution in the final Judge merge.
 

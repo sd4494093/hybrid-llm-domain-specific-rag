@@ -105,9 +105,6 @@ def main():
          "semantic_failure_count": 549, "e2e_failure_count": 578,
          "failure_cohort_buckets": sources["failure-cohort"]["projection"]["failure_buckets"],
          "quality_gate": ev["quality_gate"],
-         "first_attempt_success_count": ev["first_attempt_success_count"],
-         "recovered_after_retry_count": ev["recovered_after_retry_count"],
-         "unrecovered_transport_failure_count": ev["unrecovered_transport_failure_count"],
          "semantic_judge_error_count": ev["semantic_judge_error_count"], "semantic_judge_uncertain_count": ev["semantic_judge_uncertain_count"],
          "provenance": {k: ev[k] for k in ("questions_sha256", "oracles_sha256", "source_snapshot_id", "run_provenance_sha256", "cohort_manifest_sha256")},
          "interpretation": "Strict semantic correctness includes correct refusals. Inclusive correctness adds 354 original partial labels: 1805/2000. The 411 diagnostic ownership assignments are not partial labels. Original automated judgments and ownership buckets remain unchanged. No production-acceptance claim."})

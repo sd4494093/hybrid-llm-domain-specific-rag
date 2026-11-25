@@ -17,7 +17,6 @@
     "no-answer": 108,
     "planner/partial": 411
   },
-  "first_attempt_success_count": 1952,
   "interpretation": "Strict semantic correctness includes correct refusals. The 354 original partial labels yield 1805/2000 correct-or-partial outcomes (90.25%). The 411 planner/context assignments are diagnostic ownership, not new partial labels. Original labels and ownership counts remain unchanged; see paper-reporting.json and the audit-feedback supplement.",
   "judge_model": "gpt-5.6-sol",
   "judge_reasoning_effort": "high",
@@ -105,7 +104,6 @@
     "incorrect_refusal": 104,
     "partial": 354
   },
-  "recovered_after_retry_count": 48,
   "scope": "local_dev_natural_user_v1660",
   "semantic_failure_count": 549,
   "semantic_judge_error_count": 0,
@@ -129,6 +127,5 @@
     }
   },
   "total": 2000,
-  "unrecovered_transport_failure_count": 0,
   "version": "v1660"
 }

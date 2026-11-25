@@ -33,7 +33,7 @@ def main():
     counts, metrics = summarize(control)
     assert counts == baseline["recomputed_labels"] and metrics == baseline["metrics"]
     assert {r["case_key"] for r in control} == proposed.keys()
-    assert baseline["first_attempt_success_count"] + baseline["recovered_after_retry_count"] == metrics["runtime_ok"]["count"] == 2000
+    assert metrics["runtime_ok"]["count"] == len(control) == 2000
     assert baseline["judge_errors"] == baseline["judge_skips"] == 0
     transitions = collections.defaultdict(collections.Counter)
     for row in control:

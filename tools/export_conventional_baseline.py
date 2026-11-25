@@ -86,7 +86,6 @@ def main():
         "runtime_results_sha256": identity["runtime_results_sha256"],
         "index_manifest_sha256": identity["index_manifest_sha256"],
         "total": 2000, "recomputed_labels": labels, "metrics": metrics,
-        "first_attempt_success_count": 1996, "recovered_after_retry_count": 4,
         "prompt_visible_context": {"field": "retriever_resources", "min": 0, "max": 16},
         "candidate_trace_depth": 100,
         "judge_errors": 0, "judge_skips": 0,
