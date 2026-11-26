@@ -1,10 +1,10 @@
 # Dual-Layer Domain-Specific RAG with Audit Feedback — Evaluation Archive
 
-Companion evidence for the manuscript by Junjie Wang, Michael Bewong, and Lihong Zheng.
+Companion evidence for the manuscript by Junjie Wang and Lihong Zheng.
 This repository lets a reader inspect and recount the evaluations reported in the paper.
 It is not a deployment package, and publication acceptance is not claimed.
 
-**Snapshot:** commit `6299e8ecc` · 2,000-case verdicts for every reported full-cohort run · all 1,660 version identifiers indexed
+**Data snapshot:** commit `6299e8ecc` · 2,000-case verdicts for every reported full-cohort run · all 1,660 version identifiers indexed
 
 ## At a glance
 
@@ -130,7 +130,7 @@ Content judging is an explicit injected-verdict interface; missing verdicts rema
 
 ```bibtex
 @misc{wang2026reviewartifacts,
-  author       = {Wang, Junjie and Bewong, Michael and Zheng, Lihong},
+  author       = {Wang, Junjie and Zheng, Lihong},
   title        = {Dual-Layer Domain-Specific {RAG} with Audit Feedback: Evaluation Archive},
   year         = {2026},
   howpublished = {\url{https://github.com/sd4494093/hybrid-llm-domain-specific-rag}},
