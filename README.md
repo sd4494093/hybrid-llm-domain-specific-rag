@@ -1,6 +1,6 @@
 # Dual-Layer Domain-Specific RAG with Audit Feedback — Evaluation Archive
 
-Companion evidence for the manuscript by Junjie Wang and Lihong Zheng.
+Companion evidence for the manuscript *Hybrid LLM Dual-Layer Domain-Specific RAG: Dirty Data Purification, Hybrid Retrieval, and LLM Loop Engineering* by Junjie Wang and Lihong Zheng.
 This repository lets a reader inspect and recount the evaluations reported in the paper.
 It is not a deployment package, and publication acceptance is not claimed.
 
@@ -71,7 +71,7 @@ Aggregate recounts can be reproduced with the commands below.
 
 ## Version semantics
 
-Three roles are kept apart. The **deployed configuration** is v1225, the configuration the enterprise runs. The **final tested checkpoint** is v1660. The **executed configuration** of a run is the version that produced its records. Some archived runs carry filing labels that differ from their configuration identifiers; this document uses configuration identifiers throughout. A version identifier may also name a comparator mentioned in a record or a document revision.
+Three roles are kept distinct. The **deployed configuration** is v1225, the configuration the enterprise runs. The **final tested checkpoint** is v1660. The **executed configuration** of a run is the version that produced its records. Some archived runs carry filing labels that differ from their configuration identifiers; this document uses configuration identifiers throughout. A version identifier may also name a comparator mentioned in a record or a document revision.
 A mention does not establish a completed run.
 The archive does not support a claim of 1,660 independent experiments, nor a component-level causal gain.
 
