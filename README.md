@@ -30,10 +30,10 @@ The comparison is between whole systems: it is not a layer ablation, and it is n
 
 | Run | Cases | Strict | Partial | Strict + partial | End-to-end | Case records |
 |---|---:|---:|---:|---:|---:|---|
-| v1225 | 2,000 | 1,590 (79.50%) | 253 | 1,843 (92.15%) | 1,589 | [Download](evidence/version-recovery/v1225.jsonl.gz) |
+| v1225 (deployed configuration) | 2,000 | 1,590 (79.50%) | 253 | 1,843 (92.15%) | 1,589 | [Download](evidence/version-recovery/v1225.jsonl.gz) |
 | v1226 | 2,000 | 1,517 (75.85%) | 349 | 1,866 (93.30%) | 1,516 | [Download](evidence/version-recovery/v1226.jsonl.gz) |
 | v1227 | 2,000 | 1,542 (77.10%) | 279 | 1,821 (91.05%) | 1,540 | [Download](evidence/version-recovery/v1227.jsonl.gz) |
-| v1371 (executing version; archived as v1408) | 2,000 | 1,550 (77.50%) | 315 | 1,865 (93.25%) | 1,538 | [Download](evidence/version-recovery/v1371.jsonl.gz) |
+| v1371 (run indexed as v1408) | 2,000 | 1,550 (77.50%) | 315 | 1,865 (93.25%) | 1,538 | [Download](evidence/version-recovery/v1371.jsonl.gz) |
 | v1660 | 2,000 | 1,451 (72.55%) | 354 | 1,805 (90.25%) | 1,422 | [Proposed-system evaluation](evidence/proposed-system-evaluation/README.md) |
 
 Judge protocols differ: v1225–v1371 were graded under protocol v5 and v1660 under v6.
@@ -71,9 +71,9 @@ Aggregate recounts can be reproduced with the commands below.
 
 ## Version semantics
 
-A version identifier may name a configuration that was executed, a comparator mentioned in a record, or a document revision.
+Three roles are kept apart. The **deployed configuration** is v1225, the configuration the enterprise runs. The **final tested checkpoint** is v1660. For a given archived run, the **executed configuration** is the version that actually produced its records; the **archive label** is the identifier its records are filed under. A version identifier may also name a comparator mentioned in a record or a document revision.
 A mention does not establish a completed run.
-The executing configuration is identified by the run configuration recorded with its results; for example, v1371 is the executing version, and v1408 is its archive location.
+For example, the run filed under archive label v1408 executed configuration v1371; v1408 is a filing label, not a configuration.
 The archive does not support a claim of 1,660 independent experiments, nor a component-level causal gain.
 
 ## Scope and limitations
