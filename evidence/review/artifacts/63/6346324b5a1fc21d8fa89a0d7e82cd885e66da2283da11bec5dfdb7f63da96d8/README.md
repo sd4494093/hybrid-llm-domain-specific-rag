@@ -2,7 +2,7 @@
 
 Original type: `.jsonl`. Source SHA-256: `1eb8bb8010943366b5df8811424d95d250239d879f17b372b1a1f67072cbbb81`.
 
-Public content: case_records. Supplement: `not_selected_for_supplement`.
+Public content: case_records. Supplement: `published case records (original projection)`.
 
 [Read data](data.json)
 

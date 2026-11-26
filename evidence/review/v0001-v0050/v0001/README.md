@@ -232,3 +232,24 @@ The linked artifacts contain actual allowlisted measurements or per-case verdict
 - [Reference data page index](page-index-0000.md)
 - [Reference data page index](page-index-0001.md)
 - [Reference data page index](page-index-0002.md)
+
+## Additional recovered evidence
+
+Status: `measured`. Additional numerical projections: 4689. Additional historical document mentions: 34850.
+
+[All source dispositions and measurement paths](../../../version-recovery/versions/v0001-v0050/v0001.json.gz) | [Coverage and interpretation](../../../version-recovery/README.md).
+
+Selected downloads, ordered by source fingerprint. The full index above includes all available and unresolved sources.
+
+- [0005e245e05d / fee7b76e6a97](../../../version-recovery/records/fe/fee7b76e6a977813178cbe4b8156a0da9803ad53e2b4154f024b7a11c8dccb77.json.gz): `checkout`, `measurements`.
+- [0009c9735b6e / de0f9d1fa949](../../../version-recovery/records/de/de0f9d1fa9490b4c3a904eb95a7df82707caf417248c775e2219abcf7002eeea.json.gz): `checkout`, `measurements`.
+- [001921e77a5a / 827d411bb107](../../../version-recovery/records/82/827d411bb107f7d21c55127d16c56ce3c144019f99ac9a86fcb60fcb78987ff4.json.gz): `checkout`, `measurements`.
+- [003c75ff7edf / 60dcee962d86](../../../version-recovery/records/60/60dcee962d862b392c5df789174df6bcf12072f29cd065588943818a14bbff9c.json.gz): `git_history`, `measurements`.
+- [0050b1a3b43f / 8bdc0ccfb15b](../../../version-recovery/records/8b/8bdc0ccfb15bd5c23e6e3005cf26f92c0c14f20478c8e1b9f2a1af30406d6ea0.json.gz): `checkout`, `measurements`.
+- [005b08c572ad / 781ed8de17a3](../../../version-recovery/records/78/781ed8de17a38ecd69f2ac6693da45b82a9e3a9a99935a0d6ad389da66e6f35e.json.gz): `checkout`, `measurements`.
+- [0080f4f2560c / 1439b333d5c3](../../../version-recovery/records/14/1439b333d5c35277732d8ab7bc0b9be59a9eef2f76806d2aaa5c6056d7b9e883.json.gz): `checkout`, `measurements`.
+- [00813a8b98bb / 988e1c683a12](../../../version-recovery/records/98/988e1c683a12be8d9d9c963b910638c0f4f693822ae2a70cb2061e4101d520e7.json.gz): `checkout`, `measurements`.
+- [0093c9f90aae / 5bc555697df1](../../../version-recovery/records/5b/5bc555697df1e7bf10c66f47b9719b6849d6f8eee917cf4897cd604c19949fac.json.gz): `checkout`, `measurements`.
+- [009a16c50fc1 / 2cae2abf8586](../../../version-recovery/records/2c/2cae2abf8586176a03d25953687001f8b233d26ff8c38700c864773fb9a24c65.json.gz): `checkout`, `measurements`.
+- [00a54d9f075c / 0e781bcc7d1d](../../../version-recovery/records/0e/0e781bcc7d1db239c7c6a78849ff74171d8f209ea15c6436bd3057e64fc23ca7.json.gz): `checkout`, `measurements`.
+- [00a72a42c673 / 4fe81996e929](../../../version-recovery/records/4f/4fe81996e92980cf81515a29e76642122638de5b66291bb40a2e4b7c0ad67f51.json.gz): `checkout`, `measurements`.

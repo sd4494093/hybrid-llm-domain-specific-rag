@@ -1,8 +1,26 @@
 # Full-Cohort Evaluation Inventory
 
-All remaining 2,000-case evaluation summaries are retained, including intermediate and rejected results.
+## Manuscript runs under judge protocol v5
 
-Match provenance and acceptance evidence before comparing rows.
+The earlier inventory selected projected summary files with a question count of 2,000 and a quality-metrics object. The older evaluations have case verdicts even when that object is absent. The previous supplement flag governed additional numerical extraction; the archived JSONL verdicts were already public under artifact IDs. A version mention may denote a comparator or schema revision. The executing version in each row below was matched to the archived run settings.
+
+| Executing version | Archived under | Cases | Strict | Partial | Strict or partial | E2E pass | Judge errors | Uncertain | Released case records | Original paginated projection |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---|---|
+| v1222 | v1222 | 2,000 | 1,513 | 328 | 1,841 | 1,512 | 0 | 0 | [Download](version-recovery/v1222.jsonl.gz) | [df2346c5d13b](review/artifacts/df/df2346c5d13bc94c98de369901521a517532dfcd1a0651248f0a74222d93da3c/README.md) |
+| v1225 | v1225 | 2,000 | 1,590 | 253 | 1,843 | 1,589 | 1 | 0 | [Download](version-recovery/v1225.jsonl.gz) | [e2701d154f4f](review/artifacts/e2/e2701d154f4f55809b19d5056283d9c210c0bf9fe2ba090a16208c16514ff7a3/README.md) |
+| v1226 | v1226 | 2,000 | 1,517 | 349 | 1,866 | 1,516 | 0 | 0 | [Download](version-recovery/v1226.jsonl.gz) | [6346324b5a1f](review/artifacts/63/6346324b5a1fc21d8fa89a0d7e82cd885e66da2283da11bec5dfdb7f63da96d8/README.md) |
+| v1227 | v1227 | 2,000 | 1,542 | 279 | 1,821 | 1,540 | 1 | 0 | [Download](version-recovery/v1227.jsonl.gz) | [67b3baac8a46](review/artifacts/67/67b3baac8a46a29c9cc20a27cb88f96c62b795a0376a6c03ee4a2b1223ff6ab8/README.md) |
+| v1371 | v1408 | 2,000 | 1,550 | 315 | 1,865 | 1,538 | 2 | 3 | [Download](version-recovery/v1371.jsonl.gz) | [ea2e69deceb2](review/artifacts/ea/ea2e69deceb2669f3fc046adce6f1caf95f2e76d58de03193a4524b50d719e13/README.md) |
+
+Strict counts correct answers plus correct refusals. Errors and uncertain judgments remain in the denominator. For v1225 the 1,589 end-to-end passes and 1,590 strictly correct labels measure different outcomes. See the [run settings](audit-feedback/run-settings.json) and the [all-version recovery index](version-recovery/README.md).
+
+The conventional control (1,318 strictly correct) and v1660 (1,451 strictly correct) use judge protocol v6. See the [control case labels](baseline-system-evaluation/case-labels.json) and [v1660 case labels](proposed-system-evaluation/case-labels.json). The case-level v1222 labels give 1,513 strict; the separately indexed 1,512-count summary below is retained as its own artifact.
+
+[All archived streams with 2,000 rows](FULL_LENGTH_CASE_STREAMS.md)
+
+## Historical summary candidates
+
+These rows describe individual summary artifacts, including intermediate and rejected results. Match provenance before comparing or combining counts.
 
 | Referenced versions | Artifact | Semantic correct / total | E2E pass | Judge errors | Judge uncertain |
 |---|---|---|---|---|---|

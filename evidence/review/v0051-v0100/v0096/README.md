@@ -11,3 +11,9 @@ A version mention may be a comparator or schema revision, not the executing vers
 The linked artifacts contain actual allowlisted measurements or per-case verdicts where available. Fingerprint-only entries do not establish test outcomes.
 
 No path-associated artifact was located in the archived inventory. Document/commit mentions, when present, do not fill that gap.
+
+## Additional recovered evidence
+
+Status: `no_located_reference`. Additional numerical projections: 0. Additional historical document mentions: 0.
+
+[All source dispositions and measurement paths](../../../version-recovery/versions/v0051-v0100/v0096.json.gz) | [Coverage and interpretation](../../../version-recovery/README.md).

@@ -22,3 +22,16 @@ The linked artifacts contain actual allowlisted measurements or per-case verdict
 - [Artifacts 451-500](artifacts-010.md)
 - [Artifacts 501-507](artifacts-011.md)
 - [Reference data page index](page-index-0000.md)
+
+## Additional recovered evidence
+
+Status: `measured`. Additional numerical projections: 4. Additional historical document mentions: 1644.
+
+[All source dispositions and measurement paths](../../../version-recovery/versions/v1401-v1450/v1441.json.gz) | [Coverage and interpretation](../../../version-recovery/README.md).
+
+Selected downloads, ordered by source fingerprint. The full index above includes all available and unresolved sources.
+
+- [d2338383da60 / fa132059c801](../../../version-recovery/records/fa/fa132059c8018f08dfe4830a69ff3fed2c933e919e433f2393a2365a139227b4.json.gz): `checkout`, `measurements`.
+- [eb3366225900 / bee75586f000](../../../version-recovery/records/be/bee75586f000e6cc09b7ce7cd5422200481be762a5e14ac3c27bd2bf28f13716.json.gz): `checkout`, `measurements`.
+- [98c41af6d9e8 / a9263003f798](../../../version-recovery/records/a9/a9263003f7988f2a749688bfea240414d345326d9b9b1829b7dde6c677842037.json.gz): `checkout`, `measurements`.
+- [49d5c0689c97 / e387cadbf7dd](../../../version-recovery/records/e3/e387cadbf7dd1544dc5968ac3d035c0c3bacdad9a78320de24a8628099dd08e0.json.gz): `checkout`, `measurements`.

@@ -12,3 +12,14 @@ The linked artifacts contain actual allowlisted measurements or per-case verdict
 
 - [Artifacts 1-6](artifacts-001.md)
 - [Reference data page index](page-index-0000.md)
+
+## Additional recovered evidence
+
+Status: `measured`. Additional numerical projections: 2. Additional historical document mentions: 2327.
+
+[All source dispositions and measurement paths](../../../version-recovery/versions/v0301-v0350/v0325.json.gz) | [Coverage and interpretation](../../../version-recovery/README.md).
+
+Selected downloads, ordered by source fingerprint. The full index above includes all available and unresolved sources.
+
+- [3122b1dcc619 / 3b4dcae22a87](../../../version-recovery/records/3b/3b4dcae22a877b7f45e94beeb12a46204af9a617af528d320a34a5e536ffcc55.json.gz): `checkout`, `measurements`.
+- [39a876297113 / fecb82aa801e](../../../version-recovery/records/fe/fecb82aa801ee3f6fb6fda6fb6559d6e2e0ca0d385b9bb47455ba2a73d5ebece.json.gz): `checkout`, `measurements`.

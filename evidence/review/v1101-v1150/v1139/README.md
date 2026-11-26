@@ -12,3 +12,9 @@ The linked artifacts contain actual allowlisted measurements or per-case verdict
 
 - [Artifacts 1-1](artifacts-001.md)
 - [Reference data page index](page-index-0000.md)
+
+## Additional recovered evidence
+
+Status: `archive_references_only`. Additional numerical projections: 0. Additional historical document mentions: 1371.
+
+[All source dispositions and measurement paths](../../../version-recovery/versions/v1101-v1150/v1139.json.gz) | [Coverage and interpretation](../../../version-recovery/README.md).

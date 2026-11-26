@@ -11,3 +11,14 @@ A version mention may be a comparator or schema revision, not the executing vers
 The linked artifacts contain actual allowlisted measurements or per-case verdicts where available. Fingerprint-only entries do not establish test outcomes.
 
 - [Artifacts 1-4](artifacts-001.md)
+
+## Additional recovered evidence
+
+Status: `measured`. Additional numerical projections: 2. Additional historical document mentions: 0.
+
+[All source dispositions and measurement paths](../../../version-recovery/versions/v0101-v0150/v0124.json.gz) | [Coverage and interpretation](../../../version-recovery/README.md).
+
+Selected downloads, ordered by source fingerprint. The full index above includes all available and unresolved sources.
+
+- [404ab89fbdbe / 307f9d11395f](../../../version-recovery/records/30/307f9d11395f768e7de28243d22e21326768fc51c56067c90079001842aac289.json.gz): `checkout`, `measurements`.
+- [f3945c28c614 / d507147b73c0](../../../version-recovery/records/d5/d507147b73c0f567a7eeafaf36c92bc1bc710fbc97103cdd8c8a4f74a0dbabf7.json.gz): `checkout`, `measurements`.

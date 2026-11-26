@@ -117,6 +117,8 @@ def main():
         subprocess.run([sys.executable, str(root / "tools/verify_review_evidence.py")], check=True)
     if (out / "audit-feedback").exists():
         subprocess.run([sys.executable, str(root / "tools/verify_audit_feedback.py")], check=True)
+    if (out / "version-recovery").exists():
+        subprocess.run([sys.executable, str(root / "tools/verify_version_recovery.py")], check=True)
     report = {"status": "PASS", "scope": "public_projection_integrity_not_private_content_correctness",
               "inventory_files": len(inventory), "summaries": len(summaries), "case_rows": sum(case_count.values()),
               "document_events": len(event_ids), "versions_checked": 1660, "versions_with_references": located,

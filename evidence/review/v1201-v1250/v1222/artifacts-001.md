@@ -13,7 +13,7 @@ JSON probe cases are inside the linked numerical data; the last column counts ar
 | [7b703a96e852](../../artifacts/7b/7b703a96e85231f721e468fa160d4ddc4443bb6217c068b246a8c066541897a8/README.md) | fingerprint only | not_selected_for_supplement | 0 |
 | [ac7a7c72f293](../../artifacts/ac/ac7a7c72f293774e35bf4ff176317855456abc5cd929bd35c6988d1f018c40d9/README.md) | fingerprint only | not_selected_for_supplement | 0 |
 | [5659dd2cc0ba](../../artifacts/56/5659dd2cc0ba8102fd7e7d65fd8564cfd452611fdc86b619a993f19b0d3d9974/README.md) | fingerprint only | not_selected_for_supplement | 0 |
-| [df2346c5d13b](../../artifacts/df/df2346c5d13bc94c98de369901521a517532dfcd1a0651248f0a74222d93da3c/README.md) | case_records | not_selected_for_supplement | 2000 |
+| [df2346c5d13b](../../artifacts/df/df2346c5d13bc94c98de369901521a517532dfcd1a0651248f0a74222d93da3c/README.md) | case_records | published case records (original projection) | 2000 |
 | [07308c098482](../../artifacts/07/07308c0984821cbd57ff9fd1ebe627edf308c148736ac65444cbf64e66ba5f48/README.md) | summary, numeric_content | numeric_content | 0 |
 | [ca062b2b8385](../../artifacts/ca/ca062b2b8385e2204c569c9f6e40e510b7009ea1700f73b8f9bcb5e836ccc0a3/README.md) | case_records | not_selected_for_supplement | 10 |
 | [8047d87e5e9b](../../artifacts/80/8047d87e5e9bdd7696c47a6925d7aab4d9eab6d7619fabc89a126bc904554fbf/README.md) | summary, numeric_content | numeric_content | 0 |

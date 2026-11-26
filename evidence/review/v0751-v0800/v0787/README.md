@@ -11,3 +11,24 @@ A version mention may be a comparator or schema revision, not the executing vers
 The linked artifacts contain actual allowlisted measurements or per-case verdicts where available. Fingerprint-only entries do not establish test outcomes.
 
 - [Artifacts 1-34](artifacts-001.md)
+
+## Additional recovered evidence
+
+Status: `measured`. Additional numerical projections: 16. Additional historical document mentions: 1997.
+
+[All source dispositions and measurement paths](../../../version-recovery/versions/v0751-v0800/v0787.json.gz) | [Coverage and interpretation](../../../version-recovery/README.md).
+
+Selected downloads, ordered by source fingerprint. The full index above includes all available and unresolved sources.
+
+- [10e333b85b58 / 9c2fd21f7c47](../../../version-recovery/records/9c/9c2fd21f7c4758c05592dae598230ba11986336b16e478635b67ed12a62ecd41.json.gz): `checkout`, `measurements`.
+- [17bc3f2fccf6 / ff643e1a0ab3](../../../version-recovery/records/ff/ff643e1a0ab3f66639ebbc3d44d359904c169c4e76043f130e6e54e1d69d3536.json.gz): `checkout`, `measurements`.
+- [21cc9db8dba7 / a379255a32c6](../../../version-recovery/records/a3/a379255a32c6584a8eb821ae91fa01910d95787f046da82d791afc8d8abfa18e.json.gz): `checkout`, `measurements`.
+- [569b8781f959 / 9a5f53c027ae](../../../version-recovery/records/9a/9a5f53c027ae117a8b62cf7dec96573b33718ebea24dd1a72eb7b2c4300da582.json.gz): `checkout`, `measurements`.
+- [58db2f734e35 / e718198fb5cc](../../../version-recovery/records/e7/e718198fb5ccc07dc482ef6b143f3ce949f9849910992adb7c0874522e4cdc0d.json.gz): `checkout`, `measurements`.
+- [64e15c9eafec / 95106e03b70e](../../../version-recovery/records/95/95106e03b70ebd1cbe88999d214a455f2c76d508bf86cf92d19d95165e4d7767.json.gz): `checkout`, `measurements`.
+- [6c75c823bfca / 80f4190ecc71](../../../version-recovery/records/80/80f4190ecc71b9201755025543b4e7d23f2d634ab08ed0d5c58baa13b3084e4f.json.gz): `checkout`, `measurements`.
+- [7a097642e838 / d30e42140317](../../../version-recovery/records/d3/d30e42140317757a36d4999c9b71e848119219e5bb276c8eccfddb3bba46a5f8.json.gz): `checkout`, `measurements`.
+- [802160ca4a9d / a30fe5c3185c](../../../version-recovery/records/a3/a30fe5c3185c6e030bfda89cd48236da0c8aba8912af569a2d21183c50e082d2.json.gz): `checkout`, `measurements`.
+- [86a09eee38f0 / 6bc1732083f3](../../../version-recovery/records/6b/6bc1732083f3e35b2bff2aae7ab001a1df8415aa13d770f0ef40eae8f9e34162.json.gz): `checkout`, `measurements`.
+- [88ad01640c2e / 667f2cbfff03](../../../version-recovery/records/66/667f2cbfff0348c61fd77b3d8211a41e15278d61734109b422e7faa16bc75f27.json.gz): `checkout`, `measurements`.
+- [915c68297c9b / ceff518ce435](../../../version-recovery/records/ce/ceff518ce435de80afb30d01687b3d8b9691df56d8ab11ef0db9bc694018a3e0.json.gz): `checkout`, `measurements`.

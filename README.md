@@ -44,6 +44,7 @@ experiments or a component-level causal gain.
 - [Actual result files and per-case verdicts, 50 versions per range](evidence/review/README.md)
 - [Supplemental coverage and remaining gaps](evidence/review/coverage.json)
 - [Complete version index](evidence/ITERATION_HISTORY.md)
+- [Recovered records and explicit gaps for all 1,660 identifiers](evidence/version-recovery/README.md)
 - [Manuscript appendix: evaluation configurations and archive index](evidence/EVALUATION_CONFIGURATIONS.md)
 - [Coverage and omissions](evidence/coverage.json)
 - [v1660-parameter-aligned conventional RAG control: all 2,000 cases](evidence/baseline-system-evaluation/README.md)
@@ -72,6 +73,11 @@ python3 tools/curate_evidence.py --source /path/to/private/repository
 python3 tools/export_conventional_baseline.py --archive /path/to/private/control-archive
 python3 -m pip install -r tools/requirements-export.txt
 python3 tools/build_review_evidence.py --source /path/to/private/repository
+python3 tools/recover_version_evidence.py --source /path/to/private/repository --backup /path/to/versioned/backups
+python3 tools/index_version_references.py --source /path/to/private/repository --backup /path/to/versioned/backups
+python3 tools/recover_embedded_results.py --source /path/to/private/repository --backup /path/to/versioned/backups
+python3 tools/index_case_evaluations.py
+python3 tools/finish_version_index.py
 python3 tools/verify_evidence.py --write-manifest
 ```
 

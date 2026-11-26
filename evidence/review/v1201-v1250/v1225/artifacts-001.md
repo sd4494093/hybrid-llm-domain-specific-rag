@@ -10,7 +10,7 @@ JSON probe cases are inside the linked numerical data; the last column counts ar
 | [439baff71c22](../../artifacts/43/439baff71c22e6c5a4646a831100ffb330e842b18458c9c3ae74c9ea80dcf14e/README.md) | summary, numeric_content | numeric_content | 0 |
 | [84da98b179a7](../../artifacts/84/84da98b179a7090827d9d213c5d65ccd159287d8e692544d1bc328be80ebf2d9/README.md) | numeric_content | numeric_content | 0 |
 | [33326e121652](../../artifacts/33/33326e121652b9ec5e3eae3fa37baaaef270972b6ef468b44612f2a9733c913d/README.md) | numeric_content | numeric_content | 0 |
-| [e2701d154f4f](../../artifacts/e2/e2701d154f4f55809b19d5056283d9c210c0bf9fe2ba090a16208c16514ff7a3/README.md) | case_records | not_selected_for_supplement | 2000 |
+| [e2701d154f4f](../../artifacts/e2/e2701d154f4f55809b19d5056283d9c210c0bf9fe2ba090a16208c16514ff7a3/README.md) | case_records | published case records (original projection) | 2000 |
 | [725e980d470d](../../artifacts/72/725e980d470d443e007a1da4a91495ca810b8f29e90626cc559304c97166b61f/README.md) | summary, numeric_content | numeric_content | 0 |
 | [680ee89d9b8d](../../artifacts/68/680ee89d9b8d72764691807865312ca91de941859f58de41bcdf3a2da561df93/README.md) | case_records | not_selected_for_supplement | 21 |
 | [655e71ac53df](../../artifacts/65/655e71ac53dff3f754a0f97954f60f46614573de16633f512671058c5505de94/README.md) | summary, numeric_content | numeric_content | 0 |
