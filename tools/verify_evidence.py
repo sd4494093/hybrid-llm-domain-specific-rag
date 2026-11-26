@@ -113,6 +113,7 @@ def main():
             target = (path.parent / link.split("#")[0]).resolve()
             fail_if(not target.exists(), f"Broken link: {path.relative_to(root)} -> {link}")
     subprocess.run([sys.executable, str(root / "framework/evaluation/recompute.py")], check=True)
+    subprocess.run([sys.executable, str(out / "deployed-v1225-v6/recount.py")], check=True)
     if (out / "review").exists():
         subprocess.run([sys.executable, str(root / "tools/verify_review_evidence.py")], check=True)
     if (out / "audit-feedback").exists():

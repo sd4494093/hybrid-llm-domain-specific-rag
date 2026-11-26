@@ -18,6 +18,8 @@ The conventional control (1,318 strictly correct) and v1660 (1,451 strictly corr
 
 [All archived streams with 2,000 rows](FULL_LENGTH_CASE_STREAMS.md)
 
+**Subsequent deployment regrade:** [v1225 versus the revision-v4 conventional control](deployed-v1225-v6/README.md) provides 2,000 paired verdicts under protocol v6. This supplements rather than replaces the historical v1225 row graded under v5.
+
 ## Historical summary candidates
 
 These rows describe individual summary artifacts, including intermediate and rejected results. Match provenance before comparing or combining counts.
