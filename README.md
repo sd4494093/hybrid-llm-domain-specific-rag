@@ -44,6 +44,7 @@ experiments or a component-level causal gain.
 - [Actual result files and per-case verdicts, 50 versions per range](evidence/review/README.md)
 - [Supplemental coverage and remaining gaps](evidence/review/coverage.json)
 - [Complete version index](evidence/ITERATION_HISTORY.md)
+- [Manuscript appendix: evaluation configurations and archive index](evidence/EVALUATION_CONFIGURATIONS.md)
 - [Coverage and omissions](evidence/coverage.json)
 - [v1660-parameter-aligned conventional RAG control: all 2,000 cases](evidence/baseline-system-evaluation/README.md)
 - [Proposed system label and failure accounting](evidence/proposed-system-evaluation/README.md)
